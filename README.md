@@ -18,6 +18,10 @@ Holds extracted data for the game Final Fantasy Brave Exvius (JP)
 * recipe.json - Recipe Data
 * unit.json - Unit Data
 
+# Files To Be Added
+* missions.json - Mission Data
+* challenges.json - Challenge Data (Might combine with missions)
+
 # Additional Info
 
 Based off of [Deathmax's repo for Brave Frontier's data](https://github.com/Deathmax/bravefrontier_data)
