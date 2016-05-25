@@ -2,21 +2,21 @@
 Holds extracted data for the game Final Fantasy Brave Exvius (JP)
 
 # Files
-* ability.json
-* ai.json
-* beasts.json
-* boards.json
-* colorewards.json
-* equip.json
-* item.json
-* learns.json
-* limits.json
-* magic.json
-* materia.json
-* monskills.json
-* quests.json
-* recipe.json
-* unit.json
+* ability.json - Ability/Skills Data
+* ai.json Monster - AI Data
+* beasts.json - Eidolon Data
+* boards.json - Eidolon Board Data
+* colorewards.json - Colosseum Rewards
+* equip.json - Equip Data
+* item.json - Item Data
+* learns.json - Learnset Data
+* limits.json - Limit Burst Data
+* magic.json - Magic/Spells Data
+* materia.json - Materia Data
+* monskills.json - Monster Skills Data
+* quests.json - Quests Data
+* recipe.json - Recipe Data
+* unit.json - Unit Data
 
 # Additional Info
 
