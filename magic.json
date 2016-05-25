@@ -1,0 +1,3527 @@
+{
+    "10010": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 47,
+                "effect_frame": 0,
+                "params": [
+                    134
+                ],
+                "scan type": 134,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵1体の情報を見ることをできる。",
+        "guide_id": "undefined",
+        "icon_id": 700000002,
+        "id": 10010,
+        "level": 1,
+        "mp_cost": 1,
+        "name": "ライブラ",
+        "short_desc": "敵1体の情報を見る",
+        "skill_category": 5
+    },
+    "10020": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    90
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 2,
+                "base heal": 150,
+                "effect_frame": 0,
+                "heal mod": 3,
+                "params": [
+                    0,
+                    0,
+                    150,
+                    300,
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体のHPを回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000004,
+        "id": 10020,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "ケアル",
+        "short_desc": "味方1体のHPを回復",
+        "skill_category": 3
+    },
+    "10030": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "blind"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の暗闇を回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000003,
+        "id": 10030,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "ブラナ",
+        "short_desc": "味方1体の暗闇を回復",
+        "skill_category": 3
+    },
+    "10040": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "silence"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の沈黙を回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000003,
+        "id": 10040,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "ボキャル",
+        "short_desc": "味方1体の沈黙を回復",
+        "skill_category": 3
+    },
+    "10050": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の毒を回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000003,
+        "id": 10050,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "ポイゾナ",
+        "short_desc": "味方1体の毒を回復",
+        "skill_category": 3
+    },
+    "10060": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "敵1体に光属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000005,
+        "id": 10060,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "バニシュ",
+        "short_desc": "敵1体に光属性ダメージ",
+        "skill_category": 1
+    },
+    "10070": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 2,
+                "base heal": 400,
+                "effect_frame": 0,
+                "heal mod": 3,
+                "params": [
+                    0,
+                    0,
+                    400,
+                    300,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方全体のHPを回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000004,
+        "id": 10070,
+        "level": 3,
+        "mp_cost": 7,
+        "name": "ケアルラ",
+        "short_desc": "味方全体のHPを回復",
+        "skill_category": 3
+    },
+    "10080": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "paralyze"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の麻痺を回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000003,
+        "id": 10080,
+        "level": 3,
+        "mp_cost": 5,
+        "name": "パラナ",
+        "short_desc": "味方1体の麻痺を回復",
+        "skill_category": 3
+    },
+    "10090": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "petrify"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    8,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の石化を回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000003,
+        "id": 10090,
+        "level": 3,
+        "mp_cost": 5,
+        "name": "ストナ",
+        "short_desc": "味方1体の石化を回復",
+        "skill_category": 3
+    },
+    "10100": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 4,
+                "effect_frame": 100,
+                "params": [
+                    30
+                ],
+                "revive hp%": 30,
+                "target_area": "single",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の戦闘不能を回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000001,
+        "id": 10100,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "レイズ",
+        "short_desc": "味方1体の戦闘不能を回復",
+        "skill_category": 3
+    },
+    "10110": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison",
+                    "blind",
+                    "sleep",
+                    "silence",
+                    "paralyze",
+                    "confuse"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の毒暗闇睡眠沈黙麻痺混乱を回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000003,
+        "id": 10110,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "エスナ",
+        "short_desc": "味方1体の毒暗闇睡眠沈黙麻痺混乱を回復",
+        "skill_category": 3
+    },
+    "10120": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 8,
+                "base heal": 400,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "heal mod": 2,
+                "params": [
+                    400,
+                    1,
+                    200,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体のHPを徐々に回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000004,
+        "id": 10120,
+        "level": 4,
+        "mp_cost": 3,
+        "name": "リジェネ",
+        "short_desc": "味方1体のHPを徐々に回復",
+        "skill_category": 3
+    },
+    "10121": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 8,
+                "base heal": 120,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "heal mod": 0.6,
+                "params": [
+                    120,
+                    1,
+                    60,
+                    -1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体のHPを徐々に回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000004,
+        "id": 10121,
+        "level": 4,
+        "mp_cost": 3,
+        "name": "リジェネ(オート用)",
+        "short_desc": "味方1体のHPを徐々に回復",
+        "skill_category": 3
+    },
+    "10130": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 59,
+                "dispel buffs": true,
+                "effect_frame": 0,
+                "params": [
+                    "none"
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵1体のステータス効果を解除する。",
+        "guide_id": "undefined",
+        "icon_id": 700000003,
+        "id": 10130,
+        "level": 5,
+        "mp_cost": 7,
+        "name": "デスペル",
+        "short_desc": "敵1体のステータス効果を解除",
+        "skill_category": 4
+    },
+    "10140": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "virus"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の病気を回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000003,
+        "id": 10140,
+        "level": 5,
+        "mp_cost": 5,
+        "name": "リブート",
+        "short_desc": "味方1体の病気を回復",
+        "skill_category": 3
+    },
+    "10150": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 2,
+                "base heal": 800,
+                "effect_frame": 0,
+                "heal mod": 3.4,
+                "params": [
+                    0,
+                    0,
+                    800,
+                    340,
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体のHPを回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000004,
+        "id": 10150,
+        "level": 5,
+        "mp_cost": 9,
+        "name": "ケアルダ",
+        "short_desc": "味方1体のHPを回復",
+        "skill_category": 3
+    },
+    "10160": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 2,
+                "base heal": 1000,
+                "effect_frame": 0,
+                "heal mod": 3.4,
+                "params": [
+                    0,
+                    0,
+                    1000,
+                    340,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方全体のHPを回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000004,
+        "id": 10160,
+        "level": 6,
+        "mp_cost": 15,
+        "name": "ケアルガ",
+        "short_desc": "味方全体のHPを回復",
+        "skill_category": 3
+    },
+    "10180": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 4,
+                "effect_frame": 130,
+                "params": [
+                    100
+                ],
+                "revive hp%": 100,
+                "target_area": "single",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の戦闘不能を全回復する。",
+        "guide_id": "undefined",
+        "icon_id": 700000001,
+        "id": 10180,
+        "level": 7,
+        "mp_cost": 20,
+        "name": "アレイズ",
+        "short_desc": "味方1体の戦闘不能を全回復",
+        "skill_category": 3
+    },
+    "10200": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 59,
+                "dispel buffs": true,
+                "effect_frame": 0,
+                "params": [
+                    "none"
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵全体のステータス効果をうち消す。",
+        "guide_id": "undefined",
+        "icon_id": 700000003,
+        "id": 10200,
+        "level": 7,
+        "mp_cost": 18,
+        "name": "デスペガ",
+        "short_desc": "敵全体のステータス効果を解除",
+        "skill_category": 4
+    },
+    "10210": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    450
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    230
+                ],
+                "skill int%": 230,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "敵1体に光属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000005,
+        "id": 10210,
+        "level": 7,
+        "mp_cost": 35,
+        "name": "ホーリー",
+        "short_desc": "敵1体に光属性ダメージ",
+        "skill_category": 1
+    },
+    "20010": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "敵1体に火属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000021,
+        "id": 20010,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "ファイア",
+        "short_desc": "敵1体に火属性ダメージ",
+        "skill_category": 1
+    },
+    "20020": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "敵1体に氷属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000022,
+        "id": 20020,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "ブリザド",
+        "short_desc": "敵1体に氷属性ダメージ",
+        "skill_category": 1
+    },
+    "20030": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    70
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "敵1体に雷属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000020,
+        "id": 20030,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "サンダー",
+        "short_desc": "敵1体に雷属性ダメージ",
+        "skill_category": 1
+    },
+    "20040": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "敵1体に水属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000023,
+        "id": 20040,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "ウォータ",
+        "short_desc": "敵1体に水属性ダメージ",
+        "skill_category": 1
+    },
+    "20050": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "敵1体に風属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000025,
+        "id": 20050,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "エアロ",
+        "short_desc": "敵1体に風属性ダメージ",
+        "skill_category": 1
+    },
+    "20060": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "敵1体に土属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000028,
+        "id": 20060,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "ストーン",
+        "short_desc": "敵1体に土属性ダメージ",
+        "skill_category": 1
+    },
+    "20070": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "params": [
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "poison%": 15,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵1体に闇属性ダメージを与え、毒の追加効果。",
+        "guide_id": "undefined",
+        "icon_id": 700000024,
+        "id": 20070,
+        "level": 2,
+        "mp_cost": 5,
+        "name": "バイオ",
+        "short_desc": "敵1体に闇属性ダメージ+毒",
+        "skill_category": 1
+    },
+    "20080": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    95
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "敵全体に火属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000021,
+        "id": 20080,
+        "level": 3,
+        "mp_cost": 9,
+        "name": "ファイラ",
+        "short_desc": "敵全体に火属性ダメージ",
+        "skill_category": 1
+    },
+    "20090": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    145
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "敵全体に氷属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000022,
+        "id": 20090,
+        "level": 3,
+        "mp_cost": 9,
+        "name": "ブリザラ",
+        "short_desc": "敵全体に氷属性ダメージ",
+        "skill_category": 1
+    },
+    "20100": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "敵全体に雷属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000020,
+        "id": 20100,
+        "level": 3,
+        "mp_cost": 9,
+        "name": "サンダラ",
+        "short_desc": "敵全体に雷属性ダメージ",
+        "skill_category": 1
+    },
+    "20110": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "敵全体に水属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000023,
+        "id": 20110,
+        "level": 4,
+        "mp_cost": 9,
+        "name": "ウォタラ",
+        "short_desc": "敵全体に水属性ダメージ",
+        "skill_category": 1
+    },
+    "20120": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "敵全体に風属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000025,
+        "id": 20120,
+        "level": 4,
+        "mp_cost": 9,
+        "name": "エアロラ",
+        "short_desc": "敵全体に風属性ダメージ",
+        "skill_category": 1
+    },
+    "20130": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    160
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "敵全体に土属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000028,
+        "id": 20130,
+        "level": 4,
+        "mp_cost": 9,
+        "name": "ストンラ",
+        "short_desc": "敵全体に土属性ダメージ",
+        "skill_category": 1
+    },
+    "20150": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    0
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 9,
+                "effect_frame": 150,
+                "hp damage max%": 50,
+                "hp damage min%": 50,
+                "params": [
+                    50,
+                    50,
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵1体に現在HP1/2のダメージ。",
+        "guide_id": "undefined",
+        "icon_id": 700000026,
+        "id": 20150,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "グラビデ",
+        "short_desc": "敵1体に現在HP1/2ダメージ",
+        "skill_category": 1
+    },
+    "20160": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 25,
+                "damage to hp%": 30,
+                "effect_frame": 0,
+                "params": [
+                    30,
+                    80,
+                    100
+                ],
+                "skill atk%": 80,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵1体からHPを吸収する。",
+        "guide_id": "undefined",
+        "icon_id": 700000015,
+        "id": 20160,
+        "level": 4,
+        "mp_cost": 5,
+        "name": "ドレイン",
+        "short_desc": "敵1体からHPを吸収",
+        "skill_category": 1
+    },
+    "20170": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 72,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    160,
+                    10,
+                    10,
+                    3
+                ],
+                "skill int%": 160,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵1体にダメージ。重ねて使用するとダメージ量をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000029,
+        "id": 20170,
+        "level": 5,
+        "mp_cost": 15,
+        "name": "コメット",
+        "short_desc": "敵1体にダメージ+威力アップ",
+        "skill_category": 1
+    },
+    "20180": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    180
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    125
+                ],
+                "skill int%": 125,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "params": [
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "poison%": 15,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵全体に闇属性ダメージを与え、毒の追加効果。",
+        "guide_id": "undefined",
+        "icon_id": 700000024,
+        "id": 20180,
+        "level": 5,
+        "mp_cost": 12,
+        "name": "バイオラ",
+        "short_desc": "敵全体に闇属性ダメージ+毒",
+        "skill_category": 1
+    },
+    "20190": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 10,
+                "damage to mp%": 30,
+                "effect_frame": 0,
+                "params": [
+                    30,
+                    30,
+                    100
+                ],
+                "skill atk%": 30,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵1体のMPを吸収する。",
+        "guide_id": "undefined",
+        "icon_id": 700000015,
+        "id": 20190,
+        "level": 5,
+        "mp_cost": 10,
+        "name": "アスピル",
+        "short_desc": "敵1体のMPを吸収",
+        "skill_category": 4
+    },
+    "20200": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "敵全体に火属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000021,
+        "id": 20200,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "ファイガ",
+        "short_desc": "敵全体に火属性ダメージ",
+        "skill_category": 1
+    },
+    "20210": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "敵全体に氷属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000022,
+        "id": 20210,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "ブリザガ",
+        "short_desc": "敵全体に氷属性ダメージ",
+        "skill_category": 1
+    },
+    "20220": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    70
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "敵全体に雷属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000020,
+        "id": 20220,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "サンダガ",
+        "short_desc": "敵全体に雷属性ダメージ",
+        "skill_category": 1
+    },
+    "20230": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "敵全体に水属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000023,
+        "id": 20230,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "ウォタガ",
+        "short_desc": "敵全体に水属性ダメージ",
+        "skill_category": 1
+    },
+    "20240": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "敵全体に風属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000025,
+        "id": 20240,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "エアロガ",
+        "short_desc": "敵全体に風属性ダメージ",
+        "skill_category": 1
+    },
+    "20250": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    180
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "敵全体に土属性のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000028,
+        "id": 20250,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "ストンガ",
+        "short_desc": "敵全体に土属性ダメージ",
+        "skill_category": 1
+    },
+    "20260": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    210
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "params": [
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "poison%": 20,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵全体に闇属性のダメージを与え、毒の追加効果。",
+        "guide_id": "undefined",
+        "icon_id": 700000024,
+        "id": 20260,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "バイオガ",
+        "short_desc": "敵全体に闇属性ダメージ+毒",
+        "skill_category": 1
+    },
+    "20270": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    0
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 9,
+                "effect_frame": 150,
+                "hp damage max%": 75,
+                "hp damage min%": 75,
+                "params": [
+                    75,
+                    75,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵全体に現在HP3/4のダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000026,
+        "id": 20270,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "グラビガ",
+        "short_desc": "敵全体に現在HP3/4ダメージ",
+        "skill_category": 1
+    },
+    "20280": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 100,
+                "instant death%": 30,
+                "params": [
+                    30
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵1体に即死の効果を与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000038,
+        "id": 20280,
+        "level": 6,
+        "mp_cost": 14,
+        "name": "デス",
+        "short_desc": "敵1体に即死の効果",
+        "skill_category": 1
+    },
+    "20350": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    240
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    230
+                ],
+                "skill int%": 230,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    -30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "enemy",
+                "water resist%": -30
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "敵1体に火属性のダメージを与え、水属性耐性をダウンさせる。",
+        "guide_id": "undefined",
+        "icon_id": 700000030,
+        "id": 20350,
+        "level": 7,
+        "mp_cost": 35,
+        "name": "フレア",
+        "short_desc": "敵1体に火属性ダメージ+水属性耐性減",
+        "skill_category": 1
+    },
+    "20430": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    350
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 70,
+                "effect_frame": 0,
+                "mnd ignore%": 25,
+                "params": [
+                    0,
+                    0,
+                    250,
+                    25
+                ],
+                "skill int%": 250,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵全体に一部魔法防御を無視したダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000029,
+        "id": 20430,
+        "level": 8,
+        "mp_cost": 50,
+        "name": "メテオ",
+        "short_desc": "敵全体に一部魔法防御無視ダメージ",
+        "skill_category": 1
+    },
+    "20440": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    365
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 70,
+                "effect_frame": 0,
+                "mnd ignore%": 25,
+                "params": [
+                    0,
+                    0,
+                    280,
+                    25
+                ],
+                "skill int%": 280,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵全体に一部魔法防御を無視したダメージを与える。",
+        "guide_id": "undefined",
+        "icon_id": 700000037,
+        "id": 20440,
+        "level": 8,
+        "mp_cost": 60,
+        "name": "アルテマ",
+        "short_desc": "敵全体に一部魔法防御無視ダメージ",
+        "skill_category": 1
+    },
+    "30010": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "sleep%": 40,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵1体を睡眠状態にする。",
+        "guide_id": "undefined",
+        "icon_id": 700000009,
+        "id": 30010,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "スリプル",
+        "short_desc": "敵1体に睡眠の効果",
+        "skill_category": 4
+    },
+    "30020": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "blind%": 40,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵1体を暗闇状態にする。",
+        "guide_id": "undefined",
+        "icon_id": 700000009,
+        "id": 30020,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "ブライン",
+        "short_desc": "敵1体に暗闇の効果",
+        "skill_category": 4
+    },
+    "30030": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": 30,
+                "params": [
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "味方1体の火属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000006,
+        "id": 30030,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "バファイ",
+        "short_desc": "味方1体の火属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30040": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "ice resist%": 30,
+                "params": [
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "味方1体の氷属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000010,
+        "id": 30040,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "バブリザ",
+        "short_desc": "味方1体の氷属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30050": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally",
+                "thunder resist%": 30
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "味方1体の雷属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000008,
+        "id": 30050,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "バサンダ",
+        "short_desc": "味方1体の雷属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30060": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally",
+                "water resist%": 30
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "味方1体の水属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000013,
+        "id": 30060,
+        "level": 2,
+        "mp_cost": 6,
+        "name": "バウォタ",
+        "short_desc": "味方1体の水属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30070": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally",
+                "wind resist%": 30
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "味方1体の風属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000007,
+        "id": 30070,
+        "level": 2,
+        "mp_cost": 6,
+        "name": "バエアロ",
+        "short_desc": "味方1体の風属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30080": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "earth resist%": 30,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "味方1体の土属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000012,
+        "id": 30080,
+        "level": 2,
+        "mp_cost": 6,
+        "name": "バストン",
+        "short_desc": "味方1体の土属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30090": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "def buff%": 20,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    20,
+                    0,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の防御をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30090,
+        "level": 2,
+        "mp_cost": 4,
+        "name": "プロテス",
+        "short_desc": "味方1体の防御をアップ",
+        "skill_category": 4
+    },
+    "30091": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": -1,
+                "def buff%": 20,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    20,
+                    0,
+                    0,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の防御をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30091,
+        "level": 2,
+        "mp_cost": 0,
+        "name": "プロテス(オート用)",
+        "short_desc": "味方1体の防御をアップ",
+        "skill_category": 4
+    },
+    "30100": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "silence%": 40,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵1体を沈黙状態にする。",
+        "guide_id": "undefined",
+        "icon_id": 700000009,
+        "id": 30100,
+        "level": 2,
+        "mp_cost": 5,
+        "name": "サイレス",
+        "short_desc": "敵1体に沈黙の効果",
+        "skill_category": 4
+    },
+    "30110": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": 50,
+                "params": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "味方全体の火属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000006,
+        "id": 30110,
+        "level": 3,
+        "mp_cost": 12,
+        "name": "バファイラ",
+        "short_desc": "味方全体の火属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30120": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "ice resist%": 50,
+                "params": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "味方全体の氷属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000010,
+        "id": 30120,
+        "level": 3,
+        "mp_cost": 12,
+        "name": "バブリザラ",
+        "short_desc": "味方全体の氷属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30130": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally",
+                "thunder resist%": 50
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "味方全体の雷属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000008,
+        "id": 30130,
+        "level": 3,
+        "mp_cost": 12,
+        "name": "バサンダラ",
+        "short_desc": "味方全体の雷属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30140": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "mnd buff%": 20,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    20,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の精神をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30140,
+        "level": 3,
+        "mp_cost": 4,
+        "name": "シェル",
+        "short_desc": "味方1体の精神をアップ",
+        "skill_category": 4
+    },
+    "30141": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "mnd buff%": 20,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    20,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の精神をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30141,
+        "level": 3,
+        "mp_cost": 0,
+        "name": "シェル(オート用)",
+        "short_desc": "味方1体の精神をアップ",
+        "skill_category": 4
+    },
+    "30150": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 24,
+                "debuff turns": 3,
+                "def debuff%": -20,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    -20,
+                    0,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵1体の防御をダウンさせる。",
+        "guide_id": "undefined",
+        "icon_id": 700000039,
+        "id": 30150,
+        "level": 3,
+        "mp_cost": 4,
+        "name": "デプロテ",
+        "short_desc": "敵1体の防御をダウン",
+        "skill_category": 4
+    },
+    "30160": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 24,
+                "debuff turns": 3,
+                "effect_frame": 0,
+                "mnd debuff%": -20,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    -20,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵1体の精神をダウンさせる。",
+        "guide_id": "undefined",
+        "icon_id": 700000039,
+        "id": 30160,
+        "level": 3,
+        "mp_cost": 4,
+        "name": "デシェル",
+        "short_desc": "敵1体の精神をダウン",
+        "skill_category": 4
+    },
+    "30170": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally",
+                "water resist%": 50
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "味方全体の水属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000013,
+        "id": 30170,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "バウォタラ",
+        "short_desc": "味方全体の水属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30180": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally",
+                "wind resist%": 50
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "味方全体の風属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000007,
+        "id": 30180,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "バエアロラ",
+        "short_desc": "味方全体の風属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30190": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "earth resist%": 50,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "味方全体の土属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000012,
+        "id": 30190,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "バストンラ",
+        "short_desc": "味方全体の土属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30200": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "dark resist%": -20,
+                "earth resist%": -20,
+                "effect_frame": 0,
+                "fire resist%": -20,
+                "ice resist%": -20,
+                "light resist%": -20,
+                "params": [
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "enemy",
+                "thunder resist%": -20,
+                "water resist%": -20,
+                "wind resist%": -20
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵1体の全属性の耐性をダウンさせる。",
+        "guide_id": "undefined",
+        "icon_id": 700000039,
+        "id": 30200,
+        "level": 4,
+        "mp_cost": 15,
+        "name": "ウィーク",
+        "short_desc": "敵1体の全属性の耐性をダウン",
+        "skill_category": 4
+    },
+    "30210": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 20,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    20,
+                    0,
+                    0,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の攻撃をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30210,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "ブレイブ",
+        "short_desc": "味方1体の攻撃をアップ",
+        "skill_category": 4
+    },
+    "30211": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 20,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "params": [
+                    20,
+                    0,
+                    0,
+                    0,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の攻撃をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30211,
+        "level": 4,
+        "mp_cost": 0,
+        "name": "ブレイブ(オート用)",
+        "short_desc": "味方1体の攻撃をアップ",
+        "skill_category": 4
+    },
+    "30220": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "int buff%": 20,
+                "params": [
+                    0,
+                    0,
+                    20,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の魔力をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30220,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "フェイス",
+        "short_desc": "味方1体の魔力をアップ",
+        "skill_category": 4
+    },
+    "30221": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "int buff%": 20,
+                "params": [
+                    0,
+                    0,
+                    20,
+                    0,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の魔力をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30221,
+        "level": 4,
+        "mp_cost": 0,
+        "name": "フェイス(オート用)",
+        "short_desc": "味方1体の魔力をアップ",
+        "skill_category": 4
+    },
+    "30260": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": 70,
+                "params": [
+                    70,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "味方全体の火属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000006,
+        "id": 30260,
+        "level": 6,
+        "mp_cost": 22,
+        "name": "バファイガ",
+        "short_desc": "味方全体の火属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30270": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "ice resist%": 70,
+                "params": [
+                    0,
+                    70,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "味方全体の氷属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000010,
+        "id": 30270,
+        "level": 6,
+        "mp_cost": 22,
+        "name": "バブリザガ",
+        "short_desc": "味方全体の氷属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30280": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    70,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally",
+                "thunder resist%": 70
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "味方全体の雷属性耐性をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000008,
+        "id": 30280,
+        "level": 6,
+        "mp_cost": 22,
+        "name": "バサンダガ",
+        "short_desc": "味方全体の雷属性耐性をアップ",
+        "skill_category": 4
+    },
+    "30320": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "def buff%": 40,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    40,
+                    0,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方全体の防御をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30320,
+        "level": 6,
+        "mp_cost": 24,
+        "name": "プロテガ",
+        "short_desc": "味方全体の防御をアップ",
+        "skill_category": 4
+    },
+    "30330": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "mnd buff%": 40,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    40,
+                    3,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方全体の精神をアップする。",
+        "guide_id": "undefined",
+        "icon_id": 700000077,
+        "id": 30330,
+        "level": 6,
+        "mp_cost": 24,
+        "name": "シェルガ",
+        "short_desc": "味方全体の精神をアップ",
+        "skill_category": 4
+    }
+}

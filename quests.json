@@ -1,0 +1,2376 @@
+{
+    "1001001": {
+        "id": "1001001",
+        "location": {
+            "id": "1101",
+            "name": "ミトラの町"
+        },
+        "name": "目薬がほしい",
+        "npc": {
+            "id": "1101010",
+            "name": "宿屋店主",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "宿屋の店主からの頼みで、目薬を調達すること<br>になった。手に入ったら持って来よう。",
+                "desc": "目薬を渡す",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:102001100:1:100",
+                    "clear_info": "Bring 1x 目薬 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:101000200",
+                "name": "ハイポーション",
+                "quantity": 1
+            }
+        ]
+    },
+    "1001002": {
+        "id": "1001002",
+        "location": {
+            "id": "1101",
+            "name": "ミトラの町"
+        },
+        "name": "ヒミツの本を探して",
+        "npc": {
+            "id": "1101020",
+            "name": "怪しげな青年",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "ミトラの町の青年の頼みで、「ヒミツの本」を探<br>すことになった。<br>土の神殿にあるようだが……。",
+                "desc": "「ヒミツの本」の入手",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20004013",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:905000240",
+                "name": "ブリザド Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1001003": {
+        "id": "1001003",
+        "location": {
+            "id": "1101",
+            "name": "ミトラの町"
+        },
+        "name": "防具の素材がほしい",
+        "npc": {
+            "id": "1101030",
+            "name": "防具屋",
+            "sprite": "npc200101010.png"
+        },
+        "parts": [
+            {
+                "info": "防具屋の店員の頼みで、商品を作るための素材を探すことになった。<br>ラティウスの森で集めてこよう！",
+                "desc": "木材を５個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:204000100:5:100",
+                    "clear_info": "Bring 5x 木材 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:408000200",
+                "name": "シルクのローブ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1001004": {
+        "id": "1001004",
+        "location": {
+            "id": "1101",
+            "name": "ミトラの町"
+        },
+        "name": "ウルフ討伐作戦",
+        "npc": {
+            "id": "1101040",
+            "name": "ガイスト",
+            "sprite": "npc200101910.png"
+        },
+        "parts": [
+            {
+                "info": "ガイストの依頼で、ウルフの群れを討伐することになった。ダルナキア洞窟にいるようだ。",
+                "desc": "ウルフを１０体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "1010250:10",
+                    "clear_info": "Defeat 10x ウルフ"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:903000420",
+                "name": "ブロンズメイス Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1001005": {
+        "id": "1001005",
+        "location": {
+            "id": "1101",
+            "name": "ミトラの町"
+        },
+        "name": "秘密の手帳",
+        "npc": {
+            "id": "1101050",
+            "name": "女性",
+            "sprite": "npc200101100.png"
+        },
+        "parts": [
+            {
+                "info": "女性から手帳をなくしたという話を聞いた。手帳の行方を探すため、町の人に話を聞いてみよう。",
+                "desc": "手帳の行方を探す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20004045",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:905000020",
+                "name": "ケアル Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1001006": {
+        "id": "1001006",
+        "location": {
+            "id": "1101",
+            "name": "ミトラの町"
+        },
+        "name": "退屈な日々に刺激を",
+        "npc": {
+            "id": "1101060",
+            "name": "女性",
+            "sprite": "npc200101110.png"
+        },
+        "parts": [
+            {
+                "info": "このあたりでは手に入らない素材が欲しいと頼まれた。凶鳥の羽を持ってこよう。",
+                "desc": "凶鳥の羽を１８個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:202000500:18:100",
+                    "clear_info": "Bring 18x 凶鳥の羽 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:401000200",
+                "name": "バックラー",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002001": {
+        "id": "1002001",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "僕のグリーンスライム",
+        "npc": {
+            "id": "1102010",
+            "name": "男性",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "恋人に隠されてしまったという人形を探し出し、依頼人に渡してあげよう。",
+                "desc": "「グリーンスライム人形」を渡す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011003",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:101003100",
+                "name": "フェニックスの尾",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002002": {
+        "id": "1002002",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "詩人の落としもの",
+        "npc": {
+            "id": "1102020",
+            "name": "吟遊詩人の青年",
+            "sprite": "npc200103100.png"
+        },
+        "parts": [
+            {
+                "info": "吟遊詩人の青年が大事な手紙をダルナキア洞窟でなくしてしまったらしい。探して持っていってあげよう。",
+                "desc": "「古ぼけた書簡」を渡す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011013",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000380",
+                "name": "詩人の服 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002003": {
+        "id": "1002003",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "飛空艇の模型を探して",
+        "npc": {
+            "id": "1102030",
+            "name": "男性",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "依頼人がお土産に買った「飛空艇の模型」を盗まれたらしい。犯人を捜し出し、取り返してあげよう。",
+                "desc": "「飛空艇の模型」を渡す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011024",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            },
+            {
+                "info": "グランシェルト地下道から戻ってこない人を探す。",
+                "desc": "戻ってこない人を探す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011025",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:903000580",
+                "name": "ブロンズナックル Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002004": {
+        "id": "1002004",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "謎の男を探せ",
+        "npc": {
+            "id": "1102040",
+            "name": "謎の男",
+            "sprite": "npc200101900.png"
+        },
+        "parts": [
+            {
+                "info": "謎の男からの挑戦。王都内に隠れた男を探し出そう。",
+                "desc": "街に隠れた男を探す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011033",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:901000200",
+                "name": "煙玉 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002005": {
+        "id": "1002005",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "素材集めのお手伝い",
+        "npc": {
+            "id": "1102050",
+            "name": "男の子",
+            "sprite": "npc200101400.png"
+        },
+        "parts": [
+            {
+                "info": "姉に家の手伝いを押しつけられて困っている少年と出会った。必要な素材を集めてあげよう。",
+                "desc": "水の結晶を１０個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:201000400:10:100",
+                    "clear_info": "Bring 10x 水の結晶 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:905000260",
+                "name": "ウォータ Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002006": {
+        "id": "1002006",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "コロシアムへの道",
+        "npc": {
+            "id": "1102060",
+            "name": "男性",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "コロシアムは甘くない、と男は言う。実力を示すため、ヒルギガースを倒そう。",
+                "desc": "ヒルギガースを３体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "3050010:3",
+                    "clear_info": "Defeat 3x ヒルギガース"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:403000300",
+                "name": "バンダナ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002007": {
+        "id": "1002007",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "マニアなお店",
+        "npc": {
+            "id": "1102070",
+            "name": "店員",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "マニアが集う店の会員になるため、テストに合格しよう！",
+                "desc": "ズーを１体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "3020010:1",
+                    "clear_info": "Defeat 1x ズー"
+                }
+            },
+            {
+                "info": "グランシェルトの地下道で採れる素材を拾ってくる。",
+                "desc": "丈夫な皮を５個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:202000400:5:100",
+                    "clear_info": "Bring 5x 丈夫な皮 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:313000400",
+                "name": "アルタイル",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002008": {
+        "id": "1002008",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "新作のアイディア",
+        "npc": {
+            "id": "1102080",
+            "name": "店員",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "アクセサリー開発の参考に、モンスターの動きを知りたいという。サージェントを観察してこよう。",
+                "desc": "サージェントを５体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "1050440:5",
+                    "clear_info": "Defeat 5x サージェント"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000770",
+                "name": "パワーリスト Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002009": {
+        "id": "1002009",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "尋ね人あり",
+        "npc": {
+            "id": "1102090",
+            "name": "女性",
+            "sprite": "npc200101100.png"
+        },
+        "parts": [
+            {
+                "info": "女性は「左目にキズのある男」を探しているらしい。何かわかったら教えてあげよう。",
+                "desc": "尋ね人の情報を集める",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011083,20011084,20011085,20011086",
+                    "clear_info": "Talk to 4 NPCs"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:102004100",
+                "name": "ユニコーンの角",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002010": {
+        "id": "1002010",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "母の思い出",
+        "npc": {
+            "id": "1102101",
+            "name": "男の子",
+            "sprite": "npc200101400.png"
+        },
+        "parts": [
+            {
+                "info": "女の子が落としたという、母親の形見のペンダントを探そう。",
+                "desc": "「形見のペンダント」を納品",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011093",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": []
+    },
+    "1002011": {
+        "id": "1002011",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "愛の詩",
+        "npc": {
+            "id": "1102110",
+            "name": "女性",
+            "sprite": "npc200101100.png"
+        },
+        "parts": [
+            {
+                "info": "女性から、吟遊詩人に贈る愛の詩を一緒に考えてほしいと頼まれた。",
+                "desc": "愛の詩を完成させる",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011104,20011105,20011106",
+                    "clear_info": "Talk to 3 NPCs"
+                }
+            },
+            {
+                "info": "女性から、吟遊詩人に贈る愛の詩を一緒に考えてほしいと頼まれた。",
+                "desc": "吟遊詩人に愛の詩を届ける",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011107",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:316000100",
+                "name": "ハープ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002012": {
+        "id": "1002012",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "自由への逃避行",
+        "npc": {
+            "id": "1102120",
+            "name": "元盗賊",
+            "sprite": "npc200102700.png"
+        },
+        "parts": [
+            {
+                "info": "元盗賊から足を洗いたいという男に素材の調達を頼まれた。悪魔のしっぽを持ってきてあげよう。",
+                "desc": "悪魔のしっぽを１８個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:202000700:18:100",
+                    "clear_info": "Bring 18x 悪魔のしっぽ to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:905200010",
+                "name": "ぬすむ Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1002016": {
+        "id": "1002016",
+        "location": {
+            "id": "1102",
+            "name": "王都グランシェルト"
+        },
+        "name": "遺跡をさまようもの",
+        "npc": {
+            "id": "1102160",
+            "name": "歴史家",
+            "sprite": "npc200101600.png"
+        },
+        "parts": [
+            {
+                "info": "ランゼルト遺跡に凶悪なモンスターが現れるという。倒すと宝を落とすというが……。",
+                "desc": "遺跡の魔物を討伐",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20011153",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:409001900",
+                "name": "ジュエルリング",
+                "quantity": 1
+            }
+        ]
+    },
+    "1003001": {
+        "id": "1003001",
+        "location": {
+            "id": "1103",
+            "name": "港町ローディーン"
+        },
+        "name": "果物か死か",
+        "npc": {
+            "id": "1103010",
+            "name": "青年",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "市場の店員の頼みで、フラン街道で採れる果物を探すことになった。どうやら命がかかっているらしい。",
+                "desc": "「あまい果実」の納品",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20013003",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:104000200",
+                "name": "ボムの右腕",
+                "quantity": 1
+            }
+        ]
+    },
+    "1003002": {
+        "id": "1003002",
+        "location": {
+            "id": "1103",
+            "name": "港町ローディーン"
+        },
+        "name": "スランプからの脱却",
+        "npc": {
+            "id": "1103020",
+            "name": "店員",
+            "sprite": "npc200101010.png"
+        },
+        "parts": [
+            {
+                "info": "スランプに陥ってしまった鍛冶職人のため、「虎鉄」を持ってきて見せよう。",
+                "desc": "「虎鉄」を見せる",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "21:304000100:1:100",
+                    "clear_info": "Bring 1x 虎鉄 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:903000160",
+                "name": "グレートソード Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1003003": {
+        "id": "1003003",
+        "location": {
+            "id": "1103",
+            "name": "港町ローディーン"
+        },
+        "name": "新たなる船出の前に",
+        "npc": {
+            "id": "1103030",
+            "name": "船員",
+            "sprite": "npc200101030.png"
+        },
+        "parts": [
+            {
+                "info": "次の航海の備蓄を探しに行った仲間が戻らないという。フラン街道を探してみよう。",
+                "desc": "フラン街道で船員を探す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20013024",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            },
+            {
+                "info": "怪我をした仲間の代わりに素材を集めてこよう。",
+                "desc": "「デジタル回路」を３個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:202000900:3:100",
+                    "clear_info": "Bring 3x デジタル回路 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:403020300",
+                "name": "ねじりはちまき",
+                "quantity": 1
+            }
+        ]
+    },
+    "1003004": {
+        "id": "1003004",
+        "location": {
+            "id": "1103",
+            "name": "港町ローディーン"
+        },
+        "name": "共存",
+        "npc": {
+            "id": "1103040",
+            "name": "船員",
+            "sprite": "npc200102200.png"
+        },
+        "parts": [
+            {
+                "info": "ウルフの子どものケガを治療するため、フラン街道で魔石のカケラを集めて持ってこよう。",
+                "desc": "魔石のカケラを２４個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:107000100:24:100",
+                    "clear_info": "Bring 24x 魔石のカケラ to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:106200100",
+                "name": "スタークォーツ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1003005": {
+        "id": "1003005",
+        "location": {
+            "id": "1103",
+            "name": "港町ローディーン"
+        },
+        "name": "騎士の務め",
+        "npc": {
+            "id": "1103050",
+            "name": "男性",
+            "sprite": "npc200101010.png"
+        },
+        "parts": [
+            {
+                "info": "フラン街道にクアールが大量発生しているという。グランシェルトの騎士として、見過ごすわけにはいかない。",
+                "desc": "クアールを５体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "2010210:5",
+                    "clear_info": "Defeat 5x クアール"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000510",
+                "name": "銅の胸当て Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1003006": {
+        "id": "1003006",
+        "location": {
+            "id": "1103",
+            "name": "港町ローディーン"
+        },
+        "name": "火山の危機",
+        "npc": {
+            "id": "1103060",
+            "name": "兵士",
+            "sprite": "npc200100120.png"
+        },
+        "parts": [
+            {
+                "info": "炎風の洞窟でボムが異常発生しているようだ。火山を訪れる観光客のため、討伐に協力しよう。",
+                "desc": "ボムを５体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "1040210:5",
+                    "clear_info": "Defeat 5x ボム"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:409000700",
+                "name": "銀の腕輪",
+                "quantity": 1
+            }
+        ]
+    },
+    "1003007": {
+        "id": "1003007",
+        "location": {
+            "id": "1103",
+            "name": "港町ローディーン"
+        },
+        "name": "運び屋デビュー",
+        "npc": {
+            "id": "1103070",
+            "name": "店員",
+            "sprite": "npc200101010.png"
+        },
+        "parts": [
+            {
+                "info": "港町リディラから荷物を受け取ってきてほしいと頼まれた。合言葉が要るようだが……。",
+                "desc": "リディラに荷物を取りに行く",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20013064",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            },
+            {
+                "info": "目的の荷物を受け取った。依頼主に渡しにいこう。",
+                "desc": "依頼主に荷物を渡しに行く",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20013063",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:106000100",
+                "name": "テント",
+                "quantity": 1
+            }
+        ]
+    },
+    "1003008": {
+        "id": "1003008",
+        "location": {
+            "id": "1103",
+            "name": "港町ローディーン"
+        },
+        "name": "あの人の行方",
+        "npc": {
+            "id": "1103080",
+            "name": "女性",
+            "sprite": "npc200101110.png"
+        },
+        "parts": [
+            {
+                "info": "船が港に戻ってきても、女性の夫は家に戻っていないらしい。ローディーンで情報を集めよう。",
+                "desc": "女性の夫の情報を集める",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20013074,20013076",
+                    "clear_info": "Talk to 2 NPCs"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:101000200",
+                "name": "ハイポーション",
+                "quantity": 1
+            },
+            {
+                "id": "ITEM:101001100",
+                "name": "エーテル",
+                "quantity": 1
+            }
+        ]
+    },
+    "1003009": {
+        "id": "1003009",
+        "location": {
+            "id": "1103",
+            "name": "港町ローディーン"
+        },
+        "name": "街道に潜む悪魔",
+        "npc": {
+            "id": "1103090",
+            "name": "露店商",
+            "sprite": "npc200101200.png"
+        },
+        "parts": [
+            {
+                "info": "フラン街道に棲みついた凶悪な魔物を討伐せよ！",
+                "desc": "魔物を倒し、商人を救出する",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20013083",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "GIL:",
+                "name": "1000 Gil",
+                "quantity": 1000
+            }
+        ]
+    },
+    "1004001": {
+        "id": "1004001",
+        "location": {
+            "id": "1104",
+            "name": "オードル港"
+        },
+        "name": "火山岩がほしい",
+        "npc": {
+            "id": "1104010",
+            "name": "男性",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "オードル港の男性の頼みでモンスターを倒すことになった。炎風の洞窟へ向かおう。",
+                "desc": "バーバラスを５体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "2010020:5",
+                    "clear_info": "Defeat 5x バーバラス"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:901000440",
+                "name": "手榴弾 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1005001": {
+        "id": "1005001",
+        "location": {
+            "id": "1201",
+            "name": "港町リディラ"
+        },
+        "name": "妹の形見を",
+        "npc": {
+            "id": "1105010",
+            "name": "青年",
+            "sprite": "npc200101030.png"
+        },
+        "parts": [
+            {
+                "info": "青年の妹は、魔霊の森で命を落としたらしい。形見の品を探してきてあげよう。",
+                "desc": "魔霊の森で妹の形見を探す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20016003",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:106200100",
+                "name": "スタークォーツ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1005002": {
+        "id": "1005002",
+        "location": {
+            "id": "1201",
+            "name": "港町リディラ"
+        },
+        "name": "素晴らしき芸術のために",
+        "npc": {
+            "id": "1105020",
+            "name": "男性",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "芸術家に頼まれ、素材を調達することになった。フラン街道で白の魔石を採取してこよう。",
+                "desc": "白の魔石を８個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:107001400:8:100",
+                    "clear_info": "Bring 8x 白の魔石 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000420",
+                "name": "魔道士の服 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1005003": {
+        "id": "1005003",
+        "location": {
+            "id": "1201",
+            "name": "港町リディラ"
+        },
+        "name": "夢のお告げ",
+        "npc": {
+            "id": "1105030",
+            "name": "不思議な女性",
+            "sprite": "npc200101110.png"
+        },
+        "parts": [
+            {
+                "info": "不思議な女性に、ハンガーの討伐を依頼された。疑問はあるが、討伐に向かおう。",
+                "desc": "ハンガーを１０体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "2040110:10",
+                    "clear_info": "Defeat 10x ハンガー"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:109201030",
+                "name": "大地の鍵4",
+                "quantity": 1
+            }
+        ]
+    },
+    "1006001": {
+        "id": "1006001",
+        "location": {
+            "id": "1202",
+            "name": "コルの村"
+        },
+        "name": "魔法のハンマー",
+        "npc": {
+            "id": "1106010",
+            "name": "店員",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "武器屋の店員から、大事なハンマーをなくしたという話を聞いた。魔霊の森で探してみよう。",
+                "desc": "「古ぼけたハンマー」を納品",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20020003",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:301000500",
+                "name": "ミスリルダガー",
+                "quantity": 1
+            }
+        ]
+    },
+    "1006002": {
+        "id": "1006002",
+        "location": {
+            "id": "1202",
+            "name": "コルの村"
+        },
+        "name": "仕事再開！",
+        "npc": {
+            "id": "1106020",
+            "name": "店員",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "やる気を取り戻した店員に、素材の調達を頼まれた。魔霊の森で探してこよう。",
+                "desc": "鉄鉱を８個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:203000200:8:100",
+                    "clear_info": "Bring 8x 鉄鉱 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:903000300",
+                "name": "グレートアクス Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1006003": {
+        "id": "1006003",
+        "location": {
+            "id": "1202",
+            "name": "コルの村"
+        },
+        "name": "変わらぬ想い",
+        "npc": {
+            "id": "1106030",
+            "name": "老人",
+            "sprite": "npc200102600.png"
+        },
+        "parts": [
+            {
+                "info": "老人の代わりに、ラティウスの森の泉に花を供えに行こう。",
+                "desc": "ラティウスの森の泉に行く",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20020023",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:905200560",
+                "name": "ウォータ剣 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1006004": {
+        "id": "1006004",
+        "location": {
+            "id": "1202",
+            "name": "コルの村"
+        },
+        "name": "異変",
+        "npc": {
+            "id": "1106040",
+            "name": "元武道家",
+            "sprite": "npc200101900.png"
+        },
+        "parts": [
+            {
+                "info": "コルの村周辺でピットフィーンドによる被害が増えているようだ。討伐に協力しよう。",
+                "desc": "ピットフィーンドを８体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "1040120:8",
+                    "clear_info": "Defeat 8x ピットフィーンド"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000450",
+                "name": "黒帯道着 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1006005": {
+        "id": "1006005",
+        "location": {
+            "id": "1202",
+            "name": "コルの村"
+        },
+        "name": "禁忌の研究",
+        "npc": {
+            "id": "1106050",
+            "name": "怪しげな若者",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "研究対象として捕えていた強力なモンスターが逃亡したという。一刻も早く討伐しよう。",
+                "desc": "○○を討伐する（ボス級）",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "1040120:1",
+                    "clear_info": "Defeat 1x ピットフィーンド"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:109201100",
+                "name": "大地の鍵11",
+                "quantity": 1
+            }
+        ]
+    },
+    "1006006": {
+        "id": "1006006",
+        "location": {
+            "id": "1202",
+            "name": "コルの村"
+        },
+        "name": "母の心配",
+        "npc": {
+            "id": "1106060",
+            "name": "女性",
+            "sprite": "npc200101300.png"
+        },
+        "parts": [
+            {
+                "info": "行くあても告げずに家出してしまったという娘。家に戻るように説得しよう。",
+                "desc": "リディラにいる依頼人の娘と話す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20020054",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:901000190",
+                "name": "回復の泉 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1006008": {
+        "id": "1006008",
+        "location": {
+            "id": "1202",
+            "name": "コルの村"
+        },
+        "name": "砂漠でうごめく影",
+        "npc": {
+            "id": "200101020",
+            "name": "男性",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "砂漠でモンスターの大群が目撃された。周辺の安全のため、討伐しよう。",
+                "desc": "エンシェントイビルを１０体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "2120220:10",
+                    "clear_info": "Defeat 10x エンシェントイビル"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:905000380",
+                "name": "ドレイン Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007001": {
+        "id": "1007001",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "原石をもとめて",
+        "npc": {
+            "id": "1107010",
+            "name": "女性",
+            "sprite": "npc200101110.png"
+        },
+        "parts": [
+            {
+                "info": "各地の石を調査しているという女性のため、ザデール砂漠で採れる原石を持っていこう。",
+                "desc": "「ザデールの原石」を納品する",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20025003",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000250",
+                "name": "ヒュプノクラウン Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007002": {
+        "id": "1007002",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "尋ね人再び",
+        "npc": {
+            "id": "200101300",
+            "name": "おばさん",
+            "sprite": "npc200101300.png"
+        },
+        "parts": [
+            {
+                "info": "女性を探すため、雪狼の牙へ向かおう。",
+                "desc": "雪狼の牙で女性を探す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20025013",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:304000200",
+                "name": "菊一文字",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007003": {
+        "id": "1007003",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "欲張りな寝言",
+        "npc": {
+            "id": "1107030",
+            "name": "老人",
+            "sprite": "npc200101600.png"
+        },
+        "parts": [
+            {
+                "info": "眠っている老人がアイテムを求めている。渡したら何か起こるだろうか……？",
+                "desc": "彩りゼリーを３個渡す",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:202000600:3:100",
+                    "clear_info": "Bring 3x 彩りゼリー to the NPC"
+                }
+            },
+            {
+                "info": "老人がさらにアイテムを求めている。もう一度渡してみよう。",
+                "desc": "魔獣の骨を１個渡す",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:202001600:1:100",
+                    "clear_info": "Bring 1x 魔獣の骨 to the NPC"
+                }
+            },
+            {
+                "info": "運河の小船に……<br>……隠した……武器……グゥ……<br>と言い老人は寝てしまった。",
+                "desc": "運河の小船を探す",
+                "clear": {
+                    "quest_type": "Interact with Object",
+                    "clear_param": "20025023",
+                    "clear_info": "Find 1 Object"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:315020400",
+                "name": "円月輪",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007004": {
+        "id": "1007004",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "安眠できる枕",
+        "npc": {
+            "id": "1107040",
+            "name": "船員",
+            "sprite": "npc200102200.png"
+        },
+        "parts": [
+            {
+                "info": "ぐっすりと眠れる「羊の枕」を作りたいという。材料はランゼルト山脈の上層部にあるというが……。",
+                "desc": "「スリプル草」を納品する",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20025033",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            },
+            {
+                "info": "「スリプル草」をコルの村のおばあさんに届けて「羊の枕」を作ってもらおう。",
+                "desc": "おばあさんに「スリプル草」を渡す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20025035",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:903000040",
+                "name": "スリプルダガー Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007005": {
+        "id": "1007005",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "熱に強い素材",
+        "npc": {
+            "id": "1107050",
+            "name": "店員",
+            "sprite": "npc200101900.png"
+        },
+        "parts": [
+            {
+                "info": "防具屋の店員から、ザデール砂漠西部で採れる素材が欲しいと頼まれた。土の大結晶を集めて持ってこよう。",
+                "desc": "土の大結晶を５個渡す",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:201001300:5:100",
+                    "clear_info": "Bring 5x 土の大結晶 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:407001100",
+                "name": "ナイトの鎧",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007006": {
+        "id": "1007006",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "砂漠の宝",
+        "npc": {
+            "id": "1107060",
+            "name": "義賊のメモ",
+            "sprite": "npc200103000.png"
+        },
+        "parts": [
+            {
+                "info": "謎のメモを入手した。記された場所を調査してみよう。",
+                "desc": "メモに記された場所を調べる",
+                "clear": {
+                    "quest_type": "Interact with Object",
+                    "clear_param": "20025053",
+                    "clear_info": "Find 1 Object"
+                }
+            }
+        ],
+        "rewards": []
+    },
+    "1007007": {
+        "id": "1007007",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "忍びの才能",
+        "npc": {
+            "id": "200101000",
+            "name": "男性",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "忍びの末裔だと名乗る男から挑戦を受けた。力を示すため、ビーネを倒そう。",
+                "desc": "ビーネを８体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "1090020:8",
+                    "clear_info": "Defeat 8x ビーネ"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000440",
+                "name": "忍びの衣 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007008": {
+        "id": "1007008",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "港町の平和を守れ",
+        "npc": {
+            "id": "1107080",
+            "name": "店員",
+            "sprite": "npc200101010.png"
+        },
+        "parts": [
+            {
+                "info": "レキオス丘陵にブラッディレッドが大量発生したという。街を襲う前に、数を減らす手伝いをしよう。",
+                "desc": "ブラッディレッドを８体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "1040030:8",
+                    "clear_info": "Defeat 8x ブラッディレッド"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:903000760",
+                "name": "ルーンの杖 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007009": {
+        "id": "1007009",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "我が家は遠く",
+        "npc": {
+            "id": "1107010",
+            "name": "女性",
+            "sprite": "npc200101110.png"
+        },
+        "parts": [
+            {
+                "info": "凶悪なモンスターの出現で道が封鎖されている。○○を倒し、依頼主の帰路を確保しよう。",
+                "desc": "ブラッディレッドを討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "1040030:1",
+                    "clear_info": "Defeat 1x ブラッディレッド"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:106200100",
+                "name": "スタークォーツ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007010": {
+        "id": "1007010",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "親友を助けて！",
+        "npc": {
+            "id": "200101400",
+            "name": "男の子",
+            "sprite": "npc200101400.png"
+        },
+        "parts": [
+            {
+                "info": "男の子の飼っている犬の具合がよくないらしい。グランポート内で獣医を探そう。",
+                "desc": "獣医を探す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20025093",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            },
+            {
+                "info": "解毒薬の素材をそろえよう。",
+                "desc": "怪魔の翼を３個納品",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:202001700:3:100",
+                    "clear_info": "Bring 3x 怪魔の翼 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:102005100",
+                "name": "ワクチン",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007011": {
+        "id": "1007011",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "自慢の新メニュー！",
+        "npc": {
+            "id": "1107110",
+            "name": "バーテンダー",
+            "sprite": "npc200102000.png"
+        },
+        "parts": [
+            {
+                "info": "とっておきの料理を食べさせてくれる店があるという。材料を持っていこう。",
+                "desc": "料理の材料を酒場に届ける",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:202002200:3:100,20:202002300:3:100",
+                    "clear_info": "Bring 3x 竜の鱗, 3x 精霊の涙 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:302001200",
+                "name": "珊瑚の剣",
+                "quantity": 1
+            }
+        ]
+    },
+    "1007012": {
+        "id": "1007012",
+        "location": {
+            "id": "1203",
+            "name": "大港グランポート"
+        },
+        "name": "ヒーローの正体",
+        "npc": {
+            "id": "200101400",
+            "name": "男の子",
+            "sprite": "npc200101400.png"
+        },
+        "parts": [
+            {
+                "info": "男の子の父親に、ヒーローのマスクを届けてあげよう。",
+                "desc": "男の子の父親と話す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20025113",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:403040500",
+                "name": "タイガーマスク",
+                "quantity": 1
+            }
+        ]
+    },
+    "1008001": {
+        "id": "1008001",
+        "location": {
+            "id": "1204",
+            "name": "マルロの隠し里"
+        },
+        "name": "外界へのあこがれ",
+        "npc": {
+            "id": "1108010",
+            "name": "女の子",
+            "sprite": "npc200101500.png"
+        },
+        "parts": [
+            {
+                "info": "里の外にほとんど出たことがないという女の子のために、氷の大結晶をとってこよう。",
+                "desc": "氷の大結晶を３個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:201001000:3:100",
+                    "clear_info": "Bring 3x 氷の大結晶 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:106200100",
+                "name": "スタークォーツ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1008002": {
+        "id": "1008002",
+        "location": {
+            "id": "1204",
+            "name": "マルロの隠し里"
+        },
+        "name": "魔物の季節",
+        "npc": {
+            "id": "200101020",
+            "name": "男性",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "氷の彫像が増え、里の人々も襲われているらしい。討伐を手伝おう。",
+                "desc": "氷の彫像を１０体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "1100160:10",
+                    "clear_info": "Defeat 10x 氷の彫像"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:903000230",
+                "name": "風切りの刃 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1008003": {
+        "id": "1008003",
+        "location": {
+            "id": "1204",
+            "name": "マルロの隠し里"
+        },
+        "name": "暖かい毎日を",
+        "npc": {
+            "id": "1108030",
+            "name": "女性",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "厳しい寒さを凌ぐための毛皮が欲しいらしい。○○にいる○○を倒して手伝ってあげよう。",
+                "desc": "暖かい毎日のために",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20031023",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": []
+    },
+    "1008004": {
+        "id": "1008004",
+        "location": {
+            "id": "1204",
+            "name": "マルロの隠し里"
+        },
+        "name": "新商品のアンケート",
+        "npc": {
+            "id": "1108040",
+            "name": "店員",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "道具屋の店員に頼まれて、今後取り扱ってほしい商品のアンケートを取ることになった。町の人たちに話を聞いてみよう。",
+                "desc": "新商品のアンケート",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20031033,20031034,20031035,20031036",
+                    "clear_info": "Talk to 4 NPCs"
+                }
+            }
+        ],
+        "rewards": []
+    },
+    "1008005": {
+        "id": "1008005",
+        "location": {
+            "id": "1204",
+            "name": "マルロの隠し里"
+        },
+        "name": "在りし日の罪",
+        "npc": {
+            "id": "1108050",
+            "name": "老人",
+            "sprite": "npc200101600.png"
+        },
+        "parts": [
+            {
+                "info": "老人の頼みで、かつて雪狼の牙で命を落としたという親友の遺品を探すことになった。",
+                "desc": "「刃こぼれした大剣」の納品",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20031043",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000710",
+                "name": "大地の衣 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1008006": {
+        "id": "1008006",
+        "location": {
+            "id": "1204",
+            "name": "マルロの隠し里"
+        },
+        "name": "吹雪のなかの脅威",
+        "npc": {
+            "id": "1108060",
+            "name": "男性",
+            "sprite": "npc200102300.png"
+        },
+        "parts": [
+            {
+                "info": "雪狼の牙に出現した凶悪な魔物を討伐せよ！",
+                "desc": "マーハディーバを討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "2120110:1",
+                    "clear_info": "Defeat 1x マーハディーバ"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:405001200",
+                "name": "ミラージュベスト",
+                "quantity": 1
+            }
+        ]
+    },
+    "1008007": {
+        "id": "1008007",
+        "location": {
+            "id": "1204",
+            "name": "マルロの隠し里"
+        },
+        "name": "大事な腕輪を直したい",
+        "npc": {
+            "id": "1108070",
+            "name": "女性",
+            "sprite": "npc200102400.png"
+        },
+        "parts": [
+            {
+                "info": "大事な腕輪が壊れてしまったらしい。グランポートの職人を訪ねてみよう。",
+                "desc": "「壊れた腕輪」を職人に見せる",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20031063",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            },
+            {
+                "info": "銀鉱があれば腕輪を修理できるらしい。",
+                "desc": "銀鉱を１個納品する",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:203000300:1:100",
+                    "clear_info": "Bring 1x 銀鉱 to the NPC"
+                }
+            },
+            {
+                "info": "職人に「年代物の腕輪」を直してもらった。<br>依頼人に届けよう。",
+                "desc": "「年代物の腕輪」を届ける",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20031066",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000260",
+                "name": "レッドキャップ Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1008008": {
+        "id": "1008008",
+        "location": {
+            "id": "1120906",
+            "name": ""
+        },
+        "name": "最後の手紙",
+        "npc": {
+            "id": "1108080",
+            "name": "遭難者の手紙",
+            "sprite": "npc100000910.png"
+        },
+        "parts": [
+            {
+                "info": "山で拾った手紙を、宛てた相手に届けてあげよう。",
+                "desc": "拾った手紙を届ける",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20031073",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:101002100",
+                "name": "エリクサー",
+                "quantity": 1
+            }
+        ]
+    },
+    "1009001": {
+        "id": "1009001",
+        "location": {
+            "id": "1301",
+            "name": "コロボス廃港"
+        },
+        "name": "ゾンビお断り！",
+        "npc": {
+            "id": "1109010",
+            "name": "男性",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "港が再び襲撃されぬよう、コロボス湿地でゾンビが嫌うという木を拾ってこよう。",
+                "desc": "香木を納品",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20034003",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:101001200",
+                "name": "エーテルターボ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1009002": {
+        "id": "1009002",
+        "location": {
+            "id": "1301",
+            "name": "コロボス廃港"
+        },
+        "name": "悲劇の記録",
+        "npc": {
+            "id": "1109021",
+            "name": "古い日記",
+            "sprite": "npc100000910.png"
+        },
+        "parts": [
+            {
+                "info": "古い日記に記されていた、ゴーザス岩礁に現れるという災厄の元凶を討伐せよ。",
+                "desc": "災厄の元凶を討伐",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20034015",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:312000800",
+                "name": "エルフィンボウ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010001": {
+        "id": "1010001",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "宝探しへの誘い",
+        "npc": {
+            "id": "1110010",
+            "name": "謎のメモ",
+            "sprite": "npc100000910.png"
+        },
+        "parts": [
+            {
+                "info": "ナシャトで発見した、場所が書かれたメモ。そこに何があるのだろうか？",
+                "desc": "メモに記された３か所を調べる",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20039004,20039005,20039006",
+                    "clear_info": "Talk to 3 NPCs"
+                }
+            },
+            {
+                "info": "３か所で拾ったメモの示す場所へ向かおう。",
+                "desc": "メモの示す場所を調べる",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20039003",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:409000800",
+                "name": "金の腕輪",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010002": {
+        "id": "1010002",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "アーマービーストの恐怖",
+        "npc": {
+            "id": "1110020",
+            "name": "女性",
+            "sprite": "npc200101120.png"
+        },
+        "parts": [
+            {
+                "info": "近頃アーマービーストの被害が相次いでいるらしい。討伐に協力しよう。",
+                "desc": "アーマービーストを１０体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "2010030:10",
+                    "clear_info": "Defeat 10x アーマービースト"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:105004100",
+                "name": "風車",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010003": {
+        "id": "1010003",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "もう１人の自分",
+        "npc": {
+            "id": "1110030",
+            "name": "吟遊詩人",
+            "sprite": "npc200103100.png"
+        },
+        "parts": [
+            {
+                "info": "吟遊詩人を追ってくるドッペルゲンガーを退治しよう。",
+                "desc": "ドッペルゲンガーを倒す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20039024",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:402000800",
+                "name": "雷神の盾",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010004": {
+        "id": "1010004",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "恋のおまじない",
+        "npc": {
+            "id": "1110040",
+            "name": "恋する青年",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "恋を成就させるため、まじないに必要な素材が欲しいという。岩礁のコケを取ってこよう。",
+                "desc": "岩礁のコケの納品",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20039033",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:103000100",
+                "name": "光のカーテン",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010005": {
+        "id": "1010005",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "効果は絶大",
+        "npc": {
+            "id": "1110050",
+            "name": "恋する青年",
+            "sprite": "npc200101020.png"
+        },
+        "parts": [
+            {
+                "info": "恋のおまじないは魔物を引きつけるものだったらしい。青年に迫る魔物を退治しよう。",
+                "desc": "モーグリイーターを３体討伐",
+                "clear": {
+                    "quest_type": "Defeat Enemies",
+                    "clear_param": "3010320:3",
+                    "clear_info": "Defeat 3x モーグリイーター"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:904000330",
+                "name": "バルビュータ Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010006": {
+        "id": "1010006",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "研究資料はどこ？",
+        "npc": {
+            "id": "1110060",
+            "name": "のんびりお姉さん",
+            "sprite": "npc200101130.png"
+        },
+        "parts": [
+            {
+                "info": "弟から預かった本を適当に片づけてしまい、どこにいったかわからなくなったらしい。探すのを手伝ってあげよう。",
+                "desc": "研究資料を探す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20039056,20039057",
+                    "clear_info": "Talk to 2 NPCs"
+                }
+            },
+            {
+                "info": "頼まれた資料を弟に届け、お姉さんに報告しよう。",
+                "desc": "神殿に届け、お姉さんに報告する",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20039054",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:903000680",
+                "name": "炎のロッド Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010007": {
+        "id": "1010007",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "裁きの雷",
+        "npc": {
+            "id": "1110070",
+            "name": "おじいさん",
+            "sprite": "npc200101610.png"
+        },
+        "parts": [
+            {
+                "info": "この地方に伝わる雷の神の伝説。おじいさんから話を聞くため、頼みをきこう。",
+                "desc": "老人のお願いを聞く",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:101001200:1:100",
+                    "clear_info": "Bring 1x エーテルターボ to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:106200100",
+                "name": "スタークォーツ",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010008": {
+        "id": "1010008",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "お肌のお手入れ",
+        "npc": {
+            "id": "200101300",
+            "name": "おばさん",
+            "sprite": "npc200101300.png"
+        },
+        "parts": [
+            {
+                "info": "岩礁で採れるという雷の結晶の採取を頼まれた。見つけて持ってこよう。",
+                "desc": "雷の結晶を３個納品",
+                "clear": {
+                    "quest_type": "Get Items",
+                    "clear_param": "20:201000300:3:100",
+                    "clear_info": "Bring 3x 雷の結晶 to the NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "RECIPE:901000360",
+                "name": "巨鳥の羽 Recipe",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010009": {
+        "id": "1010009",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "どこの鍵？",
+        "npc": {
+            "id": "1110090",
+            "name": "ナゾの鍵",
+            "sprite": "npc100000910.png"
+        },
+        "parts": [
+            {
+                "info": "ナシャトの町でナゾの鍵を拾った。どこの鍵なのだろうか？",
+                "desc": "鍵に合う鍵穴を探す",
+                "clear": {
+                    "quest_type": "Interact with Object",
+                    "clear_param": "20039083",
+                    "clear_info": "Find 1 Object"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "ITEM:101003100",
+                "name": "フェニックスの尾",
+                "quantity": 1
+            }
+        ]
+    },
+    "1010010": {
+        "id": "1010010",
+        "location": {
+            "id": "1302",
+            "name": "ナシャトの町"
+        },
+        "name": "悪夢の続き",
+        "npc": {
+            "id": "1110110",
+            "name": "研究員",
+            "sprite": "npc200103200.png"
+        },
+        "parts": [
+            {
+                "info": "神殿の奥にある研究施設に凶悪な魔物が棲みついたらしい。退治に向かおう。",
+                "desc": "凶悪な魔物を討伐",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20039093",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": [
+            {
+                "id": "EQUIP:316000400",
+                "name": "マドラの竪琴",
+                "quantity": 1
+            }
+        ]
+    },
+    "1901001": {
+        "id": "1901001",
+        "location": {
+            "id": "9001",
+            "name": "異界"
+        },
+        "name": "クレスト開始イベント",
+        "npc": {
+            "id": "1",
+            "name": "男性＠削除予定",
+            "sprite": "npc200101000.png"
+        },
+        "parts": [
+            {
+                "info": "aa",
+                "desc": "aa",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "52010011",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": []
+    },
+    "2001001": {
+        "id": "2001001",
+        "location": {
+            "id": "1120606",
+            "name": ""
+        },
+        "name": "命の水",
+        "npc": {
+            "id": "11206010",
+            "name": "青年",
+            "sprite": "npc200101010.png"
+        },
+        "parts": [
+            {
+                "info": "砂漠で行き倒れている男性を発見した。<br>近くに水はないだろうか？",
+                "desc": "水を汲んできて男性に渡す",
+                "clear": {
+                    "quest_type": "Interact with NPC",
+                    "clear_param": "20023003",
+                    "clear_info": "Talk to 1 NPC"
+                }
+            }
+        ],
+        "rewards": []
+    },
+    "2003001": {
+        "id": "2003001",
+        "location": {
+            "id": "1135306",
+            "name": ""
+        },
+        "name": "ある義賊の遺産",
+        "npc": {
+            "id": "1107060",
+            "name": "義賊のメモ",
+            "sprite": "npc200103000.png"
+        },
+        "parts": [
+            {
+                "info": "大地の鍵と共に、カラスのマークのメモが入っていた。宝と引き換えるため貸金庫へ行こう。",
+                "desc": "グランシェルトの貸金庫へ行く",
+                "clear": {
+                    "quest_type": "Interact with Object",
+                    "clear_param": "20037013",
+                    "clear_info": "Find 1 Object"
+                }
+            }
+        ],
+        "rewards": []
+    }
+}
