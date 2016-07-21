@@ -1,0 +1,3348 @@
+{
+    "10010": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 47,
+                "effect_frame": 0,
+                "params": [
+                    134
+                ],
+                "scan type": 134,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Allows you to view info on one enemy.",
+        "icon_id": 700000002,
+        "id": 10010,
+        "level": 1,
+        "mp_cost": 1,
+        "name": "Libra",
+        "short_desc": "View info on one enemy",
+        "skill_category": 5
+    },
+    "10020": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    90
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 2,
+                "base heal": 150,
+                "effect_frame": 0,
+                "heal mod": 3,
+                "params": [
+                    0,
+                    0,
+                    150,
+                    300,
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Recovers HP for one ally.",
+        "icon_id": 700000004,
+        "id": 10020,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Cure",
+        "short_desc": "Recover HP for one ally",
+        "skill_category": 3
+    },
+    "10030": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "blind"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Cures blind for one ally.",
+        "icon_id": 700000003,
+        "id": 10030,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Blindna",
+        "short_desc": "Cure one ally of being blinded",
+        "skill_category": 3
+    },
+    "10040": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "silence"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Cures silence for one ally.",
+        "icon_id": 700000003,
+        "id": 10040,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "Vox",
+        "short_desc": "Cure one ally of silencing",
+        "skill_category": 3
+    },
+    "10050": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Cures poison for one ally.",
+        "icon_id": 700000003,
+        "id": 10050,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "Poisona",
+        "short_desc": "Cure one ally of poisoning",
+        "skill_category": 3
+    },
+    "10060": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "Deals light damage to one enemy.",
+        "icon_id": 700000005,
+        "id": 10060,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "Banish",
+        "short_desc": "Light damage to one enemy",
+        "skill_category": 1
+    },
+    "10070": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 2,
+                "base heal": 400,
+                "effect_frame": 0,
+                "heal mod": 3,
+                "params": [
+                    0,
+                    0,
+                    400,
+                    300,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Recovers HP for all allies.",
+        "icon_id": 700000004,
+        "id": 10070,
+        "level": 3,
+        "mp_cost": 7,
+        "name": "Cura",
+        "short_desc": "Recover HP for all allies",
+        "skill_category": 3
+    },
+    "10080": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "paralyze"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Cures paralysis for one ally.",
+        "icon_id": 700000003,
+        "id": 10080,
+        "level": 3,
+        "mp_cost": 5,
+        "name": "Paralyna",
+        "short_desc": "Cure one ally of paralysis",
+        "skill_category": 3
+    },
+    "10090": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "petrify"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    8,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Cures stone for one ally.",
+        "icon_id": 700000003,
+        "id": 10090,
+        "level": 3,
+        "mp_cost": 5,
+        "name": "Stona",
+        "short_desc": "Cure one ally of petrification",
+        "skill_category": 3
+    },
+    "10100": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 4,
+                "effect_frame": 100,
+                "params": [
+                    30
+                ],
+                "revive hp%": 30,
+                "target_area": "single",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Revives one ally from KO.",
+        "icon_id": 700000001,
+        "id": 10100,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "Raise",
+        "short_desc": "Revive one ally from being KO'd",
+        "skill_category": 3
+    },
+    "10110": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison",
+                    "blind",
+                    "sleep",
+                    "silence",
+                    "paralyze",
+                    "confuse"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Removes all status ailments for one ally.",
+        "icon_id": 700000003,
+        "id": 10110,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "Esuna",
+        "short_desc": "Remove all status ailments for one ally",
+        "skill_category": 3
+    },
+    "10120": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 8,
+                "base heal": 400,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "heal mod": 2,
+                "params": [
+                    400,
+                    1,
+                    200,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Gradually regenerates HP for one ally.",
+        "icon_id": 700000004,
+        "id": 10120,
+        "level": 4,
+        "mp_cost": 3,
+        "name": "Regen",
+        "short_desc": "Regenerate HP for one ally over time",
+        "skill_category": 3
+    },
+    "10121": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 8,
+                "base heal": 120,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "heal mod": 0.6,
+                "params": [
+                    120,
+                    1,
+                    60,
+                    -1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": " ",
+        "icon_id": 700000004,
+        "id": 10121,
+        "level": 4,
+        "mp_cost": 3,
+        "name": "Regen (Auto)",
+        "short_desc": " ",
+        "skill_category": 3
+    },
+    "10130": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 59,
+                "dispel buffs": true,
+                "effect_frame": 0,
+                "params": [
+                    "none"
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Removes all status effects from one enemy.",
+        "icon_id": 700000003,
+        "id": 10130,
+        "level": 5,
+        "mp_cost": 7,
+        "name": "Dispel",
+        "short_desc": "Remove all status effects for one enemy",
+        "skill_category": 4
+    },
+    "10140": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "virus"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Cures disease for one ally.",
+        "icon_id": 700000003,
+        "id": 10140,
+        "level": 5,
+        "mp_cost": 5,
+        "name": "Cleanse",
+        "short_desc": "Cure one ally of disease",
+        "skill_category": 3
+    },
+    "10150": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 2,
+                "base heal": 800,
+                "effect_frame": 0,
+                "heal mod": 3.4,
+                "params": [
+                    0,
+                    0,
+                    800,
+                    340,
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Recovers HP for one ally.",
+        "icon_id": 700000004,
+        "id": 10150,
+        "level": 5,
+        "mp_cost": 9,
+        "name": "Curaga",
+        "short_desc": "Recover HP for one ally",
+        "skill_category": 3
+    },
+    "10160": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 2,
+                "base heal": 1000,
+                "effect_frame": 0,
+                "heal mod": 3.4,
+                "params": [
+                    0,
+                    0,
+                    1000,
+                    340,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "any"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Recovers HP for all allies.",
+        "icon_id": 700000004,
+        "id": 10160,
+        "level": 6,
+        "mp_cost": 15,
+        "name": "Curaja",
+        "short_desc": "Recover HP for all allies",
+        "skill_category": 3
+    },
+    "10210": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    450
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    230
+                ],
+                "skill int%": 230,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "Deals light damage to one enemy.",
+        "icon_id": 700000005,
+        "id": 10210,
+        "level": 7,
+        "mp_cost": 35,
+        "name": "Holy",
+        "short_desc": "Light damage to one enemy",
+        "skill_category": 1
+    },
+    "20010": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "Deals fire damage to one enemy.",
+        "icon_id": 700000021,
+        "id": 20010,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Fire",
+        "short_desc": "Fire damage to one enemy",
+        "skill_category": 1
+    },
+    "20020": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "Deals ice damage to one enemy.",
+        "icon_id": 700000022,
+        "id": 20020,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Blizzard",
+        "short_desc": "Ice damage to one enemy",
+        "skill_category": 1
+    },
+    "20030": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    70
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "Deals lightning damage to one enemy.",
+        "icon_id": 700000020,
+        "id": 20030,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Thunder",
+        "short_desc": "Lightning damage to one enemy",
+        "skill_category": 1
+    },
+    "20040": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "Deals water damage to one enemy.",
+        "icon_id": 700000023,
+        "id": 20040,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "Water",
+        "short_desc": "Water damage to one enemy",
+        "skill_category": 1
+    },
+    "20050": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "Deals wind damage to one enemy.",
+        "icon_id": 700000025,
+        "id": 20050,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "Aero",
+        "short_desc": "Wind damage to one enemy",
+        "skill_category": 1
+    },
+    "20060": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "Deals earth damage to one enemy.",
+        "icon_id": 700000028,
+        "id": 20060,
+        "level": 2,
+        "mp_cost": 3,
+        "name": "Stone",
+        "short_desc": "Earth damage to one enemy",
+        "skill_category": 1
+    },
+    "20070": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "poison": 15
+                },
+                "params": [
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "Deals dark damage to one enemy, and poisons them.",
+        "icon_id": 700000024,
+        "id": 20070,
+        "level": 2,
+        "mp_cost": 5,
+        "name": "Bio",
+        "short_desc": "Dark damage and poison one enemy",
+        "skill_category": 1
+    },
+    "20080": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    95
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "Deals fire damage to all enemies.",
+        "icon_id": 700000021,
+        "id": 20080,
+        "level": 3,
+        "mp_cost": 9,
+        "name": "Fira",
+        "short_desc": "Fire damage to all enemies",
+        "skill_category": 1
+    },
+    "20090": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    145
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "Deals ice damage to all enemies.",
+        "icon_id": 700000022,
+        "id": 20090,
+        "level": 3,
+        "mp_cost": 9,
+        "name": "Blizzara",
+        "short_desc": "Ice damage to all enemies",
+        "skill_category": 1
+    },
+    "20100": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "Deals lightning damage to all enemies.",
+        "icon_id": 700000020,
+        "id": 20100,
+        "level": 3,
+        "mp_cost": 9,
+        "name": "Thundara",
+        "short_desc": "Lightning damage to all enemies",
+        "skill_category": 1
+    },
+    "20110": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "Deals water damage to all enemies.",
+        "icon_id": 700000023,
+        "id": 20110,
+        "level": 4,
+        "mp_cost": 9,
+        "name": "Watera",
+        "short_desc": "Water damage to all enemies",
+        "skill_category": 1
+    },
+    "20120": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "Deals wind damage to all enemies.",
+        "icon_id": 700000025,
+        "id": 20120,
+        "level": 4,
+        "mp_cost": 9,
+        "name": "Aerora",
+        "short_desc": "Wind damage to all enemies",
+        "skill_category": 1
+    },
+    "20130": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    160
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "Deals earth damage to all enemies.",
+        "icon_id": 700000028,
+        "id": 20130,
+        "level": 4,
+        "mp_cost": 9,
+        "name": "Stonra",
+        "short_desc": "Earth damage to all enemies",
+        "skill_category": 1
+    },
+    "20150": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    0
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 9,
+                "effect_frame": 150,
+                "hp damage max%": 50,
+                "hp damage min%": 50,
+                "params": [
+                    50,
+                    50,
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Deals damage to one enemy equal to half their current HP.",
+        "icon_id": 700000026,
+        "id": 20150,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "Gravity",
+        "short_desc": "Damage one enemy for 1/2 HP",
+        "skill_category": 1
+    },
+    "20160": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 25,
+                "damage to hp%": 30,
+                "effect_frame": 0,
+                "params": [
+                    30,
+                    80,
+                    100
+                ],
+                "skill mod%": 80,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Drains HP from one enemy.",
+        "icon_id": 700000015,
+        "id": 20160,
+        "level": 4,
+        "mp_cost": 5,
+        "name": "Drain",
+        "short_desc": "Drain HP from one enemy",
+        "skill_category": 1
+    },
+    "20170": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 72,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    160,
+                    10,
+                    10,
+                    3
+                ],
+                "skill int%": 160,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Deals damage to one enemy. Damage dealt increases with each use.",
+        "icon_id": 700000029,
+        "id": 20170,
+        "level": 5,
+        "mp_cost": 15,
+        "name": "Comet",
+        "short_desc": "Damage one enemy and power up",
+        "skill_category": 1
+    },
+    "20180": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    180
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    125
+                ],
+                "skill int%": 125,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "poison": 15
+                },
+                "params": [
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "Deals dark damage to all enemies, and poisons them.",
+        "icon_id": 700000024,
+        "id": 20180,
+        "level": 5,
+        "mp_cost": 12,
+        "name": "Biora",
+        "short_desc": "Dark damage and poison all enemies",
+        "skill_category": 1
+    },
+    "20190": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 10,
+                "damage to mp%": 30,
+                "effect_frame": 0,
+                "params": [
+                    30,
+                    30,
+                    100
+                ],
+                "skill mod%": 30,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Drains MP from one enemy.",
+        "icon_id": 700000015,
+        "id": 20190,
+        "level": 5,
+        "mp_cost": 10,
+        "name": "Osmose",
+        "short_desc": "Drain MP from one enemy",
+        "skill_category": 4
+    },
+    "20200": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "Deals fire damage to all enemies.",
+        "icon_id": 700000021,
+        "id": 20200,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "Firaga",
+        "short_desc": "Fire damage to all enemies",
+        "skill_category": 1
+    },
+    "20210": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "Deals ice damage to all enemies.",
+        "icon_id": 700000022,
+        "id": 20210,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "Blizzaga",
+        "short_desc": "Ice damage to all enemies",
+        "skill_category": 1
+    },
+    "20220": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    70
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "Deals lightning damage to all enemies.",
+        "icon_id": 700000020,
+        "id": 20220,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "Thundaga",
+        "short_desc": "Lightning damage to all enemies",
+        "skill_category": 1
+    },
+    "20230": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "Deals water damage to all enemies.",
+        "icon_id": 700000023,
+        "id": 20230,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "Waterga",
+        "short_desc": "Water damage to all enemies",
+        "skill_category": 1
+    },
+    "20240": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "Deals wind damage to all enemies.",
+        "icon_id": 700000025,
+        "id": 20240,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "Aeroga",
+        "short_desc": "Wind damage to all enemies",
+        "skill_category": 1
+    },
+    "20250": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    180
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "Deals earth damage to all enemies.",
+        "icon_id": 700000028,
+        "id": 20250,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "Stonga",
+        "short_desc": "Earth damage to all enemies",
+        "skill_category": 1
+    },
+    "20260": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    210
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill int%": 140,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "poison": 20
+                },
+                "params": [
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "Deals dark damage to all enemies, and poisons them.",
+        "icon_id": 700000024,
+        "id": 20260,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "Bioga",
+        "short_desc": "Dark damage and poison all enemies",
+        "skill_category": 1
+    },
+    "20270": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    0
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 9,
+                "effect_frame": 150,
+                "hp damage max%": 75,
+                "hp damage min%": 75,
+                "params": [
+                    75,
+                    75,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Deals damage to all enemies equal to 3/4 their current HP.",
+        "icon_id": 700000026,
+        "id": 20270,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "Graviga",
+        "short_desc": "Damage all enemies for 3/4 HP",
+        "skill_category": 1
+    },
+    "20280": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 100,
+                "instant death%": 30,
+                "params": [
+                    30
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "Instantly KO's one enemy.",
+        "icon_id": 700000038,
+        "id": 20280,
+        "level": 6,
+        "mp_cost": 14,
+        "name": "Death",
+        "short_desc": "Instantly KO one enemy",
+        "skill_category": 1
+    },
+    "20350": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    240
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    230
+                ],
+                "skill int%": 230,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    -30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "enemy",
+                "water resist%": -30
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "Deals fire damage to one enemy, and reduces their water resistance.",
+        "icon_id": 700000030,
+        "id": 20350,
+        "level": 7,
+        "mp_cost": 35,
+        "name": "Flare",
+        "short_desc": "Fire damage to one enemy and reduce water resistance",
+        "skill_category": 1
+    },
+    "20430": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    350
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 70,
+                "effect_frame": 0,
+                "mnd ignore%": 25,
+                "params": [
+                    0,
+                    0,
+                    250,
+                    25
+                ],
+                "skill int%": 250,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Deals magic damage unaffected by magic defense to all enemies.",
+        "icon_id": 700000029,
+        "id": 20430,
+        "level": 8,
+        "mp_cost": 50,
+        "name": "Meteor",
+        "short_desc": "Unmitigated magic damage to all enemies",
+        "skill_category": 1
+    },
+    "20440": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    365
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 70,
+                "effect_frame": 0,
+                "mnd ignore%": 25,
+                "params": [
+                    0,
+                    0,
+                    280,
+                    25
+                ],
+                "skill int%": 280,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Deals magic damage unaffected by magic defense to all enemies.",
+        "icon_id": 700000037,
+        "id": 20440,
+        "level": 8,
+        "mp_cost": 60,
+        "name": "Ultima",
+        "short_desc": "Unmitigated magic damage to all enemies",
+        "skill_category": 1
+    },
+    "30010": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "sleep": 40
+                },
+                "params": [
+                    0,
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "Puts one enemy to sleep.",
+        "icon_id": 700000009,
+        "id": 30010,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Sleep",
+        "short_desc": "Put one enemy to sleep",
+        "skill_category": 4
+    },
+    "30020": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "blind": 40
+                },
+                "params": [
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "Blinds one enemy.",
+        "icon_id": 700000009,
+        "id": 30020,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Blind",
+        "short_desc": "Blind one enemy",
+        "skill_category": 4
+    },
+    "30030": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": 30,
+                "params": [
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "Boosts fire resistance for one ally.",
+        "icon_id": 700000006,
+        "id": 30030,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Barfire",
+        "short_desc": "Boost fire resistance for one ally",
+        "skill_category": 4
+    },
+    "30040": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "ice resist%": 30,
+                "params": [
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "Boosts ice resistance for one ally.",
+        "icon_id": 700000010,
+        "id": 30040,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Barblizzard",
+        "short_desc": "Boost ice resistance for one ally",
+        "skill_category": 4
+    },
+    "30050": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally",
+                "thunder resist%": 30
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "Boosts lightning resistance for one ally.",
+        "icon_id": 700000008,
+        "id": 30050,
+        "level": 1,
+        "mp_cost": 3,
+        "name": "Barthunder",
+        "short_desc": "Boost lightning resistance for one ally",
+        "skill_category": 4
+    },
+    "30060": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally",
+                "water resist%": 30
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "Boosts water resistance for one ally.",
+        "icon_id": 700000013,
+        "id": 30060,
+        "level": 2,
+        "mp_cost": 6,
+        "name": "Barwater",
+        "short_desc": "Boost water resistance for one ally",
+        "skill_category": 4
+    },
+    "30070": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally",
+                "wind resist%": 30
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "Boosts wind resistance for one ally.",
+        "icon_id": 700000007,
+        "id": 30070,
+        "level": 2,
+        "mp_cost": 6,
+        "name": "Baraero",
+        "short_desc": "Boost wind resistance for one ally",
+        "skill_category": 4
+    },
+    "30080": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "earth resist%": 30,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "Boosts earth resistance for one ally.",
+        "icon_id": 700000012,
+        "id": 30080,
+        "level": 2,
+        "mp_cost": 6,
+        "name": "Barstone",
+        "short_desc": "Boost earth resistance for one ally",
+        "skill_category": 4
+    },
+    "30090": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "def buff%": 20,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    20,
+                    0,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "Boosts DEF for one ally.",
+        "icon_id": 700000077,
+        "id": 30090,
+        "level": 2,
+        "mp_cost": 4,
+        "name": "Protect",
+        "short_desc": "Boost DEF for one ally",
+        "skill_category": 4
+    },
+    "30091": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": -1,
+                "def buff%": 20,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    20,
+                    0,
+                    0,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": " ",
+        "icon_id": 700000077,
+        "id": 30091,
+        "level": 2,
+        "mp_cost": 0,
+        "name": "Protect (Auto)",
+        "short_desc": " ",
+        "skill_category": 4
+    },
+    "30100": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "silence": 40
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Silences one enemy.",
+        "icon_id": 700000009,
+        "id": 30100,
+        "level": 2,
+        "mp_cost": 5,
+        "name": "Silence",
+        "short_desc": "Silence one enemy",
+        "skill_category": 4
+    },
+    "30110": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": 50,
+                "params": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "Boosts fire resistance for all allies.",
+        "icon_id": 700000006,
+        "id": 30110,
+        "level": 3,
+        "mp_cost": 12,
+        "name": "Barfira",
+        "short_desc": "Boost fire resistance for all allies",
+        "skill_category": 4
+    },
+    "30120": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "ice resist%": 50,
+                "params": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "Boosts ice resistance for all allies.",
+        "icon_id": 700000010,
+        "id": 30120,
+        "level": 3,
+        "mp_cost": 12,
+        "name": "Barblizzara",
+        "short_desc": "Boost ice resistance for all allies",
+        "skill_category": 4
+    },
+    "30130": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally",
+                "thunder resist%": 50
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "Boosts lightning resistance for all allies.",
+        "icon_id": 700000008,
+        "id": 30130,
+        "level": 3,
+        "mp_cost": 12,
+        "name": "Barthundara",
+        "short_desc": "Boost lightning resistance for all allies",
+        "skill_category": 4
+    },
+    "30140": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "mnd buff%": 20,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    20,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "Boosts SPR for one ally.",
+        "icon_id": 700000077,
+        "id": 30140,
+        "level": 3,
+        "mp_cost": 4,
+        "name": "Shell",
+        "short_desc": "Boost SPR for one ally",
+        "skill_category": 4
+    },
+    "30141": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "mnd buff%": 20,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    20,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": " ",
+        "icon_id": 700000077,
+        "id": 30141,
+        "level": 3,
+        "mp_cost": 0,
+        "name": "Shell (Auto)",
+        "short_desc": " ",
+        "skill_category": 4
+    },
+    "30150": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 24,
+                "debuff turns": 3,
+                "def debuff%": -20,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    -20,
+                    0,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "Reduces DEF for one enemy.",
+        "icon_id": 700000039,
+        "id": 30150,
+        "level": 3,
+        "mp_cost": 4,
+        "name": "Deprotect",
+        "short_desc": "Reduce DEF for one enemy",
+        "skill_category": 4
+    },
+    "30160": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 24,
+                "debuff turns": 3,
+                "effect_frame": 0,
+                "mnd debuff%": -20,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    -20,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "Reduces SPR for one enemy.",
+        "icon_id": 700000039,
+        "id": 30160,
+        "level": 3,
+        "mp_cost": 4,
+        "name": "Deshell",
+        "short_desc": "Reduce SPR for one enemy",
+        "skill_category": 4
+    },
+    "30170": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally",
+                "water resist%": 50
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "Boosts water resistance for all allies.",
+        "icon_id": 700000013,
+        "id": 30170,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "Barwatera",
+        "short_desc": "Boost water resistance for all allies",
+        "skill_category": 4
+    },
+    "30180": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally",
+                "wind resist%": 50
+            }
+        ],
+        "elements": [
+            "wind"
+        ],
+        "full_desc": "Boosts wind resistance for all allies.",
+        "icon_id": 700000007,
+        "id": 30180,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "Baraerora",
+        "short_desc": "Boost wind resistance for all allies",
+        "skill_category": 4
+    },
+    "30190": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "earth resist%": 50,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "Boosts earth resistance for all allies.",
+        "icon_id": 700000012,
+        "id": 30190,
+        "level": 4,
+        "mp_cost": 12,
+        "name": "Barstonra",
+        "short_desc": "Boost earth resistance for all allies",
+        "skill_category": 4
+    },
+    "30200": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "dark resist%": -20,
+                "earth resist%": -20,
+                "effect_frame": 0,
+                "fire resist%": -20,
+                "ice resist%": -20,
+                "light resist%": -20,
+                "params": [
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "enemy",
+                "thunder resist%": -20,
+                "water resist%": -20,
+                "wind resist%": -20
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "Reduces all elemental resistance for one enemy.",
+        "icon_id": 700000039,
+        "id": 30200,
+        "level": 4,
+        "mp_cost": 15,
+        "name": "Imperil",
+        "short_desc": "Reduce all elemental resistance for one enemy",
+        "skill_category": 4
+    },
+    "30210": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 20,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    20,
+                    0,
+                    0,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "Boosts ATK for one ally.",
+        "icon_id": 700000077,
+        "id": 30210,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "Bravery",
+        "short_desc": "Boost ATK for one ally",
+        "skill_category": 4
+    },
+    "30211": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 20,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "params": [
+                    20,
+                    0,
+                    0,
+                    0,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の攻撃をアップする。",
+        "icon_id": 700000077,
+        "id": 30211,
+        "level": 4,
+        "mp_cost": 0,
+        "name": "ブレイブ(オート用)",
+        "short_desc": "味方1体の攻撃をアップ",
+        "skill_category": 4
+    },
+    "30220": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "int buff%": 20,
+                "params": [
+                    0,
+                    0,
+                    20,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "Boosts MAG for one ally.",
+        "icon_id": 700000077,
+        "id": 30220,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "Faith",
+        "short_desc": "Boost MAG for one ally",
+        "skill_category": 4
+    },
+    "30221": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "int buff%": 20,
+                "params": [
+                    0,
+                    0,
+                    20,
+                    0,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の魔力をアップする。",
+        "icon_id": 700000077,
+        "id": 30221,
+        "level": 4,
+        "mp_cost": 0,
+        "name": "フェイス(オート用)",
+        "short_desc": "味方1体の魔力をアップ",
+        "skill_category": 4
+    },
+    "30260": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": 70,
+                "params": [
+                    70,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "Boosts fire resistance for all allies.",
+        "icon_id": 700000006,
+        "id": 30260,
+        "level": 6,
+        "mp_cost": 22,
+        "name": "Barfiraga",
+        "short_desc": "Boost fire resistance for all allies",
+        "skill_category": 4
+    },
+    "30270": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "ice resist%": 70,
+                "params": [
+                    0,
+                    70,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "Boosts ice resistance for all allies.",
+        "icon_id": 700000010,
+        "id": 30270,
+        "level": 6,
+        "mp_cost": 22,
+        "name": "Barblizzaga",
+        "short_desc": "Boost ice resistance for all allies",
+        "skill_category": 4
+    },
+    "30280": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    70,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "ally",
+                "thunder resist%": 70
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "full_desc": "Boosts lightning resistance for all allies.",
+        "icon_id": 700000008,
+        "id": 30280,
+        "level": 6,
+        "mp_cost": 22,
+        "name": "Barthundaga",
+        "short_desc": "Boost lightning resistance for all allies",
+        "skill_category": 4
+    },
+    "30320": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "def buff%": 40,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    40,
+                    0,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "Boosts DEF for all allies.",
+        "icon_id": 700000077,
+        "id": 30320,
+        "level": 6,
+        "mp_cost": 24,
+        "name": "Protectga",
+        "short_desc": "Boost DEF for all allies",
+        "skill_category": 4
+    }
+}

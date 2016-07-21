@@ -1,0 +1,74 @@
+{
+    "20": {
+        "disp_order": 2,
+        "full_desc": "クレスト",
+        "id": 20,
+        "max_stack": 99,
+        "name": "クレスト",
+        "short_desc": "クレスト"
+    },
+    "30": {
+        "disp_order": 3,
+        "full_desc": "経験値キー",
+        "id": 30,
+        "max_stack": 99,
+        "name": "経験値キー",
+        "short_desc": "経験値キー"
+    },
+    "40": {
+        "disp_order": 4,
+        "full_desc": "ジュエルキー",
+        "id": 40,
+        "max_stack": 99,
+        "name": "ジュエルキー",
+        "short_desc": "ジュエルキー"
+    },
+    "50": {
+        "disp_order": 5,
+        "full_desc": "チケット召喚が1回行える",
+        "id": 50,
+        "max_stack": 99,
+        "name": "レア召喚チケット",
+        "short_desc": "チケット召喚が1回行える"
+    },
+    "60": {
+        "disp_order": 6,
+        "full_desc": "アリーナ召喚が1回行える",
+        "id": 60,
+        "max_stack": 99,
+        "name": "アリーナ召喚チケット",
+        "short_desc": "アリーナ召喚が1回行える"
+    },
+    "70": {
+        "disp_order": 7,
+        "full_desc": "チケット召喚が1回行え、★4以上のユニットが確定",
+        "id": 70,
+        "max_stack": 99,
+        "name": "★4以上確定召喚チケット",
+        "short_desc": "チケット召喚が1回行え、★4以上が確定"
+    },
+    "100": {
+        "disp_order": 100,
+        "full_desc": "体力を10回復します",
+        "id": 100,
+        "max_stack": 99,
+        "name": "体力回復薬10",
+        "short_desc": "体力を10回復します"
+    },
+    "110": {
+        "disp_order": 110,
+        "full_desc": "体力を30回復します",
+        "id": 110,
+        "max_stack": 99,
+        "name": "体力回復薬30",
+        "short_desc": "体力を30回復します"
+    },
+    "120": {
+        "disp_order": 120,
+        "full_desc": "体力を50回復します",
+        "id": 120,
+        "max_stack": 99,
+        "name": "体力回復薬50",
+        "short_desc": "体力を50回復します"
+    }
+}

@@ -1,0 +1,6313 @@
+{
+    "100000102": {
+        "3": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP +10%"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20010",
+                    "min_rarity": 0,
+                    "name": "Fire"
+                }
+            ]
+        },
+        "11": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20060",
+                    "min_rarity": 3,
+                    "name": "Stone"
+                }
+            ]
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "201130",
+                    "min_rarity": 4,
+                    "name": "Power Break"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "101170",
+                    "min_rarity": 0,
+                    "name": "Cover"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 3,
+                    "name": "Fira"
+                }
+            ]
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "100200",
+                    "min_rarity": 5,
+                    "name": "EVO MAG +20%"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "101200",
+                    "min_rarity": 3,
+                    "name": "Counter"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20130",
+                    "min_rarity": 4,
+                    "name": "Stonra"
+                }
+            ]
+        },
+        "51": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20200",
+                    "min_rarity": 5,
+                    "name": "Firaga"
+                }
+            ]
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "200140",
+                    "min_rarity": 4,
+                    "name": "Defend"
+                }
+            ],
+            "magic": []
+        },
+        "77": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20250",
+                    "min_rarity": 5,
+                    "name": "Stonga"
+                }
+            ]
+        }
+    },
+    "100000202": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20020",
+                    "min_rarity": 0,
+                    "name": "Blizzard"
+                }
+            ]
+        },
+        "10": {
+            "abilities": [
+                {
+                    "id": "200320",
+                    "min_rarity": 0,
+                    "name": "Tranquility"
+                }
+            ],
+            "magic": []
+        },
+        "13": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20050",
+                    "min_rarity": 3,
+                    "name": "Aero"
+                }
+            ]
+        },
+        "19": {
+            "abilities": [
+                {
+                    "id": "200330",
+                    "min_rarity": 4,
+                    "name": "Fingersnap"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 0,
+                    "name": "ATK +10%"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 3,
+                    "name": "Blizzara"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20120",
+                    "min_rarity": 3,
+                    "name": "Aerora"
+                }
+            ]
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "201030",
+                    "min_rarity": 4,
+                    "name": "Mirage"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 5,
+                    "name": "Blizzaga"
+                }
+            ]
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 4,
+                    "name": "ATK +20%"
+                }
+            ],
+            "magic": []
+        },
+        "65": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20240",
+                    "min_rarity": 5,
+                    "name": "Aeroga"
+                }
+            ]
+        }
+    },
+    "100000302": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "5": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10030",
+                    "min_rarity": 0,
+                    "name": "Blindna"
+                }
+            ]
+        },
+        "6": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10040",
+                    "min_rarity": 3,
+                    "name": "Vox"
+                }
+            ]
+        },
+        "13": {
+            "abilities": [
+                {
+                    "id": "200060",
+                    "min_rarity": 3,
+                    "name": "Pray"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30140",
+                    "min_rarity": 4,
+                    "name": "Shell"
+                }
+            ]
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "200390",
+                    "min_rarity": 0,
+                    "name": "Aim"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10050",
+                    "min_rarity": 3,
+                    "name": "Poisona"
+                }
+            ]
+        },
+        "26": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30090",
+                    "min_rarity": 0,
+                    "name": "Protect"
+                }
+            ]
+        },
+        "28": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 4,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 5,
+                    "name": "MP +20%"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10060",
+                    "min_rarity": 3,
+                    "name": "Banish"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "100160",
+                    "min_rarity": 3,
+                    "name": "SPR +10%"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "200470",
+                    "min_rarity": 4,
+                    "name": "Entrust"
+                }
+            ],
+            "magic": []
+        },
+        "44": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10150",
+                    "min_rarity": 5,
+                    "name": "Curaga"
+                }
+            ]
+        },
+        "55": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10140",
+                    "min_rarity": 4,
+                    "name": "Cleanse"
+                }
+            ]
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "200450",
+                    "min_rarity": 5,
+                    "name": "Cheer"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100000901": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 0,
+                    "name": "ATK +10%"
+                }
+            ],
+            "magic": []
+        },
+        "5": {
+            "abilities": [
+                {
+                    "id": "200210",
+                    "min_rarity": 0,
+                    "name": "Store"
+                }
+            ],
+            "magic": []
+        },
+        "13": {
+            "abilities": [
+                {
+                    "id": "200280",
+                    "min_rarity": 0,
+                    "name": "Blade Bash"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "201130",
+                    "min_rarity": 2,
+                    "name": "Power Break"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "200480",
+                    "min_rarity": 2,
+                    "name": "Provoke"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100001001": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "3": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10010",
+                    "min_rarity": 0,
+                    "name": "Libra"
+                }
+            ]
+        },
+        "5": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10040",
+                    "min_rarity": 2,
+                    "name": "Vox"
+                }
+            ]
+        },
+        "12": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10030",
+                    "min_rarity": 0,
+                    "name": "Blindna"
+                }
+            ]
+        },
+        "14": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10050",
+                    "min_rarity": 2,
+                    "name": "Poisona"
+                }
+            ]
+        }
+    },
+    "100001101": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20030",
+                    "min_rarity": 0,
+                    "name": "Thunder"
+                }
+            ]
+        },
+        "4": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20010",
+                    "min_rarity": 0,
+                    "name": "Fire"
+                }
+            ]
+        },
+        "11": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20020",
+                    "min_rarity": 0,
+                    "name": "Blizzard"
+                }
+            ]
+        },
+        "12": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 2,
+                    "name": "Thundara"
+                }
+            ]
+        },
+        "24": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 2,
+                    "name": "Blizzara"
+                }
+            ]
+        }
+    },
+    "100001201": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200050",
+                    "min_rarity": 0,
+                    "name": "Analyze"
+                }
+            ],
+            "magic": []
+        },
+        "7": {
+            "abilities": [
+                {
+                    "id": "200010",
+                    "min_rarity": 2,
+                    "name": "Steal"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "200250",
+                    "min_rarity": 0,
+                    "name": "Escape"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30010",
+                    "min_rarity": 2,
+                    "name": "Sleep"
+                }
+            ]
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "101120",
+                    "min_rarity": 2,
+                    "name": "Auto-Potion"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100001301": {
+        "8": {
+            "abilities": [
+                {
+                    "id": "200120",
+                    "min_rarity": 0,
+                    "name": "Brace"
+                }
+            ],
+            "magic": []
+        },
+        "9": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 2,
+                    "name": "HP +10%"
+                }
+            ],
+            "magic": []
+        },
+        "14": {
+            "abilities": [
+                {
+                    "id": "101380",
+                    "min_rarity": 0,
+                    "name": "Brawl"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "200200",
+                    "min_rarity": 2,
+                    "name": "Kick"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "200220",
+                    "min_rarity": 2,
+                    "name": "Chakra"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100001401": {
+        "2": {
+            "abilities": [
+                {
+                    "id": "200050",
+                    "min_rarity": 0,
+                    "name": "Analyze"
+                }
+            ],
+            "magic": []
+        },
+        "3": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 2,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "12": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10050",
+                    "min_rarity": 2,
+                    "name": "Poisona"
+                }
+            ]
+        },
+        "13": {
+            "abilities": [
+                {
+                    "id": "101080",
+                    "min_rarity": 0,
+                    "name": "Beast Killer"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "101090",
+                    "min_rarity": 2,
+                    "name": "Bird Killer"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100001501": {
+        "4": {
+            "abilities": [
+                {
+                    "id": "201360",
+                    "min_rarity": 2,
+                    "name": "Magic Shot"
+                }
+            ],
+            "magic": []
+        },
+        "9": {
+            "abilities": [
+                {
+                    "id": "201350",
+                    "min_rarity": 0,
+                    "name": "Cheap Shot"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 0,
+                    "name": "ATK +10%"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "201400",
+                    "min_rarity": 2,
+                    "name": "Scattershot"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 2,
+                    "name": "MP +10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100001601": {
+        "3": {
+            "abilities": [
+                {
+                    "id": "200850",
+                    "min_rarity": 0,
+                    "name": "Paean"
+                }
+            ],
+            "magic": []
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "200880",
+                    "min_rarity": 2,
+                    "name": "Defense Song"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "200830",
+                    "min_rarity": 0,
+                    "name": "Silent Verse"
+                }
+            ],
+            "magic": []
+        },
+        "19": {
+            "abilities": [
+                {
+                    "id": "200820",
+                    "min_rarity": 2,
+                    "name": "Alluring Air"
+                }
+            ],
+            "magic": []
+        },
+        "27": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 2,
+                    "name": "MP +10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100001702": {
+        "4": {
+            "abilities": [
+                {
+                    "id": "200330",
+                    "min_rarity": 0,
+                    "name": "Fingersnap"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 3,
+                    "name": "ATK +10%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "200340",
+                    "min_rarity": 0,
+                    "name": "Light Shell"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "200350",
+                    "min_rarity": 0,
+                    "name": "Fireworks"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "101230",
+                    "min_rarity": 3,
+                    "name": "Evade"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100001802": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30010",
+                    "min_rarity": 0,
+                    "name": "Sleep"
+                },
+                {
+                    "id": "30030",
+                    "min_rarity": 0,
+                    "name": "Barfire"
+                },
+                {
+                    "id": "30040",
+                    "min_rarity": 0,
+                    "name": "Barblizzard"
+                },
+                {
+                    "id": "30050",
+                    "min_rarity": 0,
+                    "name": "Barthunder"
+                }
+            ]
+        },
+        "5": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30100",
+                    "min_rarity": 0,
+                    "name": "Silence"
+                }
+            ]
+        },
+        "7": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30020",
+                    "min_rarity": 3,
+                    "name": "Blind"
+                }
+            ]
+        },
+        "15": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30090",
+                    "min_rarity": 0,
+                    "name": "Protect"
+                }
+            ]
+        },
+        "21": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30140",
+                    "min_rarity": 0,
+                    "name": "Shell"
+                }
+            ]
+        },
+        "33": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30110",
+                    "min_rarity": 3,
+                    "name": "Barfira"
+                },
+                {
+                    "id": "30120",
+                    "min_rarity": 3,
+                    "name": "Barblizzara"
+                },
+                {
+                    "id": "30130",
+                    "min_rarity": 3,
+                    "name": "Barthundara"
+                }
+            ]
+        }
+    },
+    "100001902": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200510",
+                    "min_rarity": 0,
+                    "name": "Fire Blade"
+                },
+                {
+                    "id": "200520",
+                    "min_rarity": 0,
+                    "name": "Blizzard Blade"
+                },
+                {
+                    "id": "200530",
+                    "min_rarity": 0,
+                    "name": "Thunder Blade"
+                }
+            ],
+            "magic": []
+        },
+        "3": {
+            "abilities": [
+                {
+                    "id": "200590",
+                    "min_rarity": 0,
+                    "name": "Blind Blade"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "200550",
+                    "min_rarity": 3,
+                    "name": "Silence Blade"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "200540",
+                    "min_rarity": 0,
+                    "name": "Sleep Blade"
+                }
+            ],
+            "magic": []
+        },
+        "37": {
+            "abilities": [
+                {
+                    "id": "200610",
+                    "min_rarity": 3,
+                    "name": "Fira Blade"
+                },
+                {
+                    "id": "200620",
+                    "min_rarity": 3,
+                    "name": "Blizzara Blade"
+                },
+                {
+                    "id": "200630",
+                    "min_rarity": 3,
+                    "name": "Thundara Blade"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100002002": {
+        "13": {
+            "abilities": [
+                {
+                    "id": "200080",
+                    "min_rarity": 0,
+                    "name": "Salve"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "101000",
+                    "min_rarity": 3,
+                    "name": "Plant Killer"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "200100",
+                    "min_rarity": 3,
+                    "name": "Recovery"
+                }
+            ],
+            "magic": []
+        },
+        "27": {
+            "abilities": [
+                {
+                    "id": "101150",
+                    "min_rarity": 0,
+                    "name": "Pharmacology"
+                }
+            ],
+            "magic": []
+        },
+        "37": {
+            "abilities": [
+                {
+                    "id": "100750",
+                    "min_rarity": 3,
+                    "name": "Auto-Limit"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100002103": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 0,
+                    "name": "DEF +10%"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 4,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "101070",
+                    "min_rarity": 0,
+                    "name": "Demon Killer"
+                }
+            ],
+            "magic": []
+        },
+        "47": {
+            "abilities": [
+                {
+                    "id": "200140",
+                    "min_rarity": 4,
+                    "name": "Defend"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10110",
+                    "min_rarity": 4,
+                    "name": "Esuna"
+                }
+            ]
+        }
+    },
+    "100002203": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                },
+                {
+                    "id": "10030",
+                    "min_rarity": 0,
+                    "name": "Blindna"
+                },
+                {
+                    "id": "10040",
+                    "min_rarity": 0,
+                    "name": "Vox"
+                },
+                {
+                    "id": "10050",
+                    "min_rarity": 0,
+                    "name": "Poisona"
+                },
+                {
+                    "id": "20040",
+                    "min_rarity": 0,
+                    "name": "Water"
+                },
+                {
+                    "id": "20050",
+                    "min_rarity": 0,
+                    "name": "Aero"
+                },
+                {
+                    "id": "20060",
+                    "min_rarity": 0,
+                    "name": "Stone"
+                }
+            ]
+        },
+        "5": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10080",
+                    "min_rarity": 4,
+                    "name": "Paralyna"
+                }
+            ]
+        },
+        "13": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 0,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "19": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10120",
+                    "min_rarity": 4,
+                    "name": "Regen"
+                }
+            ]
+        },
+        "22": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20110",
+                    "min_rarity": 0,
+                    "name": "Watera"
+                }
+            ]
+        },
+        "24": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10090",
+                    "min_rarity": 4,
+                    "name": "Stona"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20120",
+                    "min_rarity": 0,
+                    "name": "Aerora"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20130",
+                    "min_rarity": 0,
+                    "name": "Stonra"
+                }
+            ]
+        },
+        "51": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20150",
+                    "min_rarity": 4,
+                    "name": "Gravity"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20180",
+                    "min_rarity": 4,
+                    "name": "Biora"
+                }
+            ]
+        }
+    },
+    "100002303": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200390",
+                    "min_rarity": 0,
+                    "name": "Aim"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "10010",
+                    "min_rarity": 0,
+                    "name": "Libra"
+                }
+            ]
+        },
+        "13": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10030",
+                    "min_rarity": 0,
+                    "name": "Blindna"
+                },
+                {
+                    "id": "10050",
+                    "min_rarity": 0,
+                    "name": "Poisona"
+                }
+            ]
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "101350",
+                    "min_rarity": 4,
+                    "name": "Camouflage"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "48": {
+            "abilities": [
+                {
+                    "id": "200400",
+                    "min_rarity": 4,
+                    "name": "Covering Fire"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "101080",
+                    "min_rarity": 4,
+                    "name": "Beast Killer"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100002403": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200530",
+                    "min_rarity": 0,
+                    "name": "Thunder Blade"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [
+                {
+                    "id": "200600",
+                    "min_rarity": 0,
+                    "name": "Bio Blade"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30150",
+                    "min_rarity": 4,
+                    "name": "Deprotect"
+                }
+            ]
+        },
+        "35": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30160",
+                    "min_rarity": 0,
+                    "name": "Deshell"
+                }
+            ]
+        },
+        "44": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30200",
+                    "min_rarity": 4,
+                    "name": "Imperil"
+                }
+            ]
+        },
+        "53": {
+            "abilities": [
+                {
+                    "id": "200630",
+                    "min_rarity": 4,
+                    "name": "Thundara Blade"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100002503": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "201130",
+                    "min_rarity": 0,
+                    "name": "Power Break"
+                },
+                {
+                    "id": "201140",
+                    "min_rarity": 0,
+                    "name": "Magic Break"
+                }
+            ],
+            "magic": []
+        },
+        "13": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 0,
+                    "name": "DEF +10%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20160",
+                    "min_rarity": 4,
+                    "name": "Drain"
+                }
+            ]
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "101210",
+                    "min_rarity": 0,
+                    "name": "Magic Counter"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "201150",
+                    "min_rarity": 4,
+                    "name": "Armor Break"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "200170",
+                    "min_rarity": 5,
+                    "name": "Darkness"
+                }
+            ],
+            "magic": []
+        },
+        "55": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 4,
+                    "name": "ATK +20%"
+                }
+            ],
+            "magic": []
+        },
+        "63": {
+            "abilities": [
+                {
+                    "id": "200800",
+                    "min_rarity": 5,
+                    "name": "Magic Infuse"
+                }
+            ],
+            "magic": []
+        },
+        "71": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20280",
+                    "min_rarity": 5,
+                    "name": "Death"
+                }
+            ]
+        }
+    },
+    "100002603": {
+        "3": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30090",
+                    "min_rarity": 0,
+                    "name": "Protect"
+                }
+            ]
+        },
+        "11": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30140",
+                    "min_rarity": 0,
+                    "name": "Shell"
+                }
+            ]
+        },
+        "25": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30110",
+                    "min_rarity": 4,
+                    "name": "Barfira"
+                },
+                {
+                    "id": "30120",
+                    "min_rarity": 4,
+                    "name": "Barblizzara"
+                },
+                {
+                    "id": "30130",
+                    "min_rarity": 4,
+                    "name": "Barthundara"
+                }
+            ]
+        },
+        "28": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30150",
+                    "min_rarity": 0,
+                    "name": "Deprotect"
+                }
+            ]
+        },
+        "33": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30160",
+                    "min_rarity": 0,
+                    "name": "Deshell"
+                }
+            ]
+        },
+        "42": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30210",
+                    "min_rarity": 4,
+                    "name": "Bravery"
+                }
+            ]
+        },
+        "55": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30220",
+                    "min_rarity": 4,
+                    "name": "Faith"
+                }
+            ]
+        },
+        "62": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30260",
+                    "min_rarity": 5,
+                    "name": "Barfiraga"
+                },
+                {
+                    "id": "30270",
+                    "min_rarity": 5,
+                    "name": "Barblizzaga"
+                },
+                {
+                    "id": "30280",
+                    "min_rarity": 5,
+                    "name": "Barthundaga"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30320",
+                    "min_rarity": 5,
+                    "name": "Protectga"
+                }
+            ]
+        }
+    },
+    "100002703": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200060",
+                    "min_rarity": 0,
+                    "name": "Pray"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "10030",
+                    "min_rarity": 0,
+                    "name": "Blindna"
+                },
+                {
+                    "id": "10040",
+                    "min_rarity": 0,
+                    "name": "Vox"
+                },
+                {
+                    "id": "10050",
+                    "min_rarity": 0,
+                    "name": "Poisona"
+                }
+            ]
+        },
+        "11": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10060",
+                    "min_rarity": 0,
+                    "name": "Banish"
+                }
+            ]
+        },
+        "24": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10080",
+                    "min_rarity": 0,
+                    "name": "Paralyna"
+                }
+            ]
+        },
+        "29": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 4,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10090",
+                    "min_rarity": 0,
+                    "name": "Stona"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10120",
+                    "min_rarity": 4,
+                    "name": "Regen"
+                }
+            ]
+        },
+        "45": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10140",
+                    "min_rarity": 5,
+                    "name": "Cleanse"
+                }
+            ]
+        },
+        "58": {
+            "abilities": [
+                {
+                    "id": "100170",
+                    "min_rarity": 5,
+                    "name": "SPR +20%"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10150",
+                    "min_rarity": 4,
+                    "name": "Curaga"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10160",
+                    "min_rarity": 5,
+                    "name": "Curaja"
+                }
+            ]
+        }
+    },
+    "100002803": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200390",
+                    "min_rarity": 0,
+                    "name": "Aim"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "201420",
+                    "min_rarity": 4,
+                    "name": "Auto Bowgun"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "201340",
+                    "min_rarity": 0,
+                    "name": "Power Shot"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "201360",
+                    "min_rarity": 0,
+                    "name": "Magic Shot"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "201380",
+                    "min_rarity": 4,
+                    "name": "Burst Shot"
+                }
+            ],
+            "magic": []
+        },
+        "37": {
+            "abilities": [
+                {
+                    "id": "201400",
+                    "min_rarity": 5,
+                    "name": "Scattershot"
+                }
+            ],
+            "magic": []
+        },
+        "53": {
+            "abilities": [
+                {
+                    "id": "100750",
+                    "min_rarity": 5,
+                    "name": "Auto-Limit"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "101340",
+                    "min_rarity": 4,
+                    "name": "Draw Attacks"
+                }
+            ],
+            "magic": []
+        },
+        "75": {
+            "abilities": [
+                {
+                    "id": "201410",
+                    "min_rarity": 5,
+                    "name": "Multiburst"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100002901": {
+        "4": {
+            "abilities": [
+                {
+                    "id": "201180",
+                    "min_rarity": 0,
+                    "name": "Darkness Dance"
+                }
+            ],
+            "magic": []
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 2,
+                    "name": "MP +20%"
+                }
+            ],
+            "magic": []
+        },
+        "13": {
+            "abilities": [
+                {
+                    "id": "201200",
+                    "min_rarity": 0,
+                    "name": "Curing Waltz"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "201210",
+                    "min_rarity": 2,
+                    "name": "Tempting Tango"
+                }
+            ],
+            "magic": []
+        },
+        "30": {
+            "abilities": [
+                {
+                    "id": "101120",
+                    "min_rarity": 2,
+                    "name": "Auto-Potion"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100003002": {
+        "2": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20040",
+                    "min_rarity": 0,
+                    "name": "Water"
+                }
+            ]
+        },
+        "9": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20060",
+                    "min_rarity": 0,
+                    "name": "Stone"
+                }
+            ]
+        },
+        "14": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20050",
+                    "min_rarity": 0,
+                    "name": "Aero"
+                }
+            ]
+        },
+        "16": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20110",
+                    "min_rarity": 3,
+                    "name": "Watera"
+                }
+            ]
+        },
+        "22": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20120",
+                    "min_rarity": 3,
+                    "name": "Aerora"
+                }
+            ]
+        }
+    },
+    "100003202": {
+        "6": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP +10%"
+                }
+            ],
+            "magic": []
+        },
+        "13": {
+            "abilities": [
+                {
+                    "id": "200210",
+                    "min_rarity": 3,
+                    "name": "Store"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 0,
+                    "name": "HP +20%"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "100030",
+                    "min_rarity": 3,
+                    "name": "HP +30%"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "201130",
+                    "min_rarity": 3,
+                    "name": "Power Break"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100003302": {
+        "5": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 0,
+                    "name": "DEF +10%"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "200120",
+                    "min_rarity": 3,
+                    "name": "Brace"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "101170",
+                    "min_rarity": 0,
+                    "name": "Cover"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "100140",
+                    "min_rarity": 3,
+                    "name": "DEF +20%"
+                }
+            ],
+            "magic": []
+        },
+        "35": {
+            "abilities": [
+                {
+                    "id": "200480",
+                    "min_rarity": 3,
+                    "name": "Provoke"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100003402": {
+        "7": {
+            "abilities": [
+                {
+                    "id": "201340",
+                    "min_rarity": 0,
+                    "name": "Power Shot"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "201350",
+                    "min_rarity": 3,
+                    "name": "Cheap Shot"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "201420",
+                    "min_rarity": 0,
+                    "name": "Auto Bowgun"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "201360",
+                    "min_rarity": 3,
+                    "name": "Magic Shot"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "201290",
+                    "min_rarity": 3,
+                    "name": "Healing Force"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100003502": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200260",
+                    "min_rarity": 0,
+                    "name": "Jump"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "201150",
+                    "min_rarity": 3,
+                    "name": "Armor Break"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20050",
+                    "min_rarity": 0,
+                    "name": "Aero"
+                }
+            ]
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 3,
+                    "name": "ATK +20%"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "200270",
+                    "min_rarity": 3,
+                    "name": "Lance"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100003602": {
+        "2": {
+            "abilities": [
+                {
+                    "id": "200050",
+                    "min_rarity": 0,
+                    "name": "Analyze"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "101270",
+                    "min_rarity": 3,
+                    "name": "Gil Farmer"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "200410",
+                    "min_rarity": 0,
+                    "name": "Hide"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "101410",
+                    "min_rarity": 3,
+                    "name": "HP Stroll"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "101130",
+                    "min_rarity": 3,
+                    "name": "Auto-Med"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100003703": {
+        "7": {
+            "abilities": [
+                {
+                    "id": "201130",
+                    "min_rarity": 0,
+                    "name": "Power Break"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "201150",
+                    "min_rarity": 0,
+                    "name": "Armor Break"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "200430",
+                    "min_rarity": 4,
+                    "name": "Finisher"
+                }
+            ],
+            "magic": []
+        },
+        "36": {
+            "abilities": [
+                {
+                    "id": "101040",
+                    "min_rarity": 0,
+                    "name": "Man-Eater"
+                }
+            ],
+            "magic": []
+        },
+        "43": {
+            "abilities": [
+                {
+                    "id": "101340",
+                    "min_rarity": 4,
+                    "name": "Draw Attacks"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "200480",
+                    "min_rarity": 4,
+                    "name": "Provoke"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100003803": {
+        "3": {
+            "abilities": [
+                {
+                    "id": "200180",
+                    "min_rarity": 0,
+                    "name": "Throw"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "201020",
+                    "min_rarity": 4,
+                    "name": "Smoke"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "200410",
+                    "min_rarity": 0,
+                    "name": "Hide"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "201040",
+                    "min_rarity": 5,
+                    "name": "Shadowbind"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "200280",
+                    "min_rarity": 0,
+                    "name": "Blade Bash"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "200960",
+                    "min_rarity": 4,
+                    "name": "Lightning"
+                }
+            ],
+            "magic": []
+        },
+        "50": {
+            "abilities": [
+                {
+                    "id": "201050",
+                    "min_rarity": 5,
+                    "name": "Scintilla"
+                }
+            ],
+            "magic": []
+        },
+        "59": {
+            "abilities": [
+                {
+                    "id": "201000",
+                    "min_rarity": 4,
+                    "name": "Blitz"
+                }
+            ],
+            "magic": []
+        },
+        "71": {
+            "abilities": [
+                {
+                    "id": "201030",
+                    "min_rarity": 5,
+                    "name": "Mirage"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100003903": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200810",
+                    "min_rarity": 0,
+                    "name": "Lullaby"
+                }
+            ],
+            "magic": []
+        },
+        "5": {
+            "abilities": [
+                {
+                    "id": "200820",
+                    "min_rarity": 0,
+                    "name": "Alluring Air"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "200830",
+                    "min_rarity": 0,
+                    "name": "Silent Verse"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "200280",
+                    "min_rarity": 4,
+                    "name": "Blade Bash"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "200860",
+                    "min_rarity": 0,
+                    "name": "Life's Anthem"
+                }
+            ],
+            "magic": []
+        },
+        "43": {
+            "abilities": [
+                {
+                    "id": "101410",
+                    "min_rarity": 4,
+                    "name": "HP Stroll"
+                }
+            ],
+            "magic": []
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "201550",
+                    "min_rarity": 5,
+                    "name": "Cheer"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "200840",
+                    "min_rarity": 4,
+                    "name": "Requiem"
+                }
+            ],
+            "magic": []
+        },
+        "75": {
+            "abilities": [
+                {
+                    "id": "200300",
+                    "min_rarity": 5,
+                    "name": "Iai Strike"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "200930",
+                    "min_rarity": 5,
+                    "name": "Chant"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100004003": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "101380",
+                    "min_rarity": 0,
+                    "name": "Brawl"
+                }
+            ],
+            "magic": []
+        },
+        "5": {
+            "abilities": [
+                {
+                    "id": "200230",
+                    "min_rarity": 0,
+                    "name": "Raging Fist"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "201150",
+                    "min_rarity": 4,
+                    "name": "Armor Break"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "101200",
+                    "min_rarity": 5,
+                    "name": "Counter"
+                }
+            ],
+            "magic": []
+        },
+        "36": {
+            "abilities": [
+                {
+                    "id": "201130",
+                    "min_rarity": 0,
+                    "name": "Power Break"
+                }
+            ],
+            "magic": []
+        },
+        "44": {
+            "abilities": [
+                {
+                    "id": "200200",
+                    "min_rarity": 4,
+                    "name": "Kick"
+                }
+            ],
+            "magic": []
+        },
+        "58": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 4,
+                    "name": "ATK +20%"
+                }
+            ],
+            "magic": []
+        },
+        "65": {
+            "abilities": [
+                {
+                    "id": "200220",
+                    "min_rarity": 5,
+                    "name": "Chakra"
+                }
+            ],
+            "magic": []
+        },
+        "77": {
+            "abilities": [
+                {
+                    "id": "101470",
+                    "min_rarity": 5,
+                    "name": "Last Stand"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100004103": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200650",
+                    "min_rarity": 0,
+                    "name": "Aerora Blade"
+                }
+            ],
+            "magic": []
+        },
+        "3": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30010",
+                    "min_rarity": 0,
+                    "name": "Sleep"
+                }
+            ]
+        },
+        "10": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30200",
+                    "min_rarity": 4,
+                    "name": "Imperil"
+                }
+            ]
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30020",
+                    "min_rarity": 0,
+                    "name": "Blind"
+                }
+            ]
+        },
+        "23": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30100",
+                    "min_rarity": 4,
+                    "name": "Silence"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [
+                {
+                    "id": "200640",
+                    "min_rarity": 0,
+                    "name": "Watera Blade"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "201240",
+                    "min_rarity": 5,
+                    "name": "Healing Waltz"
+                }
+            ],
+            "magic": []
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "200660",
+                    "min_rarity": 4,
+                    "name": "Stonra Blade"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "100720",
+                    "min_rarity": 4,
+                    "name": "Auto-Shell"
+                }
+            ],
+            "magic": []
+        },
+        "69": {
+            "abilities": [
+                {
+                    "id": "200740",
+                    "min_rarity": 5,
+                    "name": "Aeroga Blade"
+                }
+            ],
+            "magic": []
+        },
+        "76": {
+            "abilities": [
+                {
+                    "id": "200750",
+                    "min_rarity": 5,
+                    "name": "Stonga Blade"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "200730",
+                    "min_rarity": 5,
+                    "name": "Waterga Blade"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100004403": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200390",
+                    "min_rarity": 0,
+                    "name": "Aim"
+                }
+            ],
+            "magic": []
+        },
+        "4": {
+            "abilities": [
+                {
+                    "id": "101080",
+                    "min_rarity": 0,
+                    "name": "Beast Killer"
+                }
+            ],
+            "magic": []
+        },
+        "14": {
+            "abilities": [
+                {
+                    "id": "101040",
+                    "min_rarity": 4,
+                    "name": "Man-Eater"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "200410",
+                    "min_rarity": 0,
+                    "name": "Hide"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "201350",
+                    "min_rarity": 5,
+                    "name": "Cheap Shot"
+                }
+            ],
+            "magic": []
+        },
+        "47": {
+            "abilities": [
+                {
+                    "id": "201040",
+                    "min_rarity": 4,
+                    "name": "Shadowbind"
+                }
+            ],
+            "magic": []
+        },
+        "56": {
+            "abilities": [
+                {
+                    "id": "201400",
+                    "min_rarity": 4,
+                    "name": "Scattershot"
+                }
+            ],
+            "magic": []
+        },
+        "69": {
+            "abilities": [
+                {
+                    "id": "101070",
+                    "min_rarity": 5,
+                    "name": "Demon Killer"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "200310",
+                    "min_rarity": 5,
+                    "name": "Barrage"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100004604": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200280",
+                    "min_rarity": 0,
+                    "name": "Blade Bash"
+                }
+            ],
+            "magic": []
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 4,
+                    "name": "ATK +20%"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "200330",
+                    "min_rarity": 0,
+                    "name": "Fingersnap"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "200430",
+                    "min_rarity": 4,
+                    "name": "Finisher"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "200340",
+                    "min_rarity": 0,
+                    "name": "Light Shell"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "200360",
+                    "min_rarity": 5,
+                    "name": "Nonpareil"
+                }
+            ],
+            "magic": []
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "101200",
+                    "min_rarity": 4,
+                    "name": "Counter"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [
+                {
+                    "id": "200370",
+                    "min_rarity": 5,
+                    "name": "No Fear"
+                }
+            ],
+            "magic": []
+        },
+        "70": {
+            "abilities": [
+                {
+                    "id": "101240",
+                    "min_rarity": 5,
+                    "name": "High Tide"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "200310",
+                    "min_rarity": 5,
+                    "name": "Barrage"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100004703": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200180",
+                    "min_rarity": 0,
+                    "name": "Throw"
+                }
+            ],
+            "magic": []
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "201020",
+                    "min_rarity": 4,
+                    "name": "Smoke"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "200410",
+                    "min_rarity": 0,
+                    "name": "Hide"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "201500",
+                    "min_rarity": 0,
+                    "name": "Sneak Attack"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "200940",
+                    "min_rarity": 0,
+                    "name": "Flame"
+                }
+            ],
+            "magic": []
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "201620",
+                    "min_rarity": 4,
+                    "name": "Illude"
+                }
+            ],
+            "magic": []
+        },
+        "51": {
+            "abilities": [
+                {
+                    "id": "200980",
+                    "min_rarity": 4,
+                    "name": "Wildfire"
+                }
+            ],
+            "magic": []
+        },
+        "67": {
+            "abilities": [
+                {
+                    "id": "101040",
+                    "min_rarity": 5,
+                    "name": "Man-Eater"
+                }
+            ],
+            "magic": []
+        },
+        "70": {
+            "abilities": [
+                {
+                    "id": "201630",
+                    "min_rarity": 5,
+                    "name": "Slumber Blade"
+                }
+            ],
+            "magic": []
+        },
+        "78": {
+            "abilities": [
+                {
+                    "id": "201030",
+                    "min_rarity": 5,
+                    "name": "Mirage"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "201000104": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200210",
+                    "min_rarity": 0,
+                    "name": "Store"
+                }
+            ],
+            "magic": []
+        },
+        "4": {
+            "abilities": [
+                {
+                    "id": "100150",
+                    "min_rarity": 4,
+                    "name": "DEF +30%"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "101060",
+                    "min_rarity": 0,
+                    "name": "Undead Killer"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "201690",
+                    "min_rarity": 0,
+                    "name": "Breath of Life"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "200440",
+                    "min_rarity": 4,
+                    "name": "Bladeblitz"
+                }
+            ],
+            "magic": []
+        },
+        "48": {
+            "abilities": [
+                {
+                    "id": "101180",
+                    "min_rarity": 4,
+                    "name": "Sentinel"
+                }
+            ],
+            "magic": []
+        },
+        "56": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 5,
+                    "name": "HP +20%"
+                }
+            ],
+            "magic": []
+        },
+        "69": {
+            "abilities": [
+                {
+                    "id": "201170",
+                    "min_rarity": 5,
+                    "name": "Full Break"
+                }
+            ],
+            "magic": []
+        },
+        "78": {
+            "abilities": [
+                {
+                    "id": "201650",
+                    "min_rarity": 5,
+                    "name": "Shining Wave"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "201000203": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "Fira"
+                },
+                {
+                    "id": "20130",
+                    "min_rarity": 0,
+                    "name": "Stonra"
+                }
+            ]
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "201130",
+                    "min_rarity": 4,
+                    "name": "Power Break"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20200",
+                    "min_rarity": 5,
+                    "name": "Firaga"
+                }
+            ]
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "101040",
+                    "min_rarity": 0,
+                    "name": "Man-Eater"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "101490",
+                    "min_rarity": 4,
+                    "name": "Mediguard"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "101200",
+                    "min_rarity": 0,
+                    "name": "Counter"
+                }
+            ],
+            "magic": []
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "200140",
+                    "min_rarity": 4,
+                    "name": "Defend"
+                }
+            ],
+            "magic": []
+        },
+        "49": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20250",
+                    "min_rarity": 5,
+                    "name": "Stonga"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "200170",
+                    "min_rarity": 4,
+                    "name": "Darkness"
+                }
+            ],
+            "magic": []
+        },
+        "65": {
+            "abilities": [
+                {
+                    "id": "100710",
+                    "min_rarity": 5,
+                    "name": "Auto-Protect"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "101360",
+                    "min_rarity": 5,
+                    "name": "Doublehand"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "201000302": {
+        "5": {
+            "abilities": [
+                {
+                    "id": "200870",
+                    "min_rarity": 0,
+                    "name": "Attack Song"
+                }
+            ],
+            "magic": []
+        },
+        "10": {
+            "abilities": [
+                {
+                    "id": "200840",
+                    "min_rarity": 3,
+                    "name": "Requiem"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 3,
+                    "name": "MP +10%"
+                }
+            ],
+            "magic": []
+        },
+        "27": {
+            "abilities": [
+                {
+                    "id": "200890",
+                    "min_rarity": 0,
+                    "name": "Magic Song"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "101480",
+                    "min_rarity": 3,
+                    "name": "Soul Voice"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "202000103": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "101000",
+                    "min_rarity": 0,
+                    "name": "Plant Killer"
+                }
+            ],
+            "magic": []
+        },
+        "11": {
+            "abilities": [
+                {
+                    "id": "201230",
+                    "min_rarity": 0,
+                    "name": "Mystery Waltz"
+                }
+            ],
+            "magic": []
+        },
+        "14": {
+            "abilities": [
+                {
+                    "id": "101020",
+                    "min_rarity": 4,
+                    "name": "Bug Killer"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10120",
+                    "min_rarity": 5,
+                    "name": "Regen"
+                }
+            ]
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "200280",
+                    "min_rarity": 0,
+                    "name": "Blade Bash"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "101090",
+                    "min_rarity": 4,
+                    "name": "Bird Killer"
+                }
+            ],
+            "magic": []
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "200440",
+                    "min_rarity": 5,
+                    "name": "Bladeblitz"
+                }
+            ],
+            "magic": []
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "200270",
+                    "min_rarity": 4,
+                    "name": "Lance"
+                }
+            ],
+            "magic": []
+        },
+        "69": {
+            "abilities": [
+                {
+                    "id": "200670",
+                    "min_rarity": 5,
+                    "name": "Drain Blade"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "202000203": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                },
+                {
+                    "id": "10030",
+                    "min_rarity": 0,
+                    "name": "Blindna"
+                },
+                {
+                    "id": "10040",
+                    "min_rarity": 0,
+                    "name": "Vox"
+                },
+                {
+                    "id": "10050",
+                    "min_rarity": 0,
+                    "name": "Poisona"
+                }
+            ]
+        },
+        "7": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10130",
+                    "min_rarity": 4,
+                    "name": "Dispel"
+                }
+            ]
+        },
+        "16": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 0,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "23": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10120",
+                    "min_rarity": 4,
+                    "name": "Regen"
+                }
+            ]
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "100160",
+                    "min_rarity": 0,
+                    "name": "SPR +10%"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "201230",
+                    "min_rarity": 0,
+                    "name": "Mystery Waltz"
+                }
+            ],
+            "magic": []
+        },
+        "53": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10150",
+                    "min_rarity": 4,
+                    "name": "Curaga"
+                }
+            ]
+        }
+    },
+    "202001402": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200010",
+                    "min_rarity": 0,
+                    "name": "Steal"
+                }
+            ],
+            "magic": []
+        },
+        "13": {
+            "abilities": [
+                {
+                    "id": "200030",
+                    "min_rarity": 0,
+                    "name": "Pilfer"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "200410",
+                    "min_rarity": 3,
+                    "name": "Hide"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "101410",
+                    "min_rarity": 0,
+                    "name": "HP Stroll"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "101270",
+                    "min_rarity": 3,
+                    "name": "Gil Farmer"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "203000803": {
+        "7": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30020",
+                    "min_rarity": 0,
+                    "name": "Blind"
+                }
+            ]
+        },
+        "14": {
+            "abilities": [
+                {
+                    "id": "201150",
+                    "min_rarity": 4,
+                    "name": "Armor Break"
+                }
+            ],
+            "magic": []
+        },
+        "19": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30090",
+                    "min_rarity": 0,
+                    "name": "Protect"
+                }
+            ]
+        },
+        "35": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "Thundara"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30320",
+                    "min_rarity": 5,
+                    "name": "Protectga"
+                }
+            ]
+        },
+        "37": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 4,
+                    "name": "ATK +20%"
+                }
+            ],
+            "magic": []
+        },
+        "58": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 5,
+                    "name": "Thundaga"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "101040",
+                    "min_rarity": 4,
+                    "name": "Man-Eater"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "200310",
+                    "min_rarity": 5,
+                    "name": "Barrage"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "204000103": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "101170",
+                    "min_rarity": 0,
+                    "name": "Cover"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "10010",
+                    "min_rarity": 0,
+                    "name": "Libra"
+                },
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "14": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30090",
+                    "min_rarity": 0,
+                    "name": "Protect"
+                }
+            ]
+        },
+        "19": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 4,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 5,
+                    "name": "DEF +10%"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30140",
+                    "min_rarity": 0,
+                    "name": "Shell"
+                }
+            ]
+        },
+        "51": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10130",
+                    "min_rarity": 4,
+                    "name": "Dispel"
+                }
+            ]
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "101070",
+                    "min_rarity": 5,
+                    "name": "Demon Killer"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "101180",
+                    "min_rarity": 5,
+                    "name": "Sentinel"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "204000203": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200260",
+                    "min_rarity": 0,
+                    "name": "Jump"
+                }
+            ],
+            "magic": []
+        },
+        "13": {
+            "abilities": [
+                {
+                    "id": "200210",
+                    "min_rarity": 4,
+                    "name": "Store"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "200270",
+                    "min_rarity": 0,
+                    "name": "Lance"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP +10%"
+                }
+            ],
+            "magic": []
+        },
+        "37": {
+            "abilities": [
+                {
+                    "id": "101050",
+                    "min_rarity": 4,
+                    "name": "Dragon Killer"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "101460",
+                    "min_rarity": 4,
+                    "name": "High Jump"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "204000403": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "100190",
+                    "min_rarity": 0,
+                    "name": "EVO MAG +10%"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20020",
+                    "min_rarity": 0,
+                    "name": "Blizzard"
+                },
+                {
+                    "id": "20030",
+                    "min_rarity": 0,
+                    "name": "Thunder"
+                },
+                {
+                    "id": "20070",
+                    "min_rarity": 0,
+                    "name": "Bio"
+                }
+            ]
+        },
+        "14": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "Blizzara"
+                }
+            ]
+        },
+        "23": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20180",
+                    "min_rarity": 4,
+                    "name": "Biora"
+                }
+            ]
+        },
+        "26": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "Thundara"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20160",
+                    "min_rarity": 0,
+                    "name": "Drain"
+                }
+            ]
+        },
+        "52": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20190",
+                    "min_rarity": 4,
+                    "name": "Osmose"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "100200",
+                    "min_rarity": 4,
+                    "name": "EVO MAG +20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "204000503": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "Fira"
+                }
+            ]
+        },
+        "3": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "Blizzara"
+                }
+            ]
+        },
+        "19": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20180",
+                    "min_rarity": 4,
+                    "name": "Biora"
+                }
+            ]
+        },
+        "21": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "Thundara"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 4,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20190",
+                    "min_rarity": 0,
+                    "name": "Osmose"
+                }
+            ]
+        },
+        "42": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20200",
+                    "min_rarity": 4,
+                    "name": "Firaga"
+                }
+            ]
+        },
+        "57": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 5,
+                    "name": "Blizzaga"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "100110",
+                    "min_rarity": 4,
+                    "name": "MAG +20%"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 5,
+                    "name": "Thundaga"
+                }
+            ]
+        },
+        "75": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10100",
+                    "min_rarity": 5,
+                    "name": "Raise"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "201660",
+                    "min_rarity": 5,
+                    "name": "Recall"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "204001302": {
+        "9": {
+            "abilities": [
+                {
+                    "id": "200210",
+                    "min_rarity": 3,
+                    "name": "Store"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "101030",
+                    "min_rarity": 0,
+                    "name": "Machine Killer"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "200580",
+                    "min_rarity": 0,
+                    "name": "Stone Blade"
+                }
+            ],
+            "magic": []
+        },
+        "27": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 3,
+                    "name": "ATK +10%"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "101340",
+                    "min_rarity": 3,
+                    "name": "Draw Attacks"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "204001403": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20070",
+                    "min_rarity": 0,
+                    "name": "Bio"
+                },
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "Fira"
+                }
+            ]
+        },
+        "9": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20150",
+                    "min_rarity": 4,
+                    "name": "Gravity"
+                }
+            ]
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20160",
+                    "min_rarity": 0,
+                    "name": "Drain"
+                }
+            ]
+        },
+        "24": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20180",
+                    "min_rarity": 4,
+                    "name": "Biora"
+                }
+            ]
+        },
+        "31": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20190",
+                    "min_rarity": 0,
+                    "name": "Osmose"
+                }
+            ]
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "201460",
+                    "min_rarity": 5,
+                    "name": "Binding Cold"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 4,
+                    "name": "Blizzaga"
+                },
+                {
+                    "id": "20200",
+                    "min_rarity": 4,
+                    "name": "Firaga"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 4,
+                    "name": "Thundaga"
+                }
+            ]
+        },
+        "73": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20260",
+                    "min_rarity": 5,
+                    "name": "Bioga"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "100210",
+                    "min_rarity": 5,
+                    "name": "EVO MAG +30%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "205000103": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200050",
+                    "min_rarity": 0,
+                    "name": "Analyze"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "101200",
+                    "min_rarity": 4,
+                    "name": "Counter"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "200210",
+                    "min_rarity": 0,
+                    "name": "Store"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30200",
+                    "min_rarity": 5,
+                    "name": "Imperil"
+                }
+            ]
+        },
+        "35": {
+            "abilities": [
+                {
+                    "id": "101120",
+                    "min_rarity": 0,
+                    "name": "Auto-Potion"
+                }
+            ],
+            "magic": []
+        },
+        "43": {
+            "abilities": [
+                {
+                    "id": "200470",
+                    "min_rarity": 4,
+                    "name": "Entrust"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "101410",
+                    "min_rarity": 4,
+                    "name": "HP Stroll"
+                }
+            ],
+            "magic": []
+        },
+        "61": {
+            "abilities": [
+                {
+                    "id": "101470",
+                    "min_rarity": 5,
+                    "name": "Last Stand"
+                }
+            ],
+            "magic": []
+        },
+        "78": {
+            "abilities": [
+                {
+                    "id": "200310",
+                    "min_rarity": 5,
+                    "name": "Barrage"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "205000203": {
+        "7": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "16": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10060",
+                    "min_rarity": 0,
+                    "name": "Banish"
+                }
+            ]
+        },
+        "25": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10110",
+                    "min_rarity": 4,
+                    "name": "Esuna"
+                }
+            ]
+        },
+        "37": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10120",
+                    "min_rarity": 0,
+                    "name": "Regen"
+                }
+            ]
+        },
+        "46": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 4,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "54": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10130",
+                    "min_rarity": 4,
+                    "name": "Dispel"
+                }
+            ]
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "100170",
+                    "min_rarity": 5,
+                    "name": "SPR +20%"
+                }
+            ],
+            "magic": []
+        },
+        "79": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10160",
+                    "min_rarity": 5,
+                    "name": "Curaja"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "200450",
+                    "min_rarity": 5,
+                    "name": "Cheer"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "205000303": {
+        "5": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "Fira"
+                }
+            ]
+        },
+        "11": {
+            "abilities": [
+                {
+                    "id": "200120",
+                    "min_rarity": 4,
+                    "name": "Brace"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "Blizzara"
+                }
+            ]
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 0,
+                    "name": "DEF +10%"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "Thundara"
+                }
+            ]
+        },
+        "49": {
+            "abilities": [
+                {
+                    "id": "200220",
+                    "min_rarity": 4,
+                    "name": "Chakra"
+                }
+            ],
+            "magic": []
+        },
+        "55": {
+            "abilities": [
+                {
+                    "id": "200470",
+                    "min_rarity": 4,
+                    "name": "Entrust"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "101470",
+                    "min_rarity": 4,
+                    "name": "Last Stand"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "205000503": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10010",
+                    "min_rarity": 0,
+                    "name": "Libra"
+                },
+                {
+                    "id": "20030",
+                    "min_rarity": 0,
+                    "name": "Thunder"
+                },
+                {
+                    "id": "20050",
+                    "min_rarity": 0,
+                    "name": "Aero"
+                }
+            ]
+        },
+        "12": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "23": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "Thundara"
+                }
+            ]
+        },
+        "31": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 4,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "200130",
+                    "min_rarity": 0,
+                    "name": "Bluff"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20120",
+                    "min_rarity": 4,
+                    "name": "Aerora"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "200150",
+                    "min_rarity": 4,
+                    "name": "Dualcast"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "205000703": {
+        "4": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20150",
+                    "min_rarity": 0,
+                    "name": "Gravity"
+                }
+            ]
+        },
+        "13": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20190",
+                    "min_rarity": 0,
+                    "name": "Osmose"
+                }
+            ]
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "100120",
+                    "min_rarity": 5,
+                    "name": "MAG +30%"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20200",
+                    "min_rarity": 4,
+                    "name": "Firaga"
+                },
+                {
+                    "id": "20210",
+                    "min_rarity": 4,
+                    "name": "Blizzaga"
+                },
+                {
+                    "id": "20220",
+                    "min_rarity": 4,
+                    "name": "Thundaga"
+                }
+            ]
+        },
+        "34": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10130",
+                    "min_rarity": 0,
+                    "name": "Dispel"
+                }
+            ]
+        },
+        "41": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30200",
+                    "min_rarity": 4,
+                    "name": "Imperil"
+                }
+            ]
+        },
+        "53": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20270",
+                    "min_rarity": 5,
+                    "name": "Graviga"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30220",
+                    "min_rarity": 4,
+                    "name": "Faith"
+                }
+            ]
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "100730",
+                    "min_rarity": 5,
+                    "name": "Auto-Regen"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206000103": {
+        "3": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                },
+                {
+                    "id": "20010",
+                    "min_rarity": 0,
+                    "name": "Fire"
+                }
+            ]
+        },
+        "6": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10050",
+                    "min_rarity": 0,
+                    "name": "Poisona"
+                }
+            ]
+        },
+        "12": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20160",
+                    "min_rarity": 0,
+                    "name": "Drain"
+                }
+            ]
+        },
+        "22": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "Fira"
+                },
+                {
+                    "id": "10130",
+                    "min_rarity": 4,
+                    "name": "Dispel"
+                }
+            ]
+        },
+        "33": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 4,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "43": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20200",
+                    "min_rarity": 5,
+                    "name": "Firaga"
+                }
+            ]
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "100100",
+                    "min_rarity": 4,
+                    "name": "MAG +10%"
+                }
+            ],
+            "magic": []
+        },
+        "49": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10100",
+                    "min_rarity": 5,
+                    "name": "Raise"
+                }
+            ]
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "101430",
+                    "min_rarity": 4,
+                    "name": "Guardian Mog"
+                }
+            ],
+            "magic": []
+        },
+        "75": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20270",
+                    "min_rarity": 5,
+                    "name": "Graviga"
+                }
+            ]
+        }
+    },
+    "206000113": {
+        "3": {
+            "abilities": [
+                {
+                    "id": "201260",
+                    "min_rarity": 0,
+                    "name": "Fire Beam"
+                }
+            ],
+            "magic": []
+        },
+        "5": {
+            "abilities": [
+                {
+                    "id": "201280",
+                    "min_rarity": 0,
+                    "name": "Blizzard Beam"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "201290",
+                    "min_rarity": 4,
+                    "name": "Healing Force"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "201270",
+                    "min_rarity": 0,
+                    "name": "Thunder Beam"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "201320",
+                    "min_rarity": 4,
+                    "name": "Bio Blaster"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "201310",
+                    "min_rarity": 0,
+                    "name": "Metal Kick"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "201300",
+                    "min_rarity": 4,
+                    "name": "Magitek Laser"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "201330",
+                    "min_rarity": 4,
+                    "name": "Magitek Missile"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206000203": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200010",
+                    "min_rarity": 0,
+                    "name": "Steal"
+                }
+            ],
+            "magic": []
+        },
+        "7": {
+            "abilities": [
+                {
+                    "id": "200250",
+                    "min_rarity": 4,
+                    "name": "Escape"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "200030",
+                    "min_rarity": 0,
+                    "name": "Pilfer"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "200020",
+                    "min_rarity": 5,
+                    "name": "Mug"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "101350",
+                    "min_rarity": 0,
+                    "name": "Camouflage"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "201500",
+                    "min_rarity": 4,
+                    "name": "Sneak Attack"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "201510",
+                    "min_rarity": 4,
+                    "name": "Mystify"
+                }
+            ],
+            "magic": []
+        },
+        "69": {
+            "abilities": [
+                {
+                    "id": "201490",
+                    "min_rarity": 5,
+                    "name": "Mirage Dive"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "101300",
+                    "min_rarity": 5,
+                    "name": "Treasure Hunter"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206000303": {
+        "7": {
+            "abilities": [
+                {
+                    "id": "201420",
+                    "min_rarity": 0,
+                    "name": "Auto Bowgun"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "201320",
+                    "min_rarity": 0,
+                    "name": "Bio Blaster"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "201430",
+                    "min_rarity": 4,
+                    "name": "Sunbeam"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "101150",
+                    "min_rarity": 0,
+                    "name": "Pharmacology"
+                }
+            ],
+            "magic": []
+        },
+        "48": {
+            "abilities": [
+                {
+                    "id": "201440",
+                    "min_rarity": 4,
+                    "name": "Drill"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "201450",
+                    "min_rarity": 4,
+                    "name": "Chainsaw"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206000403": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200230",
+                    "min_rarity": 0,
+                    "name": "Raging Fist"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "200220",
+                    "min_rarity": 0,
+                    "name": "Chakra"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "200240",
+                    "min_rarity": 4,
+                    "name": "Aura Cannon"
+                }
+            ],
+            "magic": []
+        },
+        "37": {
+            "abilities": [
+                {
+                    "id": "200210",
+                    "min_rarity": 0,
+                    "name": "Store"
+                }
+            ],
+            "magic": []
+        },
+        "47": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 4,
+                    "name": "HP +20%"
+                }
+            ],
+            "magic": []
+        },
+        "56": {
+            "abilities": [
+                {
+                    "id": "101380",
+                    "min_rarity": 4,
+                    "name": "Brawl"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206000503": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "101040",
+                    "min_rarity": 0,
+                    "name": "Man-Eater"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "200410",
+                    "min_rarity": 4,
+                    "name": "Hide"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "201030",
+                    "min_rarity": 0,
+                    "name": "Mirage"
+                }
+            ],
+            "magic": []
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "201020",
+                    "min_rarity": 4,
+                    "name": "Smoke"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "201040",
+                    "min_rarity": 4,
+                    "name": "Shadowbind"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206000603": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200280",
+                    "min_rarity": 0,
+                    "name": "Blade Bash"
+                },
+                {
+                    "id": "200320",
+                    "min_rarity": 0,
+                    "name": "Tranquility"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "200330",
+                    "min_rarity": 0,
+                    "name": "Fingersnap"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 4,
+                    "name": "ATK +20%"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "200370",
+                    "min_rarity": 0,
+                    "name": "No Fear"
+                }
+            ],
+            "magic": []
+        },
+        "49": {
+            "abilities": [
+                {
+                    "id": "200360",
+                    "min_rarity": 4,
+                    "name": "Nonpareil"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "200300",
+                    "min_rarity": 4,
+                    "name": "Iai Strike"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206000703": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "201470",
+                    "min_rarity": 0,
+                    "name": "Sealing Blade"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20020",
+                    "min_rarity": 0,
+                    "name": "Blizzard"
+                },
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "13": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10050",
+                    "min_rarity": 4,
+                    "name": "Poisona"
+                }
+            ]
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10010",
+                    "min_rarity": 5,
+                    "name": "Libra"
+                }
+            ]
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "100100",
+                    "min_rarity": 0,
+                    "name": "MAG +10%"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30090",
+                    "min_rarity": 5,
+                    "name": "Protect"
+                }
+            ]
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "201140",
+                    "min_rarity": 4,
+                    "name": "Magic Break"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30140",
+                    "min_rarity": 5,
+                    "name": "Shell"
+                }
+            ]
+        },
+        "48": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 4,
+                    "name": "Blizzara"
+                }
+            ]
+        },
+        "52": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30220",
+                    "min_rarity": 4,
+                    "name": "Faith"
+                }
+            ]
+        },
+        "72": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 5,
+                    "name": "Blizzaga"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "200460",
+                    "min_rarity": 5,
+                    "name": "Focus"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206001502": {
+        "8": {
+            "abilities": [
+                {
+                    "id": "201280",
+                    "min_rarity": 0,
+                    "name": "Blizzard Beam"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "201310",
+                    "min_rarity": 3,
+                    "name": "Metal Kick"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "201270",
+                    "min_rarity": 0,
+                    "name": "Thunder Beam"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "201290",
+                    "min_rarity": 3,
+                    "name": "Healing Force"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "201300",
+                    "min_rarity": 3,
+                    "name": "Magitek Laser"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206001602": {
+        "8": {
+            "abilities": [
+                {
+                    "id": "201270",
+                    "min_rarity": 0,
+                    "name": "Thunder Beam"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "201310",
+                    "min_rarity": 3,
+                    "name": "Metal Kick"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "201260",
+                    "min_rarity": 0,
+                    "name": "Fire Beam"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "201320",
+                    "min_rarity": 3,
+                    "name": "Bio Blaster"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "201330",
+                    "min_rarity": 3,
+                    "name": "Magitek Missile"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206001703": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "Blizzara"
+                },
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "Thundara"
+                }
+            ]
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "200250",
+                    "min_rarity": 0,
+                    "name": "Escape"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20180",
+                    "min_rarity": 4,
+                    "name": "Biora"
+                }
+            ]
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "100110",
+                    "min_rarity": 0,
+                    "name": "MAG +20%"
+                }
+            ],
+            "magic": []
+        },
+        "36": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20160",
+                    "min_rarity": 0,
+                    "name": "Drain"
+                }
+            ]
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "201520",
+                    "min_rarity": 4,
+                    "name": "Trine"
+                }
+            ],
+            "magic": []
+        },
+        "56": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 4,
+                    "name": "Blizzaga"
+                },
+                {
+                    "id": "20220",
+                    "min_rarity": 4,
+                    "name": "Thundaga"
+                }
+            ]
+        },
+        "66": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20260",
+                    "min_rarity": 5,
+                    "name": "Bioga"
+                }
+            ]
+        },
+        "76": {
+            "abilities": [
+                {
+                    "id": "201530",
+                    "min_rarity": 5,
+                    "name": "Heartless Angel"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "201540",
+                    "min_rarity": 5,
+                    "name": "Hyperdrive"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "206001803": {
+        "4": {
+            "abilities": [
+                {
+                    "id": "200210",
+                    "min_rarity": 0,
+                    "name": "Store"
+                }
+            ],
+            "magic": []
+        },
+        "11": {
+            "abilities": [
+                {
+                    "id": "200280",
+                    "min_rarity": 4,
+                    "name": "Blade Bash"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "201130",
+                    "min_rarity": 0,
+                    "name": "Power Break"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "200120",
+                    "min_rarity": 5,
+                    "name": "Brace"
+                }
+            ],
+            "magic": []
+        },
+        "35": {
+            "abilities": [
+                {
+                    "id": "201150",
+                    "min_rarity": 0,
+                    "name": "Armor Break"
+                }
+            ],
+            "magic": []
+        },
+        "43": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 4,
+                    "name": "ATK +20%"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "100140",
+                    "min_rarity": 4,
+                    "name": "DEF +20%"
+                }
+            ],
+            "magic": []
+        },
+        "61": {
+            "abilities": [
+                {
+                    "id": "200440",
+                    "min_rarity": 5,
+                    "name": "Bladeblitz"
+                }
+            ],
+            "magic": []
+        },
+        "74": {
+            "abilities": [
+                {
+                    "id": "101340",
+                    "min_rarity": 5,
+                    "name": "Draw Attacks"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "209000103": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200010",
+                    "min_rarity": 0,
+                    "name": "Steal"
+                }
+            ],
+            "magic": []
+        },
+        "9": {
+            "abilities": [
+                {
+                    "id": "200050",
+                    "min_rarity": 0,
+                    "name": "Analyze"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "200250",
+                    "min_rarity": 4,
+                    "name": "Escape"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "101190",
+                    "min_rarity": 0,
+                    "name": "Chivalry"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "101200",
+                    "min_rarity": 5,
+                    "name": "Counter"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "101280",
+                    "min_rarity": 4,
+                    "name": "Steal Gil"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "200020",
+                    "min_rarity": 5,
+                    "name": "Mug"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "101220",
+                    "min_rarity": 4,
+                    "name": "Eye for an Eye"
+                }
+            ],
+            "magic": []
+        },
+        "79": {
+            "abilities": [
+                {
+                    "id": "101290",
+                    "min_rarity": 5,
+                    "name": "Bandit"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "209000203": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20010",
+                    "min_rarity": 0,
+                    "name": "Fire"
+                },
+                {
+                    "id": "20020",
+                    "min_rarity": 0,
+                    "name": "Blizzard"
+                },
+                {
+                    "id": "20030",
+                    "min_rarity": 0,
+                    "name": "Thunder"
+                },
+                {
+                    "id": "20040",
+                    "min_rarity": 0,
+                    "name": "Water"
+                },
+                {
+                    "id": "30010",
+                    "min_rarity": 0,
+                    "name": "Sleep"
+                }
+            ]
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20070",
+                    "min_rarity": 0,
+                    "name": "Bio"
+                }
+            ]
+        },
+        "30": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "Fira"
+                }
+            ]
+        },
+        "32": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "Blizzara"
+                }
+            ]
+        },
+        "34": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "Thundara"
+                }
+            ]
+        },
+        "38": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20150",
+                    "min_rarity": 4,
+                    "name": "Gravity"
+                }
+            ]
+        },
+        "43": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20160",
+                    "min_rarity": 4,
+                    "name": "Drain"
+                }
+            ]
+        },
+        "55": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20170",
+                    "min_rarity": 4,
+                    "name": "Comet"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "200160",
+                    "min_rarity": 4,
+                    "name": "Dual Black Magic"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "209001003": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20150",
+                    "min_rarity": 0,
+                    "name": "Gravity"
+                }
+            ]
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10130",
+                    "min_rarity": 4,
+                    "name": "Dispel"
+                }
+            ]
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 0,
+                    "name": "MP +20%"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30140",
+                    "min_rarity": 5,
+                    "name": "Shell"
+                }
+            ]
+        },
+        "32": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30130",
+                    "min_rarity": 0,
+                    "name": "Barthundara"
+                }
+            ]
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "100110",
+                    "min_rarity": 4,
+                    "name": "MAG +20%"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 4,
+                    "name": "Thundaga"
+                }
+            ]
+        },
+        "53": {
+            "abilities": [
+                {
+                    "id": "101260",
+                    "min_rarity": 5,
+                    "name": "Absorb MP"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20270",
+                    "min_rarity": 5,
+                    "name": "Graviga"
+                }
+            ]
+        }
+    },
+    "211000103": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20010",
+                    "min_rarity": 0,
+                    "name": "Fire"
+                },
+                {
+                    "id": "20020",
+                    "min_rarity": 0,
+                    "name": "Blizzard"
+                },
+                {
+                    "id": "20030",
+                    "min_rarity": 0,
+                    "name": "Thunder"
+                },
+                {
+                    "id": "20040",
+                    "min_rarity": 0,
+                    "name": "Water"
+                },
+                {
+                    "id": "20050",
+                    "min_rarity": 0,
+                    "name": "Aero"
+                },
+                {
+                    "id": "20060",
+                    "min_rarity": 0,
+                    "name": "Stone"
+                },
+                {
+                    "id": "20070",
+                    "min_rarity": 0,
+                    "name": "Bio"
+                }
+            ]
+        },
+        "20": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "Fira"
+                },
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "Blizzara"
+                },
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "Thundara"
+                }
+            ]
+        },
+        "30": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20110",
+                    "min_rarity": 0,
+                    "name": "Watera"
+                },
+                {
+                    "id": "20120",
+                    "min_rarity": 0,
+                    "name": "Aerora"
+                },
+                {
+                    "id": "20130",
+                    "min_rarity": 0,
+                    "name": "Stonra"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20180",
+                    "min_rarity": 0,
+                    "name": "Biora"
+                }
+            ]
+        },
+        "50": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20200",
+                    "min_rarity": 4,
+                    "name": "Firaga"
+                },
+                {
+                    "id": "20210",
+                    "min_rarity": 4,
+                    "name": "Blizzaga"
+                },
+                {
+                    "id": "20220",
+                    "min_rarity": 4,
+                    "name": "Thundaga"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20230",
+                    "min_rarity": 4,
+                    "name": "Waterga"
+                },
+                {
+                    "id": "20240",
+                    "min_rarity": 4,
+                    "name": "Aeroga"
+                },
+                {
+                    "id": "20250",
+                    "min_rarity": 4,
+                    "name": "Stonga"
+                }
+            ]
+        }
+    },
+    "212000103": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200010",
+                    "min_rarity": 0,
+                    "name": "Steal"
+                }
+            ],
+            "magic": []
+        },
+        "11": {
+            "abilities": [
+                {
+                    "id": "101090",
+                    "min_rarity": 4,
+                    "name": "Bird Killer"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20050",
+                    "min_rarity": 0,
+                    "name": "Aero"
+                }
+            ]
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 0,
+                    "name": "ATK +20%"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "100140",
+                    "min_rarity": 4,
+                    "name": "DEF +20%"
+                }
+            ],
+            "magic": []
+        },
+        "43": {
+            "abilities": [
+                {
+                    "id": "201150",
+                    "min_rarity": 4,
+                    "name": "Armor Break"
+                }
+            ],
+            "magic": []
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 5,
+                    "name": "HP +20%"
+                }
+            ],
+            "magic": []
+        },
+        "47": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20120",
+                    "min_rarity": 5,
+                    "name": "Aerora"
+                }
+            ]
+        },
+        "61": {
+            "abilities": [
+                {
+                    "id": "200460",
+                    "min_rarity": 5,
+                    "name": "Focus"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "201170",
+                    "min_rarity": 5,
+                    "name": "Full Break"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "212000403": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "201200",
+                    "min_rarity": 0,
+                    "name": "Curing Waltz"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20040",
+                    "min_rarity": 0,
+                    "name": "Water"
+                },
+                {
+                    "id": "20050",
+                    "min_rarity": 0,
+                    "name": "Aero"
+                }
+            ]
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "201220",
+                    "min_rarity": 0,
+                    "name": "Jitterbug Duet"
+                }
+            ],
+            "magic": []
+        },
+        "19": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30220",
+                    "min_rarity": 4,
+                    "name": "Faith"
+                }
+            ]
+        },
+        "26": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "Blizzara"
+                }
+            ]
+        },
+        "37": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30140",
+                    "min_rarity": 0,
+                    "name": "Shell"
+                }
+            ]
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 4,
+                    "name": "MP +20%"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "201250",
+                    "min_rarity": 4,
+                    "name": "Sword Dance"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "212000603": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200390",
+                    "min_rarity": 0,
+                    "name": "Aim"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "10010",
+                    "min_rarity": 0,
+                    "name": "Libra"
+                },
+                {
+                    "id": "10050",
+                    "min_rarity": 0,
+                    "name": "Poisona"
+                },
+                {
+                    "id": "20070",
+                    "min_rarity": 0,
+                    "name": "Bio"
+                }
+            ]
+        },
+        "6": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 4,
+                    "name": "Cura"
+                }
+            ]
+        },
+        "13": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30150",
+                    "min_rarity": 0,
+                    "name": "Deprotect"
+                }
+            ]
+        },
+        "28": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20180",
+                    "min_rarity": 4,
+                    "name": "Biora"
+                }
+            ]
+        },
+        "43": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30160",
+                    "min_rarity": 4,
+                    "name": "Deshell"
+                }
+            ]
+        }
+    },
+    "212000702": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "100720",
+                    "min_rarity": 3,
+                    "name": "Auto-Shell"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "10020",
+                    "min_rarity": 0,
+                    "name": "Cure"
+                }
+            ]
+        },
+        "8": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30090",
+                    "min_rarity": 0,
+                    "name": "Protect"
+                }
+            ]
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "100160",
+                    "min_rarity": 3,
+                    "name": "SPR +10%"
+                }
+            ],
+            "magic": []
+        },
+        "14": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10090",
+                    "min_rarity": 0,
+                    "name": "Stona"
+                }
+            ]
+        },
+        "20": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30140",
+                    "min_rarity": 0,
+                    "name": "Shell"
+                }
+            ]
+        },
+        "28": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10140",
+                    "min_rarity": 3,
+                    "name": "Cleanse"
+                }
+            ]
+        },
+        "33": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 3,
+                    "name": "Cura"
+                }
+            ]
+        }
+    },
+    "301000103": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "201560",
+                    "min_rarity": 0,
+                    "name": "Megaspear"
+                }
+            ],
+            "magic": []
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "100100",
+                    "min_rarity": 4,
+                    "name": "MAG +10%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 0,
+                    "name": "ATK +10%"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [
+                {
+                    "id": "201580",
+                    "min_rarity": 0,
+                    "name": "Gigaspear"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "201590",
+                    "min_rarity": 0,
+                    "name": "Dark Shield"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "201600",
+                    "min_rarity": 4,
+                    "name": "Capsule Absorb"
+                }
+            ],
+            "magic": []
+        },
+        "55": {
+            "abilities": [
+                {
+                    "id": "201610",
+                    "min_rarity": 4,
+                    "name": "Lightning Spear"
+                }
+            ],
+            "magic": []
+        }
+    }
+}

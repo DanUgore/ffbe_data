@@ -1,0 +1,34 @@
+{
+    "20": {
+        "disp_order": 2,
+        "full_desc": "クレスト",
+        "id": 20,
+        "max_stack": 99,
+        "name": "クレスト",
+        "short_desc": "クレスト"
+    },
+    "30": {
+        "disp_order": 3,
+        "full_desc": "経験値キー",
+        "id": 30,
+        "max_stack": 99,
+        "name": "経験値キー",
+        "short_desc": "経験値キー"
+    },
+    "40": {
+        "disp_order": 4,
+        "full_desc": "ジュエルキー",
+        "id": 40,
+        "max_stack": 99,
+        "name": "ジュエルキー",
+        "short_desc": "ジュエルキー"
+    },
+    "50": {
+        "disp_order": 5,
+        "full_desc": "チケット召喚が1回行える",
+        "id": 50,
+        "max_stack": 99,
+        "name": "レア召喚チケット",
+        "short_desc": "チケット召喚が1回行える"
+    }
+}

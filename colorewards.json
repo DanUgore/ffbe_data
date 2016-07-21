@@ -8,13 +8,15 @@
                         "desc": "回復の泉",
                         "id": "ITEM:103002100",
                         "name": "Font of Recovery",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "400 Lapis",
                         "id": "LAPIS",
                         "name": "400 Lapis",
-                        "quantity": 400
+                        "quantity": 400,
+                        "type": "LAPIS"
                     }
                 },
                 "2": {
@@ -22,14 +24,16 @@
                         "desc": "回復の泉",
                         "id": "ITEM:103002100",
                         "name": "Font of Recovery",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "フェアリーリング",
                         "id": "EQUIP:409001800",
                         "name": "フェアリーリング",
                         "quantity": 1,
-                        "stats": "+3 DEF / 100% Resists Poison 100% Resists Blind"
+                        "stats": "3 DEF, 100 Poison/Blind Resist, 100 Poison/Blind Resist",
+                        "type": "EQUIP"
                     }
                 },
                 "3": {
@@ -37,18 +41,22 @@
                         "desc": "回復の泉",
                         "id": "ITEM:103002100",
                         "name": "Font of Recovery",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "バイオラ",
                             "id": "MATERIA:504020180",
-                            "name": "バイオラ"
+                            "name": "バイオラ",
+                            "stats": "",
+                            "type": "MATERIA"
                         },
                         "desc": "バイオラ Recipe",
                         "id": "RECIPE:905000400",
                         "name": "バイオラ Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "4": {
@@ -56,14 +64,16 @@
                         "desc": "回復の泉",
                         "id": "ITEM:103002100",
                         "name": "Font of Recovery",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "ブリガンダイン",
                         "id": "EQUIP:406000800",
                         "name": "ブリガンダイン",
                         "quantity": 1,
-                        "stats": "+41 DEF"
+                        "stats": "41 DEF",
+                        "type": "EQUIP"
                     }
                 },
                 "5": {
@@ -71,18 +81,21 @@
                         "desc": "回復の泉",
                         "id": "ITEM:103002100",
                         "name": "Font of Recovery",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "ワクチン",
                             "id": "ITEM:102005100",
-                            "name": "ワクチン"
+                            "name": "ワクチン",
+                            "type": "ITEM"
                         },
                         "desc": "ワクチン Recipe",
                         "id": "RECIPE:901000130",
                         "name": "ワクチン Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 }
             },
@@ -92,13 +105,15 @@
                         "desc": "エーテル",
                         "id": "ITEM:101001100",
                         "name": "Ether",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "300 Lapis",
                         "id": "LAPIS",
                         "name": "300 Lapis",
-                        "quantity": 300
+                        "quantity": 300,
+                        "type": "LAPIS"
                     }
                 },
                 "2": {
@@ -106,18 +121,22 @@
                         "desc": "エーテル",
                         "id": "ITEM:101001100",
                         "name": "Ether",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "バサンダラ",
                             "id": "MATERIA:504030130",
-                            "name": "バサンダラ"
+                            "name": "バサンダラ",
+                            "stats": "",
+                            "type": "MATERIA"
                         },
                         "desc": "バサンダラ Recipe",
                         "id": "RECIPE:905000790",
                         "name": "バサンダラ Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "3": {
@@ -125,14 +144,16 @@
                         "desc": "エーテル",
                         "id": "ITEM:101001100",
                         "name": "Ether",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "ミスリルの軽盾",
                         "id": "EQUIP:401000500",
                         "name": "ミスリルの軽盾",
                         "quantity": 1,
-                        "stats": "+30 DEF"
+                        "stats": "30 DEF",
+                        "type": "EQUIP"
                     }
                 },
                 "4": {
@@ -140,14 +161,16 @@
                         "desc": "エーテル",
                         "id": "ITEM:101001100",
                         "name": "Ether",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "オーガキラー",
                         "id": "EQUIP:305000400",
                         "name": "オーガキラー",
                         "quantity": 1,
-                        "stats": "+36 ATK"
+                        "stats": "36 ATK",
+                        "type": "EQUIP"
                     }
                 },
                 "5": {
@@ -155,18 +178,21 @@
                         "desc": "エーテル",
                         "id": "ITEM:101001100",
                         "name": "Ether",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "ハイポーション",
                             "id": "ITEM:101000200",
-                            "name": "ハイポーション"
+                            "name": "ハイポーション",
+                            "type": "ITEM"
                         },
                         "desc": "ハイポーション Recipe",
                         "id": "RECIPE:901000020",
                         "name": "ハイポーション Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 }
             },
@@ -176,13 +202,15 @@
                         "desc": "ハイポーション",
                         "id": "ITEM:101000200",
                         "name": "High Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "200 Lapis",
                         "id": "LAPIS",
                         "name": "200 Lapis",
-                        "quantity": 200
+                        "quantity": 200,
+                        "type": "LAPIS"
                     }
                 },
                 "2": {
@@ -190,14 +218,16 @@
                         "desc": "ハイポーション",
                         "id": "ITEM:101000200",
                         "name": "High Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "魔道士の服",
                         "id": "EQUIP:405000800",
                         "name": "魔道士の服",
                         "quantity": 1,
-                        "stats": "+20 DEF +10 INT +10 MND"
+                        "stats": "20 DEF 10 MAG 10 SPR",
+                        "type": "EQUIP"
                     }
                 },
                 "3": {
@@ -205,14 +235,16 @@
                         "desc": "ハイポーション",
                         "id": "ITEM:101000200",
                         "name": "High Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "ウェアバスター",
                         "id": "EQUIP:307000800",
                         "name": "ウェアバスター",
                         "quantity": 1,
-                        "stats": "+25 ATK / Abilities: ビーストキラー"
+                        "stats": "25 ATK, Grants Beast Slayer",
+                        "type": "EQUIP"
                     }
                 },
                 "4": {
@@ -220,18 +252,22 @@
                         "desc": "ハイポーション",
                         "id": "ITEM:101000200",
                         "name": "High Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "バファイラ",
                             "id": "MATERIA:504030110",
-                            "name": "バファイラ"
+                            "name": "バファイラ",
+                            "stats": "",
+                            "type": "MATERIA"
                         },
                         "desc": "バファイラ Recipe",
                         "id": "RECIPE:905000770",
                         "name": "バファイラ Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "5": {
@@ -239,14 +275,16 @@
                         "desc": "ハイポーション",
                         "id": "ITEM:101000200",
                         "name": "High Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "スリプルダガー",
                         "id": "EQUIP:301000600",
                         "name": "スリプルダガー",
                         "quantity": 1,
-                        "stats": "+22 ATK"
+                        "stats": "22 ATK, 30% Sleep",
+                        "type": "EQUIP"
                     }
                 }
             },
@@ -256,13 +294,15 @@
                         "desc": "ポーション",
                         "id": "ITEM:101000100",
                         "name": "Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "100 Lapis",
                         "id": "LAPIS",
                         "name": "100 Lapis",
-                        "quantity": 100
+                        "quantity": 100,
+                        "type": "LAPIS"
                     }
                 },
                 "2": {
@@ -270,13 +310,16 @@
                         "desc": "ポーション",
                         "id": "ITEM:101000100",
                         "name": "Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "攻撃+10%",
                         "id": "MATERIA:504100070",
                         "name": "+10% ATK",
-                        "quantity": 1
+                        "quantity": 1,
+                        "stats": "",
+                        "type": "MATERIA"
                     }
                 },
                 "3": {
@@ -284,13 +327,15 @@
                         "desc": "ポーション",
                         "id": "ITEM:101000100",
                         "name": "Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "大地の鍵19",
                         "id": "ITEM:109201180",
                         "name": "大地の鍵19",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     }
                 },
                 "4": {
@@ -298,18 +343,21 @@
                         "desc": "ポーション",
                         "id": "ITEM:101000100",
                         "name": "Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "テント",
                             "id": "ITEM:106000100",
-                            "name": "テント"
+                            "name": "テント",
+                            "type": "ITEM"
                         },
                         "desc": "テント Recipe",
                         "id": "RECIPE:901000490",
                         "name": "テント Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "5": {
@@ -317,13 +365,15 @@
                         "desc": "ポーション",
                         "id": "ITEM:101000100",
                         "name": "Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "エリクサー",
                         "id": "ITEM:101002100",
                         "name": "Elixir",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     }
                 }
             },
@@ -333,13 +383,15 @@
                         "desc": "魔石",
                         "id": "ITEM:107000200",
                         "name": "魔石",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "500 Lapis",
                         "id": "LAPIS",
                         "name": "500 Lapis",
-                        "quantity": 500
+                        "quantity": 500,
+                        "type": "LAPIS"
                     }
                 },
                 "2": {
@@ -347,14 +399,16 @@
                         "desc": "魔石",
                         "id": "ITEM:107000200",
                         "name": "魔石",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "賢者のローブ",
                         "id": "EQUIP:408001100",
                         "name": "賢者のローブ",
                         "quantity": 1,
-                        "stats": "+35 DEF +15 INT +15 MND"
+                        "stats": "35 DEF 15 MAG 15 SPR",
+                        "type": "EQUIP"
                     }
                 },
                 "3": {
@@ -362,18 +416,22 @@
                         "desc": "魔石",
                         "id": "ITEM:107000200",
                         "name": "魔石",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "まれんけい",
                             "id": "MATERIA:504200800",
-                            "name": "まれんけい"
+                            "name": "まれんけい",
+                            "stats": "",
+                            "type": "MATERIA"
                         },
                         "desc": "まれんけい Recipe",
                         "id": "RECIPE:905200800",
                         "name": "まれんけい Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "4": {
@@ -381,14 +439,16 @@
                         "desc": "魔石",
                         "id": "ITEM:107000200",
                         "name": "魔石",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "月の腕輪",
                         "id": "EQUIP:409004200",
                         "name": "月の腕輪",
                         "quantity": 1,
-                        "stats": " / Abilities: オートシェル"
+                        "stats": "Grants Auto-Shell",
+                        "type": "EQUIP"
                     }
                 },
                 "5": {
@@ -396,18 +456,21 @@
                         "desc": "魔石",
                         "id": "ITEM:107000200",
                         "name": "魔石",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "万能薬",
                             "id": "ITEM:102007100",
-                            "name": "万能薬"
+                            "name": "万能薬",
+                            "type": "ITEM"
                         },
                         "desc": "万能薬 Recipe",
                         "id": "RECIPE:901000150",
                         "name": "万能薬 Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 }
             }
@@ -422,13 +485,15 @@
                         "desc": "エクスポーション",
                         "id": "ITEM:101000300",
                         "name": "X-Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "500 Lapis",
                         "id": "LAPIS",
                         "name": "500 Lapis",
-                        "quantity": 500
+                        "quantity": 500,
+                        "type": "LAPIS"
                     }
                 },
                 "3": {
@@ -436,14 +501,16 @@
                         "desc": "エクスポーション",
                         "id": "ITEM:101000300",
                         "name": "X-Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "ウォールリング",
                         "id": "EQUIP:409006000",
                         "name": "ウォールリング",
                         "quantity": 1,
-                        "stats": "+1 DEF / Abilities: 瀕死時プロテス; 瀕死時シェル"
+                        "stats": "1 DEF, Grants Near-Death Protect, Near-Death Shell",
+                        "type": "EQUIP"
                     }
                 },
                 "4": {
@@ -451,18 +518,21 @@
                         "desc": "エクスポーション",
                         "id": "ITEM:101000300",
                         "name": "X-Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "聖なるトーチ",
                             "id": "ITEM:104009100",
-                            "name": "聖なるトーチ"
+                            "name": "聖なるトーチ",
+                            "type": "ITEM"
                         },
                         "desc": "聖なるトーチ Recipe",
                         "id": "RECIPE:901000430",
                         "name": "聖なるトーチ Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "5": {
@@ -470,14 +540,16 @@
                         "desc": "エクスポーション",
                         "id": "ITEM:101000300",
                         "name": "X-Potion",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "巨人の斧",
                         "id": "EQUIP:305000800",
                         "name": "巨人の斧",
                         "quantity": 1,
-                        "stats": "+50 ATK"
+                        "stats": "50 ATK",
+                        "type": "EQUIP"
                     }
                 }
             },
@@ -487,13 +559,15 @@
                         "desc": "テント",
                         "id": "ITEM:106000100",
                         "name": "テント",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "500 Lapis",
                         "id": "LAPIS",
                         "name": "500 Lapis",
-                        "quantity": 500
+                        "quantity": 500,
+                        "type": "LAPIS"
                     }
                 },
                 "3": {
@@ -501,14 +575,16 @@
                         "desc": "テント",
                         "id": "ITEM:106000100",
                         "name": "テント",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "ゴールドシールド",
                         "id": "EQUIP:402001100",
                         "name": "ゴールドシールド",
                         "quantity": 1,
-                        "stats": "+38 DEF"
+                        "stats": "38 DEF",
+                        "type": "EQUIP"
                     }
                 },
                 "4": {
@@ -516,19 +592,22 @@
                         "desc": "テント",
                         "id": "ITEM:106000100",
                         "name": "テント",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "ミスリルスピア",
                             "id": "EQUIP:308000500",
                             "name": "ミスリルスピア",
-                            "stats": "+40 ATK"
+                            "stats": "40 ATK",
+                            "type": "EQUIP"
                         },
                         "desc": "ミスリルスピア Recipe",
                         "id": "RECIPE:903000490",
                         "name": "ミスリルスピア Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "5": {
@@ -536,18 +615,21 @@
                         "desc": "テント",
                         "id": "ITEM:106000100",
                         "name": "テント",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "エクスポーション",
                             "id": "ITEM:101000300",
-                            "name": "エクスポーション"
+                            "name": "エクスポーション",
+                            "type": "ITEM"
                         },
                         "desc": "エクスポーション Recipe",
                         "id": "RECIPE:901000030",
                         "name": "エクスポーション Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 }
             },
@@ -557,13 +639,15 @@
                         "desc": "万能薬",
                         "id": "ITEM:102007100",
                         "name": "Panacea",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "500 Lapis",
                         "id": "LAPIS",
                         "name": "500 Lapis",
-                        "quantity": 500
+                        "quantity": 500,
+                        "type": "LAPIS"
                     }
                 },
                 "2": {
@@ -571,19 +655,22 @@
                         "desc": "万能薬",
                         "id": "ITEM:102007100",
                         "name": "Panacea",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "魔術師の帽子",
                             "id": "EQUIP:403040400",
                             "name": "魔術師の帽子",
-                            "stats": "+8 DEF +10 INT"
+                            "stats": "8 DEF 10 MAG",
+                            "type": "EQUIP"
                         },
                         "desc": "魔術師の帽子 Recipe",
                         "id": "RECIPE:904000220",
                         "name": "魔術師の帽子 Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "3": {
@@ -591,14 +678,16 @@
                         "desc": "万能薬",
                         "id": "ITEM:102007100",
                         "name": "Panacea",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "ミスリルメイス",
                         "id": "EQUIP:307000900",
                         "name": "ミスリルメイス",
                         "quantity": 1,
-                        "stats": "+30 ATK"
+                        "stats": "30 ATK",
+                        "type": "EQUIP"
                     }
                 },
                 "4": {
@@ -606,14 +695,16 @@
                         "desc": "万能薬",
                         "id": "ITEM:102007100",
                         "name": "Panacea",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "黒のローブ",
                         "id": "EQUIP:408001000",
                         "name": "黒のローブ",
                         "quantity": 1,
-                        "stats": "+34 DEF +20 INT"
+                        "stats": "34 DEF 20 MAG",
+                        "type": "EQUIP"
                     }
                 },
                 "5": {
@@ -621,18 +712,22 @@
                         "desc": "万能薬",
                         "id": "ITEM:102007100",
                         "name": "Panacea",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "ケアルラ",
                             "id": "MATERIA:504010070",
-                            "name": "ケアルラ"
+                            "name": "ケアルラ",
+                            "stats": "",
+                            "type": "MATERIA"
                         },
                         "desc": "ケアルラ Recipe",
                         "id": "RECIPE:905000070",
                         "name": "ケアルラ Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 }
             },
@@ -642,13 +737,15 @@
                         "desc": "煙玉",
                         "id": "ITEM:103003100",
                         "name": "Smoke ball",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "500 Lapis",
                         "id": "LAPIS",
                         "name": "500 Lapis",
-                        "quantity": 500
+                        "quantity": 500,
+                        "type": "LAPIS"
                     }
                 },
                 "2": {
@@ -656,14 +753,16 @@
                         "desc": "煙玉",
                         "id": "ITEM:103003100",
                         "name": "Smoke ball",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "リジェネリング",
                         "id": "EQUIP:409004100",
                         "name": "リジェネリング",
                         "quantity": 1,
-                        "stats": "+80 HP / Abilities: 瀕死時リジェネ"
+                        "stats": "80 HP, Grants Near-Death Regen",
+                        "type": "EQUIP"
                     }
                 },
                 "3": {
@@ -671,18 +770,22 @@
                         "desc": "煙玉",
                         "id": "ITEM:103003100",
                         "name": "Smoke ball",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "防御+10%",
                             "id": "MATERIA:504100130",
-                            "name": "防御+10%"
+                            "name": "防御+10%",
+                            "stats": "",
+                            "type": "MATERIA"
                         },
                         "desc": "防御+10% Recipe",
                         "id": "RECIPE:905100130",
                         "name": "防御+10% Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "4": {
@@ -690,14 +793,16 @@
                         "desc": "煙玉",
                         "id": "ITEM:103003100",
                         "name": "Smoke ball",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "氷のロッド",
                         "id": "EQUIP:310000700",
                         "name": "氷のロッド",
                         "quantity": 1,
-                        "stats": "+14 ATK +26 INT / Abilities: ブリザラ"
+                        "stats": "14 ATK 26 MAG, Ice Element, Grants Blizzara",
+                        "type": "EQUIP"
                     }
                 },
                 "5": {
@@ -705,14 +810,16 @@
                         "desc": "煙玉",
                         "id": "ITEM:103003100",
                         "name": "Smoke ball",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "白のローブ",
                         "id": "EQUIP:408000900",
                         "name": "白のローブ",
                         "quantity": 1,
-                        "stats": "+34 DEF +20 MND"
+                        "stats": "34 DEF 20 SPR",
+                        "type": "EQUIP"
                     }
                 }
             },
@@ -722,13 +829,15 @@
                         "desc": "聖なるトーチ",
                         "id": "ITEM:104009100",
                         "name": "Holy Torch",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "500 Lapis",
                         "id": "LAPIS",
                         "name": "500 Lapis",
-                        "quantity": 500
+                        "quantity": 500,
+                        "type": "LAPIS"
                     }
                 },
                 "3": {
@@ -736,19 +845,22 @@
                         "desc": "聖なるトーチ",
                         "id": "ITEM:104009100",
                         "name": "Holy Torch",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "賢者のローブ",
                             "id": "EQUIP:408001100",
                             "name": "賢者のローブ",
-                            "stats": "+35 DEF +15 INT +15 MND"
+                            "stats": "35 DEF 15 MAG 15 SPR",
+                            "type": "EQUIP"
                         },
                         "desc": "賢者のローブ Recipe",
                         "id": "RECIPE:904000750",
                         "name": "賢者のローブ Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 },
                 "4": {
@@ -756,14 +868,16 @@
                         "desc": "聖なるトーチ",
                         "id": "ITEM:104009100",
                         "name": "Holy Torch",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "天使の指輪",
                         "id": "EQUIP:409004400",
                         "name": "天使の指輪",
                         "quantity": 1,
-                        "stats": "+3 DEF +3 MND / Abilities: オートリジェネ"
+                        "stats": "3 DEF 3 SPR, Grants Auto-Regen",
+                        "type": "EQUIP"
                     }
                 },
                 "5": {
@@ -771,18 +885,21 @@
                         "desc": "聖なるトーチ",
                         "id": "ITEM:104009100",
                         "name": "Holy Torch",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "ITEM"
                     },
                     "first_clear": {
                         "crafts": {
                             "desc": "エーテルターボ",
                             "id": "ITEM:101001200",
-                            "name": "エーテルターボ"
+                            "name": "エーテルターボ",
+                            "type": "ITEM"
                         },
                         "desc": "エーテルターボ Recipe",
                         "id": "RECIPE:901000050",
                         "name": "エーテルターボ Recipe",
-                        "quantity": 1
+                        "quantity": 1,
+                        "type": "RECIPE"
                     }
                 }
             }
