@@ -1,6 +1,6 @@
 {
     "101000100": {
-        "full_desc": "A tonic that restores an ally's health by a small amount. Derived from an ancient recipe referenced in the histories of the Kingdom of Fhalm, it is created by blending a number of medicinal herbs. In recent years, due to improvements to the formula, and the wider availability of high-quality ingredients, even in less prosperous lands, it has become readily available across the realm.",
+        "full_desc": "A tonic that restores an ally's health by a small amount. Derived from an ancient recipe referenced in the histories of the Kingdom of Pharm, it is created by blending a number of medicinal herbs. In recent years, due to improvements to the formula, and the wider availability of high-quality ingredients, even in less prosperous lands, it has become readily available across the realm.",
         "guide_id": 1,
         "id": 101000100,
         "max_stack": 99,
@@ -9,7 +9,7 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Restores a small amount of HP to one ally."
+        "short_desc": "Restore a small amount of HP to one ally"
     },
     "101000200": {
         "full_desc": "A tonic that restores an ally's health by a modest amount. With its ingredients harder to come by and the preparation more difficult, it is more expensive than a standard potion, but its effectiveness cannot be denied. While standard potions suffice for everyday injuries, the grave wounds suffered by numerous soldiers in the war between Grandshelt and Zoldaad brought about a need for this potent restorative.",
@@ -21,7 +21,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Restores a moderate amount of HP to one ally."
+        "short_desc": "Restore HP for one ally"
     },
     "101000300": {
         "full_desc": "A tonic that restores an ally's health by a significant amount. With the original texts detailing the recipe lost to the chaos of war, only those lucky enough to come upon a relic of the past may reap its considerable healing powers. Potion-makers across the realm work tirelessly to recreate the formula, hoping to achieve fame and fortune, but their efforts have yet to bear fruit.",
@@ -33,7 +33,7 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "Restores a good deal of HP to one ally."
+        "short_desc": "Restore a good deal of HP to one ally"
     },
     "101001100": {
         "full_desc": "A tonic that restores an ally's magical energies by a small amount. A must for any magic user, its recipe is said to have originated in a kingdom of mages. More expensive than a potion, its ability to instantly restore magic makes it treasured by practitioners of the arcane. Unfortunately, the ethers most commonly found today are but an imitation of the recipe of old, and their potency is limited.",
@@ -45,7 +45,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Restores a small amount of MP to one ally."
+        "short_desc": "Restore a small amount of MP to one ally"
     },
     "101001200": {
         "full_desc": "A tonic that restores an ally's magical energies by a modest amount. Some scholars posit that this is actually the original recipe from which the less potent ether was derived. No known potion-makers have been able to successfully recreate the formula, and those rare turbo ethers seen in our realm are thought to have found their way here from the hidden nation of mages where they were made. Needless to say, they fetch a high price.",
@@ -57,7 +57,19 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "Restores a moderate amount of MP to one ally."
+        "short_desc": "Restore a moderate amount of MP to one ally"
+    },
+    "101001900": {
+        "full_desc": "Chocolate held by the chocolate eater. Though specialists disagree over why a monster would hold onto chocolate, some think it is related to its mysterious habit of collecting the seeds of the tree from which chocolate is produced. It has also been confirmed that these chocolates have the odd effect of restoring MP when eaten.",
+        "guide_id": 198,
+        "id": 101001900,
+        "max_stack": 99,
+        "name": "Chocolate",
+        "price": {
+            "buy": 500,
+            "sell": 50
+        },
+        "short_desc": "A sweet and delicious piece of chocolate."
     },
     "101002100": {
         "full_desc": "A fabled arcanum capable of restoring an individual's health and magical energies to full capacity. Said to have been bestowed upon mortals by a deity of light in times of yore, its ingredients and recipe are shrouded in mystery. Its potency is such that those who witness its effects describe it only as a miracle. It is said that any who come to possess this divine elixir are destined to succeed in their quest.",
@@ -69,7 +81,7 @@
             "buy": 10000,
             "sell": 1000
         },
-        "short_desc": "Fully restores one ally's HP and MP."
+        "short_desc": "Fully restore one ally's HP and MP"
     },
     "101003100": {
         "full_desc": "The tailfeather of a bird, able to bring one back from the verge of death. Billed by enterprising merchants as having been plucked from the legendary phoenix, these claims are, of course, impossible to prove. None can deny its power, however, bringing those who have all but drawn their last breath back to their feet. Many travelers keep one in their pocket as a talisman against unforeseen dangers.",
@@ -81,7 +93,7 @@
             "buy": 1000,
             "sell": 100
         },
-        "short_desc": "Revives one ally from being KO'd."
+        "short_desc": "Revive one ally from being KO'd"
     },
     "102000100": {
         "full_desc": "A physic that neutralizes poisons within the body. Effective against a wide variety of toxins, it is an essential for those who come in regular contact with venomous beasts or treacherous, poison-wielding foes. Adventurers are encouraged to always keep an ample supply, as healers capable of curing poison with magic are few and far between.",
@@ -93,7 +105,7 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Cures one ally of poisoning."
+        "short_desc": "Cure one ally of poisoning"
     },
     "102001100": {
         "full_desc": "A salve that cures blindness. Having one's line of sight obscured can be a lethal impairment in battle, but a few drops of this medicine will have you seeing your foes clear as day. From its origins as a traditional remedy, the formula was refined by an enterprising salve-maker at the Paapa Pharmacy in Delmagia, whose product has taken the realm by storm.",
@@ -105,7 +117,7 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Cures one ally of being blinded."
+        "short_desc": "Cure one ally of being blinded"
     },
     "102002100": {
         "full_desc": "A mere whiff of these potent salts will suffice to rouse the smeller from the deepest slumber or stupor. With the kick of a strong spice, followed by a refreshing, nose-clearing sensation, it is known to elicit feelings of elation in the user. Not unlike eye drops, the formula was refined from a traditional home remedy passed down from times of yore.",
@@ -117,7 +129,7 @@
             "buy": 200,
             "sell": 20
         },
-        "short_desc": "Cures one ally of sleep or confusion."
+        "short_desc": "Cure one ally of sleep or confusion"
     },
     "102003100": {
         "full_desc": "A curious herb that can restore a person's voice, to the point of making one want to shout at the top of one's lungs. Since chanting is an essential part of spell-casting, losing the ability to speak can obstruct even the most potent of magicks. As such, wise mages are sure to carry an ample supply of this herb, with many going so far as to grow it in their private gardens.",
@@ -129,7 +141,7 @@
             "buy": 200,
             "sell": 20
         },
-        "short_desc": "Cures one ally of silencing."
+        "short_desc": "Cure one ally of silencing"
     },
     "102004100": {
         "full_desc": "A horn taken from the fabled beast of legend, with the power to free one from paralysis. Notoriously difficult to acquire, as unicorns are said to reveal themselves only to maidens pure of heart. With the beasts themselves growing rare in recent times, shady merchants have resorted to peddling imitations—let the buyer beware.",
@@ -141,7 +153,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Cures one ally of paralysis."
+        "short_desc": "Cure one ally of paralysis"
     },
     "102005100": {
         "full_desc": "A potent medicine capable of curing the body of disease. A relatively modern invention compared to the traditional potion or antidote, it enters the drinker's bloodstream to increase their immunity to a number of viruses and contagions. Not yet under mass production, it cannot be found at provisioners, remaining a luxury afforded to aristocrats and high-ranking officials with the influence and coin to acquire it.",
@@ -153,7 +165,7 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "Cures one ally of disease."
+        "short_desc": "Cure one ally of disease"
     },
     "102006100": {
         "full_desc": "A curious needle of gold with the power to restore life to those turned to stone. Purified by white mages, the holy essence enters the body through the skin, dissolving the curse of petrifaction from within. Though many have reported the glorious relief of joints and muscles loosening from the curse, the treatment has proven ineffective against common shoulder stiffness and back pain.",
@@ -165,7 +177,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Cures one ally of petrification."
+        "short_desc": "Cure one ally of petrifaction"
     },
     "102007100": {
         "full_desc": "A remarkable medicine capable of curing all known ailments. It is said that salve-makers long struggled to master the recipe. What is the proper ratio of echo herbs to smelling salts? At what point in the process should the holy essence of the gold needle be added? Immensely difficult to produce and with ingredients in short supply, this panacea remains a rare treasure to this day.",
@@ -189,7 +201,7 @@
             "buy": 1000,
             "sell": 100
         },
-        "short_desc": "Causes limit gauge to fill more quickly."
+        "short_desc": "Cause limit gauge to fill more quickly"
     },
     "103000100": {
         "full_desc": "A mystic curtain with the power to protect one from physical harm. Woven from thread blessed with prayers to imbue it with holy light, it anticipates the movements of enemies and dampens the force of their attacks. Alas, its power dissipates after but a single use. The holy thread used in its creation is a product of the Olderion Republic.",
@@ -201,7 +213,7 @@
             "buy": 4000,
             "sell": 400
         },
-        "short_desc": "Casts protect on all party members."
+        "short_desc": "Cast protect on all party members"
     },
     "103001100": {
         "full_desc": "A mystic curtain with the power to protect one from magical harm. Woven from thread blessed with prayers to imbue it with the grace of moonlight, it anticipates the incantations of enemies and lessens the brunt of their spells. Alas, its power dissipates after but a single use. It is said this item offers greater protection when woven in the light of a full moon.",
@@ -213,7 +225,7 @@
             "buy": 4000,
             "sell": 400
         },
-        "short_desc": "Casts shell on all party members."
+        "short_desc": "Cast shell on all party members"
     },
     "103002100": {
         "full_desc": "A curious device that issues a steady stream of holy water that heals one's wounds over time. According to legend, the familiar name of this item refers to an actual sacred fount that existed in this realm in times of yore, but is all but forgotten to people in modern times.",
@@ -225,7 +237,7 @@
             "buy": 1000,
             "sell": 100
         },
-        "short_desc": "Casts regen on one ally."
+        "short_desc": "Cast regen on one ally"
     },
     "103003100": {
         "full_desc": "Long favored by ninjas, this handy device instantly produces a cloud of smoke that obstructs the vision of all but the sharpest-eyed of foes. Most commonly employed to distract the enemy and allow the wielder to escape in a pinch, some users lace the bomb with irritants that cause watering eyes, coughing, and other adverse effects.",
@@ -237,11 +249,11 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Guarantees success in fleeing from most enemies."
+        "short_desc": "Can escape most enemies"
     },
     "103006100": {
         "full_desc": "A vigorous tonic that increases the drinker's physical attack power. Due to its extreme potency, only salve-makers with advanced knowledge can stomach it and gain its benefits. Said to have been developed by salve-makers to heighten their own physical capabilities on the battlefield, the formula has been refined through the years.",
-        "guide_id": 23,
+        "guide_id": 21,
         "id": 103006100,
         "max_stack": 99,
         "name": "Body Boost",
@@ -249,11 +261,11 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Temporarily boosts the user's ATK."
+        "short_desc": "Temporarily boost the user's ATK"
     },
     "103007100": {
         "full_desc": "A vigorous tonic that increases the drinker's magical attack power. Due to its extreme potency, only salve-makers with advanced knowledge can stomach it and gain its benefits. Said to have been developed by salve-makers to heighten their own magical capabilities on the battlefield, its poor drinkability has kept it from reaching wide popularity.",
-        "guide_id": 24,
+        "guide_id": 22,
         "id": 103007100,
         "max_stack": 99,
         "name": "Mana Boost",
@@ -261,11 +273,11 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Temporarily boosts the user's MAG."
+        "short_desc": "Temporarily boost the user's MAG"
     },
     "103008100": {
         "full_desc": "A recent invention, this medicine increases the defenses of the drinker for a short period of time. Though highly effective, it is drinkable only by knowledgeable salve-makers, and production remains extremely limited. When seen, it is often advertised with the motto, \"A bottle a day keeps the pain away!\"",
-        "guide_id": 25,
+        "guide_id": 23,
         "id": 103008100,
         "max_stack": 99,
         "name": "Protect Drink",
@@ -273,11 +285,11 @@
             "buy": 1000,
             "sell": 100
         },
-        "short_desc": "Temporarily boosts the user's DEF."
+        "short_desc": "Temporarily boost the user's DEF"
     },
     "103009100": {
         "full_desc": "A recent invention, this medicine increases the spiritual energy of the drinker for a short period of time. Though highly effective, it is drinkable only by knowledgeable salve-makers, and production remains extremely limited. When seen, it is often advertised with the motto, \"A bottle a day, and your worries allay!\"",
-        "guide_id": 26,
+        "guide_id": 24,
         "id": 103009100,
         "max_stack": 99,
         "name": "Shell Drink",
@@ -285,11 +297,11 @@
             "buy": 1000,
             "sell": 100
         },
-        "short_desc": "Temporarily boosts the user's SPR."
+        "short_desc": "Temporarily boost the user's SPR"
     },
     "103010100": {
         "full_desc": "A mystical draught said to spout endlessly from an enchanted fount. Ingestible only by knowledgeable salve-makers, it brings out the latent powers of its users, allowing them to exceed their normal physical limits. As a side-effect, however, it also induces obliviousness to one's surroundings and a loss of control, as if the imbiber were in an advanced state of inebriation.",
-        "guide_id": 27,
+        "guide_id": 25,
         "id": 103010100,
         "max_stack": 99,
         "name": "Bacchus's Wine",
@@ -297,11 +309,11 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Inflicts berserk status on the user."
+        "short_desc": "Inflict berserk status on the user"
     },
     "103100100": {
         "full_desc": "A vigorous tonic that enhances the imbiber's physical attack and defense, magic, and spirit. Due to its extreme potency, only salve-makers with advanced knowledge can stomach it and gain its benefits. Be forewarned, however, that its formidable effects may provoke overconfidence and a false sense of invincibility.",
-        "guide_id": 21,
+        "guide_id": 26,
         "id": 103100100,
         "max_stack": 99,
         "name": "Hero Drink",
@@ -309,11 +321,11 @@
             "buy": 7000,
             "sell": 700
         },
-        "short_desc": "Temporarily boosts ATK, DEF, MAG, and SPR."
+        "short_desc": "Temporarily boost ATK, DEF, MAG, and SPR"
     },
     "103101100": {
         "full_desc": "A vigorous tonic that imbues the drinker with the stamina of a giant, doubling the amount of damage they can withstand for the course of a battle. Due to its extreme potency, only salve-makers with advanced knowledge can stomach it and gain its benefits. Some posit that the name is not a mere conceit, but that giants consume this medicine just as mortals consume ordinary potions.",
-        "guide_id": 22,
+        "guide_id": 27,
         "id": 103101100,
         "max_stack": 99,
         "name": "Giant's Drink",
@@ -321,7 +333,7 @@
             "buy": 7000,
             "sell": 700
         },
-        "short_desc": "Doubles the user's maximum HP."
+        "short_desc": "Double the user's maximum HP"
     },
     "104000100": {
         "full_desc": "A remnant from the body of a self-destructed bomb. Still smoldering with the fire of its ill-fated master, its flames can be channeled to damage foes. Capable of causing extensive destruction to one's surroundings if not wielded carefully, fortunately only the most experienced of adventurers are typically capable of procuring it.",
@@ -333,7 +345,7 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Deals a small amount of fire damage to one enemy."
+        "short_desc": "A small amount of fire damage to one enemy"
     },
     "104000200": {
         "full_desc": "A remnant from the body of a self-destructed bomb. While bomb fragments are commonly seen, fully intact arms are rare indeed, and naturally prized for the fiery havoc they can wreak on foes. Overeager adventurers seeking to procure this treasured item have been known to meet fittingly explosive ends.",
@@ -345,7 +357,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Deals fire damage to one enemy."
+        "short_desc": "Fire damage to one enemy"
     },
     "104001100": {
         "full_desc": "A mystical item with the chill winds of the southern reaches sealed within. Even brought far from its source, it carries enough power to deal a small amount of ice damage. An effective way for those not magically inclined to stand against fire-element foes, even its modest powers can help give an edge in battle.",
@@ -357,7 +369,7 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Deals a small amount of ice damage to one enemy."
+        "short_desc": "A small amount of ice damage to one enemy"
     },
     "104001200": {
         "full_desc": "A mystical item with the blustery winds of the northern reaches sealed within. Potent enough to chill one's entire body at the slightest touch, it is a popular accessory in deserts and volcanic areas. When confronted by a formidable enemy of the fiery persuasion, this item can spell the difference between death and a safe escape.",
@@ -369,7 +381,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Deals ice damage to one enemy."
+        "short_desc": "Ice damage to one enemy"
     },
     "104002100": {
         "full_desc": "A mystical item said to house the wrath of the god of storms, albeit in a minute quantity. Capable of inflicting modest lightning damage, it is particularly effective against aquatic foes. Though limited in potency, its ease of use among non-mages, and lack of reliance on long incantations, are significant merits, making it perfect for distracting one's enemy and creating an opening.",
@@ -381,7 +393,7 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Deals a small amount of lightning damage to one enemy."
+        "short_desc": "A small amount of lightning damage to one enemy"
     },
     "104002200": {
         "full_desc": "A mystical item said to house the wrath of all the gods of the heavens. Capable of inflicting significant lightning damage, it is remarkably effective against aquatic foes. Its sheer thunderous force is such that it can prove a challenge for the wielder to even remain standing. It is said to be a popular choice for kidnappers looking to incapacitate their targets before spiriting them away.",
@@ -393,7 +405,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Deals lightning damage to one enemy."
+        "short_desc": "Lightning damage to one enemy"
     },
     "104003100": {
         "full_desc": "A scale left behind by a creature of the deep. The power contained within is enough to deal modest water damage to a foe. With some scales shimmering with resplendent colors, they are prized as ornaments as much as for their faculty in battle. Sadly, one cannot have it both ways, as releasing the scale's power will leave it an ashen husk.",
@@ -405,7 +417,7 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Deals a small amount of water damage to one enemy."
+        "short_desc": "A small amount of water damage to one enemy"
     },
     "104003200": {
         "full_desc": "A scale left behind by a water dragon. Harboring great power, it can inflict significant water damage on a foe. Fishermen and sailors have been known to fashion these scales into talismans, which are said to ward off the dangers of the deep. However, judicious buyers avoid such trinkets, as most are but imitations of the real thing.",
@@ -417,7 +429,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Deals water damage to one enemy."
+        "short_desc": "Water damage to one enemy"
     },
     "104004100": {
         "full_desc": "The feather of a great bird, imbued with the power of the wind, capable of dealing modest wind damage to a foe. The birds from which these feathers are collected are known to nest atop peaks and mountains, far out of human sight. They are, however, quite territorial, and will not hesitate to descend, talons bared, on anything they consider a threat. If you find one of these feathers, be sure to watch out overhead.",
@@ -429,7 +441,7 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Deals a small amount of wind damage to one enemy."
+        "short_desc": "A small amount of wind damage to one enemy"
     },
     "104004200": {
         "full_desc": "The feather of a wyvern, imbued with the power of the wind, capable of dealing significant wind damage to a foe. Collected only on rare occasions from wyverns, it resembles a miniature dragon's wing—one small enough to be carried. Some researchers posit that it is not an actual wing at all, but a manifestation of wind magic that has taken physical form.",
@@ -441,7 +453,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Deals wind damage to one enemy."
+        "short_desc": "Wind damage to one enemy"
     },
     "104005100": {
         "full_desc": "A mysterious drum said to harbor the power of the earth itself. Capable of inflicting modest earth damage, it has the unfortunate side effect of creating a tremor that sweeps one off one's feet, invariably causing the drum to burst in the process. Historians posit that it was a centerpiece in the dwarven festivals of old.",
@@ -453,7 +465,7 @@
             "buy": 100,
             "sell": 10
         },
-        "short_desc": "Deals a small amount of earth damage to one enemy."
+        "short_desc": "A small amount of earth damage to one enemy"
     },
     "104005200": {
         "full_desc": "A curious item said to harbor the power of the earth. Capable of inflicting significant earth damage on a foe, the mighty tremors it creates have been known to open fissures in the earth. Said to have been the creation of a legendary dwarf artisan, known to posterity as the Son of the Land, the specific details of its origin are shrouded in mystery.",
@@ -465,7 +477,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Deals earth damage to one enemy."
+        "short_desc": "Earth damage to one enemy"
     },
     "104006100": {
         "full_desc": "A reddish fang that appears to be the remnant of a fire beast. The power of flame stored within can be unleashed to consume a group of foes in a scorching blaze. Warm to the touch, it is often transported within cloth made from the same materials as a lunar curtain, to prevent the slightest misstep from setting off a rampant wildfire.",
@@ -477,7 +489,7 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "Deals fire damage to all enemies."
+        "short_desc": "Fire damage to all enemies"
     },
     "104007100": {
         "full_desc": "A whitish fang that appears to be the remnant of an ice beast. The power of ice stored within can be unleashed to consume a group of foes in a blustery blizzard. Cold to the touch, it is often transported within cloth made from the same materials as a lunar curtain, to prevent the slightest misstep from setting off a violent snowstorm.",
@@ -489,7 +501,7 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "Deals ice damage to all enemies."
+        "short_desc": "Ice damage to all enemies"
     },
     "104008100": {
         "full_desc": "A bluish fang that appears to be the remnant of a lightning beast. The power of ice stored within can be unleashed to consume a group of foes in a blustery blizzard. Cold to the touch, it is often transported within cloth made from the same materials as a lunar curtain, to prevent the slightest misstep from setting off a calamitous tempest.",
@@ -501,7 +513,7 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "Deals lightning damage to all enemies."
+        "short_desc": "Lightning damage to all enemies"
     },
     "104009100": {
         "full_desc": "A torch that burns with divine flame. Waving it at a foe will dispel any enhancements or augmentations that may surround them. Its flame, which burns everlastingly, is strangely cold to the touch, and has never been known to cause fires. Its power is such that great heroes who have overcome many trials are often sung of as \"holy torches\" in the ballads of bards.",
@@ -513,7 +525,7 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "Casts dispel on the target."
+        "short_desc": "Cast dispel on the target"
     },
     "105000100": {
         "full_desc": "A modern projectile weapon capable of dealing mass damage when thrown at a group of enemies. Developed as a means to strike against mages hurling grievous magicks from behind the lines of battle, it is the modern descendant of the throwing stone and the bow and arrow. Chronicles tell that the military nation of Zoldaad was the first to employ this technology in actual battle.",
@@ -525,7 +537,7 @@
             "buy": 200,
             "sell": 20
         },
-        "short_desc": "Deals damage to all enemies."
+        "short_desc": "Damage all enemies"
     },
     "105001100": {
         "full_desc": "A modern projectile weapon capable of dealing mass damage, and furthermore shattering the armor and protection of a group of foes to weaken their defenses. An enhanced model of the original grenade, designed to make short work of even heavily armored troops, it requires the utmost care and expertise to be used effectively.",
@@ -537,7 +549,7 @@
             "buy": 1000,
             "sell": 100
         },
-        "short_desc": "Deals damage and lowers DEF for all enemies."
+        "short_desc": "Damage and lower DEF for all enemies"
     },
     "105002100": {
         "full_desc": "A ninja throwing weapon. Their severe training is known for its rigor, but perhaps a ninja's most fundamental skill is the throwing of a shuriken. It demands absolute control of the arm and wrist to send one flying into the vulnerable part of one's foe, and only ninjas who hit their targets without fail are worthy of the name.",
@@ -549,7 +561,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Deals damage to one enemy."
+        "short_desc": "Damage one enemy"
     },
     "105003100": {
         "full_desc": "A ninja throwing weapon. More damaging than a standard-issue shuriken, it is a rare sight at the weaponsmith's. Hard to come by even for accomplished ninjas, those fortunate enough to obtain one are known to save it for the most formidable foes. Its distinctive shape and flight path makes aiming a challenge.",
@@ -561,7 +573,7 @@
             "buy": 1000,
             "sell": 100
         },
-        "short_desc": "Deals damage to one enemy."
+        "short_desc": "Damage one enemy"
     },
     "105004100": {
         "full_desc": "A ninja throwing weapon. More damaging than even a fuma shuriken, its charming appearance belies its nature as one of the most potent weapons a ninja could hope to add to his or her arsenal. Primarily employed in assassinations, the mere sight of the pinwheel is enough to strike fear into any crooked bureaucrat's heart. In skilled hands, a single attack can fell the strongest foe.",
@@ -573,7 +585,7 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "Deals damage to one enemy."
+        "short_desc": "Damage one enemy"
     },
     "106000100": {
         "full_desc": "A portable magic tent, a single night's rest in which can restore an entire party to full health and magic. An indispensible item for adventurers who spend long periods on the road with nary an inn in sight. That said, it is not quite as restful as a night in bed, for both the nagging notion that monsters may lurk outside, and the hardness of the ground beneath one's bedding.",
@@ -585,7 +597,7 @@
             "buy": 500,
             "sell": 50
         },
-        "short_desc": "Fully restores all allies' HP and MP."
+        "short_desc": "Restore HP and MP for all allies"
     },
     "106100100": {
         "full_desc": "A curious key said to possess the power to unlock magically sealed treasure caskets the realm over. Scholars of the arcane posit that magical energies held within it neutralize the incantations cast upon a chest, allowing mystic seals to be broken. A remarkable tool for treasure-hunters, unfortunately its powers are lost after a single use.",
@@ -601,7 +613,7 @@
     },
     "106200100": {
         "full_desc": "An exquisite gem found on rare occasions throughout the realm. Though strongly resembling a crystal, it holds no special power—though the vast majority of laymen are unable to discern the difference. As such, it is rarely seen in shops, though certain mineral enthusiasts have reportedly amassed sizable collections.",
-        "guide_id": 165,
+        "guide_id": 51,
         "id": 106200100,
         "max_stack": 99,
         "name": "Star Quartz",
@@ -611,9 +623,33 @@
         },
         "short_desc": "A beautiful stone that shines like a star."
     },
+    "106300100": {
+        "full_desc": "In a far off world, stories are told of a mysterious stone called auracite. Said to bring about miracles as well as attract demons, this auracite was collected by many to fulfill their many ambitions. Though the materials being found today cannot be confirmed as to whether or not they are true auracite shards, it is true that they contain a somewhat different power than what was found before.",
+        "guide_id": 205,
+        "id": 106300100,
+        "max_stack": 999,
+        "name": "Auracite Shard",
+        "price": {
+            "buy": 500,
+            "sell": 50
+        },
+        "short_desc": "A divine shard that contains great power."
+    },
+    "106300200": {
+        "full_desc": "A small gear spoken of in texts from the Farplane. Gears like these are used in Lapis too, and are well-known. However, this gear is so incredibly ornate that it would be impossible for anyone there to produce another like it. The texts on these gears is hard to read, but upon pushing oneself to try and understand, the term \"Oerba\" can be picked up.",
+        "guide_id": 213,
+        "id": 106300200,
+        "max_stack": 999,
+        "name": "Trochoid Gear",
+        "price": {
+            "buy": 500,
+            "sell": 50
+        },
+        "short_desc": "A small gear that came from the Farplane."
+    },
     "107000100": {
         "full_desc": "A shard of magicite that radiates a curious light. Formed by the compression of magical energy, the stone known as magicite is prized by many for its power, but is exceedingly rare, with most specimens being little more than the shattered remnants of larger stones. That said, even this shard has not lost all of its essence, and can augment the powers of an esper to some degree.",
-        "guide_id": 51,
+        "guide_id": 52,
         "id": 107000100,
         "max_stack": 99,
         "name": "Magicite Shard",
@@ -625,7 +661,7 @@
     },
     "107000200": {
         "full_desc": "A stone of condensed magical energy that emits a curious light. It is said that some are formed naturally in magic-rich terrain, while others grow within the bodies of mystical creatures. Common to all forms of magicite is the power they bestow on espers. Magicite can evolve to eventually radiate light of myriad colors, but this stone has yet to accrue that level of power.",
-        "guide_id": 52,
+        "guide_id": 53,
         "id": 107000200,
         "max_stack": 99,
         "name": "Magicite",
@@ -637,7 +673,7 @@
     },
     "107001100": {
         "full_desc": "A piece of magicite that has evolved to give off a reddish light. Often depicted alongside espers in legends and wall paintings, it is thought to imbue these otherworldly beasts with enhanced powers. The significance of the various colors has been researched by scholars through the years, but to this day no definitive conclusions have been reached. It is said that certain espers have a special fondness for particular stones.",
-        "guide_id": 53,
+        "guide_id": 54,
         "id": 107001100,
         "max_stack": 99,
         "name": "Red Magicite",
@@ -649,7 +685,7 @@
     },
     "107001200": {
         "full_desc": "A piece of magicite that has evolved to give off a bluish light. Known to imbue espers with special powers, it is said that certain beasts have a particular fondness for stones of this color. Ever in demand among researchers of the arcane, the task of gleaning these rare stones from the perilous locations in which they are found often falls to enterprising adventurers.",
-        "guide_id": 54,
+        "guide_id": 55,
         "id": 107001200,
         "max_stack": 99,
         "name": "Blue Magicite",
@@ -661,7 +697,7 @@
     },
     "107001300": {
         "full_desc": "A piece of magicite that has evolved to give off a greenish light. Known to imbue espers with special powers, it is said that certain beasts have a particular fondness for stones of this color. Ever in demand among researchers of the arcane, the task of gleaning these rare stones from the perilous locations in which they are found often falls to enterprising adventurers.",
-        "guide_id": 55,
+        "guide_id": 56,
         "id": 107001300,
         "max_stack": 99,
         "name": "Green Magicite",
@@ -673,7 +709,7 @@
     },
     "107001400": {
         "full_desc": "A piece of magicite that has evolved to give off a whitish light. Known to imbue espers with special powers, it is said that certain beasts have a particular fondness for stones of this color. Magicite shards are treasured as good luck talismans across the realm, with white stones being seen as particularly auspicious. The magical power exuded by the stone is believed to have a calming effect on the hearts of those who gaze into it.",
-        "guide_id": 56,
+        "guide_id": 57,
         "id": 107001400,
         "max_stack": 99,
         "name": "White Magicite",
@@ -685,7 +721,7 @@
     },
     "107001500": {
         "full_desc": "A piece of magicite that has evolved to give off a blackish light. Known to imbue espers with special powers, it is said that certain beasts have a particular fondness for stones of this color. A distinctive quality of magicite is its luminescence, and sightings of ghostly lights on sunless seas and in dark forests may be a sign that magicite is nearby. That, or something more sinister...",
-        "guide_id": 57,
+        "guide_id": 58,
         "id": 107001500,
         "max_stack": 99,
         "name": "Black Magicite",
@@ -697,7 +733,7 @@
     },
     "107001600": {
         "full_desc": "A highly evolved magicite stone that emits a brilliant red light. Magicite that has grown to this size is rare indeed, and is said to grant espers unheard-of powers. Academics posit that the mystical creatures absorb the energies sealed within the stone, but, as the magicite disappears immediately upon being consumed, the exact nature of this process remains a mystery.",
-        "guide_id": 58,
+        "guide_id": 59,
         "id": 107001600,
         "max_stack": 99,
         "name": "Red Megacite",
@@ -709,7 +745,7 @@
     },
     "107001700": {
         "full_desc": "A highly evolved magicite stone that emits a brilliant blue light. Magicite that has grown to this size is rare indeed, and is said to grant espers unheard-of powers. Enterprising mages have been known to purchase specimens from adventurers for their research, but haggling over a fair price is frequent, as the distinction between magicite and megacite is subject to debate.",
-        "guide_id": 59,
+        "guide_id": 60,
         "id": 107001700,
         "max_stack": 99,
         "name": "Blue Megacite",
@@ -721,7 +757,7 @@
     },
     "107001800": {
         "full_desc": "A highly evolved magicite stone that emits a brilliant green light. Magicite that has grown to this size is rare indeed, and is said to grant espers unheard-of powers. While certain monsters are known to produce magicite within their bodies, only the most gargantuan beasts can accommodate the massive stones known as megacite. Such creatures invariably wield highly potent magic, a testament to the power of the megacite within.",
-        "guide_id": 60,
+        "guide_id": 61,
         "id": 107001800,
         "max_stack": 99,
         "name": "Green Megacite",
@@ -733,7 +769,7 @@
     },
     "107001900": {
         "full_desc": "A highly evolved magicite stone that emits a brilliant white light. Magicite that has grown to this size is rare indeed, and is said to grant espers unheard-of powers. While a familiar substance to summoners and mages, to those unlettered in the arcane it is but another exotic jewel. Tales of witless aristocrats who discovered their favorite accessories were actually made of megacite are too common to be dismissed as fancy.",
-        "guide_id": 61,
+        "guide_id": 62,
         "id": 107001900,
         "max_stack": 99,
         "name": "White Megacite",
@@ -745,7 +781,7 @@
     },
     "107002000": {
         "full_desc": "A highly evolved magicite stone that emits a brilliant black light. Magicite that has grown to this size is rare indeed, and is said to grant espers unheard-of powers. Since olden times, magical power has been thought to possess a will of its own, a sentience that would live on in this evolved magicite. That said, this power is far weaker than that found in crystals, limited to a distant impression of joy or sadness felt by those who come into contact with it.",
-        "guide_id": 62,
+        "guide_id": 63,
         "id": 107002000,
         "max_stack": 99,
         "name": "Black Megacite",
@@ -801,7 +837,7 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "A large violet stone said to grant power to espers."
+        "short_desc": "A large yellow stone said to grant power to espers."
     },
     "107002500": {
         "full_desc": "A highly-evolved magicite stone that emits a brilliant orange light. Magicite that has grown to this size is rare indeed, and is said to grant espers unheard-of powers. Nowadays, when most humans have never even seen an esper, magicite is treated like any other precious stone. This orange magicite, which appears fairly ordinary at first, is particularly popular among older gentlemen.",
@@ -825,7 +861,7 @@
             "buy": 2000,
             "sell": 200
         },
-        "short_desc": "A large yellow stone said to grant power to espers."
+        "short_desc": "A large violet stone said to grant power to espers."
     },
     "108000100": {
         "full_desc": "A coin used during the ancient Gallean era. Gallea is known as the first civilization to use metals as currency, and the wealthy and poor alike conducted their daily business using tins like these. Nowadays, these coins are prized as historical relics, but given that they are still fairly commonplace, they don't fetch a very high price.",
@@ -853,7 +889,7 @@
     },
     "109201000": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #1. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 63,
+        "guide_id": 64,
         "id": 109201000,
         "max_stack": 99,
         "name": "Earth Key #1",
@@ -865,7 +901,7 @@
     },
     "109201010": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #2. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 64,
+        "guide_id": 65,
         "id": 109201010,
         "max_stack": 99,
         "name": "Earth Key #2",
@@ -877,7 +913,7 @@
     },
     "109201020": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #3. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 65,
+        "guide_id": 66,
         "id": 109201020,
         "max_stack": 99,
         "name": "Earth Key #3",
@@ -889,7 +925,7 @@
     },
     "109201030": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #4. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 66,
+        "guide_id": 67,
         "id": 109201030,
         "max_stack": 99,
         "name": "Earth Key #4",
@@ -901,7 +937,7 @@
     },
     "109201040": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #5. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 67,
+        "guide_id": 68,
         "id": 109201040,
         "max_stack": 99,
         "name": "Earth Key #5",
@@ -913,7 +949,7 @@
     },
     "109201050": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #6. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 68,
+        "guide_id": 69,
         "id": 109201050,
         "max_stack": 99,
         "name": "Earth Key #6",
@@ -925,7 +961,7 @@
     },
     "109201060": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #7. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 69,
+        "guide_id": 70,
         "id": 109201060,
         "max_stack": 99,
         "name": "Earth Key #7",
@@ -937,7 +973,7 @@
     },
     "109201070": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #8. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 70,
+        "guide_id": 71,
         "id": 109201070,
         "max_stack": 99,
         "name": "Earth Key #8",
@@ -949,7 +985,7 @@
     },
     "109201080": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #9. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 71,
+        "guide_id": 72,
         "id": 109201080,
         "max_stack": 99,
         "name": "Earth Key #9",
@@ -961,7 +997,7 @@
     },
     "109201090": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #10. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 72,
+        "guide_id": 73,
         "id": 109201090,
         "max_stack": 99,
         "name": "Earth Key #10",
@@ -973,7 +1009,7 @@
     },
     "109201100": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #11. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 73,
+        "guide_id": 74,
         "id": 109201100,
         "max_stack": 99,
         "name": "Earth Key #11",
@@ -985,7 +1021,7 @@
     },
     "109201110": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #12. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 74,
+        "guide_id": 75,
         "id": 109201110,
         "max_stack": 99,
         "name": "Earth Key #12",
@@ -997,7 +1033,7 @@
     },
     "109201120": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #13. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 75,
+        "guide_id": 76,
         "id": 109201120,
         "max_stack": 99,
         "name": "Earth Key #13",
@@ -1009,7 +1045,7 @@
     },
     "109201130": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #14. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 76,
+        "guide_id": 77,
         "id": 109201130,
         "max_stack": 99,
         "name": "Earth Key #14",
@@ -1021,7 +1057,7 @@
     },
     "109201140": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #15. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 77,
+        "guide_id": 78,
         "id": 109201140,
         "max_stack": 99,
         "name": "Earth Key #15",
@@ -1033,7 +1069,7 @@
     },
     "109201150": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #16. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 78,
+        "guide_id": 79,
         "id": 109201150,
         "max_stack": 99,
         "name": "Earth Key #16",
@@ -1045,7 +1081,7 @@
     },
     "109201160": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #17. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 79,
+        "guide_id": 80,
         "id": 109201160,
         "max_stack": 99,
         "name": "Earth Key #17",
@@ -1057,7 +1093,7 @@
     },
     "109201170": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #18. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 80,
+        "guide_id": 81,
         "id": 109201170,
         "max_stack": 99,
         "name": "Earth Key #18",
@@ -1069,7 +1105,7 @@
     },
     "109201180": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #19. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 81,
+        "guide_id": 82,
         "id": 109201180,
         "max_stack": 99,
         "name": "Earth Key #19",
@@ -1081,7 +1117,7 @@
     },
     "109201190": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #20. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 82,
+        "guide_id": 83,
         "id": 109201190,
         "max_stack": 99,
         "name": "Earth Key #20",
@@ -1093,7 +1129,7 @@
     },
     "109201200": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #21. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 83,
+        "guide_id": 84,
         "id": 109201200,
         "max_stack": 99,
         "name": "Earth Key #21",
@@ -1105,7 +1141,7 @@
     },
     "109201210": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #22. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 84,
+        "guide_id": 85,
         "id": 109201210,
         "max_stack": 99,
         "name": "Earth Key #22",
@@ -1117,7 +1153,7 @@
     },
     "109201220": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #23. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 85,
+        "guide_id": 86,
         "id": 109201220,
         "max_stack": 99,
         "name": "Earth Key #23",
@@ -1129,7 +1165,7 @@
     },
     "109201230": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #24. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 86,
+        "guide_id": 87,
         "id": 109201230,
         "max_stack": 99,
         "name": "Earth Key #24",
@@ -1141,7 +1177,7 @@
     },
     "109201240": {
         "full_desc": "A key elaborately ornamented with a pattern of twisting vines, and engraved with a number: #25. Bring the key to the vault in Grandshelt and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
-        "guide_id": 87,
+        "guide_id": 88,
         "id": 109201240,
         "max_stack": 99,
         "name": "Earth Key #25",
@@ -1151,9 +1187,129 @@
         },
         "short_desc": "A key to a safe in Grandshelt."
     },
+    "109202000": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #1. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 176,
+        "id": 109202000,
+        "max_stack": 99,
+        "name": "Gale Key 1",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
+    "109202010": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #2. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 177,
+        "id": 109202010,
+        "max_stack": 99,
+        "name": "Gale Key 2",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
+    "109202020": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #3. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 178,
+        "id": 109202020,
+        "max_stack": 99,
+        "name": "Gale Key 3",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
+    "109202030": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #4. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 179,
+        "id": 109202030,
+        "max_stack": 99,
+        "name": "Gale Key 4",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
+    "109202040": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #5. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 180,
+        "id": 109202040,
+        "max_stack": 99,
+        "name": "Gale Key 5",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
+    "109202050": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #6. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 181,
+        "id": 109202050,
+        "max_stack": 99,
+        "name": "Gale Key 6",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
+    "109202060": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #7. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 182,
+        "id": 109202060,
+        "max_stack": 99,
+        "name": "Gale Key 7",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
+    "109202070": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #8. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 183,
+        "id": 109202070,
+        "max_stack": 99,
+        "name": "Gale Key 8",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
+    "109202080": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #9. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 184,
+        "id": 109202080,
+        "max_stack": 99,
+        "name": "Gale Key 9",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
+    "109202090": {
+        "full_desc": "A key adorned with a tornado-like wind pattern. #10. Bring the key to the vault in Dirnado and it will unlock the corresponding strongbox, allowing you to claim the treasure within. Collect all the keys scattered across the realm and open all the strongboxes, and even greater riches await you...",
+        "guide_id": 185,
+        "id": 109202090,
+        "max_stack": 99,
+        "name": "Gale Key 10",
+        "price": {
+            "buy": 0,
+            "sell": 0
+        },
+        "short_desc": "A key to a deposit box in Dirnado."
+    },
     "201000100": {
         "full_desc": "A crystal formed when fire magic is condensed for a very long period of time. It is often found in volcanic areas. Fire crysts appear to burn from within, and effuse a palpable heat. They are common finds, yet cause a number of injuries each year due to their propensity to explode. They should always be handled with care.",
-        "guide_id": 88,
+        "guide_id": 89,
         "id": 201000100,
         "max_stack": 99,
         "name": "Fire Cryst",
@@ -1165,7 +1321,7 @@
     },
     "201000200": {
         "full_desc": "A crystal formed when ice magic is condensed for a very long period of time. It is often found in snowbound lands. Ice crysts glitter like true ice and remain ever cold to the touch. They serve as an important source of income for some regions, where they are collected in winter. But the magic-rich areas where they can be found also attract many monsters, so gathering the crysts is dangerous work.",
-        "guide_id": 89,
+        "guide_id": 90,
         "id": 201000200,
         "max_stack": 99,
         "name": "Ice Cryst",
@@ -1177,7 +1333,7 @@
     },
     "201000300": {
         "full_desc": "A crystal formed when lightning magic is condensed for a very long period of time. It is often found in areas prone to electrical storms, and touching one may leave your fingers tingling with shock. They glitter with a beautiful light and it was popular for a time to use them in jewelry, but the disturbingly high incidence of accidental electrocution resulted in them being banned for any use other than forging magicks or offensive items.",
-        "guide_id": 90,
+        "guide_id": 91,
         "id": 201000300,
         "max_stack": 99,
         "name": "Lightning Cryst",
@@ -1189,7 +1345,7 @@
     },
     "201000400": {
         "full_desc": "A crystal formed when water magic is condensed for a very long period of time. It is often found in forests and on the water's edge. It shines with an undulating light, like sunlight glistening on the water's surface, and when touched it clings gently to the skin. The crysts are known to vary in appearance based on the quality of the water where they form. In places of pure water, they take on a stunning clarity. But in muddied rivers and lakes, the water crysts form with a like cloudiness.",
-        "guide_id": 91,
+        "guide_id": 92,
         "id": 201000400,
         "max_stack": 99,
         "name": "Water Cryst",
@@ -1201,7 +1357,7 @@
     },
     "201000500": {
         "full_desc": "A crystal formed when earth magic is condensed for a very long period of time. It is often found in mountainous regions and around old ruins. Earth crysts sometimes contain the fossilized remains of animals, and have a shocking heft for their small size. With the power to leach toxic substances from the soil, they can help to rejuvenate even the most blighted fields, simply by being buried in the ground. This process, while seemingly miraculous, takes time: those expecting an overnight cure will be disappointed.",
-        "guide_id": 92,
+        "guide_id": 93,
         "id": 201000500,
         "max_stack": 99,
         "name": "Earth Cryst",
@@ -1213,7 +1369,7 @@
     },
     "201000600": {
         "full_desc": "A crystal formed when wind magic is condensed for a very long period of time. It is often found in places where the wind seems in constant motion. If you lift one to your ear, you can hear the sound of rushing air. Wind crysts also seem able to boost lift, and flying monsters gobble them down with pleasure. There is interest, now, in whether they could be used in the construction of airships.",
-        "guide_id": 93,
+        "guide_id": 94,
         "id": 201000600,
         "max_stack": 99,
         "name": "Wind Cryst",
@@ -1225,7 +1381,7 @@
     },
     "201000700": {
         "full_desc": "A crystal formed when light magic is condensed for a very long period of time. It is often found in places filled with holy power. Light crysts glitter with a brilliance that intensifies when they are left in a bright place—or clouds over, in darkness. Other kinds of crysts can easily affect light crysts, dark crysts having the worst influence of all. These two opposing elements will weaken each other, so it is important to store light crysts and dark crysts separately.",
-        "guide_id": 94,
+        "guide_id": 95,
         "id": 201000700,
         "max_stack": 99,
         "name": "Light Cryst",
@@ -1237,7 +1393,7 @@
     },
     "201000800": {
         "full_desc": "A crystal formed when dark magic is condensed for a very long period of time. It is often found in places filled with dark power. Peering at the unnatural black of a dark cryst will seem to draw you into its depths. Dark crysts still the mind, and tucking one beneath your pillow will supposedly bring deep, dreamless sleep. They do not mesh well with light crysts, though, and the two will weaken each other's effects.",
-        "guide_id": 95,
+        "guide_id": 96,
         "id": 201000800,
         "max_stack": 99,
         "name": "Dark Cryst",
@@ -1249,7 +1405,7 @@
     },
     "201000900": {
         "full_desc": "A large crystal formed when fire magic is condensed for a very long period of time. They are filled with a mysterious light, as though burning from within. Used in everything from smithing to synthesizing, they have the greatest utility when one wishes to draw on fire magicks. A number of monsters fear fire, making these large crystals a traveler's best friend.",
-        "guide_id": 96,
+        "guide_id": 97,
         "id": 201000900,
         "max_stack": 99,
         "name": "Fire Megacryst",
@@ -1261,7 +1417,7 @@
     },
     "201001000": {
         "full_desc": "A large crystal formed when ice magic is condensed for a very long period of time. They resemble the heart of ice, clear as glass, and just as cold to the touch. And yet these crysts do not melt even when held. They can be turned to many purposes, including the creation of ice-elemental weapons, items, and magic. Some artists have even attempted to carve ice crysts into beautiful sculptures that would never melt, but succeeded only in freezing themselves in place.",
-        "guide_id": 97,
+        "guide_id": 98,
         "id": 201001000,
         "max_stack": 99,
         "name": "Ice Megacryst",
@@ -1273,7 +1429,7 @@
     },
     "201001100": {
         "full_desc": "A large crystal formed when lightning magic is condensed for a very long period of time. Lightning appears to flicker within these mysterious stones, and they emit electricity when struck. For this reason, they are used for engineering airships, as well as for producing lightning-based magicks. In recent years, demand for these crysts has increased in parallel with their exploitation for military purposes, and some areas where lightning crysts can be harvested are closely controlled by national interests.",
-        "guide_id": 98,
+        "guide_id": 99,
         "id": 201001100,
         "max_stack": 99,
         "name": "Lightning Megacryst",
@@ -1285,7 +1441,7 @@
     },
     "201001200": {
         "full_desc": "A large crystal formed when water magic is condensed for a very long period of time. When shaken, these mysterious stones emit an undulating light, like sunlight under water. They are widely used to create magic items, weapons, and armor—but they are also indispensable for compounding medical curatives, so even peaceful folk are familiar with many applications of these large crysts, and researchers work day and night to develop ever more effective medicines with these all-purpose xenoliths.",
-        "guide_id": 99,
+        "guide_id": 100,
         "id": 201001200,
         "max_stack": 99,
         "name": "Water Megacryst",
@@ -1296,8 +1452,8 @@
         "short_desc": "A crystal containing the great power of water."
     },
     "201001300": {
-        "full_desc": "A large crystal formed when earth magic is condensed for a very long period of time. They sometimes contain leaves and roots from trees bursting with life energy. Earth crysts are harder and far heavier than crystals formed from other elements, but work well together with them. The utility of these crystals is not limited to magicks; they are also used for forging weapons and synthesizing items. Moreover, they are known for their ability to energize land and can be tilled into barren fields to improve them. ",
-        "guide_id": 100,
+        "full_desc": "A large crystal formed when earth magic is condensed for a very long period of time. They sometimes contain leaves and roots from trees bursting with life energy. Earth crysts are harder and far heavier than crystals formed from other elements, but work well together with them. The utility of these crystals is not limited to magicks; they are also used for forging weapons and synthesizing items. Moreover, they are known for their ability to energize land and can be tilled into barren fields to improve them.",
+        "guide_id": 101,
         "id": 201001300,
         "max_stack": 99,
         "name": "Earth Megacryst",
@@ -1309,7 +1465,7 @@
     },
     "201001400": {
         "full_desc": "A large crystal formed when wind magic is condensed for a very long period of time. If you lift one to your ear, you will hear the roar of strong winds. Restless and ever moving, wind has long represented the spirit of curiosity, and is tied to the idea of travel. There is even a tradition of giving these crystals to travelers as a protective charm, with the wish that any troubles they meet on their journey will be blown away on the breeze.",
-        "guide_id": 101,
+        "guide_id": 102,
         "id": 201001400,
         "max_stack": 99,
         "name": "Wind Megacryst",
@@ -1321,7 +1477,7 @@
     },
     "201001500": {
         "full_desc": "A large crystal formed when light magic is condensed for a very long period of time. Crystals of this kind shine with a brilliant light. They are widely used in magic creation, smithing, and synthesizing. It is also thought that demons and the undead find light crysts abhorrent, so many carry them to ward away such terrible enemies. Whether they are used as talismans or ingredients, the effectiveness of these crystals seems to increase with size, just as the likelihood of finding one decreases.",
-        "guide_id": 102,
+        "guide_id": 103,
         "id": 201001500,
         "max_stack": 99,
         "name": "Light Megacryst",
@@ -1333,7 +1489,7 @@
     },
     "201001600": {
         "full_desc": "A large crystal formed when dark magic is condensed for a very long period of time. They are widely used in magic creation, smithing, and synthesizing. Filled with a deep darkness, these crysts absorb light from their surroundings, so leaving one in your room will bring a gloomy mood upon you. Dark crysts grow best in darkness, so the highest quality stones are the hardest to find.",
-        "guide_id": 103,
+        "guide_id": 104,
         "id": 201001600,
         "max_stack": 99,
         "name": "Dark Megacryst",
@@ -1345,7 +1501,7 @@
     },
     "202000100": {
         "full_desc": "A mysterious orb formed from the life energy that all living creatures possess. It can be used to make items and magic that use life power, including white magic. Among synthesizing components, life orbs are relatively easy to obtain, but as they have so many and varied applications, there is no harm in keeping a good supply at hand. Some say they are dropped by creatures facing death, but the exact truth of how these orbs form is still not known.",
-        "guide_id": 104,
+        "guide_id": 105,
         "id": 202000100,
         "max_stack": 99,
         "name": "Life Orb",
@@ -1357,7 +1513,7 @@
     },
     "202000200": {
         "full_desc": "A soul that is believed to have wandered into this world from another. It is no more than energy—long gone is any individual will or sense of self. These souls can be used as components in magic or item creation. No one knows exactly how they come to be in this world, but given how commonly they are found, it may be that the Farplane is far closer than most think.",
-        "guide_id": 105,
+        "guide_id": 106,
         "id": 202000200,
         "max_stack": 99,
         "name": "Farplane Soul",
@@ -1369,7 +1525,7 @@
     },
     "202000300": {
         "full_desc": "When the remains of beasts and dead vegetation return to the earth, the power that once resided in them is absorbed by the ground, and solidifies into these objects. They are full of nutrients and are a key component in many magicks and armors. Their name comes from the fact that many are shaped like droplets.",
-        "guide_id": 106,
+        "guide_id": 107,
         "id": 202000300,
         "max_stack": 99,
         "name": "Gaia's Tear",
@@ -1381,7 +1537,7 @@
     },
     "202000400": {
         "full_desc": "A leathery hide obtained from beast-type monsters. These tough hides can be used to make armor and other equipment, but must be properly tanned after skinning, or they will spoil. This is why most armorers learn tanning as a fundamental of their craft. By this simple means, sturdy hides can gain a softness and durability that is easily worth the small amount of extra work.",
-        "guide_id": 107,
+        "guide_id": 108,
         "id": 202000400,
         "max_stack": 99,
         "name": "Thickened Hide",
@@ -1393,7 +1549,7 @@
     },
     "202000500": {
         "full_desc": "A large and strong feather dropped by many bird-type monsters, including zu and rocs. It can be used as a component in many different items. Most often seen as the fletching on arrows, these beautiful feathers can also be used as quill pens and fashion accessories. They are also effective antitoxins and can be used together with water crysts to make antidotes.",
-        "guide_id": 108,
+        "guide_id": 109,
         "id": 202000500,
         "max_stack": 99,
         "name": "Raptor Feather",
@@ -1405,7 +1561,7 @@
     },
     "202000600": {
         "full_desc": "This jelly-like material can be collected from aquatic monsters. The translucent substance is brightly colored, and can be made to seem quite appetizing, but many are disinclined to partake of it after learning that it is essentially a flan and fish monster frankenstein. But it is apparently a much coveted delicacy among the world's most discerning gourmands.",
-        "guide_id": 109,
+        "guide_id": 110,
         "id": 202000600,
         "max_stack": 99,
         "name": "Chromatic Ooze",
@@ -1417,7 +1573,7 @@
     },
     "202000700": {
         "full_desc": "It is thought that these demon tails serve as a sensor for the monsters that possess them. They are seemingly able to sense changes in temperature, the presence of enemies, and even the negative emotions of humans. Perhaps due to this sensitivity, demons have an extreme antipathy to having their tails grabbed. It is even believed that a demon will become unable to control its magic if its tail is separated from its body.",
-        "guide_id": 110,
+        "guide_id": 111,
         "id": 202000700,
         "max_stack": 99,
         "name": "Demon Tail",
@@ -1429,7 +1585,7 @@
     },
     "202000800": {
         "full_desc": "A fragment of broken sword often found in sites of battles past. Such fragments are typically melted down by blacksmiths and reused, for two main reasons: to preserve resources, and to carry on the wishes of their former owners. Many soldiers have had new weapons forged from the remnants of their fallen friends' blades, in an effort to sustain the dreams cut short by death. From such a blade, gripped tightly in their hands, they draw the resolve to battle on.",
-        "guide_id": 111,
+        "guide_id": 112,
         "id": 202000800,
         "max_stack": 99,
         "name": "Broken Blade",
@@ -1441,7 +1597,7 @@
     },
     "202000900": {
         "full_desc": "A digital circuit of the type found in many machines. This is one of the easiest mechanical components to find. Mechanical devices took a leap forward with the invention of such circuits, yet the use of them remains a privilege of the military and, of course, the wealthy. The day when ordinary people have access to such technology, including the technology that drives airships, appears to be still far off.",
-        "guide_id": 112,
+        "guide_id": 113,
         "id": 202000900,
         "max_stack": 99,
         "name": "Digital Circuit",
@@ -1453,7 +1609,7 @@
     },
     "202001000": {
         "full_desc": "The remains of dragons are so highly prized, and so efficiently used as components, that it is said no dragon body has ever naturally decomposed. Their fangs are particularly popular and hold much of a dragon's magical power. They are so hard, though, that fashioning them for any purpose requires special methods. They also have come to symbolize a warrior's prowess, as defeating a dragon requires an unfailing strength and an unwavering spirit.",
-        "guide_id": 113,
+        "guide_id": 114,
         "id": 202001000,
         "max_stack": 99,
         "name": "Dragon Fang",
@@ -1465,7 +1621,7 @@
     },
     "202001100": {
         "full_desc": "Mysterious seeds formed from the residual magic left behind by departed spirits. When planted in the soil, these seeds immediately sprout and develop glittering blooms. But the very act of opening exhausts these precious ephemerons of their magic, and they will be withered by the first light of morning. If they are to be used as components in items or magicks, this must occur before the seeds sprout and the power is lost.",
-        "guide_id": 114,
+        "guide_id": 115,
         "id": 202001100,
         "max_stack": 99,
         "name": "Glowseeds",
@@ -1477,7 +1633,7 @@
     },
     "202001200": {
         "full_desc": "A silk thread excreted by certain insects. It is both flexible and sturdy. In Lapis, this silk is woven into a material used for clothing. In times past, it was harvested directly from wild monsters, but nowadays it seems that some have begun farming the insects in order to harvest this silk. Clothing fashioned from it will last a very long time, the one and only drawback being how very flammable it is.",
-        "guide_id": 115,
+        "guide_id": 116,
         "id": 202001200,
         "max_stack": 99,
         "name": "Spellsilk",
@@ -1489,7 +1645,7 @@
     },
     "202001300": {
         "full_desc": "A shiny stone that can easily be worked, and is used for many purposes—everything from construction to sculpture. Specimens dropped by stone-based monsters boast the finest quality, and are often used for carving statuary. But unsettling phenomena, such as stones bleeding or crying out when cut, have made it normal practice to now thoroughly purify the stones before working them.",
-        "guide_id": 116,
+        "guide_id": 117,
         "id": 202001300,
         "max_stack": 99,
         "name": "Quality Stone",
@@ -1501,7 +1657,7 @@
     },
     "202001400": {
         "full_desc": "An oil that can be gathered from plants and which has long been used as a convenient source of fuel. This thick oil is not of particularly high quality, but is so easily obtained that it has become an indispensable component. It gives off a distinctive and unpleasant smell when burnt, which may cause queasiness in areas with poor ventilation. Be sure to open a window when you light a pot of it.",
-        "guide_id": 117,
+        "guide_id": 118,
         "id": 202001400,
         "max_stack": 99,
         "name": "Gummy Oil",
@@ -1513,7 +1669,7 @@
     },
     "202001500": {
         "full_desc": "A viscous green fluid said to be left behind by spirits of the deceased. It reeks of putrefaction and is widely abhorred. Yet it has its uses, secret and fiendish though they be: it has long been a key catalyst for curses, and its potency corresponds with the weight of negative emotion the spirit bore into death. Its uncanny origins and storied tradition of use have seen it remain in use as a component for various magicks and items. It is easy enough to obtain, but carrying it back home may require nerves of steel.",
-        "guide_id": 118,
+        "guide_id": 119,
         "id": 202001500,
         "max_stack": 99,
         "name": "Green Fluid",
@@ -1525,7 +1681,7 @@
     },
     "202001600": {
         "full_desc": "A bone from the powerful frame of a great beast. These bones are extremely strong and have long been used as tools. As smithing and synthesizing processes developed, these bones also naturally came to be used as components in those arts. Most often they are used as-is for constructing armor and weapons, but they can also be crushed and powdered to be used in medicines.",
-        "guide_id": 119,
+        "guide_id": 120,
         "id": 202001600,
         "max_stack": 99,
         "name": "Otherworldly Bone",
@@ -1537,7 +1693,7 @@
     },
     "202001700": {
         "full_desc": "One of the wings that mean life and death to a flying monster. It is hard to obtain entire wings and not mere feathers, but should you succeed in getting one, it can be put to many uses. Bedding made from the down of these wings is light and has excellent heat retention. It is greatly coveted, and—given the huge number of wings needed to create even one duvet—also very expensive.",
-        "guide_id": 120,
+        "guide_id": 121,
         "id": 202001700,
         "max_stack": 99,
         "name": "Abominable Wing",
@@ -1549,7 +1705,7 @@
     },
     "202001800": {
         "full_desc": "A scale sported by certain species of fish and as strong as any armor. It is thought that fish evolved these scales as they were advantageous in the life-or-death struggle of nature. In general, the strongest fish have the toughest scales, but that does not mean they are entirely free of predation: these scales are sometimes found within the stomachs of other beasts.",
-        "guide_id": 121,
+        "guide_id": 122,
         "id": 202001800,
         "max_stack": 99,
         "name": "Tough Scale",
@@ -1561,7 +1717,7 @@
     },
     "202001900": {
         "full_desc": "There is a folk belief that you will lose your mind if you are bitten by a demon. It was long thought to be mere superstition, but it appears that demons do, in fact, carry a toxin in their bodies that can cause confusion and paranoia. The discovery of this fact has provoked even greater hatred of demons than ever before, but has also, oddly enough, increased demand for demon teeth, to be used as components.",
-        "guide_id": 122,
+        "guide_id": 123,
         "id": 202001900,
         "max_stack": 99,
         "name": "Cursed Tusk",
@@ -1573,7 +1729,7 @@
     },
     "202002000": {
         "full_desc": "A crystal formed from the magic within a human's body. All people carry a certain amount of magic within them from the time they are born, which is why these stones can emerge not only from wizards and the like, but also from people who are not, in the regular sense, magic users. Some theorize that if we could discover the process by which they arise, these magic stones might serve as a new source of energy.",
-        "guide_id": 123,
+        "guide_id": 124,
         "id": 202002000,
         "max_stack": 99,
         "name": "Wizard Stone",
@@ -1585,7 +1741,7 @@
     },
     "202002100": {
         "full_desc": "Machine-based monsters may occasionally drop this rare emulsion; a substance used in their armor and plating. Its unique chemical properties make it both sturdy and surprisingly easy to work with. It is easy to repurpose into new items, and was first discovered when investigating machinery found in old ruins. There are still many questions to be answered about its origins.",
-        "guide_id": 124,
+        "guide_id": 125,
         "id": 202002100,
         "max_stack": 99,
         "name": "Polymer Emulsion",
@@ -1597,7 +1753,7 @@
     },
     "202002200": {
         "full_desc": "Dragons are known for their incredibly long lifespans when compared to humans. Many aspects of dragon life are still not well understood, but one behavior that has been observed is the creature's molting routine. As their bodies grow, dragons slough off their skin, scales and all. The residuum of this process is an extraordinary amount of skin and—of greater interest to the adventurer—huge piles of hardy dragon scales. It would surely vex any dragon to learn the value of its discarded leavings: anyone who happens upon them shall never want for gold.",
-        "guide_id": 125,
+        "guide_id": 126,
         "id": 202002200,
         "max_stack": 99,
         "name": "Dragon Scale",
@@ -1609,7 +1765,7 @@
     },
     "202002300": {
         "full_desc": "A droplet-shaped stone, dropped by spirits on rare occasions. It has a rainbow sheen when struck with light. Many elemental spirits take on a mysterious crystalline form, but lack anything resembling a face. Indeed, it is unclear if their bodies even contain fluid. And yet the image of an elemental spirit shedding tears is so beautiful that the name has never been abandoned.",
-        "guide_id": 126,
+        "guide_id": 127,
         "id": 202002300,
         "max_stack": 99,
         "name": "Elemental Tear",
@@ -1621,7 +1777,7 @@
     },
     "202002400": {
         "full_desc": "Rockbeetles live on a diet reliant on the metals found in soil, and the more they eat, the harder their exoskeletons become. Large and undamaged specimens of such are sometimes displayed as objets d'art, but rockbeetle husks can also be used in place of regular metals for many purposes. These shells may not seem all that different from their less-brilliant cousins at first, but striking one with an ungloved fist will shatter both your misconceptions and every bone in your hand.",
-        "guide_id": 127,
+        "guide_id": 128,
         "id": 202002400,
         "max_stack": 99,
         "name": "Rockbeetle Husk",
@@ -1633,7 +1789,7 @@
     },
     "202002500": {
         "full_desc": "A sparkling stone that monsters may drop on rare occasions. Their size and coloration will depend on the monster they come from and the region, but some can rival even the finest gemstones in their beauty. They fetch a high price and can be used in jewelry, but there are many who object to wearing jewels that come from monsters. Think twice before giving a gift containing one of these brilliant stones.",
-        "guide_id": 128,
+        "guide_id": 129,
         "id": 202002500,
         "max_stack": 99,
         "name": "Sparkling Stone",
@@ -1645,7 +1801,7 @@
     },
     "202002600": {
         "full_desc": "A root from a mandragora plant. It is usually dried and used as an ingredient in medicines. Mandragoras shriek when they are pulled from the earth or feel that they are in danger. Their cries are piercingly loud and can even stun the person who uproots one. To avoid this hazard, alternative methods of gathering the obnoxious little screamers have been developed, including training unsuspecting animals to dig them up instead.",
-        "guide_id": 129,
+        "guide_id": 130,
         "id": 202002600,
         "max_stack": 99,
         "name": "Screamroot",
@@ -1657,7 +1813,7 @@
     },
     "202002700": {
         "full_desc": "These flies appear from seemingly nowhere to swarm the dead. Since they feast on rotting flesh, they have become a symbol of impurity—yet this same natural habit helps to return the remains of monsters, and sundry unfortunates, to the earth. Many people believe that death leads to a second life, so there are recipes which use these flies—and the power contained in their bodies—as components.",
-        "guide_id": 130,
+        "guide_id": 131,
         "id": 202002700,
         "max_stack": 99,
         "name": "Corpse Fly",
@@ -1669,7 +1825,7 @@
     },
     "203000100": {
         "full_desc": "The raw ore needed for making copper items. Being both easy to find and easy to craft, it is widely used. Many armies use it to make bronze armor for lower-ranked soldiers to wear during training. Such armor is relatively lacking in both offensive strength and durability, but on the other hand, can be easily replaced when bent or broken. Its great popularity means there is a constant demand for copper ore.",
-        "guide_id": 131,
+        "guide_id": 132,
         "id": 203000100,
         "max_stack": 99,
         "name": "Copper Ore",
@@ -1681,7 +1837,7 @@
     },
     "203000200": {
         "full_desc": "The raw ore needed for making iron items. It is a key ingredient in many kinds of armor and weapon. Iron tools are lighter and easier to handle than those made of copper, but the metal's lackluster appearance earns it little love, despite how useful it may be. In their hearts, all warriors secretly long for the beauty and strength of mythril. But iron can be used for more than just equipment: it is also used as a component in synthesizing.",
-        "guide_id": 132,
+        "guide_id": 133,
         "id": 203000200,
         "max_stack": 99,
         "name": "Iron Ore",
@@ -1693,7 +1849,7 @@
     },
     "203000300": {
         "full_desc": "The raw ore needed for making silver items. The silver that can be extracted from this ore has a brilliant shine and is prized by makers of armor and accessories. However, silver is in fact a very soft metal, and easily damaged. It also blackens quickly if not polished frequently. Though not the easiest metal to maintain, many seem to enjoy the upkeep it requires, and even the changes in color it suffers over time.",
-        "guide_id": 133,
+        "guide_id": 134,
         "id": 203000300,
         "max_stack": 99,
         "name": "Silver Ore",
@@ -1705,7 +1861,7 @@
     },
     "203000400": {
         "full_desc": "The raw ore needed for making mythril weapons and armor. The legendary metal that can be extracted from this ore is lighter and more malleable than both iron and silver, yet also far harder when forged. Young warriors consider it a mark of status to don mythril armor, but it is so hard to obtain the necessary ore that most will never have the chance to do so.",
-        "guide_id": 134,
+        "guide_id": 135,
         "id": 203000400,
         "max_stack": 99,
         "name": "Mythril Ore",
@@ -1717,7 +1873,7 @@
     },
     "204000100": {
         "full_desc": "Lumber cut from the trunks of old trees. It can be used to make weapons and equipment, as well as in its usual capacity as a building material. The wands of wizards, too, are often made from such wood, and the success of their magic will be greatly affected by the wood's quality. Wands made from the strong timber of an old, straight tree will perform just as their masters expect, but it may take a wizard some time to adapt to the eccentricities of a wand from a gnarled and twisted tree.",
-        "guide_id": 135,
+        "guide_id": 136,
         "id": 204000100,
         "max_stack": 99,
         "name": "Lumber",
@@ -1727,9 +1883,285 @@
         },
         "short_desc": "Lumber that can be used for various purposes."
     },
+    "205000100": {
+        "full_desc": "The product of many small stones bound together over many years. Held together by the power of earth magic, these stones cannot be easily broken apart, so much so that trying to break one apart with a chisel would actually damage the chisel instead. Because of these, they are not well-suited to being used in masonry, and are instead used in making items and abilities that can make use of the earth magic they contain.",
+        "guide_id": 174,
+        "id": 205000100,
+        "max_stack": 99,
+        "name": "Hard Pebble",
+        "price": {
+            "buy": 500,
+            "sell": 50
+        },
+        "short_desc": "A very hard pebble."
+    },
+    "205000200": {
+        "full_desc": "A beautiful, faintly shiny stone. Infused with life energy, they are often used in making items and abilities. Though they are often found after defeating a monster, it is hard to think that they produce them themselves, and is instead believed that these monsters, charmed by the stone's life energy, simply enjoy carrying them around.",
+        "guide_id": 175,
+        "id": 205000200,
+        "max_stack": 99,
+        "name": "Pure Stone",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A beautiful, faintly shiny stone."
+    },
+    "206000100": {
+        "full_desc": "A material that, spoken of in texts from the Farplane, shouldn't exist in this world. It is said that the power of a dragon remains in their body, even after death, particularly in their heart, where it is believed the knowledge they accumulated over a lifetime is stored. Caution is advised when handling them as the amount of information they can store is beyond human comprehension. It has even been said that some have died after ignoring warnings and eating one.",
+        "guide_id": 191,
+        "id": 206000100,
+        "max_stack": 99,
+        "name": "Drake Heart",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "The heart of a great drake."
+    },
+    "206000200": {
+        "full_desc": "A material that, spoken of in texts from the Farplane, shouldn't exist in this world. According to the texts, this stone is said to be found deep in caves where dragons would nest. These dragons are so tremendously powerful that they have an effect on everything around them just by existing. This ore is also said to have been infused with a special power, having been exposed to the dragon's' power for a long time.",
+        "guide_id": 192,
+        "id": 206000200,
+        "max_stack": 99,
+        "name": "Drake Ore",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A hunk of ore that contains the power of a drake."
+    },
+    "206000300": {
+        "full_desc": "A material that, spoken of in texts from the Farplane, shouldn't exist in this world. Faced with their own demise, it is said that dragon's seal their own spirits into these spheres. The will of the dragon left behind is said to grant tremendous power to whoever holds it. However, it is said that should a weak person try to abuse its power, their very soul would be devoured.",
+        "guide_id": 193,
+        "id": 206000300,
+        "max_stack": 99,
+        "name": "Drake Sphere",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A sphere that contains the spirit of a drake."
+    },
+    "206000400": {
+        "full_desc": "A material that, spoken of in texts from the Farplane, shouldn't exist in this world. According to the texts, this fang can pierce even dragon scales. Dragon scales are so absurdly hard that it's hard for normal weapons to even scratch them. However, it is believed that weapons made using other parts of the dragon have what it takes to pierce right through them.",
+        "guide_id": 194,
+        "id": 206000400,
+        "max_stack": 99,
+        "name": "Drake Fang",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A large, sharp fang from a drake."
+    },
+    "206000500": {
+        "full_desc": "A material that, spoken of in texts from the Farplane, shouldn't exist in this world. It is clear that it comes from a different world, as there is no ore in this world that resemble it. Though other materials unexplainable with current practices and knowledge are sometimes found, it is believe that, like this ore, they originated in the Farplane.",
+        "guide_id": 195,
+        "id": 206000500,
+        "max_stack": 99,
+        "name": "Farplane Mineral",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A mineral that originated in the Farplane."
+    },
+    "206000600": {
+        "full_desc": "A material that, spoken of in texts from the Farplane, shouldn't exist in this world. Said to be made from the concentrated fear that all beings had toward death, it is numbingly cold to the touch, and simply looking at it can fill one with a sense of deep melancholy. It is said to be used as a material in making special weapons.",
+        "guide_id": 196,
+        "id": 206000600,
+        "max_stack": 99,
+        "name": "Death Stone",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A stone that contains the fear of death."
+    },
+    "206000700": {
+        "full_desc": "A material that, spoken of in texts from the Farplane, shouldn't exist in this world. This dark red horn, which gives off an ominous glow, is said to bring calamity to anyone that holds it. It is also said to bring out a person's fighting spirit, and has been blamed for starting some battles. There are texts in which it is written how to extract magical power from it, as well.",
+        "guide_id": 197,
+        "id": 206000700,
+        "max_stack": 99,
+        "name": "Demon Horn",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A horn that contains abominable power."
+    },
+    "207000100": {
+        "full_desc": "\"What a fine prediction! We set out to investigate the unexplored Burgross seaside, famous for reported monster sightings. Despite that, we did our best and came away with the ore we were looking for! All in all, a perfect success!\" - Excerpt from the vaults",
+        "guide_id": 206,
+        "id": 207000100,
+        "max_stack": 99,
+        "name": "Bugross Ore",
+        "price": {
+            "buy": 2000,
+            "sell": 200
+        },
+        "short_desc": "A mineral said to be found in unexplored regions."
+    },
+    "207000200": {
+        "full_desc": "\"There's a rumor afoot, you know...\" the tavern master said, speaking of a strange lighthouse. Having been set up to guide ships through an area full of shallow reefs, this lighthouse was destroyed in the last war and left in ruins. These stones can be found in the ruins, though it is said an even greater treasure rests deeper within.",
+        "guide_id": 207,
+        "id": 207000200,
+        "max_stack": 99,
+        "name": "Ulric Iron",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A stone that gives off a dull shine."
+    },
+    "207000300": {
+        "full_desc": "A pile of dust from a place where it's said that no light shines. Where it is found, it is said that one wouldn't be able to see even a step in front of themselves. Some records say that if one produces the stone bestowed with life that all would be clear as day, but there are none who understand what this means. Some pass it off as mere garbage, but but some of the items harvested in this area have strange powers and are often used in making weapons.",
+        "guide_id": 208,
+        "id": 207000300,
+        "max_stack": 99,
+        "name": "Core Dust",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A pile of dust from deep in the earth."
+    },
+    "207000400": {
+        "full_desc": "A gem found in the darkness of the abyss. It goes without saying that finding a pearl in a place where you can't even see your hands in front of your face is going to be difficult. However, if you find one of these and bring it up into the light, it sparkles brilliantly in the sunlight. The flame-eater uses these pearls in its construction, but thanks to their rarity, and the inability of any items in its recipe to be replaced, it is extremely rare and hard to produce.",
+        "guide_id": 209,
+        "id": 207000400,
+        "max_stack": 99,
+        "name": "Abyss Pearl",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A pearl that rests in a deep, dark place."
+    },
+    "207000500": {
+        "full_desc": "A claw from a beast called the red panther. They have very powerful legs, and are able to jump incredible distances in a single bound. They sometimes approach human settlements where they are feared as cunning yet fearsome beasts, capable of tearing with their sharp claws, or even unleashing powerful kicks with their back legs. Their saliva is also harmful, and anyone bitten by one is sure to become poisoned.",
+        "guide_id": 210,
+        "id": 207000500,
+        "max_stack": 99,
+        "name": "Panther Fang",
+        "price": {
+            "buy": 200,
+            "sell": 20
+        },
+        "short_desc": "A sharp fang from a panther."
+    },
+    "207000600": {
+        "full_desc": "A material believed to come from a demon's wing. They are said to contain a portion of the power of a demon said to have been around since ancient times. Though seemingly harnessing unfathomable power, it is thought that likely no one could have ever had the power to defeat such an ancient, all-powerful demon, and is instead rumored that these wings were taken from a different monster instead.",
+        "guide_id": 211,
+        "id": 207000600,
+        "max_stack": 99,
+        "name": "Demon Wing",
+        "price": {
+            "buy": 200,
+            "sell": 20
+        },
+        "short_desc": "The wing from a beast known as a demon."
+    },
+    "207000700": {
+        "full_desc": "A stone said to be found in an ancient shrine. It gives off a soft glow, and is used in making certain equipment. Buried deep underground, they require great determination in being discovered. Stones like this are often found in totally unimaginable places. It is best sometimes just to sometimes stop, and carefully check around oneself to see what can't be found.",
+        "guide_id": 212,
+        "id": 207000700,
+        "max_stack": 99,
+        "name": "Ancient Stone",
+        "price": {
+            "buy": 500,
+            "sell": 50
+        },
+        "short_desc": "A stone found in an ancient shrine."
+    },
+    "208000100": {
+        "full_desc": "A material that, spoken of in texts from the Farplane, shouldn't exist in this world. What appears to be a simple stone that gives of a pale blue light is in fact a source of unimaginable power, used to power machines in the farplane, as well as modifying equipment. Due to the enormous power these possess, they are thought to be able to produce powerful weapons.",
+        "guide_id": 214,
+        "id": 208000100,
+        "max_stack": 99,
+        "name": "Uraninite",
+        "price": {
+            "buy": 2000,
+            "sell": 200
+        },
+        "short_desc": "A mineral from the Farplane that contains great power."
+    },
+    "208000200": {
+        "full_desc": "A plug that, spoken of in texts from the Farplane, shouldn't exist in this world. With all the various parts available in Lapis, there are none which look like it. According to texts, this was mainly used in the moving parts of machines, and therefore wasn't exactly rare. However, it is also said to be used in some special equipment.",
+        "guide_id": 215,
+        "id": 208000200,
+        "max_stack": 99,
+        "name": "Iridium Plug",
+        "price": {
+            "buy": 500,
+            "sell": 50
+        },
+        "short_desc": "A mechanical part that exists in the Farplane."
+    },
+    "208000300": {
+        "full_desc": "An oil that, spoken of in texts from the Farplane, shouldn't exist in this world. This oil was apparently made for machinery and was likely used to decrease friction and heat production between contacting surfaces. The quality of it is beyond anything produced in Lapis, which only speaks of the manufacturing skills of those in the Farplane.",
+        "guide_id": 216,
+        "id": 208000300,
+        "max_stack": 99,
+        "name": "Paraffin Oil",
+        "price": {
+            "buy": 500,
+            "sell": 50
+        },
+        "short_desc": "Lubricating oil used in machines."
+    },
+    "208000400": {
+        "full_desc": "A gem that, spoken of in texts from the Farplane, shouldn't exist in this world. This small, mysterious blue gem appears to have been manufactured with a fairly high level of precision. It would be difficult to explain how it could be made with the knowledge currently available in Lapis, and for the scientists in the Farplane to have been able to accomplish something like this only goes to show how far advanced their standards are beyond those of Lapis.",
+        "guide_id": 217,
+        "id": 208000400,
+        "max_stack": 99,
+        "name": "Crystal Oscillator",
+        "price": {
+            "buy": 500,
+            "sell": 50
+        },
+        "short_desc": "A mysterious, blue gem."
+    },
+    "208000500": {
+        "full_desc": "A material that, spoken of in texts from the Farplane, shouldn't exist in this world. Due to its solid, crystal-like construction, it is thought to have been produced in a high-pressure environment. Though a dull grey color, it shines brightly when touched by the sun, and it appears to have been frequently used in enhancing equipment in the Farplane.",
+        "guide_id": 218,
+        "id": 208000500,
+        "max_stack": 99,
+        "name": "Perovskite",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A tough, grey mineral."
+    },
+    "208000600": {
+        "full_desc": "An animal's tail that, spoken of in texts from the Farplane, shouldn't exist in this world. This sharp pointed tail was said to belong to a sacred beast with the head of a demon, and wings resembling old rags. Why such a horrible sounding monster could have been owner of something like the \"entrancing tail\" is shrouded in mystery.",
+        "guide_id": 219,
+        "id": 208000600,
+        "max_stack": 99,
+        "name": "Entrancing Tail",
+        "price": {
+            "buy": 200,
+            "sell": 20
+        },
+        "short_desc": "A tail said to belong to a sacred beast from the Farplane."
+    },
+    "208000700": {
+        "full_desc": "An animal's wing that, spoken of in texts from the Farplane, shouldn't exist in this world. It is said that these wings are not only light, but tough as iron as well. Though useful as materials, they are incredibly hard to obtain as the monster who carries them is incredibly aggressive. On top of that, defeating one without damaging its wings is even more troublesome.",
+        "guide_id": 220,
+        "id": 208000700,
+        "max_stack": 99,
+        "name": "Menacing Wings",
+        "price": {
+            "buy": 200,
+            "sell": 20
+        },
+        "short_desc": "A pair of gold sparkling wings."
+    },
     "280000100": {
         "full_desc": "A crystal without any records contained within it. These crystals are smaller than the crystals in which Visions are bound, but they are absolutely necessary for creating ability crystals. It is common practice to record knowledge, or a skill, in one of these crystals and carry it on one's person. They are in constant demand and sold in most towns. They are also one of the many blessings of the Crystal.",
-        "guide_id": 136,
+        "guide_id": 137,
         "id": 280000100,
         "max_stack": 99,
         "name": "Alcryst",
@@ -1741,7 +2173,7 @@
     },
     "280000200": {
         "full_desc": "A mysterious stone that can produce even more powerful ability crystals than regular alcrysts. No one knows how they are formed or where their light comes from. The relative difficulty of finding these superior specimens means that the number of people who can use the most powerful abilities through them is likewise limited, which some think is for the best.",
-        "guide_id": 137,
+        "guide_id": 138,
         "id": 280000200,
         "max_stack": 99,
         "name": "Fine Alcryst",
@@ -1753,7 +2185,7 @@
     },
     "290010000": {
         "full_desc": "Meat from one of the wild beasts that hunt for prey with nothing but claws and teeth. The flesh of these beasts is not tender, but rather, sinewy and tough. But folklore tells that to consume such meat is to gain those very same characteristics, so many warriors do so in the pursuit of greater strength. To obtain the meat, though, they must battle and defeat fearsome beasts—which in itself must surely toughen the body. Yet who shall question the reasoning of warriors?",
-        "guide_id": 138,
+        "guide_id": 139,
         "id": 290010000,
         "max_stack": 99,
         "name": "Beast Meat",
@@ -1765,7 +2197,7 @@
     },
     "290010100": {
         "full_desc": "A mysterious pearl said to grant knowledge to its owner. Many mages seek these pearls, as they allow them to obtain experience and knowledge of new magicks more quickly than traditional methods, such as the conscientious study of ancient tomes. However, a single pearl cannot hold terribly much knowledge. Simply collecting a handful of novelty baubles will not catapult you ahead on the path to magical excellence; that path is long, and paved with the stones of diligence and hard work.",
-        "guide_id": 139,
+        "guide_id": 140,
         "id": 290010100,
         "max_stack": 99,
         "name": "Pearl of Wisdom",
@@ -1777,7 +2209,7 @@
     },
     "290010200": {
         "full_desc": "A sandy powder that glitters with a mysterious light. This powder is said to draw forth its holders' allure. It can be used to charm enemies due to this ability, but if not used correctly, the effects can rebound upon the user and leave him or her in a state of confusion. It can also be used in fortune telling: cast some into a fire and the flames will change color, based on what lies in the supplicant's heart.",
-        "guide_id": 140,
+        "guide_id": 141,
         "id": 290010200,
         "max_stack": 99,
         "name": "Allure Powder",
@@ -1789,7 +2221,7 @@
     },
     "290020000": {
         "full_desc": "A hardy stone that protects its bearer. Curiously, its structural integrity seems to depend on the resolve of its owner. If the bearer of one of these stones has a strong desire to protect someone, the stone will be so hard as to be almost unbreakable. But if the same stone is passed to an owner with no such wish, it can easily be smashed to dust. For this reason, it seems likely that these stones are often mistaken for ordinary rocks by most people who come across them.",
-        "guide_id": 141,
+        "guide_id": 142,
         "id": 290020000,
         "max_stack": 99,
         "name": "Litrock",
@@ -1801,7 +2233,7 @@
     },
     "290020100": {
         "full_desc": "A seed from a tree bursting with strong life energy. When planted, these seeds sprout into saplings in mere days. They are said to awaken latent abilities in those who hold them, with an especially grand effect on warriors. This is why they have long been sought by warriors who wish to sweep past their every enemy like an unstoppable wave. The ability of these seeds to vitalize the physical body allows such soldiers to fully tap their greatest asset.",
-        "guide_id": 142,
+        "guide_id": 143,
         "id": 290020100,
         "max_stack": 99,
         "name": "Seed of Life",
@@ -1813,7 +2245,7 @@
     },
     "290020200": {
         "full_desc": "A liquid as red as blood, and which wells up suddenly from the ground, an eerie fact that gave rise to tales that it is the tears of a god lamenting the foolishness of humankind. But in these more rational, scientific times, it is generally accepted that this liquid is simply groundwater that has absorbed magical power from the earth. It emboldens the spirit, giving one the strength to fight on, thus making it quite widely sought.",
-        "guide_id": 143,
+        "guide_id": 144,
         "id": 290020200,
         "max_stack": 99,
         "name": "Crimson Tear",
@@ -1825,7 +2257,7 @@
     },
     "290020300": {
         "full_desc": "A mysterious ore that can increase a mage's powers. Unlike regular magicite, which forms when magic itself becomes solid, mage ore is formed when a naturally occurring ore in the ground absorbs magic from its surroundings. It is often unearthed near mines. Being an ore, it is unrefined and comes in many different sizes, and has very little shine. But not only will it warm the hand of any practitioner of magic who takes hold of it, it even changes shape to better fit the curve of his or her palm.",
-        "guide_id": 144,
+        "guide_id": 145,
         "id": 290020300,
         "max_stack": 99,
         "name": "Mystic Ore",
@@ -1837,7 +2269,7 @@
     },
     "290020400": {
         "full_desc": "A blue pearl said to protect the kind-hearted. These pearls will amplify the abilities of those who support or heal their allies using magic. They are often used in sacred rituals at shrines, and acquire their distinctive coloring by being submerged in the purest water and prayed over. An aqua pearl alone will not heal a person's injuries, but they certainly do seem to hold some holy power.",
-        "guide_id": 145,
+        "guide_id": 146,
         "id": 290020400,
         "max_stack": 99,
         "name": "Aqua Pearl",
@@ -1849,7 +2281,7 @@
     },
     "290020500": {
         "full_desc": "A glowing horn said to protect those who fight with magic blades. Its light is thought to be a vestige of the magical power that wild beasts absorb into their horns, to enhance their facility as weapons in battle. The greater this residual power, the brighter the glow. Some are now investigating whether such horns could be used to seal magic away.",
-        "guide_id": 146,
+        "guide_id": 147,
         "id": 290020500,
         "max_stack": 99,
         "name": "Luminous Horn",
@@ -1861,7 +2293,7 @@
     },
     "290020600": {
         "full_desc": "Extremely high-quality parts that can be used in the building of machinery. While modern technology is quite elaborate, as demonstrated by Dilmagea's glorious airships, it is still very difficult to make components as sophisticated as this. This has led to some rather convincing theories that such parts have come to our world from some other one, or are relics of a highly advanced civilization now lost to time.",
-        "guide_id": 147,
+        "guide_id": 148,
         "id": 290020600,
         "max_stack": 99,
         "name": "Quality Parts",
@@ -1873,7 +2305,7 @@
     },
     "290020700": {
         "full_desc": "A needle that shines with every color of the rainbow. These needles make any who hold them appear more attractive to others, and are a popular talisman among those who work in the arts. Clothing sewn with rainbow needles is so beautiful that you cannot tear your eyes away from it. In times past, the needles were used to make haute couture for noblewomen, but now that we know of the magic held within rainbow needles, it has become forbidden to use them in the sartorial arts.",
-        "guide_id": 148,
+        "guide_id": 149,
         "id": 290020700,
         "max_stack": 99,
         "name": "Rainbow Needle",
@@ -1885,7 +2317,7 @@
     },
     "290020800": {
         "full_desc": "A golden egg that can be found in a bird's nest once in a blue moon. These eggs are fantastically nutritious, and are even said to make you more clever if you eat them. No one knows what causes birds to suddenly lay a golden egg, though many researchers have tried in vain to observe the phenomenon. The most resolute naturalist may abandon his watch for the merest moment, only to perceive, immediately upon his return, the unmistakable golden gleam of a fully deposited egg, resting beneath its mother in as smug a way as an egg can manage. These eggs never hatch into chicks, but nor do they ever spoil.",
-        "guide_id": 149,
+        "guide_id": 150,
         "id": 290020800,
         "max_stack": 99,
         "name": "Golden Egg",
@@ -1897,7 +2329,7 @@
     },
     "290020900": {
         "full_desc": "An ancient tome passed down among the faithful of a certain dark god. It tells of the war of the gods, as well as how the world began and how it will end. The entire book is filled with perplexing messages that appear to be some sort of code, and have been interpreted in many and various ways by scholars. It is thought that if you ever did understand everything written in this book, you would lose your mind. It is also sometimes used as a magic tool.",
-        "guide_id": 150,
+        "guide_id": 151,
         "id": 290020900,
         "max_stack": 99,
         "name": "Book of Ruin",
@@ -1909,7 +2341,7 @@
     },
     "290030000": {
         "full_desc": "A crystal formed when the life energy of the earth is condensed into a physical form. These gems represent fertility, and the lands in which they are found are generally very productive. They can also revitalize barren fields to some extent if they are added to the soil. But these effects are only temporary, so farmers hoping to truly rejuvenate their lands still have little choice but to work assiduously to that end.",
-        "guide_id": 151,
+        "guide_id": 152,
         "id": 290030000,
         "max_stack": 99,
         "name": "Earth's Core",
@@ -1921,7 +2353,7 @@
     },
     "290030100": {
         "full_desc": "The ash that is left when branches of spiritwood trees, which stretch upward into the heavens, are burnt. It is notable for its pure white color, unlike that of normal ash. It is filled with holy power and is said to provide protection for those holding out hopes and prayers, and dreaming dreams yet to come true. In some regions, this dust will be scattered in places considered unclean, and rubbed into the cheeks of newborns to protect them from disease.",
-        "guide_id": 152,
+        "guide_id": 153,
         "id": 290030100,
         "max_stack": 99,
         "name": "Heaven's Ash",
@@ -1933,7 +2365,7 @@
     },
     "290030200": {
         "full_desc": "A beautiful and mysterious flower said to bloom on the ocean floor. These flowers expel a hallucinogenic foam and are said to lead astray the sailors whose ships pass over them. Those who experience the hallucinations see many different things, but, be they visions of loved ones or distant homelands, they all recall a keen longing for the past. These blooms will not easily wilt as long as they are kept in water, but once brought onto land, they quickly wither and die.",
-        "guide_id": 153,
+        "guide_id": 154,
         "id": 290030200,
         "max_stack": 99,
         "name": "Deepsea Bloom",
@@ -1945,7 +2377,7 @@
     },
     "290030300": {
         "full_desc": "A scripture that speaks of time, and that is said to have been written to recount to later generations the deeds of the gods whose knowledge goes far beyond human intelligence. According to the scripture, these gods were able to freely manipulate both time and space, and had the ability to seal love, longing, hatred and despair, and other strong emotions, in crystals. Indeed, the scriptures may have been passed down to explain the power which still resides in the crystals we continue to worship.",
-        "guide_id": 154,
+        "guide_id": 155,
         "id": 290030300,
         "max_stack": 99,
         "name": "Scripture of Time",
@@ -1957,7 +2389,7 @@
     },
     "290030400": {
         "full_desc": "When rain or dew drips from a crystal, it forms these power-filled droplets, which are said to give protection to warriors who borrow their strength from other worlds. Espers and other visitors from the Farplane will feel their hopes and wishes strengthened by these stones. Supposedly, when collected in a scrying bowl, the clear liquid within these drops allows one to glimpse distant lands and foreign worlds.",
-        "guide_id": 155,
+        "guide_id": 156,
         "id": 290030400,
         "max_stack": 99,
         "name": "Farplane Dew",
@@ -1967,9 +2399,81 @@
         },
         "short_desc": "Droplets filled with the power of another plane."
     },
+    "290030500": {
+        "full_desc": "A stone believed to grant firm protection to anyone who holds it. There was once an area famous for its production, used in making walls and so forth for important castles. However, the amount produced has began to dwindle as years pass thanks to its wide scale use in construction. Lately, monsters have been spotted carrying them, making defeating one a great chance for someone to get there hands on one of these stones.",
+        "guide_id": 221,
+        "id": 290030500,
+        "max_stack": 99,
+        "name": "Hard Rock",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A stone that offers firm protection."
+    },
+    "290030600": {
+        "full_desc": "An item that is so red it almost looks like it's on fire. Despite it being called a seed, it is much larger than most other normal seeds, and even if you plant it in the ground, it will not sprout. It is said to ease confusion or fear for whoever holds it, but this effect is said to also cause some to fight a bit too recklessly. That being said, it is best kept in the hands of those who have self-control.",
+        "guide_id": 222,
+        "id": 290030600,
+        "max_stack": 99,
+        "name": "Fury Seed",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A seed that promotes fighting strength."
+    },
+    "290030700": {
+        "full_desc": "A liquid consisting of liquified magical power. It is very difficult to use, as it loses its power when used in making equipment and items. Those who have held it say it varies in temperature depending on how much magic power it contains, with high concentrations almost burning like fire to the touch. It is also apparently used in enhancing magical powers.",
+        "guide_id": 223,
+        "id": 290030700,
+        "max_stack": 99,
+        "name": "Wicked Drop",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A liquid that consists of liquified magical power."
+    },
+    "290030800": {
+        "full_desc": "A strange, dimly green shining shard. Often found in places like schools, libraries and research facilities where knowledge is often stored, it is said that these shards may have the ability to draw power from the spirit of inquiry that exists in these places. Originally clear and colorless, they gain a deeper and deeper hue the more powerful they get. It is said that for anyone who is hungry for wisdom, it is only natural for them to search these shards out.",
+        "guide_id": 224,
+        "id": 290030800,
+        "max_stack": 99,
+        "name": "Brilliant Ray",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A shard that gives off a ray of brilliance."
+    },
+    "290030900": {
+        "full_desc": "A sparkling gold seedling. Said to be a good luck charm, it is believed that carrying this around helps to ward off bad luck. They sprout only a few days after being planted, and after a while longer they produce a flower. What's strange about them is that the shape and color of the flower they produce changes depending on who planted them. Why this happens isn't fully understood, but it is that that it might be in response to the potential of the planter.",
+        "guide_id": 225,
+        "id": 290030900,
+        "max_stack": 99,
+        "name": "Lucky Seedling",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A seedling said to bring happiness."
+    },
+    "290031000": {
+        "full_desc": "A box out of which something different comes out every time it is opened. Found all around the world, even though it appears to be a manufactured item, no one can tell what it is or what it is supposed to be used for. Some believe that when it is opened, it activates some sort of magic spell connecting it to another place. This place may produce a vault of gold, but it might also might produce a monster.",
+        "guide_id": 226,
+        "id": 290031000,
+        "max_stack": 99,
+        "name": "Bizarre Box",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A box that looks as if something might pop out of it."
+    },
     "290040000": {
         "full_desc": "A mysterious powder left behind when spirits pass by. If cast into a fire, the flames will burn a brilliant white and reveal both your fears and your future. The sand glows faintly in darkness and so can be used as a light source, or to mark one's path when traversing dark caves. However, it is so valuable and difficult to obtain that almost no one uses it so imprudently.",
-        "guide_id": 156,
+        "guide_id": 157,
         "id": 290040000,
         "max_stack": 99,
         "name": "Spiritsand",
@@ -1981,7 +2485,7 @@
     },
     "290040100": {
         "full_desc": "A mysterious object thought to have been left behind by a god of light. These relics come in many forms, including jars, knives, and even perfectly spherical globes, but none are fully understood. Our current knowledge provides no clue as to how to use them, or even how they were made. Opinions differ on whether their origins are truly divine, but no one disputes the fact that they could not be made using any currently existing technology.",
-        "guide_id": 157,
+        "guide_id": 158,
         "id": 290040100,
         "max_stack": 99,
         "name": "God's Reliquary",
@@ -1993,7 +2497,7 @@
     },
     "290040200": {
         "full_desc": "Dragons have long been worshipped as beings akin to gods, due to their long lives, great knowledge, and overwhelming physical strength. The bodies of the largest specimens hold mysterious powers, and it is speculated that those who consume a dragon's heart will gain great strength and wisdom. Many adventurers, in pursuit of this boon, have challenged dragons and, as a rule, been pulverized by them—ironically demonstrating how badly they needed the very wisdom and strength they were seeking.",
-        "guide_id": 158,
+        "guide_id": 159,
         "id": 290040200,
         "max_stack": 99,
         "name": "Dragon Heart",
@@ -2005,7 +2509,7 @@
     },
     "290040300": {
         "full_desc": "The crystallized tear of an esper. This clear, droplet-shaped stone possesses great power. One would expect no less, since the creature is magic itself given form. These tears are believed to increase the casting power of a magic user many times over. There are tales of espers willingly giving their tears to worthy humans as a symbol of their trust.",
-        "guide_id": 159,
+        "guide_id": 160,
         "id": 290040300,
         "max_stack": 99,
         "name": "Esper's Tear",
@@ -2017,7 +2521,7 @@
     },
     "290040400": {
         "full_desc": "A substance said to contain the very ingredients of life. It can strengthen one's abilities and even deepen one's understanding of existence. There are historical cases of people attempting the forbidden, including the creation of artificial life and the reanimation of the dead, using talmonite. Although these dark experiments ended in failure, such endeavours are now expressly forbidden, and talmonite is a carefully monitored component.",
-        "guide_id": 160,
+        "guide_id": 161,
         "id": 290040400,
         "max_stack": 99,
         "name": "Talmonite of Life",
@@ -2029,7 +2533,7 @@
     },
     "290050100": {
         "full_desc": "A curious crystal said to awaken latent abilities. These small shards contain little power and have no function in isolation, but their power can be tapped in the right circumstances. They do not act upon your physical or magical skill directly, but rather help to clear away your doubts and anxieties, allowing you to view the world with a broader perspective.",
-        "guide_id": 161,
+        "guide_id": 162,
         "id": 290050100,
         "max_stack": 99,
         "name": "Esper Shard",
@@ -2041,7 +2545,7 @@
     },
     "290050200": {
         "full_desc": "A curious crystal said to awaken latent abilities. It serves little purpose on its own, but those possessing certain abilities or items may be able to access its power. This apparent show of whimsy over whom they will help makes some wonder if some sort of intelligence might reside within these objects, but no reliable evidence has been found to support this idea so far.",
-        "guide_id": 162,
+        "guide_id": 163,
         "id": 290050200,
         "max_stack": 99,
         "name": "Esper Cryst",
@@ -2053,7 +2557,7 @@
     },
     "290050300": {
         "full_desc": "When an esper crystal, said to be able to awaken a person's latent abilities, grows particularly large and heavy, the result is one of these holy crystals. They are extremely rare to come across and will not react to an unremarkable human, making your chances of being able to use one (even if you can find one) extremely low. Still, they are said to bestow great power upon those deemed worthy.",
-        "guide_id": 163,
+        "guide_id": 164,
         "id": 290050300,
         "max_stack": 99,
         "name": "Sacred Crystal",
@@ -2065,7 +2569,7 @@
     },
     "290050400": {
         "full_desc": "When an esper crystal, said to be able to awaken a person's latent abilities, grows into its largest form, the result is one of these godly crystals. They are extremely rare to come across and, as with holy crystals, will not react to an unremarkable human. It is said that they call out to those whom they find worthy, and indeed, some who have discovered one of these crystals describe having felt led to it by an unknown power.",
-        "guide_id": 164,
+        "guide_id": 165,
         "id": 290050400,
         "max_stack": 99,
         "name": "Holy Crystal",
@@ -2074,5 +2578,389 @@
             "sell": 400
         },
         "short_desc": "A huge crystal that can awaken latent power."
+    },
+    "290050500": {
+        "full_desc": "A crystal said to awaken dormant powers in anyone who holds it. This perfectly clear stone gives off its own sparkling light. This light is said to strengthen those who have the will to overcome their own limits, however, it is said to weaken those who lack such direction. Due to this characteristic, it is often compared to a mirror, showing the true nature of one's character.",
+        "guide_id": 199,
+        "id": 290050500,
+        "max_stack": 99,
+        "name": "Divine Crystal",
+        "price": {
+            "buy": 7000,
+            "sell": 700
+        },
+        "short_desc": "A beautiful crystal that can awaken dormant powers."
+    },
+    "290060000": {
+        "full_desc": "A secret message inscribed by the king of fairies. There are still various parts that are unreadable, thanks to it being written in fairy letters. It has also been stamped with a special seal by the king of the fairies so that anyone unqualified should try and read it, the letters would dance about the page, making it even more difficult to decipher. Everything in it, including what it's about and even who it's too, remains a mystery.",
+        "guide_id": 200,
+        "id": 290060000,
+        "max_stack": 99,
+        "name": "Fairies' Writ",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A secret message inscribed by the king of fairies."
+    },
+    "290060100": {
+        "full_desc": "A beautiful flower with a rainbow sparkle, not thought to be of this world. Though legends say they once flourished in the paradises of ancient times, they have still been found in recent years. However, they are nowhere near as prevalent as they were said to have been then, and since they die soon after even being replanted, they have become someone more myth than reality as of late.",
+        "guide_id": 201,
+        "id": 290060100,
+        "max_stack": 99,
+        "name": "Rainbow Bloom",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A flower said to bloom in paradise."
+    },
+    "290060200": {
+        "full_desc": "A gem infused with the power of great calamity. These are mainly used by extracting the enormous power held within them which sealed away by a powerful magic spell. The string that wraps around the gem itself is so sturdy that neither sword nor fire can even damage it. However, since the calamitous power held within the gem is known to take control of the hearts of those who come near it, it is said that only those firm of spirit can even hold one.",
+        "guide_id": 202,
+        "id": 290060200,
+        "max_stack": 99,
+        "name": "Calamity Gem",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A gem infused with the power of great calamity."
+    },
+    "290060300": {
+        "full_desc": "A sparkling prismatic horn. These are unsuited for manufacturing as they are incredibly hard. Also, once they've given off all their magic power, they are reduced to dust. Though they were long thought to be from a divine beast, since they've never been witnessed attached to any sort of beast, many now believe they were actually horn-shaped magical spirits. However, there are still many who claim them to be from divine beasts.",
+        "guide_id": 203,
+        "id": 290060300,
+        "max_stack": 99,
+        "name": "Prismatic Horn",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "The sparkling prismatic horn of a divine beast."
+    },
+    "290060400": {
+        "full_desc": "A writ of prophecy left by the ancient. The incredibly high level of civilization achieved by the ancients is apparent everywhere you look, from the ruins that can be seen all around, to the machines they left behind. Some believe there could be clues to why the ancients suddenly vanished in prophecy they left regarding their eventual demise which is still being studied to this day.",
+        "guide_id": 204,
+        "id": 290060400,
+        "max_stack": 99,
+        "name": "Calamity Writ",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A writ of prophecy left by the ancients."
+    },
+    "291000100": {
+        "full_desc": "<na>",
+        "guide_id": 186,
+        "id": 291000100,
+        "max_stack": 99,
+        "name": "Lazareth's Note",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A writ inscribed with the deeds of Lazareth."
+    },
+    "291000200": {
+        "full_desc": "<na>",
+        "guide_id": 187,
+        "id": 291000200,
+        "max_stack": 99,
+        "name": "Iris's Note",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A writ inscribed with the deeds of Iris."
+    },
+    "291000300": {
+        "full_desc": "<na>",
+        "guide_id": 188,
+        "id": 291000300,
+        "max_stack": 99,
+        "name": "Ivan's Note",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A writ inscribed with the deeds of Ivan."
+    },
+    "291000400": {
+        "full_desc": "<na>",
+        "guide_id": 189,
+        "id": 291000400,
+        "max_stack": 99,
+        "name": "Olga's Note",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A writ inscribed with the deeds of Olga."
+    },
+    "291000500": {
+        "full_desc": "<na>",
+        "guide_id": 190,
+        "id": 291000500,
+        "max_stack": 99,
+        "name": "Finnith's Note",
+        "price": {
+            "buy": 4000,
+            "sell": 400
+        },
+        "short_desc": "A writ inscribed with the deeds of Finnith."
+    },
+    "1000000000": {
+        "full_desc": "A massive stone said to rain from the skies in unholy lands. Legend has it that they were used to punish the wicked, which causes some who come across them to question their own deeds.",
+        "guide_id": 9000,
+        "id": 1000000000,
+        "max_stack": 99,
+        "name": "Massive Stone",
+        "price": {
+            "buy": 100,
+            "sell": 10
+        },
+        "short_desc": "A massive stone that glows with power."
+    },
+    "1000000001": {
+        "full_desc": "Though often said to be heartless, demons actually possess incredibly powerful hearts. Necessary to keep their demonic blood flowing, these crimson powerhouses grant whoever obtains one a frightening degree of power.",
+        "guide_id": 9001,
+        "id": 1000000001,
+        "max_stack": 99,
+        "name": "Demon Heart",
+        "price": {
+            "buy": 200,
+            "sell": 20
+        },
+        "short_desc": "A freshly removed demon heart."
+    },
+    "1000000002": {
+        "full_desc": "Deals dark damage to one enemy. This fragile looking bottle contains a small mass of dark energy. Those who dare to carry these should be careful as being too close to one when it breaks is incredibly dangerous. Even shop owners usually refruse to carry these out of fear for their own safety.",
+        "guide_id": 9002,
+        "id": 1000000002,
+        "max_stack": 99,
+        "name": "Void Vessel",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "Deals dark damage to one enemy."
+    },
+    "1000000003": {
+        "full_desc": "A vial full of healing liquid made from various mixtures. While your standard health potion mixes in various herbs and spices, the Y-Potion goes one step further, including pure ether among its ingredients. As a result, the potion gives its user a slight kick as it refreshes them. Its side effects are never fatal, and are usually gastric-related. <br>",
+        "guide_id": 9017,
+        "id": 1000000003,
+        "max_stack": 99,
+        "name": "Y-Potion",
+        "price": {
+            "buy": 4000,
+            "sell": 300
+        },
+        "short_desc": "Restores a significant amount of health to one ally."
+    },
+    "1000000004": {
+        "full_desc": "A vial that greatly reinvigorates exhausted magic users. This concoction’s properties are only known to a small group of court magi in a faraway kingdom. It restores magical energy far more efficiently than other similar potions of its kind. Perhaps this is due to the fact that its method of creation is far more strict and precise.",
+        "guide_id": 9018,
+        "id": 1000000004,
+        "max_stack": 99,
+        "name": "Mega Ether",
+        "price": {
+            "buy": 4000,
+            "sell": 300
+        },
+        "short_desc": "Restores a significant amount of MP to one ally."
+    },
+    "1106300100": {
+        "full_desc": "In honor of King Mog who lives in the Farplane, the people of Lapis would once a year bake festive pastries called mogcakes, and lay them outside of their homes in hopes of appeasing his stellar cravings. Like most cakes, the mogcake requires sugar, eggs, and flour to be mixed together. The lotus seed paste is what sets this delicacy apart. Its unique sweetness is more than enough to bring even the most jaded of food critics to their knees with its divine taste. <br>",
+        "guide_id": 9007,
+        "id": 1106300100,
+        "max_stack": 9999,
+        "name": "Mogcake",
+        "price": {
+            "buy": 100,
+            "sell": 50
+        },
+        "short_desc": "A tasty, tradition-inspired treat."
+    },
+    "1106300101": {
+        "full_desc": "This yellow, orange, and white piece of candy is made from a mixture of sugar, corn syrup, vanilla extract, and marshmallows. People of all ages enjoy this especially during the Halloween season.",
+        "guide_id": 9020,
+        "id": 1106300101,
+        "max_stack": 9999,
+        "name": "Candy Corn",
+        "price": {
+            "buy": 100,
+            "sell": 50
+        },
+        "short_desc": "A bright yellow, orange, and white delicious looking piece of candy."
+    },
+    "1209000100": {
+        "full_desc": "If you ever meet a baker in Grandshelt or Grandport, chances are you’ll see him or her covered head to toe in white powder. Such is the abundant, messy, and pure nature of flour. Much like artists need paint to create art, bakers and breadmakers need flour to craft the most delectable kinds of pastries, pies, and breads, all for the sake of sharing the joy of food to all across Lapis.",
+        "guide_id": 9003,
+        "id": 1209000100,
+        "max_stack": 9999,
+        "name": "Fine Flour",
+        "price": {
+            "buy": 100,
+            "sell": 10
+        },
+        "short_desc": "Fine powder milled from fresh wheat."
+    },
+    "1209000200": {
+        "full_desc": "Faraway tribes who have mastered martial arts are also known for using odd materials as culinary ingredients. Such is the case of the lotus seed paste. Farmers from these tribes would mash down the seeds, then use the resulting paste as an ingredient for their cakes, the most famous of which being the mogcake. No other ingredient can produce the specific kind of sweetness that lotus seed paste offers.<br>",
+        "guide_id": 9004,
+        "id": 1209000200,
+        "max_stack": 9999,
+        "name": "Lotus Seed Paste",
+        "price": {
+            "buy": 100,
+            "sell": 20
+        },
+        "short_desc": "Sticky paste harvested from seeds of lotus plants."
+    },
+    "1209000300": {
+        "full_desc": "Chefs commonly use these as staple ingredients in breakfasts, as well as a base agent for pastries like the mogcake. The methods of preparing and cooking eggs are way too numerous to mention, but any cook worth his or her salt must know, and perfect, at least three methods as a rite of passage to be taken seriously in the kitchen. Incidentally, a recent Grandshelt survey said that the common townsfolk prefers their eggs sunny side up, while those of royalty prefer them soft-boiled. <br>",
+        "guide_id": 9005,
+        "id": 1209000300,
+        "max_stack": 9999,
+        "name": "Brown Egg",
+        "price": {
+            "buy": 100,
+            "sell": 20
+        },
+        "short_desc": "Best when fried, poached, or served sunny side up."
+    },
+    "1209000400": {
+        "full_desc": "A commodity that is arguably more valuable than gold or diamonds, depending on who you are asking. Bags and crates of this stuff are common sights in the ports of Grandshelt, as it is commonly used in daily life, be it for cooking up sweet dishes or as an additive for coffee or tea. Rock sugar can also be used to make an already sweet pastry even sweeter. It can make stellar creations like the mogcake all the more divine. <br>",
+        "guide_id": 9006,
+        "id": 1209000400,
+        "max_stack": 9999,
+        "name": "Coarse Rock Sugar",
+        "price": {
+            "buy": 100,
+            "sell": 20
+        },
+        "short_desc": "Coarse sparkling sugar, sweet to the taste."
+    },
+    "1209000600": {
+        "full_desc": "A finely crafted box made by the moogles for gifting of mogcakes to friends and family. This box can hold 45 mogcakes and will help preserve their freshness. The bright red of the box represents good fortune for the reciever of these gifts.",
+        "guide_id": 9008,
+        "id": 1209000600,
+        "max_stack": 9999,
+        "name": "Standard Mogcake Box",
+        "price": {
+            "buy": 100,
+            "sell": 100
+        },
+        "short_desc": "A specially designed box that can hold a total of 45 delicious mogcakes."
+    },
+    "1209000700": {
+        "full_desc": "A large finely crafted box made by the moogles for gifting of mogcakes to friends and family. This box can hold 540 mogcakes and will help preserve their freshness as well as keep them hot and toasty. The bright red and gold of the box represent luck and good fortune for the reciever of these gifts.",
+        "guide_id": 9009,
+        "id": 1209000700,
+        "max_stack": 9999,
+        "name": "Rare Mogcake Box",
+        "price": {
+            "buy": 100,
+            "sell": 100
+        },
+        "short_desc": "A specially designed box that can hold a total of 540 delicious mogcakes."
+    },
+    "1209000800": {
+        "full_desc": "A huge finely crafted box made by the moogles for gifting of mogcakes to friends and family. The cherry wood box helps enchnace the flavours of the mogcakes and keeps them smelling like they're fresh out of the oven. This box can hold 1,440 mogcakes. The brown and gold of the box represent longitivy and good fortune for the reciever of such gifts.",
+        "guide_id": 9010,
+        "id": 1209000800,
+        "max_stack": 9999,
+        "name": "Premium Mogcake Box",
+        "price": {
+            "buy": 100,
+            "sell": 100
+        },
+        "short_desc": "A specially designed box that can hold a total of 1,440 delicious mogcakes."
+    },
+    "1209000801": {
+        "full_desc": "A common alloy used in manufacturing in Lapis, Stainless Steel is used in everything from eating utensils to fine sturdy weapons. Because of its high tensile strength and low production cost, there is no shortage of men willing to run the mills that produce this metal in keeping up with industry and commercial demand. Industrialists and pioneers are only limited by their imagination when working with this material.",
+        "guide_id": 9012,
+        "id": 1209000801,
+        "max_stack": 99,
+        "name": "Stainless Steel",
+        "price": {
+            "buy": 888,
+            "sell": 88
+        },
+        "short_desc": "Be it pans or swords, this material is essential for everyday crafting."
+    },
+    "1209000802": {
+        "full_desc": "A common alcryst soaked in the blood of the fallen foot soldiers in a great war. These stones were then found by a sheppard, who soon discovered the dark magical propties they held. He then sold it off and was never heard again....",
+        "guide_id": 9013,
+        "id": 1209000802,
+        "max_stack": 99,
+        "name": "Blood Alcryst",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "An alcryst tainted with blood."
+    },
+    "1209000803": {
+        "full_desc": "A stone taken from a colosseum that for decades hosted epic battles. Many great warriors, beasts and heroes have fallen in that colosseum, and its sands and stones has been soaked in the blood of those fallen.",
+        "guide_id": 9014,
+        "id": 1209000803,
+        "max_stack": 99,
+        "name": "Blood Stone",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "A common stone soaked in blood."
+    },
+    "1209000804": {
+        "full_desc": "A group of forward-thinking magi toiled to create a series of magic scrolls able to be wielded even by those not blessed with the power of magic. This particular scroll enhances the magical powers of an entire party, but is itself consumed after a single use.",
+        "guide_id": 9015,
+        "id": 1209000804,
+        "max_stack": 99,
+        "name": "Scroll of Acumen",
+        "price": {
+            "buy": 10000,
+            "sell": 100
+        },
+        "short_desc": "Boost MAG and SPR for all allies"
+    },
+    "1209000805": {
+        "full_desc": "A group of forward-thinking magi toiled to create a series of magic scrolls able to be wielded even by those not blessed with the power of magic. This particular scroll enhances the physical powers of an entire party, but is itself consumed after a single use.",
+        "guide_id": 9016,
+        "id": 1209000805,
+        "max_stack": 99,
+        "name": "Scroll of Vigor",
+        "price": {
+            "buy": 10000,
+            "sell": 100
+        },
+        "short_desc": "Boost ATK and DEF for all allies"
+    },
+    "1209000806": {
+        "full_desc": "This rare stone can only be found on the ground in certain caverns. Though it may seem like an ordinary stone, a trained eye can tell that this is anything but.",
+        "guide_id": 9011,
+        "id": 1209000806,
+        "max_stack": 99,
+        "name": "Cavern Ore",
+        "price": {
+            "buy": 100,
+            "sell": 10
+        },
+        "short_desc": "A rare stone found on the ground of a cavern"
+    },
+    "1209000807": {
+        "full_desc": "The flask contains the blessing of light spirits. Commonly used by pouring it on the ground to ward off evil spirits in the area, it can also be consumed to absorb some of the blessings.",
+        "guide_id": 9019,
+        "id": 1209000807,
+        "max_stack": 99,
+        "name": "Survivor's Flask",
+        "price": {
+            "buy": 100,
+            "sell": 10
+        },
+        "short_desc": "Delays the effects of death declaration for three turns."
     }
 }

@@ -21,7 +21,7 @@
         }
     },
     "504010020": {
-        "full_desc": "Recovers HP for one ally.",
+        "full_desc": "Restores HP for one ally.",
         "guide_id": 2,
         "id": 504010020,
         "max_stack": 99,
@@ -30,7 +30,7 @@
             "buy": 1000,
             "sell": 100
         },
-        "short_desc": "Recover HP for one ally",
+        "short_desc": "Restore HP for one ally",
         "skills": {
             "abilities": [],
             "magic": [
@@ -126,8 +126,8 @@
         }
     },
     "504010070": {
-        "full_desc": "Recovers HP for all allies.",
-        "guide_id": 7,
+        "full_desc": "Restores HP for all allies.",
+        "guide_id": 109,
         "id": 504010070,
         "max_stack": 99,
         "name": "Cura",
@@ -135,7 +135,7 @@
             "buy": 5000,
             "sell": 500
         },
-        "short_desc": "Recover HP for all allies",
+        "short_desc": "Restore HP for all allies",
         "skills": {
             "abilities": [],
             "magic": [
@@ -148,7 +148,7 @@
     },
     "504010080": {
         "full_desc": "Cures paralysis for one ally.",
-        "guide_id": 8,
+        "guide_id": 7,
         "id": 504010080,
         "max_stack": 99,
         "name": "Paralyna",
@@ -169,7 +169,7 @@
     },
     "504010090": {
         "full_desc": "Cures stone for one ally.",
-        "guide_id": 9,
+        "guide_id": 8,
         "id": 504010090,
         "max_stack": 99,
         "name": "Stona",
@@ -177,7 +177,7 @@
             "buy": 5000,
             "sell": 500
         },
-        "short_desc": "Cure one ally of petrification",
+        "short_desc": "Cure one ally of petrifaction",
         "skills": {
             "abilities": [],
             "magic": [
@@ -189,8 +189,8 @@
         }
     },
     "504010110": {
-        "full_desc": "Removes all status ailments for one ally.",
-        "guide_id": 11,
+        "full_desc": "Cures all status ailments for one ally.",
+        "guide_id": 9,
         "id": 504010110,
         "max_stack": 99,
         "name": "Esuna",
@@ -198,7 +198,7 @@
             "buy": 8000,
             "sell": 800
         },
-        "short_desc": "Remove all status ailments for one ally",
+        "short_desc": "Cure all status ailments for one ally",
         "skills": {
             "abilities": [],
             "magic": [
@@ -211,7 +211,7 @@
     },
     "504010120": {
         "full_desc": "Gradually regenerates HP for one ally.",
-        "guide_id": 12,
+        "guide_id": 10,
         "id": 504010120,
         "max_stack": 99,
         "name": "Regen",
@@ -230,9 +230,30 @@
             ]
         }
     },
+    "504010130": {
+        "full_desc": "Removes all status effects for one enemy.",
+        "guide_id": 124,
+        "id": 504010130,
+        "max_stack": 99,
+        "name": "Dispel",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "Remove all status effects for one enemy",
+        "skills": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10130",
+                    "name": "Dispel"
+                }
+            ]
+        }
+    },
     "504010140": {
         "full_desc": "Cures disease for one ally.",
-        "guide_id": 14,
+        "guide_id": 11,
         "id": 504010140,
         "max_stack": 99,
         "name": "Cleanse",
@@ -251,9 +272,30 @@
             ]
         }
     },
+    "504010150": {
+        "full_desc": "Restores HP for one ally.",
+        "guide_id": 135,
+        "id": 504010150,
+        "max_stack": 99,
+        "name": "Curaga",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "Restore HP for one ally",
+        "skills": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10150",
+                    "name": "Curaga"
+                }
+            ]
+        }
+    },
     "504010210": {
         "full_desc": "Deals light damage to one enemy.",
-        "guide_id": 21,
+        "guide_id": 12,
         "id": 504010210,
         "max_stack": 99,
         "name": "Holy",
@@ -274,7 +316,7 @@
     },
     "504020010": {
         "full_desc": "Deals fire damage to one enemy.",
-        "guide_id": 23,
+        "guide_id": 13,
         "id": 504020010,
         "max_stack": 99,
         "name": "Fire",
@@ -295,7 +337,7 @@
     },
     "504020020": {
         "full_desc": "Deals ice damage to one enemy.",
-        "guide_id": 24,
+        "guide_id": 14,
         "id": 504020020,
         "max_stack": 99,
         "name": "Blizzard",
@@ -316,7 +358,7 @@
     },
     "504020030": {
         "full_desc": "Deals lightning damage to one enemy.",
-        "guide_id": 25,
+        "guide_id": 15,
         "id": 504020030,
         "max_stack": 99,
         "name": "Thunder",
@@ -337,7 +379,7 @@
     },
     "504020040": {
         "full_desc": "Deals water damage to one enemy.",
-        "guide_id": 26,
+        "guide_id": 16,
         "id": 504020040,
         "max_stack": 99,
         "name": "Water",
@@ -358,7 +400,7 @@
     },
     "504020050": {
         "full_desc": "Deals wind damage to one enemy.",
-        "guide_id": 27,
+        "guide_id": 17,
         "id": 504020050,
         "max_stack": 99,
         "name": "Aero",
@@ -379,7 +421,7 @@
     },
     "504020060": {
         "full_desc": "Deals earth damage to one enemy.",
-        "guide_id": 28,
+        "guide_id": 18,
         "id": 504020060,
         "max_stack": 99,
         "name": "Stone",
@@ -400,7 +442,7 @@
     },
     "504020070": {
         "full_desc": "Deals dark damage to one enemy, and poisons them.",
-        "guide_id": 29,
+        "guide_id": 19,
         "id": 504020070,
         "max_stack": 99,
         "name": "Bio",
@@ -421,7 +463,7 @@
     },
     "504020080": {
         "full_desc": "Deals fire damage to all enemies.",
-        "guide_id": 30,
+        "guide_id": 20,
         "id": 504020080,
         "max_stack": 99,
         "name": "Fira",
@@ -442,7 +484,7 @@
     },
     "504020090": {
         "full_desc": "Deals ice damage to all enemies.",
-        "guide_id": 31,
+        "guide_id": 21,
         "id": 504020090,
         "max_stack": 99,
         "name": "Blizzara",
@@ -463,7 +505,7 @@
     },
     "504020100": {
         "full_desc": "Deals lightning damage to all enemies.",
-        "guide_id": 32,
+        "guide_id": 22,
         "id": 504020100,
         "max_stack": 99,
         "name": "Thundara",
@@ -484,7 +526,7 @@
     },
     "504020110": {
         "full_desc": "Deals water damage to all enemies.",
-        "guide_id": 33,
+        "guide_id": 23,
         "id": 504020110,
         "max_stack": 99,
         "name": "Watera",
@@ -505,7 +547,7 @@
     },
     "504020120": {
         "full_desc": "Deals wind damage to all enemies.",
-        "guide_id": 34,
+        "guide_id": 24,
         "id": 504020120,
         "max_stack": 99,
         "name": "Aerora",
@@ -526,7 +568,7 @@
     },
     "504020130": {
         "full_desc": "Deals earth damage to all enemies.",
-        "guide_id": 35,
+        "guide_id": 25,
         "id": 504020130,
         "max_stack": 99,
         "name": "Stonra",
@@ -547,7 +589,7 @@
     },
     "504020150": {
         "full_desc": "Deals damage to one enemy equal to half their current HP.",
-        "guide_id": 37,
+        "guide_id": 26,
         "id": 504020150,
         "max_stack": 99,
         "name": "Gravity",
@@ -568,7 +610,7 @@
     },
     "504020160": {
         "full_desc": "Drains HP from one enemy.",
-        "guide_id": 38,
+        "guide_id": 27,
         "id": 504020160,
         "max_stack": 99,
         "name": "Drain",
@@ -589,7 +631,7 @@
     },
     "504020170": {
         "full_desc": "Deals damage to one enemy and boosts power.",
-        "guide_id": 39,
+        "guide_id": 105,
         "id": 504020170,
         "max_stack": 99,
         "name": "Comet",
@@ -610,7 +652,7 @@
     },
     "504020180": {
         "full_desc": "Deals dark damage to all enemies, and poisons them.",
-        "guide_id": 40,
+        "guide_id": 28,
         "id": 504020180,
         "max_stack": 99,
         "name": "Biora",
@@ -631,7 +673,7 @@
     },
     "504020200": {
         "full_desc": "Deals fire damage to all enemies.",
-        "guide_id": 42,
+        "guide_id": 29,
         "id": 504020200,
         "max_stack": 99,
         "name": "Firaga",
@@ -652,7 +694,7 @@
     },
     "504020210": {
         "full_desc": "Deals ice damage to all enemies.",
-        "guide_id": 43,
+        "guide_id": 30,
         "id": 504020210,
         "max_stack": 99,
         "name": "Blizzaga",
@@ -673,7 +715,7 @@
     },
     "504020220": {
         "full_desc": "Deals lightning damage to all enemies.",
-        "guide_id": 44,
+        "guide_id": 31,
         "id": 504020220,
         "max_stack": 99,
         "name": "Thundaga",
@@ -694,7 +736,7 @@
     },
     "504020350": {
         "full_desc": "Deals fire damage to one enemy, and reduces their water resistance.",
-        "guide_id": 57,
+        "guide_id": 32,
         "id": 504020350,
         "max_stack": 99,
         "name": "Flare",
@@ -715,7 +757,7 @@
     },
     "504020430": {
         "full_desc": "Deals magic damage partially unaffected by magic defense to all enemies.",
-        "guide_id": 65,
+        "guide_id": 104,
         "id": 504020430,
         "max_stack": 99,
         "name": "Meteor",
@@ -736,7 +778,7 @@
     },
     "504020440": {
         "full_desc": "Deals magic damage unaffected by magic defense to all enemies.",
-        "guide_id": 66,
+        "guide_id": 33,
         "id": 504020440,
         "max_stack": 99,
         "name": "Ultima",
@@ -757,7 +799,7 @@
     },
     "504030010": {
         "full_desc": "Puts one enemy to sleep.",
-        "guide_id": 67,
+        "guide_id": 34,
         "id": 504030010,
         "max_stack": 99,
         "name": "Sleep",
@@ -778,7 +820,7 @@
     },
     "504030020": {
         "full_desc": "Blinds one enemy.",
-        "guide_id": 68,
+        "guide_id": 35,
         "id": 504030020,
         "max_stack": 99,
         "name": "Blind",
@@ -799,7 +841,7 @@
     },
     "504030030": {
         "full_desc": "Boosts fire resistance for one ally.",
-        "guide_id": 69,
+        "guide_id": 36,
         "id": 504030030,
         "max_stack": 99,
         "name": "Barfire",
@@ -820,7 +862,7 @@
     },
     "504030040": {
         "full_desc": "Boosts ice resistance for one ally.",
-        "guide_id": 70,
+        "guide_id": 37,
         "id": 504030040,
         "max_stack": 99,
         "name": "Barblizzard",
@@ -841,7 +883,7 @@
     },
     "504030050": {
         "full_desc": "Boosts lightning resistance for one ally.",
-        "guide_id": 71,
+        "guide_id": 38,
         "id": 504030050,
         "max_stack": 99,
         "name": "Barthunder",
@@ -862,7 +904,7 @@
     },
     "504030060": {
         "full_desc": "Boosts water resistance for one ally.",
-        "guide_id": 72,
+        "guide_id": 39,
         "id": 504030060,
         "max_stack": 99,
         "name": "Barwater",
@@ -883,7 +925,7 @@
     },
     "504030070": {
         "full_desc": "Boosts wind resistance for one ally.",
-        "guide_id": 73,
+        "guide_id": 40,
         "id": 504030070,
         "max_stack": 99,
         "name": "Baraero",
@@ -904,7 +946,7 @@
     },
     "504030080": {
         "full_desc": "Boosts earth resistance for one ally.",
-        "guide_id": 74,
+        "guide_id": 41,
         "id": 504030080,
         "max_stack": 99,
         "name": "Barstone",
@@ -925,7 +967,7 @@
     },
     "504030090": {
         "full_desc": "Boosts DEF for one ally.",
-        "guide_id": 439,
+        "guide_id": 106,
         "id": 504030090,
         "max_stack": 99,
         "name": "Protect",
@@ -946,7 +988,7 @@
     },
     "504030100": {
         "full_desc": "Silences one enemy.",
-        "guide_id": 76,
+        "guide_id": 42,
         "id": 504030100,
         "max_stack": 99,
         "name": "Silence",
@@ -967,7 +1009,7 @@
     },
     "504030110": {
         "full_desc": "Boosts fire resistance for all allies.",
-        "guide_id": 77,
+        "guide_id": 43,
         "id": 504030110,
         "max_stack": 99,
         "name": "Barfira",
@@ -988,7 +1030,7 @@
     },
     "504030120": {
         "full_desc": "Boosts ice resistance for all allies.",
-        "guide_id": 78,
+        "guide_id": 44,
         "id": 504030120,
         "max_stack": 99,
         "name": "Barblizzara",
@@ -1009,7 +1051,7 @@
     },
     "504030130": {
         "full_desc": "Boosts lightning resistance for all allies.",
-        "guide_id": 79,
+        "guide_id": 45,
         "id": 504030130,
         "max_stack": 99,
         "name": "Barthundara",
@@ -1030,7 +1072,7 @@
     },
     "504030140": {
         "full_desc": "Boosts SPR for one ally.",
-        "guide_id": 80,
+        "guide_id": 46,
         "id": 504030140,
         "max_stack": 99,
         "name": "Shell",
@@ -1051,7 +1093,7 @@
     },
     "504030150": {
         "full_desc": "Reduces DEF for one enemy.",
-        "guide_id": 81,
+        "guide_id": 47,
         "id": 504030150,
         "max_stack": 99,
         "name": "Deprotect",
@@ -1072,7 +1114,7 @@
     },
     "504030160": {
         "full_desc": "Reduces SPR for one enemy.",
-        "guide_id": 82,
+        "guide_id": 48,
         "id": 504030160,
         "max_stack": 99,
         "name": "Deshell",
@@ -1093,7 +1135,7 @@
     },
     "504030170": {
         "full_desc": "Boosts water resistance for all allies.",
-        "guide_id": 83,
+        "guide_id": 49,
         "id": 504030170,
         "max_stack": 99,
         "name": "Barwatera",
@@ -1114,7 +1156,7 @@
     },
     "504030180": {
         "full_desc": "Boosts wind resistance for all allies.",
-        "guide_id": 84,
+        "guide_id": 50,
         "id": 504030180,
         "max_stack": 99,
         "name": "Baraerora",
@@ -1135,7 +1177,7 @@
     },
     "504030190": {
         "full_desc": "Boosts earth resistance for all allies.",
-        "guide_id": 85,
+        "guide_id": 51,
         "id": 504030190,
         "max_stack": 99,
         "name": "Barstonra",
@@ -1156,7 +1198,7 @@
     },
     "504030210": {
         "full_desc": "Boosts ATK for one ally.",
-        "guide_id": 442,
+        "guide_id": 112,
         "id": 504030210,
         "max_stack": 99,
         "name": "Bravery",
@@ -1175,9 +1217,30 @@
             ]
         }
     },
+    "504030220": {
+        "full_desc": "Boosts MAG for one ally.",
+        "guide_id": 125,
+        "id": 504030220,
+        "max_stack": 99,
+        "name": "Faith",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "Boost MAG for one ally",
+        "skills": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30220",
+                    "name": "Faith"
+                }
+            ]
+        }
+    },
     "504100010": {
         "full_desc": "Boosts HP by 10%.",
-        "guide_id": 145,
+        "guide_id": 52,
         "id": 504100010,
         "max_stack": 99,
         "name": "HP +10%",
@@ -1196,9 +1259,30 @@
             "magic": []
         }
     },
+    "504100030": {
+        "full_desc": "Boosts HP by 30%.",
+        "guide_id": 122,
+        "id": 504100030,
+        "max_stack": 99,
+        "name": "HP +30%",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "Boost HP by 30%",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100030",
+                    "name": "HP +30%"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504100040": {
         "full_desc": "Boosts MP by 10%.",
-        "guide_id": 148,
+        "guide_id": 53,
         "id": 504100040,
         "max_stack": 99,
         "name": "MP +10%",
@@ -1219,7 +1303,7 @@
     },
     "504100050": {
         "full_desc": "Boosts MP by 20%.",
-        "guide_id": 149,
+        "guide_id": 54,
         "id": 504100050,
         "max_stack": 99,
         "name": "MP +20%",
@@ -1240,7 +1324,7 @@
     },
     "504100060": {
         "full_desc": "Boosts MP by 30%.",
-        "guide_id": 445,
+        "guide_id": 115,
         "id": 504100060,
         "max_stack": 99,
         "name": "MP +30%",
@@ -1261,7 +1345,7 @@
     },
     "504100070": {
         "full_desc": "Boosts ATK by 10%.",
-        "guide_id": 151,
+        "guide_id": 55,
         "id": 504100070,
         "max_stack": 99,
         "name": "ATK +10%",
@@ -1282,7 +1366,7 @@
     },
     "504100080": {
         "full_desc": "Boosts ATK by 20%.",
-        "guide_id": 152,
+        "guide_id": 998,
         "id": 504100080,
         "max_stack": 99,
         "name": "ATK +20%",
@@ -1303,7 +1387,7 @@
     },
     "504100090": {
         "full_desc": "Boosts ATK by 30%.",
-        "guide_id": 443,
+        "guide_id": 113,
         "id": 504100090,
         "max_stack": 99,
         "name": "ATK +30%",
@@ -1324,7 +1408,7 @@
     },
     "504100100": {
         "full_desc": "Boosts MAG by 10%.",
-        "guide_id": 444,
+        "guide_id": 114,
         "id": 504100100,
         "max_stack": 99,
         "name": "MAG +10%",
@@ -1345,7 +1429,7 @@
     },
     "504100120": {
         "full_desc": "Boosts MAG by 30%.",
-        "guide_id": 156,
+        "guide_id": 56,
         "id": 504100120,
         "max_stack": 99,
         "name": "MAG +30%",
@@ -1366,7 +1450,7 @@
     },
     "504100130": {
         "full_desc": "Boosts DEF by 10%.",
-        "guide_id": 157,
+        "guide_id": 110,
         "id": 504100130,
         "max_stack": 99,
         "name": "DEF +10%",
@@ -1387,7 +1471,7 @@
     },
     "504100160": {
         "full_desc": "Boosts SPR by 10%.",
-        "guide_id": 437,
+        "guide_id": 107,
         "id": 504100160,
         "max_stack": 99,
         "name": "SPR +10%",
@@ -1406,9 +1490,30 @@
             "magic": []
         }
     },
+    "504100190": {
+        "full_desc": "Boosts esper parameters by 10% when evoking.",
+        "guide_id": 136,
+        "id": 504100190,
+        "max_stack": 99,
+        "name": "EVO MAG +10%",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "Boost esper parameters by 10% when evoking",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100190",
+                    "name": "EVO MAG +10%"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504100750": {
         "full_desc": "Fills limit burst gauge each turn during battle.",
-        "guide_id": 219,
+        "guide_id": 57,
         "id": 504100750,
         "max_stack": 99,
         "name": "Auto-Limit",
@@ -1429,7 +1534,7 @@
     },
     "504100760": {
         "full_desc": "Enables unit to equip short swords.",
-        "guide_id": 220,
+        "guide_id": 58,
         "id": 504100760,
         "max_stack": 99,
         "name": "Equip S Sword",
@@ -1450,7 +1555,7 @@
     },
     "504100780": {
         "full_desc": "Enables unit to equip large swords.",
-        "guide_id": 222,
+        "guide_id": 59,
         "id": 504100780,
         "max_stack": 99,
         "name": "Equip L Sword",
@@ -1471,7 +1576,7 @@
     },
     "504100800": {
         "full_desc": "Enables unit to equip staves.",
-        "guide_id": 224,
+        "guide_id": 60,
         "id": 504100800,
         "max_stack": 99,
         "name": "Equip Staff",
@@ -1492,7 +1597,7 @@
     },
     "504100820": {
         "full_desc": "Enables unit to equip bows.",
-        "guide_id": 440,
+        "guide_id": 111,
         "id": 504100820,
         "max_stack": 99,
         "name": "Equip Bow",
@@ -1511,9 +1616,51 @@
             "magic": []
         }
     },
+    "504100830": {
+        "full_desc": "Enables unit to equip axes.",
+        "guide_id": 123,
+        "id": 504100830,
+        "max_stack": 99,
+        "name": "Equip Axe",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "Can equip axes",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100830",
+                    "name": "Equip Axe"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504100850": {
+        "full_desc": "Enables unit to equip spears.",
+        "guide_id": 143,
+        "id": 504100850,
+        "max_stack": 99,
+        "name": "Equip Spear",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "Can equip spears",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100850",
+                    "name": "Equip Spear"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504100940": {
         "full_desc": "Enables unit to equip heavy armor.",
-        "guide_id": 238,
+        "guide_id": 61,
         "id": 504100940,
         "max_stack": 99,
         "name": "Equip H Armor",
@@ -1532,9 +1679,72 @@
             "magic": []
         }
     },
+    "504100960": {
+        "full_desc": "Enables unit to equip hats.",
+        "guide_id": 126,
+        "id": 504100960,
+        "max_stack": 99,
+        "name": "Equip Hat",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "Can equip hats",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100960",
+                    "name": "Equip Hat"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504100990": {
+        "full_desc": "Enables unit to equip heavy shields.",
+        "guide_id": 133,
+        "id": 504100990,
+        "max_stack": 99,
+        "name": "Equip H Shield",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "Can equip heavy shields",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100990",
+                    "name": "Equip H Shield"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504101000": {
+        "full_desc": "Boosts damage inflicted on plant monsters.",
+        "guide_id": 137,
+        "id": 504101000,
+        "max_stack": 99,
+        "name": "Plant Killer",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "Boosts damage against plant monsters",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101000",
+                    "name": "Plant Killer"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504101010": {
         "full_desc": "Boosts damage inflicted on stone monsters.",
-        "guide_id": 245,
+        "guide_id": 62,
         "id": 504101010,
         "max_stack": 99,
         "name": "Stone Killer",
@@ -1555,7 +1765,7 @@
     },
     "504101020": {
         "full_desc": "Boosts damage inflicted on bug monsters.",
-        "guide_id": 438,
+        "guide_id": 108,
         "id": 504101020,
         "max_stack": 99,
         "name": "Bug Killer",
@@ -1576,7 +1786,7 @@
     },
     "504101030": {
         "full_desc": "Boosts damage inflicted on mechanical monsters.",
-        "guide_id": 247,
+        "guide_id": 63,
         "id": 504101030,
         "max_stack": 99,
         "name": "Machine Killer",
@@ -1597,7 +1807,7 @@
     },
     "504101050": {
         "full_desc": "Boosts damage inflicted on dragons.",
-        "guide_id": 249,
+        "guide_id": 64,
         "id": 504101050,
         "max_stack": 99,
         "name": "Dragon Killer",
@@ -1616,9 +1826,30 @@
             "magic": []
         }
     },
+    "504101100": {
+        "full_desc": "Boosts damage inflicted to undead monsters.",
+        "guide_id": 127,
+        "id": 504101100,
+        "max_stack": 99,
+        "name": "Spirit Slayer",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "Boost damage against spirit monsters",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101100",
+                    "name": "Spirit Slayer"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504101110": {
         "full_desc": "Boosts damage inflicted on aquatic monsters.",
-        "guide_id": 255,
+        "guide_id": 65,
         "id": 504101110,
         "max_stack": 99,
         "name": "Aquan Killer",
@@ -1639,7 +1870,7 @@
     },
     "504101170": {
         "full_desc": "Adds a chance of taking physical damage for an ally.",
-        "guide_id": 261,
+        "guide_id": 66,
         "id": 504101170,
         "max_stack": 99,
         "name": "Cover",
@@ -1660,7 +1891,7 @@
     },
     "504101200": {
         "full_desc": "Adds chance of countering a physical attack.",
-        "guide_id": 264,
+        "guide_id": 67,
         "id": 504101200,
         "max_stack": 99,
         "name": "Counter",
@@ -1681,7 +1912,7 @@
     },
     "504101230": {
         "full_desc": "Adds chance of evading physical attacks.",
-        "guide_id": 267,
+        "guide_id": 68,
         "id": 504101230,
         "max_stack": 99,
         "name": "Evade",
@@ -1701,8 +1932,8 @@
         }
     },
     "504101350": {
-        "full_desc": "Decreases likeliness of being targeted.",
-        "guide_id": 279,
+        "full_desc": "Decreases chance of being targeted.",
+        "guide_id": 69,
         "id": 504101350,
         "max_stack": 99,
         "name": "Camouflage",
@@ -1710,7 +1941,7 @@
             "buy": 15000,
             "sell": 1500
         },
-        "short_desc": "Decrease likeliness of being targeted",
+        "short_desc": "Decrease chance of being targeted",
         "skills": {
             "abilities": [
                 {
@@ -1722,8 +1953,8 @@
         }
     },
     "504101360": {
-        "full_desc": "Boosts ATK when equipped only with a sword, katana, axe, or hammer.",
-        "guide_id": 280,
+        "full_desc": "Boosts ATK when equipped with a sword, katana, axe, or hammer.",
+        "guide_id": 70,
         "id": 504101360,
         "max_stack": 99,
         "name": "Doublehand",
@@ -1744,7 +1975,7 @@
     },
     "504101370": {
         "full_desc": "Enables unit to equip any two weapons other than bows and harps.",
-        "guide_id": 281,
+        "guide_id": 71,
         "id": 504101370,
         "max_stack": 99,
         "name": "Dual Wield",
@@ -1763,9 +1994,30 @@
             "magic": []
         }
     },
+    "504101500": {
+        "full_desc": "Boosts HP by 15%.",
+        "guide_id": 119,
+        "id": 504101500,
+        "max_stack": 99,
+        "name": "HP +15%",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "short_desc": "Boost HP by 15%",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101500",
+                    "name": "HP +15%"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504200010": {
         "full_desc": "Steals items from enemies.",
-        "guide_id": 294,
+        "guide_id": 72,
         "id": 504200010,
         "max_stack": 99,
         "name": "Steal",
@@ -1786,7 +2038,7 @@
     },
     "504200030": {
         "full_desc": "Steals gil from enemies.",
-        "guide_id": 296,
+        "guide_id": 73,
         "id": 504200030,
         "max_stack": 99,
         "name": "Pilfer",
@@ -1807,7 +2059,7 @@
     },
     "504200090": {
         "full_desc": "Enables unit to use drinkable items.",
-        "guide_id": 302,
+        "guide_id": 74,
         "id": 504200090,
         "max_stack": 99,
         "name": "Drink",
@@ -1815,7 +2067,7 @@
             "buy": 5000,
             "sell": 500
         },
-        "short_desc": "Allow use drinkable items",
+        "short_desc": "Allow use of drinkable items",
         "skills": {
             "abilities": [
                 {
@@ -1828,7 +2080,7 @@
     },
     "504200120": {
         "full_desc": "Boosts DEF for caster.",
-        "guide_id": 305,
+        "guide_id": 75,
         "id": 504200120,
         "max_stack": 99,
         "name": "Brace",
@@ -1847,9 +2099,30 @@
             "magic": []
         }
     },
+    "504200150": {
+        "full_desc": "Enables unit to use magic (excluding blue magic) twice in one turn.",
+        "guide_id": 134,
+        "id": 504200150,
+        "max_stack": 99,
+        "name": "Dualcast",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Use magic twice in one turn",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "200150",
+                    "name": "Dualcast"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504200180": {
         "full_desc": "Enables unit to use throwable items.",
-        "guide_id": 311,
+        "guide_id": 76,
         "id": 504200180,
         "max_stack": 99,
         "name": "Throw",
@@ -1870,7 +2143,7 @@
     },
     "504200210": {
         "full_desc": "Decreases DEF but boosts the power of normal attack for the caster for next turn. Power increases with use.",
-        "guide_id": 314,
+        "guide_id": 77,
         "id": 504200210,
         "max_stack": 99,
         "name": "Store",
@@ -1890,8 +2163,8 @@
         }
     },
     "504200230": {
-        "full_desc": "Deals damage unaffected by defense to one enemy.",
-        "guide_id": 316,
+        "full_desc": "Deals damage unaffected by DEF to one enemy.",
+        "guide_id": 78,
         "id": 504200230,
         "max_stack": 99,
         "name": "Raging Fist",
@@ -1912,7 +2185,7 @@
     },
     "504200250": {
         "full_desc": "Allows the party to escape from most enemies.",
-        "guide_id": 318,
+        "guide_id": 79,
         "id": 504200250,
         "max_stack": 99,
         "name": "Escape",
@@ -1933,7 +2206,7 @@
     },
     "504200310": {
         "full_desc": "Randomly selects targets from all enemies and deals damage four times.",
-        "guide_id": 324,
+        "guide_id": 80,
         "id": 504200310,
         "max_stack": 99,
         "name": "Barrage",
@@ -1954,10 +2227,10 @@
     },
     "504200320": {
         "full_desc": "Deals damage to one enemy.",
-        "guide_id": 325,
+        "guide_id": 81,
         "id": 504200320,
         "max_stack": 99,
-        "name": "Tranquility",
+        "name": "Mirror of Equity",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1967,7 +2240,7 @@
             "abilities": [
                 {
                     "id": "200320",
-                    "name": "Tranquility"
+                    "name": "Mirror of Equity"
                 }
             ],
             "magic": []
@@ -1975,7 +2248,7 @@
     },
     "504200390": {
         "full_desc": "Deals damage to one enemy.",
-        "guide_id": 332,
+        "guide_id": 82,
         "id": 504200390,
         "max_stack": 99,
         "name": "Aim",
@@ -1996,7 +2269,7 @@
     },
     "504200440": {
         "full_desc": "Deals damage to all enemies.",
-        "guide_id": 337,
+        "guide_id": 83,
         "id": 504200440,
         "max_stack": 99,
         "name": "Bladeblitz",
@@ -2017,7 +2290,7 @@
     },
     "504200510": {
         "full_desc": "Deals fire damage to one enemy.",
-        "guide_id": 344,
+        "guide_id": 84,
         "id": 504200510,
         "max_stack": 99,
         "name": "Fire Blade",
@@ -2038,7 +2311,7 @@
     },
     "504200520": {
         "full_desc": "Deals ice damage to one enemy.",
-        "guide_id": 345,
+        "guide_id": 85,
         "id": 504200520,
         "max_stack": 99,
         "name": "Blizzard Blade",
@@ -2057,9 +2330,30 @@
             "magic": []
         }
     },
+    "504200540": {
+        "full_desc": "Deals damage to one enemy, and puts them to sleep.",
+        "guide_id": 128,
+        "id": 504200540,
+        "max_stack": 99,
+        "name": "Sleep Blade",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "short_desc": "Damage and put one enemy to sleep",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "200540",
+                    "name": "Sleep Blade"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504200550": {
         "full_desc": "Deals damage to one enemy, and silences them.",
-        "guide_id": 348,
+        "guide_id": 86,
         "id": 504200550,
         "max_stack": 99,
         "name": "Silence Blade",
@@ -2080,7 +2374,7 @@
     },
     "504200560": {
         "full_desc": "Deals water damage to one enemy.",
-        "guide_id": 349,
+        "guide_id": 87,
         "id": 504200560,
         "max_stack": 99,
         "name": "Water Blade",
@@ -2099,9 +2393,30 @@
             "magic": []
         }
     },
+    "504200570": {
+        "full_desc": "Deals wind damage to one enemy.",
+        "guide_id": 129,
+        "id": 504200570,
+        "max_stack": 99,
+        "name": "Aero Blade",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "short_desc": "Wind damage to one enemy",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "200570",
+                    "name": "Aero Blade"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504200580": {
         "full_desc": "Deals earth damage to one enemy.",
-        "guide_id": 351,
+        "guide_id": 88,
         "id": 504200580,
         "max_stack": 99,
         "name": "Stone Blade",
@@ -2122,7 +2437,7 @@
     },
     "504200590": {
         "full_desc": "Deals damage to one enemy, and blinds them.",
-        "guide_id": 352,
+        "guide_id": 89,
         "id": 504200590,
         "max_stack": 99,
         "name": "Blind Blade",
@@ -2143,7 +2458,7 @@
     },
     "504200600": {
         "full_desc": "Deals dark damage to one enemy, and poisons them.",
-        "guide_id": 353,
+        "guide_id": 90,
         "id": 504200600,
         "max_stack": 99,
         "name": "Bio Blade",
@@ -2162,9 +2477,51 @@
             "magic": []
         }
     },
+    "504200640": {
+        "full_desc": "Deals water damage to one enemy.",
+        "guide_id": 138,
+        "id": 504200640,
+        "max_stack": 99,
+        "name": "Watera Blade",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "Water damage to one enemy",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "200640",
+                    "name": "Watera Blade"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504200660": {
+        "full_desc": "Deals earth damage to one enemy.",
+        "guide_id": 120,
+        "id": 504200660,
+        "max_stack": 99,
+        "name": "Stonra Blade",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "Earth damage to one enemy",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "200660",
+                    "name": "Stonra Blade"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504200670": {
         "full_desc": "Drains HP from one enemy.",
-        "guide_id": 360,
+        "guide_id": 91,
         "id": 504200670,
         "max_stack": 99,
         "name": "Drain Blade",
@@ -2185,7 +2542,7 @@
     },
     "504200720": {
         "full_desc": "Deals lightning damage to one enemy.",
-        "guide_id": 365,
+        "guide_id": 92,
         "id": 504200720,
         "max_stack": 99,
         "name": "Thundaga Blade",
@@ -2206,7 +2563,7 @@
     },
     "504200760": {
         "full_desc": "Deals dark damage to one enemy, and poisons them.",
-        "guide_id": 369,
+        "guide_id": 93,
         "id": 504200760,
         "max_stack": 99,
         "name": "Bioga Blade",
@@ -2227,7 +2584,7 @@
     },
     "504200770": {
         "full_desc": "Deals light damage to one enemy.",
-        "guide_id": 446,
+        "guide_id": 116,
         "id": 504200770,
         "max_stack": 99,
         "name": "Holy Blade",
@@ -2248,7 +2605,7 @@
     },
     "504200800": {
         "full_desc": "Deals dark damage to one enemy.",
-        "guide_id": 373,
+        "guide_id": 94,
         "id": 504200800,
         "max_stack": 99,
         "name": "Magic Infuse",
@@ -2269,7 +2626,7 @@
     },
     "504200810": {
         "full_desc": "Puts all enemies to sleep.",
-        "guide_id": 374,
+        "guide_id": 95,
         "id": 504200810,
         "max_stack": 99,
         "name": "Lullaby",
@@ -2290,7 +2647,7 @@
     },
     "504200850": {
         "full_desc": "Gradually regenerates HP for all allies while singing.",
-        "guide_id": 378,
+        "guide_id": 96,
         "id": 504200850,
         "max_stack": 99,
         "name": "Paean",
@@ -2311,7 +2668,7 @@
     },
     "504201160": {
         "full_desc": "Deals damage to one enemy, and reduces their SPR.",
-        "guide_id": 409,
+        "guide_id": 97,
         "id": 504201160,
         "max_stack": 99,
         "name": "Mental Break",
@@ -2332,7 +2689,7 @@
     },
     "504201190": {
         "full_desc": "Silences all enemies.",
-        "guide_id": 412,
+        "guide_id": 98,
         "id": 504201190,
         "max_stack": 99,
         "name": "Silence Dance",
@@ -2353,7 +2710,7 @@
     },
     "504201260": {
         "full_desc": "Deals fire damage to one enemy.",
-        "guide_id": 419,
+        "guide_id": 99,
         "id": 504201260,
         "max_stack": 99,
         "name": "Fire Beam",
@@ -2374,7 +2731,7 @@
     },
     "504201280": {
         "full_desc": "Deals ice damage to one enemy.",
-        "guide_id": 421,
+        "guide_id": 100,
         "id": 504201280,
         "max_stack": 99,
         "name": "Blizzard Beam",
@@ -2395,7 +2752,7 @@
     },
     "504201320": {
         "full_desc": "Deals dark damage to all enemies, and poisons them.",
-        "guide_id": 425,
+        "guide_id": 101,
         "id": 504201320,
         "max_stack": 99,
         "name": "Bio Blaster",
@@ -2416,7 +2773,7 @@
     },
     "504201340": {
         "full_desc": "Deals damage to one enemy.",
-        "guide_id": 427,
+        "guide_id": 102,
         "id": 504201340,
         "max_stack": 99,
         "name": "Power Shot",
@@ -2437,7 +2794,7 @@
     },
     "504201430": {
         "full_desc": "Deals damage to all enemies, and blinds them.",
-        "guide_id": 436,
+        "guide_id": 103,
         "id": 504201430,
         "max_stack": 99,
         "name": "Sunbeam",
@@ -2458,7 +2815,7 @@
     },
     "504201670": {
         "full_desc": "Boosts ATK when equipped with a katana.",
-        "guide_id": 447,
+        "guide_id": 117,
         "id": 504201670,
         "max_stack": 99,
         "name": "Blade Mastery",
@@ -2479,7 +2836,7 @@
     },
     "504201680": {
         "full_desc": "Automatically casts brave, faith, and regen during battle.",
-        "guide_id": 448,
+        "guide_id": 118,
         "id": 504201680,
         "max_stack": 99,
         "name": "Light's Blessing",
@@ -2493,6 +2850,384 @@
                 {
                     "id": "201680",
                     "name": "Light's Blessing"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504201750": {
+        "full_desc": "Boosts all elemental resistance.",
+        "guide_id": 121,
+        "id": 504201750,
+        "max_stack": 99,
+        "name": "Melody of Life",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "Boost all elemental resistance",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "201750",
+                    "name": "Melody of Life"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504201950": {
+        "full_desc": "Boosts HP by 10%, ATK and MAG by 20%.",
+        "guide_id": 130,
+        "id": 504201950,
+        "max_stack": 99,
+        "name": "Seal of Destruction",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "Boost HP by 10%, ATK and MAG by 20%",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "201950",
+                    "name": "Seal of Destruction"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504201960": {
+        "full_desc": "Boosts HP by 10%, DEF and SPR by 20%.",
+        "guide_id": 131,
+        "id": 504201960,
+        "max_stack": 99,
+        "name": "Seal of Protection",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "Boost HP by 10%, DEF and SPR by 20%",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "201960",
+                    "name": "Seal of Protection"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504201970": {
+        "full_desc": "Nullifies all status ailments.",
+        "guide_id": 132,
+        "id": 504201970,
+        "max_stack": 99,
+        "name": "Goddess's Protection",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Nullify all status ailments",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "201970",
+                    "name": "Goddess's Protection"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202350": {
+        "full_desc": "Boosts ATK and MAG for one ally. (Ramza only)",
+        "guide_id": 139,
+        "id": 504202350,
+        "max_stack": 99,
+        "name": "Second Wind",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Boost ATK and MAG for one ally (Set unit only)",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202350",
+                    "name": "Second Wind"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202360": {
+        "full_desc": "Deals damage to one enemy and reduces DEF and SPR. (Delita only)",
+        "guide_id": 140,
+        "id": 504202360,
+        "max_stack": 99,
+        "name": "Crush Armor",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Damage and reduce DEF and SPR for one enemy (Set unit only)",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202360",
+                    "name": "Crush Armor"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202370": {
+        "full_desc": "Cures poison, blind, and silence for caster. (Agrias and Gaffgarion only)",
+        "guide_id": 141,
+        "id": 504202370,
+        "max_stack": 99,
+        "name": "Medicate",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Cure poison, blind, and silence for caster (Set unit only)",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202370",
+                    "name": "Medicate"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202380": {
+        "full_desc": "Deals damage to one enemy.",
+        "guide_id": 142,
+        "id": 504202380,
+        "max_stack": 99,
+        "name": "Stone Throw",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Damage one enemy",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202380",
+                    "name": "Stone Throw"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202470": {
+        "full_desc": "Deals lightning damage to all enemies and reduces their lightning resistance. (Lightning only)",
+        "guide_id": 144,
+        "id": 504202470,
+        "max_stack": 99,
+        "name": "Thunderfall",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Lightning damage and reduce lightning resistance for all enemies (Set unit only)",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202470",
+                    "name": "Thunderfall"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202480": {
+        "full_desc": "Boosts DEF and SPR for caster. (Snow only)",
+        "guide_id": 145,
+        "id": 504202480,
+        "max_stack": 99,
+        "name": "Here We Go",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Boost DEF and SPR for caster (Set unit only)",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202480",
+                    "name": "Here We Go"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202490": {
+        "full_desc": "Boosts ATK and MAG by 10%. (FFXIII units only)",
+        "guide_id": 146,
+        "id": 504202490,
+        "max_stack": 99,
+        "name": "Attacker",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Boost ATK and MAG by 10% (Set unit only)",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202490",
+                    "name": "Attacker"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202500": {
+        "full_desc": "Boosts DEF and SPR and 10%. (FFXIII units only)",
+        "guide_id": 147,
+        "id": 504202500,
+        "max_stack": 99,
+        "name": "Defender",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "Boost DEF and SPR by 10% (Set unit only)",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202500",
+                    "name": "Defender"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202760": {
+        "full_desc": "Boosts MP by 10%, MAG and SPR by 20%.",
+        "guide_id": 148,
+        "id": 504202760,
+        "max_stack": 99,
+        "name": "Sticky Fingers",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "Boost MP by 10%, MAG and SPR by 20%",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202760",
+                    "name": "Sticky Fingers"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202770": {
+        "full_desc": "Steals gil from an enemy and attacks them.",
+        "guide_id": 149,
+        "id": 504202770,
+        "max_stack": 99,
+        "name": "Coin Steal",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "Steal gil and attack",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202770",
+                    "name": "Coin Steal"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504202780": {
+        "full_desc": "Boosts MP by 10%, ATK and DEF by 20%.",
+        "guide_id": 150,
+        "id": 504202780,
+        "max_stack": 99,
+        "name": "Lunge Combo",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "Boost MP by 10%, ATK and DEF by 20%",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202780",
+                    "name": "Lunge Combo"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "1500000000": {
+        "full_desc": "Deals critical damage to one enemy.",
+        "guide_id": 90000,
+        "id": 1500000000,
+        "max_stack": 99,
+        "name": "Burst Shot",
+        "price": {
+            "buy": 100000,
+            "sell": 5000
+        },
+        "short_desc": "Critically damage one enemy.",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "201380",
+                    "name": "Burst Shot"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "1500000001": {
+        "full_desc": "Boost HP and MP by 13%. (Demon Rain, Dracu Lasswell, White Witch Fina, Black Cat Lid only)",
+        "guide_id": 90001,
+        "id": 1500000001,
+        "max_stack": 99,
+        "name": "Chilling Aura",
+        "price": {
+            "buy": 100000,
+            "sell": 5000
+        },
+        "short_desc": "Boosts HP and MP by 13%",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "900010",
+                    "name": "Chilling Aura"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "1500000002": {
+        "full_desc": "Boost ATK and MAG by 13%. (Demon Rain, Dracu Lasswell, White Witch Fina, Black Cat Lid only)",
+        "guide_id": 90002,
+        "id": 1500000002,
+        "max_stack": 99,
+        "name": "Spooky Aura",
+        "price": {
+            "buy": 100000,
+            "sell": 5000
+        },
+        "short_desc": "Boosts ATK and MAG by 13%",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "900011",
+                    "name": "Spooky Aura"
                 }
             ],
             "magic": []

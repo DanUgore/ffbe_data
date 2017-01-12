@@ -7,7 +7,7 @@
                     "any_clear": {
                         "desc": "回復の泉",
                         "id": "103002100",
-                        "name": "回復の泉",
+                        "name": "Healing Spring",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -23,7 +23,7 @@
                     "any_clear": {
                         "desc": "回復の泉",
                         "id": "103002100",
-                        "name": "回復の泉",
+                        "name": "Healing Spring",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -32,7 +32,7 @@
                         "id": "409001800",
                         "name": "フェアリーリング",
                         "quantity": 1,
-                        "stats": "3 DEF, 100 Poison/Blind Resist, 100 Poison/Blind Resist Accessory",
+                        "stats": "3 DEF Accessory, 100 Poison/Blind Resist",
                         "type": "EQUIP"
                     }
                 },
@@ -40,7 +40,7 @@
                     "any_clear": {
                         "desc": "回復の泉",
                         "id": "103002100",
-                        "name": "回復の泉",
+                        "name": "Healing Spring",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -49,7 +49,7 @@
                             "desc": "バイオラ",
                             "id": 504020180,
                             "name": "バイオラ",
-                            "stats": "125% AoE Magic Attack & 15% Poison",
+                            "stats": "125% AoE 1 Hit Dark Magic Attack & 15% Poison",
                             "type": "MATERIA"
                         },
                         "desc": "バイオラ Recipe",
@@ -63,7 +63,7 @@
                     "any_clear": {
                         "desc": "回復の泉",
                         "id": "103002100",
-                        "name": "回復の泉",
+                        "name": "Healing Spring",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -80,7 +80,7 @@
                     "any_clear": {
                         "desc": "回復の泉",
                         "id": "103002100",
-                        "name": "回復の泉",
+                        "name": "Healing Spring",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -104,7 +104,7 @@
                     "any_clear": {
                         "desc": "エーテル",
                         "id": "101001100",
-                        "name": "エーテル",
+                        "name": "Ether",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -120,7 +120,7 @@
                     "any_clear": {
                         "desc": "エーテル",
                         "id": "101001100",
-                        "name": "エーテル",
+                        "name": "Ether",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -143,7 +143,7 @@
                     "any_clear": {
                         "desc": "エーテル",
                         "id": "101001100",
-                        "name": "エーテル",
+                        "name": "Ether",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -160,7 +160,7 @@
                     "any_clear": {
                         "desc": "エーテル",
                         "id": "101001100",
-                        "name": "エーテル",
+                        "name": "Ether",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -177,7 +177,7 @@
                     "any_clear": {
                         "desc": "エーテル",
                         "id": "101001100",
-                        "name": "エーテル",
+                        "name": "Ether",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -201,7 +201,7 @@
                     "any_clear": {
                         "desc": "ハイポーション",
                         "id": "101000200",
-                        "name": "ハイポーション",
+                        "name": "Hi-Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -217,7 +217,7 @@
                     "any_clear": {
                         "desc": "ハイポーション",
                         "id": "101000200",
-                        "name": "ハイポーション",
+                        "name": "Hi-Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -234,7 +234,7 @@
                     "any_clear": {
                         "desc": "ハイポーション",
                         "id": "101000200",
-                        "name": "ハイポーション",
+                        "name": "Hi-Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -243,7 +243,7 @@
                         "id": "307000800",
                         "name": "ウェアバスター",
                         "quantity": 1,
-                        "stats": "25 ATK Mace, Grants ビーストキラー",
+                        "stats": "25 ATK Mace, Skills: [ビーストキラー] 50% Physical Damage vs 獣系",
                         "type": "EQUIP"
                     }
                 },
@@ -251,7 +251,7 @@
                     "any_clear": {
                         "desc": "ハイポーション",
                         "id": "101000200",
-                        "name": "ハイポーション",
+                        "name": "Hi-Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -274,7 +274,7 @@
                     "any_clear": {
                         "desc": "ハイポーション",
                         "id": "101000200",
-                        "name": "ハイポーション",
+                        "name": "Hi-Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -283,7 +283,7 @@
                         "id": "301000600",
                         "name": "スリプルダガー",
                         "quantity": 1,
-                        "stats": "22 ATK, 30% Sleep Dagger",
+                        "stats": "22 ATK Dagger, 30% Sleep",
                         "type": "EQUIP"
                     }
                 }
@@ -293,7 +293,7 @@
                     "any_clear": {
                         "desc": "ポーション",
                         "id": "101000100",
-                        "name": "ポーション",
+                        "name": "Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -309,14 +309,14 @@
                     "any_clear": {
                         "desc": "ポーション",
                         "id": "101000100",
-                        "name": "ポーション",
+                        "name": "Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "攻撃+10%",
                         "id": "504100070",
-                        "name": "+10% ATK",
+                        "name": "攻撃+10%",
                         "quantity": 1,
                         "stats": "+10% ATK",
                         "type": "MATERIA"
@@ -326,14 +326,14 @@
                     "any_clear": {
                         "desc": "ポーション",
                         "id": "101000100",
-                        "name": "ポーション",
+                        "name": "Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "大地の鍵19",
                         "id": "109201180",
-                        "name": "大地の鍵19",
+                        "name": "Earth Key #19",
                         "quantity": 1,
                         "type": "ITEM"
                     }
@@ -342,7 +342,7 @@
                     "any_clear": {
                         "desc": "ポーション",
                         "id": "101000100",
-                        "name": "ポーション",
+                        "name": "Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -364,14 +364,14 @@
                     "any_clear": {
                         "desc": "ポーション",
                         "id": "101000100",
-                        "name": "ポーション",
+                        "name": "Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
                     "first_clear": {
                         "desc": "エリクサー",
                         "id": "101002100",
-                        "name": "エリクサー",
+                        "name": "Elixir",
                         "quantity": 1,
                         "type": "ITEM"
                     }
@@ -382,7 +382,7 @@
                     "any_clear": {
                         "desc": "魔石",
                         "id": "107000200",
-                        "name": "魔石",
+                        "name": "Magicite",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -398,7 +398,7 @@
                     "any_clear": {
                         "desc": "魔石",
                         "id": "107000200",
-                        "name": "魔石",
+                        "name": "Magicite",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -415,7 +415,7 @@
                     "any_clear": {
                         "desc": "魔石",
                         "id": "107000200",
-                        "name": "魔石",
+                        "name": "Magicite",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -424,7 +424,7 @@
                             "desc": "まれんけい",
                             "id": 504200800,
                             "name": "まれんけい",
-                            "stats": "130% ST Hybrid Attack",
+                            "stats": "195% ST 1 Hit Dark Hybrid Attack",
                             "type": "MATERIA"
                         },
                         "desc": "まれんけい Recipe",
@@ -438,7 +438,7 @@
                     "any_clear": {
                         "desc": "魔石",
                         "id": "107000200",
-                        "name": "魔石",
+                        "name": "Magicite",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -447,7 +447,7 @@
                         "id": "409004200",
                         "name": "月の腕輪",
                         "quantity": 1,
-                        "stats": "Grants オートシェル",
+                        "stats": "Accessory, Skills: [オートシェル] Cast \"シェル(オート用)\" (ST +20% SPR)",
                         "type": "EQUIP"
                     }
                 },
@@ -455,7 +455,7 @@
                     "any_clear": {
                         "desc": "魔石",
                         "id": "107000200",
-                        "name": "魔石",
+                        "name": "Magicite",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -484,7 +484,7 @@
                     "any_clear": {
                         "desc": "エクスポーション",
                         "id": "101000300",
-                        "name": "エクスポーション",
+                        "name": "X-Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -500,7 +500,7 @@
                     "any_clear": {
                         "desc": "エクスポーション",
                         "id": "101000300",
-                        "name": "エクスポーション",
+                        "name": "X-Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -509,7 +509,7 @@
                         "id": "409006000",
                         "name": "ウォールリング",
                         "quantity": 1,
-                        "stats": "1 DEF Accessory, Grants 瀕死時プロテス, 瀕死時シェル",
+                        "stats": "1 DEF Accessory, Skills: [瀕死時プロテス] +30% DEF after HP drops below 10%, [瀕死時シェル] +30% SPR after HP drops below 10%",
                         "type": "EQUIP"
                     }
                 },
@@ -517,7 +517,7 @@
                     "any_clear": {
                         "desc": "エクスポーション",
                         "id": "101000300",
-                        "name": "エクスポーション",
+                        "name": "X-Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -539,7 +539,7 @@
                     "any_clear": {
                         "desc": "エクスポーション",
                         "id": "101000300",
-                        "name": "エクスポーション",
+                        "name": "X-Potion",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -558,7 +558,7 @@
                     "any_clear": {
                         "desc": "テント",
                         "id": "106000100",
-                        "name": "テント",
+                        "name": "Tent",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -574,7 +574,7 @@
                     "any_clear": {
                         "desc": "テント",
                         "id": "106000100",
-                        "name": "テント",
+                        "name": "Tent",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -591,7 +591,7 @@
                     "any_clear": {
                         "desc": "テント",
                         "id": "106000100",
-                        "name": "テント",
+                        "name": "Tent",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -614,7 +614,7 @@
                     "any_clear": {
                         "desc": "テント",
                         "id": "106000100",
-                        "name": "テント",
+                        "name": "Tent",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -638,7 +638,7 @@
                     "any_clear": {
                         "desc": "万能薬",
                         "id": "102007100",
-                        "name": "万能薬",
+                        "name": "Remedy",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -654,7 +654,7 @@
                     "any_clear": {
                         "desc": "万能薬",
                         "id": "102007100",
-                        "name": "万能薬",
+                        "name": "Remedy",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -677,7 +677,7 @@
                     "any_clear": {
                         "desc": "万能薬",
                         "id": "102007100",
-                        "name": "万能薬",
+                        "name": "Remedy",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -694,7 +694,7 @@
                     "any_clear": {
                         "desc": "万能薬",
                         "id": "102007100",
-                        "name": "万能薬",
+                        "name": "Remedy",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -711,7 +711,7 @@
                     "any_clear": {
                         "desc": "万能薬",
                         "id": "102007100",
-                        "name": "万能薬",
+                        "name": "Remedy",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -736,7 +736,7 @@
                     "any_clear": {
                         "desc": "煙玉",
                         "id": "103003100",
-                        "name": "煙玉",
+                        "name": "Smoke Bomb",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -752,7 +752,7 @@
                     "any_clear": {
                         "desc": "煙玉",
                         "id": "103003100",
-                        "name": "煙玉",
+                        "name": "Smoke Bomb",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -761,7 +761,7 @@
                         "id": "409004100",
                         "name": "リジェネリング",
                         "quantity": 1,
-                        "stats": "80 HP Accessory, Grants 瀕死時リジェネ",
+                        "stats": "80 HP Accessory, Skills: [瀕死時リジェネ] Recover 30 HP/Turn after HP drops below 10%",
                         "type": "EQUIP"
                     }
                 },
@@ -769,7 +769,7 @@
                     "any_clear": {
                         "desc": "煙玉",
                         "id": "103003100",
-                        "name": "煙玉",
+                        "name": "Smoke Bomb",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -792,7 +792,7 @@
                     "any_clear": {
                         "desc": "煙玉",
                         "id": "103003100",
-                        "name": "煙玉",
+                        "name": "Smoke Bomb",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -801,7 +801,7 @@
                         "id": "310000700",
                         "name": "氷のロッド",
                         "quantity": 1,
-                        "stats": "14 ATK 26 MAG, Ice Element Rod",
+                        "stats": "14 ATK 26 MAG Ice Element Rod",
                         "type": "EQUIP"
                     }
                 },
@@ -809,7 +809,7 @@
                     "any_clear": {
                         "desc": "煙玉",
                         "id": "103003100",
-                        "name": "煙玉",
+                        "name": "Smoke Bomb",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -828,7 +828,7 @@
                     "any_clear": {
                         "desc": "聖なるトーチ",
                         "id": "104009100",
-                        "name": "聖なるトーチ",
+                        "name": "Holy Torch",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -844,7 +844,7 @@
                     "any_clear": {
                         "desc": "聖なるトーチ",
                         "id": "104009100",
-                        "name": "聖なるトーチ",
+                        "name": "Holy Torch",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -867,7 +867,7 @@
                     "any_clear": {
                         "desc": "聖なるトーチ",
                         "id": "104009100",
-                        "name": "聖なるトーチ",
+                        "name": "Holy Torch",
                         "quantity": 1,
                         "type": "ITEM"
                     },
@@ -876,7 +876,7 @@
                         "id": "409004400",
                         "name": "天使の指輪",
                         "quantity": 1,
-                        "stats": "3 DEF 3 SPR Accessory, Grants オートリジェネ",
+                        "stats": "3 DEF 3 SPR Accessory, Skills: [オートリジェネ] Cast \"リジェネ(オート用)\" (ST ~60 HP Heal w/ 1.2x Mod per Turn)",
                         "type": "EQUIP"
                     }
                 },
@@ -884,7 +884,7 @@
                     "any_clear": {
                         "desc": "聖なるトーチ",
                         "id": "104009100",
-                        "name": "聖なるトーチ",
+                        "name": "Holy Torch",
                         "quantity": 1,
                         "type": "ITEM"
                     },

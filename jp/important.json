@@ -70,5 +70,37 @@
         "max_stack": 99,
         "name": "体力回復薬50",
         "short_desc": "体力を50回復します"
+    },
+    "160": {
+        "disp_order": 160,
+        "full_desc": "EX召喚が1回行える",
+        "id": 160,
+        "max_stack": 99,
+        "name": "EX召喚チケット",
+        "short_desc": "EX召喚が1回行える"
+    },
+    "170": {
+        "disp_order": 170,
+        "full_desc": "EX召喚が1回行え、★4以上のユニットが確定",
+        "id": 170,
+        "max_stack": 99,
+        "name": "★4以上確定EX召喚チケット",
+        "short_desc": "EX召喚が1回行え、★4以上が確定"
+    },
+    "180": {
+        "disp_order": 180,
+        "full_desc": "EX召喚が1回行え、★5以上のユニットが確定",
+        "id": 180,
+        "max_stack": 99,
+        "name": "★5以上確定EX召喚チケット",
+        "short_desc": "EX召喚が1回行え、★5以上が確定"
+    },
+    "890": {
+        "disp_order": 999,
+        "full_desc": "イベント来場者限定チケット",
+        "id": 890,
+        "max_stack": 99,
+        "name": "特別通行許可証",
+        "short_desc": "イベント来場者限定チケット"
     }
 }

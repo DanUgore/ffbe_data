@@ -32,7 +32,7 @@
                         "id": "409001800",
                         "name": "フェアリーリング",
                         "quantity": 1,
-                        "stats": "3 DEF, 100 Poison/Blind Resist, 100 Poison/Blind Resist Accessory",
+                        "stats": "3 DEF Accessory, 100 Poison/Blind Resist, 100 Poison/Blind Resist",
                         "type": "EQUIP"
                     }
                 },
@@ -49,7 +49,7 @@
                             "desc": "Biora",
                             "id": 504020180,
                             "name": "Biora",
-                            "stats": "125% AoE Magic Attack & 15% Poison",
+                            "stats": "125% AoE 1 Hit Dark Magic Attack & 15% Poison",
                             "type": "MATERIA"
                         },
                         "desc": "Biora Recipe",
@@ -243,7 +243,7 @@
                         "id": "307000800",
                         "name": "ウェアバスター",
                         "quantity": 1,
-                        "stats": "25 ATK Mace, Grants Beast Killer",
+                        "stats": "25 ATK Mace, Skills: [Beast Killer] 50% Physical Damage vs Beast",
                         "type": "EQUIP"
                     }
                 },
@@ -283,7 +283,7 @@
                         "id": "301000600",
                         "name": "スリプルダガー",
                         "quantity": 1,
-                        "stats": "22 ATK, 30% Sleep Dagger",
+                        "stats": "22 ATK Dagger, 30% Sleep",
                         "type": "EQUIP"
                     }
                 }
@@ -424,7 +424,7 @@
                             "desc": "Magic Infuse",
                             "id": 504200800,
                             "name": "Magic Infuse",
-                            "stats": "130% ST Hybrid Attack",
+                            "stats": "130% ST 1 Hit Dark Hybrid Attack",
                             "type": "MATERIA"
                         },
                         "desc": "Magic Infuse Recipe",
@@ -447,7 +447,7 @@
                         "id": "409004200",
                         "name": "月の腕輪",
                         "quantity": 1,
-                        "stats": "Grants Auto-Shell",
+                        "stats": "Accessory, Skills: [Auto-Shell] Cast \"Shell (Auto)\" (ST +20% SPR)",
                         "type": "EQUIP"
                     }
                 },
@@ -509,7 +509,7 @@
                         "id": "409006000",
                         "name": "ウォールリング",
                         "quantity": 1,
-                        "stats": "1 DEF Accessory, Grants Emergency Protect, Emergency Shell",
+                        "stats": "1 DEF Accessory, Skills: [Emergency Protect] +30% DEF after HP drops below 10%, [Emergency Shell] +30% SPR after HP drops below 10%",
                         "type": "EQUIP"
                     }
                 },
@@ -761,7 +761,7 @@
                         "id": "409004100",
                         "name": "リジェネリング",
                         "quantity": 1,
-                        "stats": "80 HP Accessory, Grants Emergency Regen",
+                        "stats": "80 HP Accessory, Skills: [Emergency Regen] Recover 30 HP/Turn after HP drops below 10%",
                         "type": "EQUIP"
                     }
                 },
@@ -801,7 +801,7 @@
                         "id": "310000700",
                         "name": "氷のロッド",
                         "quantity": 1,
-                        "stats": "14 ATK 26 MAG, Ice Element Rod",
+                        "stats": "14 ATK 26 MAG Ice Element Rod",
                         "type": "EQUIP"
                     }
                 },
@@ -876,7 +876,7 @@
                         "id": "409004400",
                         "name": "天使の指輪",
                         "quantity": 1,
-                        "stats": "3 DEF 3 SPR Accessory, Grants Auto-Regen",
+                        "stats": "3 DEF 3 SPR Accessory, Skills: [Auto-Regen] Cast \"Regen (Auto)\" (ST ~60 HP Heal w/ 1.2x Mod per Turn)",
                         "type": "EQUIP"
                     }
                 },
@@ -900,6 +900,453 @@
                         "name": "Turbo Ether Recipe",
                         "quantity": 1,
                         "type": "RECIPE"
+                    }
+                }
+            }
+        }
+    },
+    "3": {
+        "name": "上級",
+        "ranks": {
+            "A": {
+                "1": {
+                    "any_clear": {
+                        "desc": "Y-Potion",
+                        "id": "1000000003",
+                        "name": "Y-Potion",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "500 Lapis",
+                        "id": "LAPIS",
+                        "name": "500 Lapis",
+                        "quantity": 500,
+                        "type": "LAPIS"
+                    }
+                },
+                "2": {
+                    "any_clear": {
+                        "desc": "Y-Potion",
+                        "id": "1000000003",
+                        "name": "Y-Potion",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "crafts": {
+                            "desc": "Mega Ether",
+                            "id": 1000000004,
+                            "name": "Mega Ether",
+                            "type": "ITEM"
+                        },
+                        "desc": "Mega Ether Recipe",
+                        "id": "1000000012",
+                        "name": "Mega Ether Recipe",
+                        "quantity": 1,
+                        "type": "RECIPE"
+                    }
+                },
+                "3": {
+                    "any_clear": {
+                        "desc": "Y-Potion",
+                        "id": "1000000003",
+                        "name": "Y-Potion",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "ゴールドアックス",
+                        "id": "305001000",
+                        "name": "ゴールドアックス",
+                        "quantity": 1,
+                        "stats": "55 ATK Axe",
+                        "type": "EQUIP"
+                    }
+                },
+                "4": {
+                    "any_clear": {
+                        "desc": "Grenade",
+                        "id": "105000100",
+                        "name": "Grenade",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "Kangaroo",
+                        "id": "1100000010",
+                        "name": "Kangaroo",
+                        "quantity": 1,
+                        "stats": "32 ATK Projectile, Skills: [Bird Killer] 50% Physical Damage vs Avian",
+                        "type": "EQUIP"
+                    }
+                },
+                "5": {
+                    "any_clear": {
+                        "desc": "Grenade",
+                        "id": "105000100",
+                        "name": "Grenade",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "Defenders Bracer",
+                        "id": "1100000011",
+                        "name": "Defenders Bracer",
+                        "quantity": 1,
+                        "stats": "3 ATK 3 MAG Accessory, Skills: [DEF +10%] +10% DEF, [SPR +10%] +10% SPR",
+                        "type": "EQUIP"
+                    }
+                }
+            },
+            "B": {
+                "1": {
+                    "any_clear": {
+                        "desc": "Unicorn Horn",
+                        "id": "102004100",
+                        "name": "Unicorn Horn",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "500 Lapis",
+                        "id": "LAPIS",
+                        "name": "500 Lapis",
+                        "quantity": 500,
+                        "type": "LAPIS"
+                    }
+                },
+                "2": {
+                    "any_clear": {
+                        "desc": "Unicorn Horn",
+                        "id": "102004100",
+                        "name": "Unicorn Horn",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "Hero Drink",
+                        "id": "103100100",
+                        "name": "Hero Drink",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    }
+                },
+                "3": {
+                    "any_clear": {
+                        "desc": "Unicorn Horn",
+                        "id": "102004100",
+                        "name": "Unicorn Horn",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "crafts": {
+                            "desc": "Y-Potion",
+                            "id": 1000000003,
+                            "name": "Y-Potion",
+                            "type": "ITEM"
+                        },
+                        "desc": "Y-Potion Recipe",
+                        "id": "1000000011",
+                        "name": "Y-Potion Recipe",
+                        "quantity": 1,
+                        "type": "RECIPE"
+                    }
+                },
+                "4": {
+                    "any_clear": {
+                        "desc": "Unicorn Horn",
+                        "id": "102004100",
+                        "name": "Unicorn Horn",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "ゴールドスタッフ",
+                        "id": "311001400",
+                        "name": "ゴールドスタッフ",
+                        "quantity": 1,
+                        "stats": "19 ATK 9 MAG 48 SPR Staff",
+                        "type": "EQUIP"
+                    }
+                },
+                "5": {
+                    "any_clear": {
+                        "desc": "Unicorn Horn",
+                        "id": "102004100",
+                        "name": "Unicorn Horn",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "SurvivorHelm",
+                        "id": "1100000006",
+                        "name": "SurvivorHelm",
+                        "quantity": 1,
+                        "stats": "30 DEF 10 SPR Helm",
+                        "type": "EQUIP"
+                    }
+                }
+            },
+            "C": {
+                "1": {
+                    "any_clear": {
+                        "desc": "Gold Needle",
+                        "id": "102006100",
+                        "name": "Gold Needle",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "500 Lapis",
+                        "id": "LAPIS",
+                        "name": "500 Lapis",
+                        "quantity": 500,
+                        "type": "LAPIS"
+                    }
+                },
+                "2": {
+                    "any_clear": {
+                        "desc": "Gold Needle",
+                        "id": "102006100",
+                        "name": "Gold Needle",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "Frag Grenade",
+                        "id": "105001100",
+                        "name": "Frag Grenade",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    }
+                },
+                "3": {
+                    "any_clear": {
+                        "desc": "Gold Needle",
+                        "id": "102006100",
+                        "name": "Gold Needle",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "Phoenix Down",
+                        "id": "101003100",
+                        "name": "Phoenix Down",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    }
+                },
+                "4": {
+                    "any_clear": {
+                        "desc": "Gold Needle",
+                        "id": "102006100",
+                        "name": "Gold Needle",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "ゴールドアーマー",
+                        "id": "407001200",
+                        "name": "ゴールドアーマー",
+                        "quantity": 1,
+                        "stats": "49 DEF Heavy Armor",
+                        "type": "EQUIP"
+                    }
+                },
+                "5": {
+                    "any_clear": {
+                        "desc": "Gold Needle",
+                        "id": "102006100",
+                        "name": "Gold Needle",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "MagiRobe",
+                        "id": "1100000005",
+                        "name": "MagiRobe",
+                        "quantity": 1,
+                        "stats": "40 DEF 23 MAG 23 SPR Robes",
+                        "type": "EQUIP"
+                    }
+                }
+            },
+            "D": {
+                "1": {
+                    "any_clear": {
+                        "desc": "Vaccine",
+                        "id": "102005100",
+                        "name": "Vaccine",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "500 Lapis",
+                        "id": "LAPIS",
+                        "name": "500 Lapis",
+                        "quantity": 500,
+                        "type": "LAPIS"
+                    }
+                },
+                "2": {
+                    "any_clear": {
+                        "desc": "Vaccine",
+                        "id": "102005100",
+                        "name": "Vaccine",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "Elixir",
+                        "id": "101002100",
+                        "name": "Elixir",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    }
+                },
+                "3": {
+                    "any_clear": {
+                        "desc": "Vaccine",
+                        "id": "102005100",
+                        "name": "Vaccine",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "MAG +10%",
+                        "id": "504100100",
+                        "name": "MAG +10%",
+                        "quantity": 1,
+                        "stats": "+10% MAG",
+                        "type": "MATERIA"
+                    }
+                },
+                "4": {
+                    "any_clear": {
+                        "desc": "Vaccine",
+                        "id": "102005100",
+                        "name": "Vaccine",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "ゴールドプレート",
+                        "id": "406000900",
+                        "name": "ゴールドプレート",
+                        "quantity": 1,
+                        "stats": "42 DEF Light Armor",
+                        "type": "EQUIP"
+                    }
+                },
+                "5": {
+                    "any_clear": {
+                        "desc": "Vaccine",
+                        "id": "102005100",
+                        "name": "Vaccine",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "Chapeau",
+                        "id": "1100000004",
+                        "name": "Chapeau",
+                        "quantity": 1,
+                        "stats": "20 MP 8 DEF 12 MAG 12 SPR Hat",
+                        "type": "EQUIP"
+                    }
+                }
+            },
+            "S": {
+                "1": {
+                    "any_clear": {
+                        "desc": "Mega Ether",
+                        "id": "1000000004",
+                        "name": "Mega Ether",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "500 Lapis",
+                        "id": "LAPIS",
+                        "name": "500 Lapis",
+                        "quantity": 500,
+                        "type": "LAPIS"
+                    }
+                },
+                "2": {
+                    "any_clear": {
+                        "desc": "Mega Ether",
+                        "id": "1000000004",
+                        "name": "Mega Ether",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "SPR +10%",
+                        "id": "504100160",
+                        "name": "SPR +10%",
+                        "quantity": 1,
+                        "stats": "+10% SPR",
+                        "type": "MATERIA"
+                    }
+                },
+                "3": {
+                    "any_clear": {
+                        "desc": "Blood Alcryst",
+                        "id": "1209000802",
+                        "name": "Blood Alcryst",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "Toxic Dagger",
+                        "id": "1100000012",
+                        "name": "Toxic Dagger",
+                        "quantity": 1,
+                        "stats": "35 ATK Dagger, 15% Poison",
+                        "type": "EQUIP"
+                    }
+                },
+                "4": {
+                    "any_clear": {
+                        "desc": "Blood Stone",
+                        "id": "1209000803",
+                        "name": "Blood Stone",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "crafts": {
+                            "desc": "Blood Sword",
+                            "id": 1100000014,
+                            "name": "Blood Sword",
+                            "stats": "76 ATK 20 SPR Greatsword, Skills: [Drainer] ST 100% Attack w/ 50% HP Drain",
+                            "type": "EQUIP"
+                        },
+                        "desc": "Blood Sword Recipe",
+                        "id": "1000000013",
+                        "name": "Blood Sword Recipe",
+                        "quantity": 1,
+                        "type": "RECIPE"
+                    }
+                },
+                "5": {
+                    "any_clear": {
+                        "desc": "Stainless Steel",
+                        "id": "1209000801",
+                        "name": "Stainless Steel",
+                        "quantity": 1,
+                        "type": "ITEM"
+                    },
+                    "first_clear": {
+                        "desc": "Giants Sword",
+                        "id": "1100000013",
+                        "name": "Giants Sword",
+                        "quantity": 1,
+                        "stats": "41 ATK Greatsword",
+                        "type": "EQUIP"
                     }
                 }
             }

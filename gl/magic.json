@@ -11,6 +11,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 47,
@@ -25,13 +26,14 @@
         ],
         "elements": [],
         "full_desc": "Allows you to view info on one enemy.",
+        "guide_id": 1,
         "icon_id": 700000002,
         "id": 10010,
         "level": 1,
         "mp_cost": 1,
         "name": "Libra",
         "short_desc": "View info on one enemy",
-        "skill_category": 5
+        "skill_category": "other"
     },
     "10020": {
         "attacks": [
@@ -45,6 +47,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 2,
@@ -63,14 +66,15 @@
             }
         ],
         "elements": [],
-        "full_desc": "Recovers HP for one ally.",
+        "full_desc": "Restores HP for one ally.",
+        "guide_id": 2,
         "icon_id": 700000004,
         "id": 10020,
         "level": 1,
         "mp_cost": 3,
         "name": "Cure",
-        "short_desc": "Recover HP for one ally",
-        "skill_category": 3
+        "short_desc": "Restore HP for one ally",
+        "skill_category": "recovery"
     },
     "10030": {
         "attacks": [
@@ -84,6 +88,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 5,
@@ -107,13 +112,14 @@
         ],
         "elements": [],
         "full_desc": "Cures blind for one ally.",
+        "guide_id": 3,
         "icon_id": 700000003,
         "id": 10030,
         "level": 1,
         "mp_cost": 3,
         "name": "Blindna",
         "short_desc": "Cure one ally of being blinded",
-        "skill_category": 3
+        "skill_category": "recovery"
     },
     "10040": {
         "attacks": [
@@ -127,6 +133,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 5,
@@ -150,13 +157,14 @@
         ],
         "elements": [],
         "full_desc": "Cures silence for one ally.",
+        "guide_id": 4,
         "icon_id": 700000003,
         "id": 10040,
         "level": 2,
         "mp_cost": 3,
         "name": "Vox",
         "short_desc": "Cure one ally of silencing",
-        "skill_category": 3
+        "skill_category": "recovery"
     },
     "10050": {
         "attacks": [
@@ -170,6 +178,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 5,
@@ -193,13 +202,14 @@
         ],
         "elements": [],
         "full_desc": "Cures poison for one ally.",
+        "guide_id": 5,
         "icon_id": 700000003,
         "id": 10050,
         "level": 2,
         "mp_cost": 3,
         "name": "Poisona",
         "short_desc": "Cure one ally of poisoning",
-        "skill_category": 3
+        "skill_category": "recovery"
     },
     "10060": {
         "attacks": [
@@ -213,6 +223,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -234,13 +245,14 @@
             "light"
         ],
         "full_desc": "Deals light damage to one enemy.",
+        "guide_id": 6,
         "icon_id": 700000005,
         "id": 10060,
         "level": 2,
         "mp_cost": 3,
         "name": "Banish",
         "short_desc": "Light damage to one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "10070": {
         "attacks": [
@@ -254,6 +266,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 2,
@@ -272,14 +285,15 @@
             }
         ],
         "elements": [],
-        "full_desc": "Recovers HP for all allies.",
+        "full_desc": "Restores HP for all allies.",
+        "guide_id": 7,
         "icon_id": 700000004,
         "id": 10070,
         "level": 3,
         "mp_cost": 7,
         "name": "Cura",
-        "short_desc": "Recover HP for all allies",
-        "skill_category": 3
+        "short_desc": "Restore HP for all allies",
+        "skill_category": "recovery"
     },
     "10080": {
         "attacks": [
@@ -293,6 +307,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 5,
@@ -316,13 +331,14 @@
         ],
         "elements": [],
         "full_desc": "Cures paralysis for one ally.",
+        "guide_id": 8,
         "icon_id": 700000003,
         "id": 10080,
         "level": 3,
         "mp_cost": 5,
         "name": "Paralyna",
         "short_desc": "Cure one ally of paralysis",
-        "skill_category": 3
+        "skill_category": "recovery"
     },
     "10090": {
         "attacks": [
@@ -336,6 +352,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 5,
@@ -359,13 +376,14 @@
         ],
         "elements": [],
         "full_desc": "Cures stone for one ally.",
+        "guide_id": 9,
         "icon_id": 700000003,
         "id": 10090,
         "level": 3,
         "mp_cost": 5,
         "name": "Stona",
-        "short_desc": "Cure one ally of petrification",
-        "skill_category": 3
+        "short_desc": "Cure one ally of petrifaction",
+        "skill_category": "recovery"
     },
     "10100": {
         "attacks": [
@@ -379,6 +397,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 4,
@@ -393,13 +412,14 @@
         ],
         "elements": [],
         "full_desc": "Revives one ally from KO.",
+        "guide_id": 10,
         "icon_id": 700000001,
         "id": 10100,
         "level": 4,
         "mp_cost": 12,
         "name": "Raise",
         "short_desc": "Revive one ally from being KO'd",
-        "skill_category": 3
+        "skill_category": "recovery"
     },
     "10110": {
         "attacks": [
@@ -413,6 +433,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 5,
@@ -440,14 +461,15 @@
             }
         ],
         "elements": [],
-        "full_desc": "Removes all status ailments for one ally.",
+        "full_desc": "Cures all status ailments for one ally.",
+        "guide_id": 11,
         "icon_id": 700000003,
         "id": 10110,
         "level": 4,
         "mp_cost": 8,
         "name": "Esuna",
-        "short_desc": "Remove all status ailments for one ally",
-        "skill_category": 3
+        "short_desc": "Cure all status ailments for one ally",
+        "skill_category": "recovery"
     },
     "10120": {
         "attacks": [
@@ -461,13 +483,14 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 8,
-                "base heal": 400,
+                "base heal": 200,
                 "buff turns": 3,
                 "effect_frame": 0,
-                "heal mod": 2,
+                "heal mod": 4,
                 "params": [
                     400,
                     1,
@@ -480,13 +503,14 @@
         ],
         "elements": [],
         "full_desc": "Gradually regenerates HP for one ally.",
+        "guide_id": 12,
         "icon_id": 700000004,
         "id": 10120,
         "level": 4,
         "mp_cost": 3,
         "name": "Regen",
         "short_desc": "Regenerate HP for one ally over time",
-        "skill_category": 3
+        "skill_category": "recovery"
     },
     "10121": {
         "attacks": [
@@ -500,13 +524,14 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 8,
-                "base heal": 120,
+                "base heal": 60,
                 "buff turns": -1,
                 "effect_frame": 0,
-                "heal mod": 0.6,
+                "heal mod": 1.2,
                 "params": [
                     120,
                     1,
@@ -519,13 +544,14 @@
         ],
         "elements": [],
         "full_desc": " ",
+        "guide_id": 12,
         "icon_id": 700000004,
         "id": 10121,
         "level": 4,
         "mp_cost": 3,
         "name": "Regen (Auto)",
         "short_desc": " ",
-        "skill_category": 3
+        "skill_category": "recovery"
     },
     "10130": {
         "attacks": [
@@ -539,6 +565,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 59,
@@ -552,14 +579,15 @@
             }
         ],
         "elements": [],
-        "full_desc": "Removes all status effects from one enemy.",
+        "full_desc": "Removes all status effects for one enemy.",
+        "guide_id": 13,
         "icon_id": 700000003,
         "id": 10130,
         "level": 5,
         "mp_cost": 7,
         "name": "Dispel",
         "short_desc": "Remove all status effects for one enemy",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "10140": {
         "attacks": [
@@ -573,6 +601,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 5,
@@ -596,13 +625,14 @@
         ],
         "elements": [],
         "full_desc": "Cures disease for one ally.",
+        "guide_id": 14,
         "icon_id": 700000003,
         "id": 10140,
         "level": 5,
         "mp_cost": 5,
         "name": "Cleanse",
         "short_desc": "Cure one ally of disease",
-        "skill_category": 3
+        "skill_category": "recovery"
     },
     "10150": {
         "attacks": [
@@ -616,6 +646,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 2,
@@ -634,14 +665,15 @@
             }
         ],
         "elements": [],
-        "full_desc": "Recovers HP for one ally.",
+        "full_desc": "Restores HP for one ally.",
+        "guide_id": 15,
         "icon_id": 700000004,
         "id": 10150,
         "level": 5,
         "mp_cost": 9,
         "name": "Curaga",
-        "short_desc": "Recover HP for one ally",
-        "skill_category": 3
+        "short_desc": "Restore HP for one ally",
+        "skill_category": "recovery"
     },
     "10160": {
         "attacks": [
@@ -655,6 +687,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 2,
@@ -673,14 +706,51 @@
             }
         ],
         "elements": [],
-        "full_desc": "Recovers HP for all allies.",
+        "full_desc": "Restores HP for all allies.",
+        "guide_id": 16,
         "icon_id": 700000004,
         "id": 10160,
         "level": 6,
         "mp_cost": 15,
         "name": "Curaja",
-        "short_desc": "Recover HP for all allies",
-        "skill_category": 3
+        "short_desc": "Restore HP for all allies",
+        "skill_category": "recovery"
+    },
+    "10200": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 59,
+                "dispel buffs": true,
+                "effect_frame": 0,
+                "params": [
+                    "none"
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "Removes all status effects from all enemies.",
+        "guide_id": 20,
+        "icon_id": 700000003,
+        "id": 10200,
+        "level": 7,
+        "mp_cost": 18,
+        "name": "Dispelga",
+        "short_desc": "Remove all status effects from all enemies",
+        "skill_category": "stat buff"
     },
     "10210": {
         "attacks": [
@@ -694,6 +764,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -715,13 +786,14 @@
             "light"
         ],
         "full_desc": "Deals light damage to one enemy.",
+        "guide_id": 21,
         "icon_id": 700000005,
         "id": 10210,
         "level": 7,
         "mp_cost": 35,
         "name": "Holy",
         "short_desc": "Light damage to one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20010": {
         "attacks": [
@@ -735,6 +807,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -756,13 +829,14 @@
             "fire"
         ],
         "full_desc": "Deals fire damage to one enemy.",
+        "guide_id": 23,
         "icon_id": 700000021,
         "id": 20010,
         "level": 1,
         "mp_cost": 3,
         "name": "Fire",
         "short_desc": "Fire damage to one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20020": {
         "attacks": [
@@ -776,6 +850,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -797,13 +872,14 @@
             "ice"
         ],
         "full_desc": "Deals ice damage to one enemy.",
+        "guide_id": 24,
         "icon_id": 700000022,
         "id": 20020,
         "level": 1,
         "mp_cost": 3,
         "name": "Blizzard",
         "short_desc": "Ice damage to one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20030": {
         "attacks": [
@@ -817,6 +893,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -838,13 +915,14 @@
             "thunder"
         ],
         "full_desc": "Deals lightning damage to one enemy.",
+        "guide_id": 25,
         "icon_id": 700000020,
         "id": 20030,
         "level": 1,
         "mp_cost": 3,
         "name": "Thunder",
         "short_desc": "Lightning damage to one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20040": {
         "attacks": [
@@ -858,6 +936,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -879,13 +958,14 @@
             "water"
         ],
         "full_desc": "Deals water damage to one enemy.",
+        "guide_id": 26,
         "icon_id": 700000023,
         "id": 20040,
         "level": 2,
         "mp_cost": 3,
         "name": "Water",
         "short_desc": "Water damage to one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20050": {
         "attacks": [
@@ -899,6 +979,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -920,13 +1001,14 @@
             "wind"
         ],
         "full_desc": "Deals wind damage to one enemy.",
+        "guide_id": 27,
         "icon_id": 700000025,
         "id": 20050,
         "level": 2,
         "mp_cost": 3,
         "name": "Aero",
         "short_desc": "Wind damage to one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20060": {
         "attacks": [
@@ -940,6 +1022,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -961,13 +1044,14 @@
             "earth"
         ],
         "full_desc": "Deals earth damage to one enemy.",
+        "guide_id": 28,
         "icon_id": 700000028,
         "id": 20060,
         "level": 2,
         "mp_cost": 3,
         "name": "Stone",
         "short_desc": "Earth damage to one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20070": {
         "attacks": [
@@ -981,6 +1065,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1022,13 +1107,14 @@
             "dark"
         ],
         "full_desc": "Deals dark damage to one enemy, and poisons them.",
+        "guide_id": 29,
         "icon_id": 700000024,
         "id": 20070,
         "level": 2,
         "mp_cost": 5,
         "name": "Bio",
         "short_desc": "Dark damage and poison one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20080": {
         "attacks": [
@@ -1042,6 +1128,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1063,13 +1150,14 @@
             "fire"
         ],
         "full_desc": "Deals fire damage to all enemies.",
+        "guide_id": 30,
         "icon_id": 700000021,
         "id": 20080,
         "level": 3,
         "mp_cost": 9,
         "name": "Fira",
         "short_desc": "Fire damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20090": {
         "attacks": [
@@ -1083,6 +1171,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1104,13 +1193,14 @@
             "ice"
         ],
         "full_desc": "Deals ice damage to all enemies.",
+        "guide_id": 31,
         "icon_id": 700000022,
         "id": 20090,
         "level": 3,
         "mp_cost": 9,
         "name": "Blizzara",
         "short_desc": "Ice damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20100": {
         "attacks": [
@@ -1124,6 +1214,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1145,13 +1236,14 @@
             "thunder"
         ],
         "full_desc": "Deals lightning damage to all enemies.",
+        "guide_id": 32,
         "icon_id": 700000020,
         "id": 20100,
         "level": 3,
         "mp_cost": 9,
         "name": "Thundara",
         "short_desc": "Lightning damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20110": {
         "attacks": [
@@ -1165,6 +1257,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1186,13 +1279,14 @@
             "water"
         ],
         "full_desc": "Deals water damage to all enemies.",
+        "guide_id": 33,
         "icon_id": 700000023,
         "id": 20110,
         "level": 4,
         "mp_cost": 9,
         "name": "Watera",
         "short_desc": "Water damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20120": {
         "attacks": [
@@ -1206,6 +1300,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1227,13 +1322,14 @@
             "wind"
         ],
         "full_desc": "Deals wind damage to all enemies.",
+        "guide_id": 34,
         "icon_id": 700000025,
         "id": 20120,
         "level": 4,
         "mp_cost": 9,
         "name": "Aerora",
         "short_desc": "Wind damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20130": {
         "attacks": [
@@ -1247,6 +1343,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1268,13 +1365,14 @@
             "earth"
         ],
         "full_desc": "Deals earth damage to all enemies.",
+        "guide_id": 35,
         "icon_id": 700000028,
         "id": 20130,
         "level": 4,
         "mp_cost": 9,
         "name": "Stonra",
         "short_desc": "Earth damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20150": {
         "attacks": [
@@ -1288,6 +1386,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 9,
@@ -1305,13 +1404,14 @@
         ],
         "elements": [],
         "full_desc": "Deals damage to one enemy equal to half their current HP.",
+        "guide_id": 37,
         "icon_id": 700000026,
         "id": 20150,
         "level": 4,
         "mp_cost": 12,
         "name": "Gravity",
         "short_desc": "Damage one enemy for 1/2 HP",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20160": {
         "attacks": [
@@ -1325,6 +1425,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 25,
@@ -1342,13 +1443,14 @@
         ],
         "elements": [],
         "full_desc": "Drains HP from one enemy.",
+        "guide_id": 38,
         "icon_id": 700000015,
         "id": 20160,
         "level": 4,
         "mp_cost": 5,
         "name": "Drain",
         "short_desc": "Drain HP from one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20170": {
         "attacks": [
@@ -1362,6 +1464,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 72,
@@ -1381,13 +1484,14 @@
         ],
         "elements": [],
         "full_desc": "Deals damage to one enemy. Damage dealt increases with each use.",
+        "guide_id": 39,
         "icon_id": 700000029,
         "id": 20170,
         "level": 5,
         "mp_cost": 15,
         "name": "Comet",
         "short_desc": "Damage one enemy and power up",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20180": {
         "attacks": [
@@ -1401,6 +1505,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1442,13 +1547,14 @@
             "dark"
         ],
         "full_desc": "Deals dark damage to all enemies, and poisons them.",
+        "guide_id": 40,
         "icon_id": 700000024,
         "id": 20180,
         "level": 5,
         "mp_cost": 12,
         "name": "Biora",
         "short_desc": "Dark damage and poison all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20190": {
         "attacks": [
@@ -1462,6 +1568,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 10,
@@ -1479,13 +1586,14 @@
         ],
         "elements": [],
         "full_desc": "Drains MP from one enemy.",
+        "guide_id": 41,
         "icon_id": 700000015,
         "id": 20190,
         "level": 5,
         "mp_cost": 10,
         "name": "Osmose",
         "short_desc": "Drain MP from one enemy",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "20200": {
         "attacks": [
@@ -1499,6 +1607,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1520,13 +1629,14 @@
             "fire"
         ],
         "full_desc": "Deals fire damage to all enemies.",
+        "guide_id": 42,
         "icon_id": 700000021,
         "id": 20200,
         "level": 6,
         "mp_cost": 20,
         "name": "Firaga",
         "short_desc": "Fire damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20210": {
         "attacks": [
@@ -1540,6 +1650,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1561,13 +1672,14 @@
             "ice"
         ],
         "full_desc": "Deals ice damage to all enemies.",
+        "guide_id": 43,
         "icon_id": 700000022,
         "id": 20210,
         "level": 6,
         "mp_cost": 20,
         "name": "Blizzaga",
         "short_desc": "Ice damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20220": {
         "attacks": [
@@ -1581,6 +1693,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1602,13 +1715,14 @@
             "thunder"
         ],
         "full_desc": "Deals lightning damage to all enemies.",
+        "guide_id": 44,
         "icon_id": 700000020,
         "id": 20220,
         "level": 6,
         "mp_cost": 20,
         "name": "Thundaga",
         "short_desc": "Lightning damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20230": {
         "attacks": [
@@ -1622,6 +1736,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1643,13 +1758,14 @@
             "water"
         ],
         "full_desc": "Deals water damage to all enemies.",
+        "guide_id": 45,
         "icon_id": 700000023,
         "id": 20230,
         "level": 6,
         "mp_cost": 20,
         "name": "Waterga",
         "short_desc": "Water damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20240": {
         "attacks": [
@@ -1663,6 +1779,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1684,13 +1801,14 @@
             "wind"
         ],
         "full_desc": "Deals wind damage to all enemies.",
+        "guide_id": 46,
         "icon_id": 700000025,
         "id": 20240,
         "level": 6,
         "mp_cost": 20,
         "name": "Aeroga",
         "short_desc": "Wind damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20250": {
         "attacks": [
@@ -1704,6 +1822,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1725,13 +1844,14 @@
             "earth"
         ],
         "full_desc": "Deals earth damage to all enemies.",
+        "guide_id": 47,
         "icon_id": 700000028,
         "id": 20250,
         "level": 6,
         "mp_cost": 20,
         "name": "Stonga",
         "short_desc": "Earth damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20260": {
         "attacks": [
@@ -1745,6 +1865,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1786,13 +1907,14 @@
             "dark"
         ],
         "full_desc": "Deals dark damage to all enemies, and poisons them.",
+        "guide_id": 48,
         "icon_id": 700000024,
         "id": 20260,
         "level": 6,
         "mp_cost": 20,
         "name": "Bioga",
         "short_desc": "Dark damage and poison all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20270": {
         "attacks": [
@@ -1806,6 +1928,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 9,
@@ -1823,13 +1946,14 @@
         ],
         "elements": [],
         "full_desc": "Deals damage to all enemies equal to 3/4 their current HP.",
+        "guide_id": 49,
         "icon_id": 700000026,
         "id": 20270,
         "level": 6,
         "mp_cost": 20,
         "name": "Graviga",
         "short_desc": "Damage all enemies for 3/4 HP",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20280": {
         "attacks": [
@@ -1843,6 +1967,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 35,
@@ -1859,13 +1984,14 @@
             "dark"
         ],
         "full_desc": "Instantly KO's one enemy.",
+        "guide_id": 50,
         "icon_id": 700000038,
         "id": 20280,
         "level": 6,
         "mp_cost": 14,
         "name": "Death",
         "short_desc": "Instantly KO one enemy",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20350": {
         "attacks": [
@@ -1879,6 +2005,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 15,
@@ -1920,13 +2047,14 @@
             "fire"
         ],
         "full_desc": "Deals fire damage to one enemy, and reduces their water resistance.",
+        "guide_id": 57,
         "icon_id": 700000030,
         "id": 20350,
         "level": 7,
         "mp_cost": 35,
         "name": "Flare",
         "short_desc": "Fire damage to one enemy and reduce water resistance",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20430": {
         "attacks": [
@@ -1940,11 +2068,12 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 70,
                 "effect_frame": 0,
-                "mnd ignore%": 25,
+                "mnd ignore%": -25,
                 "params": [
                     0,
                     0,
@@ -1958,13 +2087,14 @@
         ],
         "elements": [],
         "full_desc": "Deals magic damage unaffected by magic defense to all enemies.",
+        "guide_id": 65,
         "icon_id": 700000029,
         "id": 20430,
         "level": 8,
         "mp_cost": 50,
         "name": "Meteor",
         "short_desc": "Unmitigated magic damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "20440": {
         "attacks": [
@@ -1978,11 +2108,12 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 70,
                 "effect_frame": 0,
-                "mnd ignore%": 25,
+                "mnd ignore%": -25,
                 "params": [
                     0,
                     0,
@@ -1996,13 +2127,14 @@
         ],
         "elements": [],
         "full_desc": "Deals magic damage unaffected by magic defense to all enemies.",
+        "guide_id": 66,
         "icon_id": 700000037,
         "id": 20440,
         "level": 8,
         "mp_cost": 60,
         "name": "Ultima",
         "short_desc": "Unmitigated magic damage to all enemies",
-        "skill_category": 1
+        "skill_category": "offensive"
     },
     "30010": {
         "attacks": [
@@ -2016,6 +2148,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 6,
@@ -2042,13 +2175,14 @@
             "dark"
         ],
         "full_desc": "Puts one enemy to sleep.",
+        "guide_id": 67,
         "icon_id": 700000009,
         "id": 30010,
         "level": 1,
         "mp_cost": 3,
         "name": "Sleep",
         "short_desc": "Put one enemy to sleep",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30020": {
         "attacks": [
@@ -2062,6 +2196,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 6,
@@ -2088,13 +2223,14 @@
             "dark"
         ],
         "full_desc": "Blinds one enemy.",
+        "guide_id": 68,
         "icon_id": 700000009,
         "id": 30020,
         "level": 1,
         "mp_cost": 3,
         "name": "Blind",
         "short_desc": "Blind one enemy",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30030": {
         "attacks": [
@@ -2108,6 +2244,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2134,13 +2271,14 @@
             "fire"
         ],
         "full_desc": "Boosts fire resistance for one ally.",
+        "guide_id": 69,
         "icon_id": 700000006,
         "id": 30030,
         "level": 1,
         "mp_cost": 3,
         "name": "Barfire",
         "short_desc": "Boost fire resistance for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30040": {
         "attacks": [
@@ -2154,6 +2292,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2180,13 +2319,14 @@
             "ice"
         ],
         "full_desc": "Boosts ice resistance for one ally.",
+        "guide_id": 70,
         "icon_id": 700000010,
         "id": 30040,
         "level": 1,
         "mp_cost": 3,
         "name": "Barblizzard",
         "short_desc": "Boost ice resistance for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30050": {
         "attacks": [
@@ -2200,6 +2340,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2226,13 +2367,14 @@
             "thunder"
         ],
         "full_desc": "Boosts lightning resistance for one ally.",
+        "guide_id": 71,
         "icon_id": 700000008,
         "id": 30050,
         "level": 1,
         "mp_cost": 3,
         "name": "Barthunder",
         "short_desc": "Boost lightning resistance for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30060": {
         "attacks": [
@@ -2246,6 +2388,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2272,13 +2415,14 @@
             "water"
         ],
         "full_desc": "Boosts water resistance for one ally.",
+        "guide_id": 72,
         "icon_id": 700000013,
         "id": 30060,
         "level": 2,
         "mp_cost": 6,
         "name": "Barwater",
         "short_desc": "Boost water resistance for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30070": {
         "attacks": [
@@ -2292,6 +2436,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2318,13 +2463,14 @@
             "wind"
         ],
         "full_desc": "Boosts wind resistance for one ally.",
+        "guide_id": 73,
         "icon_id": 700000007,
         "id": 30070,
         "level": 2,
         "mp_cost": 6,
         "name": "Baraero",
         "short_desc": "Boost wind resistance for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30080": {
         "attacks": [
@@ -2338,6 +2484,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2364,13 +2511,14 @@
             "earth"
         ],
         "full_desc": "Boosts earth resistance for one ally.",
+        "guide_id": 74,
         "icon_id": 700000012,
         "id": 30080,
         "level": 2,
         "mp_cost": 6,
         "name": "Barstone",
         "short_desc": "Boost earth resistance for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30090": {
         "attacks": [
@@ -2384,6 +2532,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 3,
@@ -2406,13 +2555,14 @@
             "light"
         ],
         "full_desc": "Boosts DEF for one ally.",
+        "guide_id": 75,
         "icon_id": 700000077,
         "id": 30090,
         "level": 2,
         "mp_cost": 4,
         "name": "Protect",
         "short_desc": "Boost DEF for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30091": {
         "attacks": [
@@ -2426,6 +2576,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 3,
@@ -2448,13 +2599,14 @@
             "light"
         ],
         "full_desc": " ",
+        "guide_id": 76,
         "icon_id": 700000077,
         "id": 30091,
         "level": 2,
         "mp_cost": 0,
         "name": "Protect (Auto)",
         "short_desc": " ",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30100": {
         "attacks": [
@@ -2468,6 +2620,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 6,
@@ -2492,13 +2645,14 @@
         ],
         "elements": [],
         "full_desc": "Silences one enemy.",
+        "guide_id": 77,
         "icon_id": 700000009,
         "id": 30100,
         "level": 2,
         "mp_cost": 5,
         "name": "Silence",
         "short_desc": "Silence one enemy",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30110": {
         "attacks": [
@@ -2512,6 +2666,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2538,13 +2693,14 @@
             "fire"
         ],
         "full_desc": "Boosts fire resistance for all allies.",
+        "guide_id": 78,
         "icon_id": 700000006,
         "id": 30110,
         "level": 3,
         "mp_cost": 12,
         "name": "Barfira",
         "short_desc": "Boost fire resistance for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30120": {
         "attacks": [
@@ -2558,6 +2714,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2584,13 +2741,14 @@
             "ice"
         ],
         "full_desc": "Boosts ice resistance for all allies.",
+        "guide_id": 79,
         "icon_id": 700000010,
         "id": 30120,
         "level": 3,
         "mp_cost": 12,
         "name": "Barblizzara",
         "short_desc": "Boost ice resistance for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30130": {
         "attacks": [
@@ -2604,6 +2762,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2630,13 +2789,14 @@
             "thunder"
         ],
         "full_desc": "Boosts lightning resistance for all allies.",
+        "guide_id": 80,
         "icon_id": 700000008,
         "id": 30130,
         "level": 3,
         "mp_cost": 12,
         "name": "Barthundara",
         "short_desc": "Boost lightning resistance for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30140": {
         "attacks": [
@@ -2650,6 +2810,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 3,
@@ -2672,13 +2833,14 @@
             "light"
         ],
         "full_desc": "Boosts SPR for one ally.",
+        "guide_id": 81,
         "icon_id": 700000077,
         "id": 30140,
         "level": 3,
         "mp_cost": 4,
         "name": "Shell",
         "short_desc": "Boost SPR for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30141": {
         "attacks": [
@@ -2692,6 +2854,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 3,
@@ -2714,13 +2877,14 @@
             "light"
         ],
         "full_desc": " ",
+        "guide_id": 82,
         "icon_id": 700000077,
         "id": 30141,
         "level": 3,
         "mp_cost": 0,
         "name": "Shell (Auto)",
         "short_desc": " ",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30150": {
         "attacks": [
@@ -2734,6 +2898,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 24,
@@ -2756,13 +2921,14 @@
             "dark"
         ],
         "full_desc": "Reduces DEF for one enemy.",
+        "guide_id": 83,
         "icon_id": 700000039,
         "id": 30150,
         "level": 3,
         "mp_cost": 4,
         "name": "Deprotect",
         "short_desc": "Reduce DEF for one enemy",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30160": {
         "attacks": [
@@ -2776,6 +2942,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 24,
@@ -2798,13 +2965,14 @@
             "dark"
         ],
         "full_desc": "Reduces SPR for one enemy.",
+        "guide_id": 84,
         "icon_id": 700000039,
         "id": 30160,
         "level": 3,
         "mp_cost": 4,
         "name": "Deshell",
         "short_desc": "Reduce SPR for one enemy",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30170": {
         "attacks": [
@@ -2818,6 +2986,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2844,13 +3013,14 @@
             "water"
         ],
         "full_desc": "Boosts water resistance for all allies.",
+        "guide_id": 85,
         "icon_id": 700000013,
         "id": 30170,
         "level": 4,
         "mp_cost": 12,
         "name": "Barwatera",
         "short_desc": "Boost water resistance for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30180": {
         "attacks": [
@@ -2864,6 +3034,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2890,13 +3061,14 @@
             "wind"
         ],
         "full_desc": "Boosts wind resistance for all allies.",
+        "guide_id": 86,
         "icon_id": 700000007,
         "id": 30180,
         "level": 4,
         "mp_cost": 12,
         "name": "Baraerora",
         "short_desc": "Boost wind resistance for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30190": {
         "attacks": [
@@ -2910,6 +3082,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2936,13 +3109,14 @@
             "earth"
         ],
         "full_desc": "Boosts earth resistance for all allies.",
+        "guide_id": 87,
         "icon_id": 700000012,
         "id": 30190,
         "level": 4,
         "mp_cost": 12,
         "name": "Barstonra",
         "short_desc": "Boost earth resistance for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30200": {
         "attacks": [
@@ -2956,6 +3130,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -2989,13 +3164,14 @@
             "dark"
         ],
         "full_desc": "Reduces all elemental resistance for one enemy.",
+        "guide_id": 88,
         "icon_id": 700000039,
         "id": 30200,
         "level": 4,
         "mp_cost": 15,
         "name": "Imperil",
         "short_desc": "Reduce all elemental resistance for one enemy",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30210": {
         "attacks": [
@@ -3009,6 +3185,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 3,
@@ -3031,13 +3208,14 @@
             "light"
         ],
         "full_desc": "Boosts ATK for one ally.",
+        "guide_id": 89,
         "icon_id": 700000077,
         "id": 30210,
         "level": 4,
         "mp_cost": 8,
         "name": "Bravery",
         "short_desc": "Boost ATK for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30211": {
         "attacks": [
@@ -3051,6 +3229,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 3,
@@ -3072,14 +3251,15 @@
         "elements": [
             "light"
         ],
-        "full_desc": "味方1体の攻撃をアップする。",
+        "full_desc": "Boosts ATK for one ally.",
+        "guide_id": 90,
         "icon_id": 700000077,
         "id": 30211,
         "level": 4,
         "mp_cost": 0,
-        "name": "ブレイブ(オート用)",
-        "short_desc": "味方1体の攻撃をアップ",
-        "skill_category": 4
+        "name": "Brave (Auto)",
+        "short_desc": "Boost ATK for one ally",
+        "skill_category": "stat buff"
     },
     "30220": {
         "attacks": [
@@ -3093,6 +3273,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 3,
@@ -3115,13 +3296,14 @@
             "light"
         ],
         "full_desc": "Boosts MAG for one ally.",
+        "guide_id": 91,
         "icon_id": 700000077,
         "id": 30220,
         "level": 4,
         "mp_cost": 8,
         "name": "Faith",
         "short_desc": "Boost MAG for one ally",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30221": {
         "attacks": [
@@ -3135,6 +3317,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 3,
@@ -3156,14 +3339,15 @@
         "elements": [
             "light"
         ],
-        "full_desc": "味方1体の魔力をアップする。",
+        "full_desc": "Boosts MAG for one ally.",
+        "guide_id": 92,
         "icon_id": 700000077,
         "id": 30221,
         "level": 4,
         "mp_cost": 0,
-        "name": "フェイス(オート用)",
-        "short_desc": "味方1体の魔力をアップ",
-        "skill_category": 4
+        "name": "Faith (Auto)",
+        "short_desc": "Boost MAG for one ally",
+        "skill_category": "stat buff"
     },
     "30260": {
         "attacks": [
@@ -3177,6 +3361,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -3203,13 +3388,14 @@
             "fire"
         ],
         "full_desc": "Boosts fire resistance for all allies.",
+        "guide_id": 93,
         "icon_id": 700000006,
         "id": 30260,
         "level": 6,
         "mp_cost": 22,
         "name": "Barfiraga",
         "short_desc": "Boost fire resistance for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30270": {
         "attacks": [
@@ -3223,6 +3409,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -3249,13 +3436,14 @@
             "ice"
         ],
         "full_desc": "Boosts ice resistance for all allies.",
+        "guide_id": 94,
         "icon_id": 700000010,
         "id": 30270,
         "level": 6,
         "mp_cost": 22,
         "name": "Barblizzaga",
         "short_desc": "Boost ice resistance for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30280": {
         "attacks": [
@@ -3269,6 +3457,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 33,
@@ -3295,13 +3484,14 @@
             "thunder"
         ],
         "full_desc": "Boosts lightning resistance for all allies.",
+        "guide_id": 95,
         "icon_id": 700000008,
         "id": 30280,
         "level": 6,
         "mp_cost": 22,
         "name": "Barthundaga",
         "short_desc": "Boost lightning resistance for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
     },
     "30320": {
         "attacks": [
@@ -3315,6 +3505,7 @@
                 "hits": 1
             }
         ],
+        "dmg_type": "magic",
         "effects": [
             {
                 "action_id": 3,
@@ -3337,12 +3528,57 @@
             "light"
         ],
         "full_desc": "Boosts DEF for all allies.",
+        "guide_id": 96,
         "icon_id": 700000077,
         "id": 30320,
         "level": 6,
         "mp_cost": 24,
         "name": "Protectga",
         "short_desc": "Boost DEF for all allies",
-        "skill_category": 4
+        "skill_category": "stat buff"
+    },
+    "30330": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "mnd buff%": 40,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    40,
+                    3,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "Boosts SPR for all allies.",
+        "guide_id": 99,
+        "icon_id": 700000077,
+        "id": 30330,
+        "level": 6,
+        "mp_cost": 24,
+        "name": "Shellga",
+        "short_desc": "Boost SPR for all allies",
+        "skill_category": "stat buff"
     }
 }

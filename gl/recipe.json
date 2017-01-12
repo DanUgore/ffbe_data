@@ -6,7 +6,7 @@
             "id": 101000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 1,
         "id": 901000010,
         "materials": [
             {
@@ -29,7 +29,7 @@
             "id": 101000200,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 2,
         "id": 901000020,
         "materials": [
             {
@@ -52,7 +52,7 @@
             "id": 101000300,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 182,
         "id": 901000030,
         "materials": [
             {
@@ -80,7 +80,7 @@
             "id": 101001100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 3,
         "id": 901000040,
         "materials": [
             {
@@ -108,7 +108,7 @@
             "id": 101001200,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 183,
         "id": 901000050,
         "materials": [
             {
@@ -141,7 +141,7 @@
             "id": 102000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 4,
         "id": 901000080,
         "materials": [
             {
@@ -164,7 +164,7 @@
             "id": 102001100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 5,
         "id": 901000090,
         "materials": [
             {
@@ -187,7 +187,7 @@
             "id": 102002100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 6,
         "id": 901000100,
         "materials": [
             {
@@ -210,7 +210,7 @@
             "id": 102003100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 7,
         "id": 901000110,
         "materials": [
             {
@@ -233,7 +233,7 @@
             "id": 102004100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 8,
         "id": 901000120,
         "materials": [
             {
@@ -256,7 +256,7 @@
             "id": 102005100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 9,
         "id": 901000130,
         "materials": [
             {
@@ -279,7 +279,7 @@
             "id": 102006100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 10,
         "id": 901000140,
         "materials": [
             {
@@ -302,7 +302,7 @@
             "id": 102007100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 11,
         "id": 901000150,
         "materials": [
             {
@@ -335,7 +335,7 @@
             "id": 102008100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 12,
         "id": 901000160,
         "materials": [
             {
@@ -356,6 +356,72 @@
         ],
         "name": "Hyper"
     },
+    "901000170": {
+        "craft_cost": 800,
+        "craft_time": 3600,
+        "crafts": {
+            "id": 103000100,
+            "type": "ITEM"
+        },
+        "guide_id": 226,
+        "id": 901000170,
+        "materials": [
+            {
+                "id": "201001500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "201000500",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "201000700",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Light Curtain"
+    },
+    "901000180": {
+        "craft_cost": 600,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 409006800,
+            "type": "EQUIP"
+        },
+        "guide_id": 238,
+        "id": 901000180,
+        "materials": [
+            {
+                "id": "208000500",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "208000600",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "208000700",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Morale Talisman"
+    },
     "901000190": {
         "craft_cost": 200,
         "craft_time": 600,
@@ -363,7 +429,7 @@
             "id": 103002100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 13,
         "id": 901000190,
         "materials": [
             {
@@ -391,7 +457,7 @@
             "id": 103003100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 14,
         "id": 901000200,
         "materials": [
             {
@@ -419,7 +485,7 @@
             "id": 103006100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 15,
         "id": 901000230,
         "materials": [
             {
@@ -447,7 +513,7 @@
             "id": 103007100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 16,
         "id": 901000240,
         "materials": [
             {
@@ -475,7 +541,7 @@
             "id": 103008100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 17,
         "id": 901000250,
         "materials": [
             {
@@ -508,7 +574,7 @@
             "id": 103009100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 18,
         "id": 901000260,
         "materials": [
             {
@@ -541,7 +607,7 @@
             "id": 103010100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 19,
         "id": 901000270,
         "materials": [
             {
@@ -569,7 +635,7 @@
             "id": 104000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 165,
         "id": 901000280,
         "materials": [
             {
@@ -585,6 +651,52 @@
         ],
         "name": "Bomb Fragment"
     },
+    "901000300": {
+        "craft_cost": 20,
+        "craft_time": 60,
+        "crafts": {
+            "id": 104001100,
+            "type": "ITEM"
+        },
+        "guide_id": 198,
+        "id": 901000300,
+        "materials": [
+            {
+                "id": "201000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Antarctic Wind"
+    },
+    "901000320": {
+        "craft_cost": 20,
+        "craft_time": 60,
+        "crafts": {
+            "id": 104002100,
+            "type": "ITEM"
+        },
+        "guide_id": 199,
+        "id": 901000320,
+        "materials": [
+            {
+                "id": "201000300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Zeus's Rage"
+    },
     "901000340": {
         "craft_cost": 20,
         "craft_time": 60,
@@ -592,7 +704,7 @@
             "id": 104003100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 166,
         "id": 901000340,
         "materials": [
             {
@@ -615,7 +727,7 @@
             "id": 104004100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 167,
         "id": 901000360,
         "materials": [
             {
@@ -631,6 +743,85 @@
         ],
         "name": "Giant Feather"
     },
+    "901000370": {
+        "craft_cost": 100,
+        "craft_time": 300,
+        "crafts": {
+            "id": 104004200,
+            "type": "ITEM"
+        },
+        "guide_id": 227,
+        "id": 901000370,
+        "materials": [
+            {
+                "id": "201001400",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Wyvern's Feather"
+    },
+    "901000380": {
+        "craft_cost": 20,
+        "craft_time": 60,
+        "crafts": {
+            "id": 104005100,
+            "type": "ITEM"
+        },
+        "guide_id": 200,
+        "id": 901000380,
+        "materials": [
+            {
+                "id": "201000500",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Earth Drum"
+    },
+    "901000410": {
+        "craft_cost": 400,
+        "craft_time": 1800,
+        "crafts": {
+            "id": 104007100,
+            "type": "ITEM"
+        },
+        "guide_id": 228,
+        "id": 901000410,
+        "materials": [
+            {
+                "id": "201001100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001900",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "White Fang"
+    },
     "901000430": {
         "craft_cost": 400,
         "craft_time": 1800,
@@ -638,7 +829,7 @@
             "id": 104009100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 184,
         "id": 901000430,
         "materials": [
             {
@@ -666,7 +857,7 @@
             "id": 105000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 20,
         "id": 901000440,
         "materials": [
             {
@@ -694,7 +885,7 @@
             "id": 105001100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 21,
         "id": 901000450,
         "materials": [
             {
@@ -727,7 +918,7 @@
             "id": 105002100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 22,
         "id": 901000460,
         "materials": [
             {
@@ -745,7 +936,7 @@
             "id": 105003100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 23,
         "id": 901000470,
         "materials": [
             {
@@ -768,7 +959,7 @@
             "id": 105004100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 168,
         "id": 901000480,
         "materials": [
             {
@@ -791,7 +982,7 @@
             "id": 106000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 24,
         "id": 901000490,
         "materials": [
             {
@@ -819,7 +1010,7 @@
             "id": 106100100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 25,
         "id": 901000500,
         "materials": [
             {
@@ -842,7 +1033,7 @@
             "id": 301000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 26,
         "id": 903000010,
         "materials": [
             {
@@ -860,7 +1051,7 @@
             "id": 301000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 27,
         "id": 903000020,
         "materials": [
             {
@@ -871,6 +1062,24 @@
         ],
         "name": "Dagger"
     },
+    "903000030": {
+        "craft_cost": 100,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 301000500,
+            "type": "EQUIP"
+        },
+        "guide_id": 201,
+        "id": 903000030,
+        "materials": [
+            {
+                "id": "203000400",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Dagger"
+    },
     "903000040": {
         "craft_cost": 100,
         "craft_time": 21600,
@@ -878,7 +1087,7 @@
             "id": 301000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 28,
         "id": 903000040,
         "materials": [
             {
@@ -899,6 +1108,29 @@
         ],
         "name": "Sleep Dagger"
     },
+    "903000050": {
+        "craft_cost": 300,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 301000900,
+            "type": "EQUIP"
+        },
+        "guide_id": 202,
+        "id": 903000050,
+        "materials": [
+            {
+                "id": "202002400",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000200",
+                "quantity": "8",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Main Gauche"
+    },
     "903000080": {
         "craft_cost": 40,
         "craft_time": 300,
@@ -906,7 +1138,7 @@
             "id": 302000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 29,
         "id": 903000080,
         "materials": [
             {
@@ -924,7 +1156,7 @@
             "id": 302000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 30,
         "id": 903000090,
         "materials": [
             {
@@ -935,6 +1167,24 @@
         ],
         "name": "Long Sword"
     },
+    "903000100": {
+        "craft_cost": 200,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 302000700,
+            "type": "EQUIP"
+        },
+        "guide_id": 203,
+        "id": 903000100,
+        "materials": [
+            {
+                "id": "203000400",
+                "quantity": "9",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Sword"
+    },
     "903000130": {
         "craft_cost": 600,
         "craft_time": 43200,
@@ -942,7 +1192,7 @@
             "id": 302001000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 169,
         "id": 903000130,
         "materials": [
             {
@@ -965,7 +1215,7 @@
             "id": 302001200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 170,
         "id": 903000140,
         "materials": [
             {
@@ -988,7 +1238,7 @@
             "id": 303000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 31,
         "id": 903000160,
         "materials": [
             {
@@ -1011,7 +1261,7 @@
             "id": 303000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 32,
         "id": 903000180,
         "materials": [
             {
@@ -1027,6 +1277,29 @@
         ],
         "name": "Buster Sword"
     },
+    "903000190": {
+        "craft_cost": 900,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 303000800,
+            "type": "EQUIP"
+        },
+        "guide_id": 229,
+        "id": 903000190,
+        "materials": [
+            {
+                "id": "203000400",
+                "quantity": "16",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000800",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Saber"
+    },
     "903000210": {
         "craft_cost": 280,
         "craft_time": 21600,
@@ -1034,7 +1307,7 @@
             "id": 304000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 33,
         "id": 903000210,
         "materials": [
             {
@@ -1062,7 +1335,7 @@
             "id": 304000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 34,
         "id": 903000220,
         "materials": [
             {
@@ -1090,7 +1363,7 @@
             "id": 304000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 35,
         "id": 903000230,
         "materials": [
             {
@@ -1116,6 +1389,44 @@
         ],
         "name": "Kazekiri"
     },
+    "903000240": {
+        "craft_cost": 840,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 304000400,
+            "type": "EQUIP"
+        },
+        "guide_id": 204,
+        "id": 903000240,
+        "materials": [
+            {
+                "id": "202000400",
+                "quantity": "7",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001600",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001900",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "204000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Osafune"
+    },
     "903000270": {
         "craft_cost": 280,
         "craft_time": 21600,
@@ -1123,7 +1434,7 @@
             "id": 304020300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 36,
         "id": 903000270,
         "materials": [
             {
@@ -1144,6 +1455,39 @@
         ],
         "name": "Kodachi"
     },
+    "903000280": {
+        "craft_cost": 5600,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 304001000,
+            "type": "EQUIP"
+        },
+        "guide_id": 230,
+        "id": 903000280,
+        "materials": [
+            {
+                "id": "207000100",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "207000200",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "207000300",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "207000400",
+                "quantity": "30",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Chirijiraden"
+    },
     "903000290": {
         "craft_cost": 360,
         "craft_time": 21600,
@@ -1151,7 +1495,7 @@
             "id": 305000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 37,
         "id": 903000290,
         "materials": [
             {
@@ -1174,7 +1518,7 @@
             "id": 305000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 38,
         "id": 903000300,
         "materials": [
             {
@@ -1190,6 +1534,24 @@
         ],
         "name": "Great Axe"
     },
+    "903000320": {
+        "craft_cost": 360,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 305000600,
+            "type": "EQUIP"
+        },
+        "guide_id": 231,
+        "id": 903000320,
+        "materials": [
+            {
+                "id": "203000400",
+                "quantity": "14",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Axe"
+    },
     "903000360": {
         "craft_cost": 68,
         "craft_time": 300,
@@ -1197,7 +1559,7 @@
             "id": 306000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 39,
         "id": 903000360,
         "materials": [
             {
@@ -1215,7 +1577,7 @@
             "id": 306000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 40,
         "id": 903000370,
         "materials": [
             {
@@ -1243,7 +1605,7 @@
             "id": 306000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 41,
         "id": 903000380,
         "materials": [
             {
@@ -1271,7 +1633,7 @@
             "id": 306000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 191,
         "id": 903000390,
         "materials": [
             {
@@ -1292,6 +1654,34 @@
         ],
         "name": "Mythril Hammer"
     },
+    "903000400": {
+        "craft_cost": 1080,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 305001100,
+            "type": "EQUIP"
+        },
+        "guide_id": 224,
+        "id": 903000400,
+        "materials": [
+            {
+                "id": "206000600",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "206000500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "206000700",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Vorpal Axe"
+    },
     "903000420": {
         "craft_cost": 36,
         "craft_time": 300,
@@ -1299,7 +1689,7 @@
             "id": 307000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 42,
         "id": 903000420,
         "materials": [
             {
@@ -1317,7 +1707,7 @@
             "id": 307000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 43,
         "id": 903000430,
         "materials": [
             {
@@ -1328,6 +1718,24 @@
         ],
         "name": "Iron Mace"
     },
+    "903000450": {
+        "craft_cost": 180,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 307000900,
+            "type": "EQUIP"
+        },
+        "guide_id": 205,
+        "id": 903000450,
+        "materials": [
+            {
+                "id": "203000400",
+                "quantity": "11",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Mace"
+    },
     "903000470": {
         "craft_cost": 128,
         "craft_time": 3600,
@@ -1335,7 +1743,7 @@
             "id": 308000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 44,
         "id": 903000470,
         "materials": [
             {
@@ -1353,7 +1761,7 @@
             "id": 308000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 45,
         "id": 903000480,
         "materials": [
             {
@@ -1376,7 +1784,7 @@
             "id": 308000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 185,
         "id": 903000490,
         "materials": [
             {
@@ -1399,7 +1807,7 @@
             "id": 308001200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 192,
         "id": 903000540,
         "materials": [
             {
@@ -1425,6 +1833,39 @@
         ],
         "name": "Wind Spear"
     },
+    "903000570": {
+        "craft_cost": 6400,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 308001600,
+            "type": "EQUIP"
+        },
+        "guide_id": 225,
+        "id": 903000570,
+        "materials": [
+            {
+                "id": "206000300",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "206000100",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "206000400",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "206000200",
+                "quantity": "30",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Gae Bolg"
+    },
     "903000580": {
         "craft_cost": 40,
         "craft_time": 300,
@@ -1432,7 +1873,7 @@
             "id": 309020200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 46,
         "id": 903000580,
         "materials": [
             {
@@ -1450,7 +1891,7 @@
             "id": 309020300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 47,
         "id": 903000590,
         "materials": [
             {
@@ -1461,6 +1902,24 @@
         ],
         "name": "Metal Knuckles"
     },
+    "903000600": {
+        "craft_cost": 200,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 309000300,
+            "type": "EQUIP"
+        },
+        "guide_id": 206,
+        "id": 903000600,
+        "materials": [
+            {
+                "id": "203000400",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Claws"
+    },
     "903000640": {
         "craft_cost": 600,
         "craft_time": 43200,
@@ -1468,7 +1927,7 @@
             "id": 309000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 48,
         "id": 903000640,
         "materials": [
             {
@@ -1484,6 +1943,39 @@
         ],
         "name": "Cat Claws"
     },
+    "903000650": {
+        "craft_cost": 4000,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 309020800,
+            "type": "EQUIP"
+        },
+        "guide_id": 237,
+        "id": 903000650,
+        "materials": [
+            {
+                "id": "208000100",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "208000200",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "208000300",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "208000400",
+                "quantity": "30",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Winged Saint"
+    },
     "903000660": {
         "craft_cost": 28,
         "craft_time": 300,
@@ -1491,7 +1983,7 @@
             "id": 310000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 49,
         "id": 903000660,
         "materials": [
             {
@@ -1514,7 +2006,7 @@
             "id": 310000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 50,
         "id": 903000670,
         "materials": [
             {
@@ -1532,7 +2024,7 @@
             "id": 310000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 171,
         "id": 903000680,
         "materials": [
             {
@@ -1560,7 +2052,7 @@
             "id": 311001300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 51,
         "id": 903000720,
         "materials": [
             {
@@ -1578,7 +2070,7 @@
             "id": 311000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 52,
         "id": 903000730,
         "materials": [
             {
@@ -1601,7 +2093,7 @@
             "id": 311000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 53,
         "id": 903000750,
         "materials": [
             {
@@ -1634,7 +2126,7 @@
             "id": 311000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 54,
         "id": 903000760,
         "materials": [
             {
@@ -1667,7 +2159,7 @@
             "id": 312000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 55,
         "id": 903000790,
         "materials": [
             {
@@ -1695,7 +2187,7 @@
             "id": 312000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 56,
         "id": 903000800,
         "materials": [
             {
@@ -1716,6 +2208,34 @@
         ],
         "name": "Long Bow"
     },
+    "903000810": {
+        "craft_cost": 260,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 312000300,
+            "type": "EQUIP"
+        },
+        "guide_id": 207,
+        "id": 903000810,
+        "materials": [
+            {
+                "id": "201000600",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001700",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Bow"
+    },
     "903000820": {
         "craft_cost": 260,
         "craft_time": 21600,
@@ -1723,7 +2243,7 @@
             "id": 312000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 57,
         "id": 903000820,
         "materials": [
             {
@@ -1751,7 +2271,7 @@
             "id": 313000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 58,
         "id": 903000850,
         "materials": [
             {
@@ -1779,7 +2299,7 @@
             "id": 313000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 172,
         "id": 903000860,
         "materials": [
             {
@@ -1807,7 +2327,7 @@
             "id": 314000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 59,
         "id": 903000920,
         "materials": [
             {
@@ -1825,7 +2345,7 @@
             "id": 314000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 60,
         "id": 903000930,
         "materials": [
             {
@@ -1848,7 +2368,7 @@
             "id": 314000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 173,
         "id": 903000940,
         "materials": [
             {
@@ -1874,6 +2394,29 @@
         ],
         "name": "Shock Whip"
     },
+    "903000950": {
+        "craft_cost": 180,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 314000500,
+            "type": "EQUIP"
+        },
+        "guide_id": 208,
+        "id": 903000950,
+        "materials": [
+            {
+                "id": "202000400",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Whip"
+    },
     "903000970": {
         "craft_cost": 40,
         "craft_time": 300,
@@ -1881,7 +2424,7 @@
             "id": 315000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 61,
         "id": 903000970,
         "materials": [
             {
@@ -1899,7 +2442,7 @@
             "id": 315020200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 62,
         "id": 903000980,
         "materials": [
             {
@@ -1922,7 +2465,7 @@
             "id": 315020400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 63,
         "id": 903000990,
         "materials": [
             {
@@ -1945,7 +2488,7 @@
             "id": 316000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 64,
         "id": 903001020,
         "materials": [
             {
@@ -1968,7 +2511,7 @@
             "id": 316000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 65,
         "id": 903001030,
         "materials": [
             {
@@ -1991,7 +2534,7 @@
             "id": 401001000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 66,
         "id": 904000010,
         "materials": [
             {
@@ -2009,7 +2552,7 @@
             "id": 401000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 67,
         "id": 904000020,
         "materials": [
             {
@@ -2032,7 +2575,7 @@
             "id": 401000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 68,
         "id": 904000030,
         "materials": [
             {
@@ -2055,7 +2598,7 @@
             "id": 401000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 174,
         "id": 904000040,
         "materials": [
             {
@@ -2071,6 +2614,29 @@
         ],
         "name": "Ochre Shield"
     },
+    "904000050": {
+        "craft_cost": 240,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 401000500,
+            "type": "EQUIP"
+        },
+        "guide_id": 209,
+        "id": 904000050,
+        "materials": [
+            {
+                "id": "202000400",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Buckler"
+    },
     "904000060": {
         "craft_cost": 60,
         "craft_time": 300,
@@ -2078,7 +2644,7 @@
             "id": 402000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 69,
         "id": 904000060,
         "materials": [
             {
@@ -2101,7 +2667,7 @@
             "id": 402000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 70,
         "id": 904000070,
         "materials": [
             {
@@ -2117,6 +2683,80 @@
         ],
         "name": "Iron Shield"
     },
+    "904000080": {
+        "craft_cost": 300,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 402000200,
+            "type": "EQUIP"
+        },
+        "guide_id": 210,
+        "id": 904000080,
+        "materials": [
+            {
+                "id": "202000400",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "12",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Large Shield"
+    },
+    "904000090": {
+        "craft_cost": 900,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 402000500,
+            "type": "EQUIP"
+        },
+        "guide_id": 211,
+        "id": 904000090,
+        "materials": [
+            {
+                "id": "202000400",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "15",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Shield"
+    },
+    "904000100": {
+        "craft_cost": 720,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 401001100,
+            "type": "EQUIP"
+        },
+        "guide_id": 232,
+        "id": 904000100,
+        "materials": [
+            {
+                "id": "207000700",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "207000500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "207000600",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Escutcheon"
+    },
     "904000150": {
         "craft_cost": 20,
         "craft_time": 300,
@@ -2124,7 +2764,7 @@
             "id": 403000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 71,
         "id": 904000150,
         "materials": [
             {
@@ -2142,7 +2782,7 @@
             "id": 403000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 72,
         "id": 904000160,
         "materials": [
             {
@@ -2165,7 +2805,7 @@
             "id": 403040100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 73,
         "id": 904000170,
         "materials": [
             {
@@ -2188,7 +2828,7 @@
             "id": 403000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 74,
         "id": 904000180,
         "materials": [
             {
@@ -2211,7 +2851,7 @@
             "id": 403040200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 75,
         "id": 904000200,
         "materials": [
             {
@@ -2239,7 +2879,7 @@
             "id": 403020200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 175,
         "id": 904000210,
         "materials": [
             {
@@ -2267,7 +2907,7 @@
             "id": 403040400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 186,
         "id": 904000220,
         "materials": [
             {
@@ -2293,6 +2933,39 @@
         ],
         "name": "Mage's Hat"
     },
+    "904000230": {
+        "craft_cost": 100,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 403040500,
+            "type": "EQUIP"
+        },
+        "guide_id": 212,
+        "id": 904000230,
+        "materials": [
+            {
+                "id": "201000100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "201000900",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000400",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002400",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Tiger Mask"
+    },
     "904000250": {
         "craft_cost": 300,
         "craft_time": 43200,
@@ -2300,7 +2973,7 @@
             "id": 403040600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 76,
         "id": 904000250,
         "materials": [
             {
@@ -2328,7 +3001,7 @@
             "id": 403040700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 77,
         "id": 904000260,
         "materials": [
             {
@@ -2356,7 +3029,7 @@
             "id": 404000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 78,
         "id": 904000310,
         "materials": [
             {
@@ -2374,7 +3047,7 @@
             "id": 404000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 79,
         "id": 904000320,
         "materials": [
             {
@@ -2392,7 +3065,7 @@
             "id": 404000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 176,
         "id": 904000330,
         "materials": [
             {
@@ -2410,7 +3083,7 @@
             "id": 404000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 193,
         "id": 904000340,
         "materials": [
             {
@@ -2428,7 +3101,7 @@
             "id": 405000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 80,
         "id": 904000370,
         "materials": [
             {
@@ -2451,7 +3124,7 @@
             "id": 405000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 81,
         "id": 904000380,
         "materials": [
             {
@@ -2474,7 +3147,7 @@
             "id": 405000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 82,
         "id": 904000390,
         "materials": [
             {
@@ -2502,7 +3175,7 @@
             "id": 405000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 83,
         "id": 904000400,
         "materials": [
             {
@@ -2530,7 +3203,7 @@
             "id": 405000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 84,
         "id": 904000420,
         "materials": [
             {
@@ -2558,7 +3231,7 @@
             "id": 405000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 85,
         "id": 904000430,
         "materials": [
             {
@@ -2586,7 +3259,7 @@
             "id": 405001000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 86,
         "id": 904000440,
         "materials": [
             {
@@ -2614,7 +3287,7 @@
             "id": 405001100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 87,
         "id": 904000450,
         "materials": [
             {
@@ -2642,7 +3315,7 @@
             "id": 406000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 88,
         "id": 904000500,
         "materials": [
             {
@@ -2660,7 +3333,7 @@
             "id": 406000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 89,
         "id": 904000510,
         "materials": [
             {
@@ -2683,7 +3356,7 @@
             "id": 406000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 90,
         "id": 904000520,
         "materials": [
             {
@@ -2694,6 +3367,75 @@
         ],
         "name": "Iron Plate"
     },
+    "904000530": {
+        "craft_cost": 240,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 406000600,
+            "type": "EQUIP"
+        },
+        "guide_id": 213,
+        "id": 904000530,
+        "materials": [
+            {
+                "id": "203000400",
+                "quantity": "14",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Plate"
+    },
+    "904000540": {
+        "craft_cost": 240,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 406000700,
+            "type": "EQUIP"
+        },
+        "guide_id": 214,
+        "id": 904000540,
+        "materials": [
+            {
+                "id": "202001300",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "8",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Silver Cuirass"
+    },
+    "904000550": {
+        "craft_cost": 240,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 406000800,
+            "type": "EQUIP"
+        },
+        "guide_id": 233,
+        "id": 904000550,
+        "materials": [
+            {
+                "id": "202001300",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000400",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "8",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Brigandine"
+    },
     "904000570": {
         "craft_cost": 60,
         "craft_time": 300,
@@ -2701,7 +3443,7 @@
             "id": 407000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 91,
         "id": 904000570,
         "materials": [
             {
@@ -2719,7 +3461,7 @@
             "id": 407000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 92,
         "id": 904000580,
         "materials": [
             {
@@ -2730,6 +3472,47 @@
         ],
         "name": "Iron Armor"
     },
+    "904000590": {
+        "craft_cost": 300,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 407001100,
+            "type": "EQUIP"
+        },
+        "guide_id": 215,
+        "id": 904000590,
+        "materials": [
+            {
+                "id": "202000100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "12",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Paladin Armor"
+    },
+    "904000600": {
+        "craft_cost": 300,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 407000600,
+            "type": "EQUIP"
+        },
+        "guide_id": 216,
+        "id": 904000600,
+        "materials": [
+            {
+                "id": "203000400",
+                "quantity": "12",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mythril Armor"
+    },
     "904000660": {
         "craft_cost": 40,
         "craft_time": 300,
@@ -2737,7 +3520,7 @@
             "id": 408000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 93,
         "id": 904000660,
         "materials": [
             {
@@ -2755,7 +3538,7 @@
             "id": 408000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 94,
         "id": 904000670,
         "materials": [
             {
@@ -2778,7 +3561,7 @@
             "id": 408000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 95,
         "id": 904000680,
         "materials": [
             {
@@ -2801,7 +3584,7 @@
             "id": 408000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 177,
         "id": 904000690,
         "materials": [
             {
@@ -2822,6 +3605,39 @@
         ],
         "name": "Sage's Surplice"
     },
+    "904000700": {
+        "craft_cost": 200,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 408000300,
+            "type": "EQUIP"
+        },
+        "guide_id": 217,
+        "id": 904000700,
+        "materials": [
+            {
+                "id": "201000800",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001600",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001200",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Wizard's Robe"
+    },
     "904000710": {
         "craft_cost": 600,
         "craft_time": 43200,
@@ -2829,7 +3645,7 @@
             "id": 408000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 96,
         "id": 904000710,
         "materials": [
             {
@@ -2857,7 +3673,7 @@
             "id": 408000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 97,
         "id": 904000720,
         "materials": [
             {
@@ -2885,7 +3701,7 @@
             "id": 408001100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 187,
         "id": 904000750,
         "materials": [
             {
@@ -2923,7 +3739,7 @@
             "id": 409000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 98,
         "id": 904000760,
         "materials": [
             {
@@ -2946,7 +3762,7 @@
             "id": 409000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 99,
         "id": 904000770,
         "materials": [
             {
@@ -2974,7 +3790,7 @@
             "id": 409000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 100,
         "id": 904000780,
         "materials": [
             {
@@ -3007,7 +3823,7 @@
             "id": 409000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 188,
         "id": 904000800,
         "materials": [
             {
@@ -3040,7 +3856,7 @@
             "id": 409000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 101,
         "id": 904000820,
         "materials": [
             {
@@ -3063,7 +3879,7 @@
             "id": 409002000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 102,
         "id": 904000950,
         "materials": [
             {
@@ -3091,7 +3907,7 @@
             "id": 409002300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 103,
         "id": 904000980,
         "materials": [
             {
@@ -3119,7 +3935,7 @@
             "id": 409002600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 104,
         "id": 904001010,
         "materials": [
             {
@@ -3147,7 +3963,7 @@
             "id": 409002900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 105,
         "id": 904001040,
         "materials": [
             {
@@ -3175,7 +3991,7 @@
             "id": 409003200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 106,
         "id": 904001070,
         "materials": [
             {
@@ -3203,7 +4019,7 @@
             "id": 409003500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 107,
         "id": 904001100,
         "materials": [
             {
@@ -3231,7 +4047,7 @@
             "id": 409003900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 108,
         "id": 904001140,
         "materials": [
             {
@@ -3259,7 +4075,7 @@
             "id": 409004000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 109,
         "id": 904001150,
         "materials": [
             {
@@ -3287,7 +4103,7 @@
             "id": 409004100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 110,
         "id": 904001160,
         "materials": [
             {
@@ -3308,6 +4124,39 @@
         ],
         "name": "Regen Ring"
     },
+    "904001170": {
+        "craft_cost": 600,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 409004200,
+            "type": "EQUIP"
+        },
+        "guide_id": 218,
+        "id": 904001170,
+        "materials": [
+            {
+                "id": "201000600",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001400",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001100",
+                "quantity": "7",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002100",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Moon Bracer"
+    },
     "904001310": {
         "craft_cost": 600,
         "craft_time": 43200,
@@ -3315,7 +4164,7 @@
             "id": 409005600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 111,
         "id": 904001310,
         "materials": [
             {
@@ -3343,7 +4192,7 @@
             "id": 409006100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 112,
         "id": 904001360,
         "materials": [
             {
@@ -3371,7 +4220,7 @@
             "id": 409006200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 113,
         "id": 904001370,
         "materials": [
             {
@@ -3394,7 +4243,7 @@
             "id": 405000310,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 114,
         "id": 904001380,
         "materials": [
             {
@@ -3422,7 +4271,7 @@
             "id": 504010010,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 115,
         "id": 905000010,
         "materials": [
             {
@@ -3455,7 +4304,7 @@
             "id": 504010020,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 116,
         "id": 905000020,
         "materials": [
             {
@@ -3483,7 +4332,7 @@
             "id": 504010030,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 117,
         "id": 905000030,
         "materials": [
             {
@@ -3511,7 +4360,7 @@
             "id": 504010040,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 118,
         "id": 905000040,
         "materials": [
             {
@@ -3539,7 +4388,7 @@
             "id": 504010050,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 119,
         "id": 905000050,
         "materials": [
             {
@@ -3567,7 +4416,7 @@
             "id": 504010070,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 189,
         "id": 905000070,
         "materials": [
             {
@@ -3600,7 +4449,7 @@
             "id": 504010080,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 120,
         "id": 905000080,
         "materials": [
             {
@@ -3628,7 +4477,7 @@
             "id": 504010090,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 121,
         "id": 905000090,
         "materials": [
             {
@@ -3649,6 +4498,82 @@
         ],
         "name": "Stona"
     },
+    "905000130": {
+        "craft_cost": 3000,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 504010130,
+            "type": "MATERIA"
+        },
+        "guide_id": 219,
+        "id": 905000130,
+        "materials": [
+            {
+                "id": "201000700",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001500",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Dispel"
+    },
+    "905000150": {
+        "craft_cost": 3000,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 504010150,
+            "type": "MATERIA"
+        },
+        "guide_id": 234,
+        "id": 905000150,
+        "materials": [
+            {
+                "id": "201000700",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "504010070",
+                "quantity": "3",
+                "type": "MATERIA"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Curaga"
+    },
     "905000230": {
         "craft_cost": 200,
         "craft_time": 300,
@@ -3656,7 +4581,7 @@
             "id": 504020010,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 122,
         "id": 905000230,
         "materials": [
             {
@@ -3684,7 +4609,7 @@
             "id": 504020020,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 123,
         "id": 905000240,
         "materials": [
             {
@@ -3712,7 +4637,7 @@
             "id": 504020030,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 124,
         "id": 905000250,
         "materials": [
             {
@@ -3740,7 +4665,7 @@
             "id": 504020040,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 125,
         "id": 905000260,
         "materials": [
             {
@@ -3768,7 +4693,7 @@
             "id": 504020050,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 126,
         "id": 905000270,
         "materials": [
             {
@@ -3796,7 +4721,7 @@
             "id": 504020060,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 127,
         "id": 905000280,
         "materials": [
             {
@@ -3824,7 +4749,7 @@
             "id": 504020070,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 128,
         "id": 905000290,
         "materials": [
             {
@@ -3857,7 +4782,7 @@
             "id": 504020090,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 129,
         "id": 905000310,
         "materials": [
             {
@@ -3890,7 +4815,7 @@
             "id": 504020100,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 130,
         "id": 905000320,
         "materials": [
             {
@@ -3923,7 +4848,7 @@
             "id": 504020110,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 131,
         "id": 905000330,
         "materials": [
             {
@@ -3956,7 +4881,7 @@
             "id": 504020120,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 132,
         "id": 905000340,
         "materials": [
             {
@@ -3989,7 +4914,7 @@
             "id": 504020150,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 133,
         "id": 905000370,
         "materials": [
             {
@@ -4017,7 +4942,7 @@
             "id": 504020160,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 134,
         "id": 905000380,
         "materials": [
             {
@@ -4050,7 +4975,7 @@
             "id": 504020180,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 135,
         "id": 905000400,
         "materials": [
             {
@@ -4088,7 +5013,7 @@
             "id": 504030010,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 136,
         "id": 905000670,
         "materials": [
             {
@@ -4116,7 +5041,7 @@
             "id": 504030020,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 137,
         "id": 905000680,
         "materials": [
             {
@@ -4144,7 +5069,7 @@
             "id": 504030030,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 138,
         "id": 905000690,
         "materials": [
             {
@@ -4172,7 +5097,7 @@
             "id": 504030040,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 139,
         "id": 905000700,
         "materials": [
             {
@@ -4200,7 +5125,7 @@
             "id": 504030050,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 140,
         "id": 905000710,
         "materials": [
             {
@@ -4228,7 +5153,7 @@
             "id": 504030060,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 141,
         "id": 905000720,
         "materials": [
             {
@@ -4256,7 +5181,7 @@
             "id": 504030070,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 142,
         "id": 905000730,
         "materials": [
             {
@@ -4284,7 +5209,7 @@
             "id": 504030080,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 143,
         "id": 905000740,
         "materials": [
             {
@@ -4312,7 +5237,7 @@
             "id": 504030090,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 178,
         "id": 905000750,
         "materials": [
             {
@@ -4345,7 +5270,7 @@
             "id": 504030100,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 144,
         "id": 905000760,
         "materials": [
             {
@@ -4373,7 +5298,7 @@
             "id": 504030110,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 145,
         "id": 905000770,
         "materials": [
             {
@@ -4406,7 +5331,7 @@
             "id": 504030120,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 146,
         "id": 905000780,
         "materials": [
             {
@@ -4439,7 +5364,7 @@
             "id": 504030130,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 147,
         "id": 905000790,
         "materials": [
             {
@@ -4472,7 +5397,7 @@
             "id": 504030140,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 148,
         "id": 905000800,
         "materials": [
             {
@@ -4505,7 +5430,7 @@
             "id": 504030160,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 149,
         "id": 905000820,
         "materials": [
             {
@@ -4538,7 +5463,7 @@
             "id": 504030170,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 150,
         "id": 905000830,
         "materials": [
             {
@@ -4571,7 +5496,7 @@
             "id": 504030180,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 151,
         "id": 905000840,
         "materials": [
             {
@@ -4604,7 +5529,7 @@
             "id": 504030190,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 152,
         "id": 905000850,
         "materials": [
             {
@@ -4637,7 +5562,7 @@
             "id": 504030210,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 194,
         "id": 905000870,
         "materials": [
             {
@@ -4663,6 +5588,39 @@
         ],
         "name": "Bravery"
     },
+    "905000880": {
+        "craft_cost": 800,
+        "craft_time": 1800,
+        "crafts": {
+            "id": 504030220,
+            "type": "MATERIA"
+        },
+        "guide_id": 220,
+        "id": 905000880,
+        "materials": [
+            {
+                "id": "201000400",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Faith"
+    },
     "905100040": {
         "craft_cost": 200,
         "craft_time": 300,
@@ -4670,7 +5628,7 @@
             "id": 504100040,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 179,
         "id": 905100040,
         "materials": [
             {
@@ -4698,7 +5656,7 @@
             "id": 504100100,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 195,
         "id": 905100100,
         "materials": [
             {
@@ -4726,7 +5684,7 @@
             "id": 504100130,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 190,
         "id": 905100130,
         "materials": [
             {
@@ -4754,7 +5712,7 @@
             "id": 504100160,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 180,
         "id": 905100160,
         "materials": [
             {
@@ -4775,6 +5733,44 @@
         ],
         "name": "SPR +10%"
     },
+    "905100190": {
+        "craft_cost": 200,
+        "craft_time": 300,
+        "crafts": {
+            "id": 504100190,
+            "type": "MATERIA"
+        },
+        "guide_id": 235,
+        "id": 905100190,
+        "materials": [
+            {
+                "id": "201000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000700",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "EVO MAG +10%"
+    },
     "905101020": {
         "craft_cost": 1600,
         "craft_time": 21600,
@@ -4782,7 +5778,7 @@
             "id": 504101020,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 181,
         "id": 905101020,
         "materials": [
             {
@@ -4808,6 +5804,77 @@
         ],
         "name": "Bug Killer"
     },
+    "905101100": {
+        "craft_cost": 1600,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 504101100,
+            "type": "MATERIA"
+        },
+        "guide_id": 221,
+        "id": 905101100,
+        "materials": [
+            {
+                "id": "201000700",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Spirit Slayer"
+    },
+    "905101500": {
+        "craft_cost": 600,
+        "craft_time": 1800,
+        "crafts": {
+            "id": 504101500,
+            "type": "MATERIA"
+        },
+        "guide_id": 196,
+        "id": 905101500,
+        "materials": [
+            {
+                "id": "201001500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001800",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "205000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "HP +15%"
+    },
     "905200010": {
         "craft_cost": 1000,
         "craft_time": 3600,
@@ -4815,7 +5882,7 @@
             "id": 504200010,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 153,
         "id": 905200010,
         "materials": [
             {
@@ -4843,7 +5910,7 @@
             "id": 504200120,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 154,
         "id": 905200120,
         "materials": [
             {
@@ -4866,7 +5933,7 @@
             "id": 504200510,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 155,
         "id": 905200510,
         "materials": [
             {
@@ -4899,7 +5966,7 @@
             "id": 504200520,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 156,
         "id": 905200520,
         "materials": [
             {
@@ -4925,6 +5992,39 @@
         ],
         "name": "Blizzard Blade"
     },
+    "905200540": {
+        "craft_cost": 200,
+        "craft_time": 300,
+        "crafts": {
+            "id": 504200540,
+            "type": "MATERIA"
+        },
+        "guide_id": 222,
+        "id": 905200540,
+        "materials": [
+            {
+                "id": "201000400",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000800",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Sleep Blade"
+    },
     "905200550": {
         "craft_cost": 200,
         "craft_time": 300,
@@ -4932,7 +6032,7 @@
             "id": 504200550,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 157,
         "id": 905200550,
         "materials": [
             {
@@ -4965,7 +6065,7 @@
             "id": 504200560,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 158,
         "id": 905200560,
         "materials": [
             {
@@ -4991,6 +6091,39 @@
         ],
         "name": "Water Blade"
     },
+    "905200570": {
+        "craft_cost": 600,
+        "craft_time": 1800,
+        "crafts": {
+            "id": 504200570,
+            "type": "MATERIA"
+        },
+        "guide_id": 223,
+        "id": 905200570,
+        "materials": [
+            {
+                "id": "201000600",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000800",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Aero Blade"
+    },
     "905200580": {
         "craft_cost": 600,
         "craft_time": 1800,
@@ -4998,7 +6131,7 @@
             "id": 504200580,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 159,
         "id": 905200580,
         "materials": [
             {
@@ -5031,7 +6164,7 @@
             "id": 504200590,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 160,
         "id": 905200590,
         "materials": [
             {
@@ -5064,7 +6197,7 @@
             "id": 504200600,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 161,
         "id": 905200600,
         "materials": [
             {
@@ -5095,6 +6228,82 @@
         ],
         "name": "Bio Blade"
     },
+    "905200640": {
+        "craft_cost": 1600,
+        "craft_time": 3600,
+        "crafts": {
+            "id": 504200640,
+            "type": "MATERIA"
+        },
+        "guide_id": 236,
+        "id": 905200640,
+        "materials": [
+            {
+                "id": "201001200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000800",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Watera Blade"
+    },
+    "905200660": {
+        "craft_cost": 1000,
+        "craft_time": 3600,
+        "crafts": {
+            "id": 504200660,
+            "type": "MATERIA"
+        },
+        "guide_id": 197,
+        "id": 905200660,
+        "materials": [
+            {
+                "id": "201001300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000800",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "205000100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Stonra Blade"
+    },
     "905200800": {
         "craft_cost": 3000,
         "craft_time": 43200,
@@ -5102,7 +6311,7 @@
             "id": 504200800,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 162,
         "id": 905200800,
         "materials": [
             {
@@ -5135,7 +6344,7 @@
             "id": 504201160,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 163,
         "id": 905201160,
         "materials": [
             {
@@ -5163,7 +6372,7 @@
             "id": 504201320,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 164,
         "id": 905201320,
         "materials": [
             {
@@ -5196,7 +6405,7 @@
             "id": 1100000000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 90000,
         "id": 1000000000,
         "materials": [
             {
@@ -5224,7 +6433,7 @@
             "id": 1100000001,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 90001,
         "id": 1000000001,
         "materials": [
             {
@@ -5244,5 +6453,416 @@
             }
         ],
         "name": "Superior Blade"
+    },
+    "1000000002": {
+        "craft_cost": 3200,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 1100000002,
+            "type": "EQUIP"
+        },
+        "guide_id": 90002,
+        "id": 1000000002,
+        "materials": [
+            {
+                "id": "1000000000",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "1000000002",
+                "quantity": "44",
+                "type": "ITEM"
+            },
+            {
+                "id": "290020000",
+                "quantity": "66",
+                "type": "ITEM"
+            },
+            {
+                "id": "290030000",
+                "quantity": "66",
+                "type": "ITEM"
+            },
+            {
+                "id": "1000000001",
+                "quantity": "80",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Rod of Gravity"
+    },
+    "1000000003": {
+        "craft_cost": 500,
+        "craft_time": 900,
+        "crafts": {
+            "id": 1000000002,
+            "type": "ITEM"
+        },
+        "guide_id": 90003,
+        "id": 1000000003,
+        "materials": [
+            {
+                "id": "201000800",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Void Vessel"
+    },
+    "1000000004": {
+        "craft_cost": 2600,
+        "craft_time": 7200,
+        "crafts": {
+            "id": 504200660,
+            "type": "MATERIA"
+        },
+        "guide_id": 90004,
+        "id": 1000000004,
+        "materials": [
+            {
+                "id": "201001300",
+                "quantity": "24",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "13",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000800",
+                "quantity": "18",
+                "type": "ITEM"
+            },
+            {
+                "id": "205000100",
+                "quantity": "18",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Stonra Blade"
+    },
+    "1000000005": {
+        "craft_cost": 3300,
+        "craft_time": 10800,
+        "crafts": {
+            "id": 504101500,
+            "type": "MATERIA"
+        },
+        "guide_id": 90005,
+        "id": 1000000005,
+        "materials": [
+            {
+                "id": "201001500",
+                "quantity": "27",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001800",
+                "quantity": "16",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002200",
+                "quantity": "13",
+                "type": "ITEM"
+            },
+            {
+                "id": "205000200",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "HP +15%"
+    },
+    "1000000006": {
+        "craft_cost": 4000,
+        "craft_time": 3600,
+        "crafts": {
+            "id": 1500000000,
+            "type": "MATERIA"
+        },
+        "guide_id": 90006,
+        "id": 1000000006,
+        "materials": [
+            {
+                "id": "201000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "201000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "205000100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Burst Shot"
+    },
+    "1000000007": {
+        "craft_cost": 100,
+        "craft_time": 900,
+        "crafts": {
+            "id": 1209000600,
+            "type": "ITEM"
+        },
+        "guide_id": 90007,
+        "id": 1000000007,
+        "materials": [
+            {
+                "id": "1209000400",
+                "quantity": "2",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000200",
+                "quantity": "4",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000100",
+                "quantity": "13",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Standard Mogcake Pack"
+    },
+    "1000000008": {
+        "craft_cost": 900,
+        "craft_time": 10800,
+        "crafts": {
+            "id": 1209000700,
+            "type": "ITEM"
+        },
+        "guide_id": 90008,
+        "id": 1000000008,
+        "materials": [
+            {
+                "id": "1209000400",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000300",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000200",
+                "quantity": "45",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000100",
+                "quantity": "150",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Rare Mogcake Pack"
+    },
+    "1000000009": {
+        "craft_cost": 2400,
+        "craft_time": 28800,
+        "crafts": {
+            "id": 1209000800,
+            "type": "ITEM"
+        },
+        "guide_id": 90009,
+        "id": 1000000009,
+        "materials": [
+            {
+                "id": "1209000400",
+                "quantity": "60",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000300",
+                "quantity": "60",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000200",
+                "quantity": "95",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000100",
+                "quantity": "300",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Premium Mogcake Pack"
+    },
+    "1000000010": {
+        "craft_cost": 150000,
+        "craft_time": 172800,
+        "crafts": {
+            "id": 1100000015,
+            "type": "EQUIP"
+        },
+        "guide_id": 90010,
+        "id": 1000000010,
+        "materials": [
+            {
+                "id": "1100000001",
+                "quantity": "3",
+                "type": "EQUIP"
+            },
+            {
+                "id": "1209000806",
+                "quantity": "80",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000200",
+                "quantity": "80",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "80",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "50",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Shining Splendor"
+    },
+    "1000000011": {
+        "craft_cost": 1000,
+        "craft_time": 1800,
+        "crafts": {
+            "id": 1000000003,
+            "type": "ITEM"
+        },
+        "guide_id": 90011,
+        "id": 1000000011,
+        "materials": [
+            {
+                "id": "201001200",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "201000400",
+                "quantity": "12",
+                "type": "ITEM"
+            },
+            {
+                "id": "290020400",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000100",
+                "quantity": "8",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Y-Potion"
+    },
+    "1000000012": {
+        "craft_cost": 1000,
+        "craft_time": 1800,
+        "crafts": {
+            "id": 1000000004,
+            "type": "ITEM"
+        },
+        "guide_id": 90012,
+        "id": 1000000012,
+        "materials": [
+            {
+                "id": "101001200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001200",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "201000400",
+                "quantity": "12",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000100",
+                "quantity": "9",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Mega Ether"
+    },
+    "1000000013": {
+        "craft_cost": 150000,
+        "craft_time": 3600,
+        "crafts": {
+            "id": 1100000014,
+            "type": "EQUIP"
+        },
+        "guide_id": 90013,
+        "id": 1000000013,
+        "materials": [
+            {
+                "id": "1100000013",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "1209000802",
+                "quantity": "2",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000801",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "1209000803",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "Blood Sword"
     }
 }

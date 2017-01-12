@@ -470,6 +470,161 @@
         "name": "Shiva",
         "sp_max": 931
     },
+    "5": {
+        "board_id": 5,
+        "forms": {
+            "1": {
+                "beast_id": 5,
+                "equip_bonus%": {
+                    "atk": 1,
+                    "def": 1,
+                    "hp": 1,
+                    "int": 1,
+                    "mnd": 1,
+                    "mp": 1
+                },
+                "exp_growth": 30,
+                "id": 51,
+                "max_level": 30,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "dark": "50",
+                        "light": "-50"
+                    }
+                },
+                "sp_total": 158,
+                "stats": {
+                    "atk": {
+                        "base": "1000",
+                        "max": "1200"
+                    },
+                    "def": {
+                        "base": "1200",
+                        "max": "1700"
+                    },
+                    "hp": {
+                        "base": "2000",
+                        "max": "2800"
+                    },
+                    "int": {
+                        "base": "2200",
+                        "max": "3700"
+                    },
+                    "mnd": {
+                        "base": "1800",
+                        "max": "2300"
+                    },
+                    "mp": {
+                        "base": "2800",
+                        "max": "4300"
+                    }
+                },
+                "summon": 10501
+            },
+            "2": {
+                "beast_id": 5,
+                "equip_bonus%": {
+                    "atk": 1,
+                    "def": 1,
+                    "hp": 1,
+                    "int": 1,
+                    "mnd": 1,
+                    "mp": 1
+                },
+                "exp_growth": 40,
+                "id": 52,
+                "max_level": 40,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "dark": "50",
+                        "light": "-50"
+                    }
+                },
+                "sp_total": 312,
+                "stats": {
+                    "atk": {
+                        "base": "1300",
+                        "max": "1500"
+                    },
+                    "def": {
+                        "base": "1800",
+                        "max": "2300"
+                    },
+                    "hp": {
+                        "base": "3500",
+                        "max": "4300"
+                    },
+                    "int": {
+                        "base": "3800",
+                        "max": "5300"
+                    },
+                    "mnd": {
+                        "base": "2600",
+                        "max": "3100"
+                    },
+                    "mp": {
+                        "base": "4500",
+                        "max": "6000"
+                    }
+                },
+                "summon": 10502
+            },
+            "3": {
+                "beast_id": 5,
+                "equip_bonus%": {
+                    "atk": 1,
+                    "def": 1,
+                    "hp": 1,
+                    "int": 1,
+                    "mnd": 1,
+                    "mp": 1
+                },
+                "exp_growth": 50,
+                "id": 53,
+                "max_level": 50,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "dark": "50",
+                        "light": "-50"
+                    }
+                },
+                "sp_total": 539,
+                "stats": {
+                    "atk": {
+                        "base": "1600",
+                        "max": "1800"
+                    },
+                    "def": {
+                        "base": "2400",
+                        "max": "2900"
+                    },
+                    "hp": {
+                        "base": "5000",
+                        "max": "5800"
+                    },
+                    "int": {
+                        "base": "5400",
+                        "max": "6900"
+                    },
+                    "mnd": {
+                        "base": "3400",
+                        "max": "3900"
+                    },
+                    "mp": {
+                        "base": "6200",
+                        "max": "7700"
+                    }
+                },
+                "summon": 10503
+            }
+        },
+        "id": 5,
+        "name": "Diablos",
+        "sp_max": 1009
+    },
     "6": {
         "board_id": 6,
         "forms": {
@@ -623,6 +778,161 @@
         },
         "id": 6,
         "name": "Golem",
+        "sp_max": 1009
+    },
+    "7": {
+        "board_id": 7,
+        "forms": {
+            "1": {
+                "beast_id": 7,
+                "equip_bonus%": {
+                    "atk": 1,
+                    "def": 1,
+                    "hp": 1,
+                    "int": 1,
+                    "mnd": 1,
+                    "mp": 1
+                },
+                "exp_growth": 30,
+                "id": 71,
+                "max_level": 30,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "thunder": "50",
+                        "water": "-50"
+                    }
+                },
+                "sp_total": 158,
+                "stats": {
+                    "atk": {
+                        "base": "700",
+                        "max": "1000"
+                    },
+                    "def": {
+                        "base": "300",
+                        "max": "600"
+                    },
+                    "hp": {
+                        "base": "1400",
+                        "max": "1800"
+                    },
+                    "int": {
+                        "base": "2600",
+                        "max": "4100"
+                    },
+                    "mnd": {
+                        "base": "1000",
+                        "max": "2500"
+                    },
+                    "mp": {
+                        "base": "2900",
+                        "max": "4400"
+                    }
+                },
+                "summon": 10701
+            },
+            "2": {
+                "beast_id": 7,
+                "equip_bonus%": {
+                    "atk": 1,
+                    "def": 1,
+                    "hp": 1,
+                    "int": 1,
+                    "mnd": 1,
+                    "mp": 1
+                },
+                "exp_growth": 40,
+                "id": 72,
+                "max_level": 40,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "thunder": "50",
+                        "water": "-50"
+                    }
+                },
+                "sp_total": 312,
+                "stats": {
+                    "atk": {
+                        "base": "1300",
+                        "max": "1600"
+                    },
+                    "def": {
+                        "base": "800",
+                        "max": "1100"
+                    },
+                    "hp": {
+                        "base": "2400",
+                        "max": "2800"
+                    },
+                    "int": {
+                        "base": "4400",
+                        "max": "5900"
+                    },
+                    "mnd": {
+                        "base": "3000",
+                        "max": "4500"
+                    },
+                    "mp": {
+                        "base": "4700",
+                        "max": "6200"
+                    }
+                },
+                "summon": 10702
+            },
+            "3": {
+                "beast_id": 7,
+                "equip_bonus%": {
+                    "atk": 1,
+                    "def": 1,
+                    "hp": 1,
+                    "int": 1,
+                    "mnd": 1,
+                    "mp": 1
+                },
+                "exp_growth": 50,
+                "id": 73,
+                "max_level": 50,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "thunder": "50",
+                        "water": "-50"
+                    }
+                },
+                "sp_total": 539,
+                "stats": {
+                    "atk": {
+                        "base": "1800",
+                        "max": "2100"
+                    },
+                    "def": {
+                        "base": "1400",
+                        "max": "1700"
+                    },
+                    "hp": {
+                        "base": "3400",
+                        "max": "3800"
+                    },
+                    "int": {
+                        "base": "6200",
+                        "max": "7700"
+                    },
+                    "mnd": {
+                        "base": "5000",
+                        "max": "6500"
+                    },
+                    "mp": {
+                        "base": "6500",
+                        "max": "8000"
+                    }
+                },
+                "summon": 10703
+            }
+        },
+        "id": 7,
+        "name": "Ramuh",
         "sp_max": 1009
     }
 }

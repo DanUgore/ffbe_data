@@ -6,7 +6,7 @@
             "id": 101000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 1,
         "id": 901000010,
         "materials": [
             {
@@ -29,7 +29,7 @@
             "id": 101000200,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 2,
         "id": 901000020,
         "materials": [
             {
@@ -52,7 +52,7 @@
             "id": 101000300,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 182,
         "id": 901000030,
         "materials": [
             {
@@ -80,7 +80,7 @@
             "id": 101001100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 3,
         "id": 901000040,
         "materials": [
             {
@@ -108,7 +108,7 @@
             "id": 101001200,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 183,
         "id": 901000050,
         "materials": [
             {
@@ -141,7 +141,7 @@
             "id": 102000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 4,
         "id": 901000080,
         "materials": [
             {
@@ -164,7 +164,7 @@
             "id": 102001100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 5,
         "id": 901000090,
         "materials": [
             {
@@ -187,7 +187,7 @@
             "id": 102002100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 6,
         "id": 901000100,
         "materials": [
             {
@@ -210,7 +210,7 @@
             "id": 102003100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 7,
         "id": 901000110,
         "materials": [
             {
@@ -233,7 +233,7 @@
             "id": 102004100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 8,
         "id": 901000120,
         "materials": [
             {
@@ -256,7 +256,7 @@
             "id": 102005100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 9,
         "id": 901000130,
         "materials": [
             {
@@ -279,7 +279,7 @@
             "id": 102006100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 10,
         "id": 901000140,
         "materials": [
             {
@@ -302,7 +302,7 @@
             "id": 102007100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 11,
         "id": 901000150,
         "materials": [
             {
@@ -335,7 +335,7 @@
             "id": 102008100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 12,
         "id": 901000160,
         "materials": [
             {
@@ -363,7 +363,7 @@
             "id": 103000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 226,
         "id": 901000170,
         "materials": [
             {
@@ -401,7 +401,7 @@
             "id": 409006800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 238,
         "id": 901000180,
         "materials": [
             {
@@ -429,7 +429,7 @@
             "id": 103002100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 13,
         "id": 901000190,
         "materials": [
             {
@@ -457,7 +457,7 @@
             "id": 103003100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 14,
         "id": 901000200,
         "materials": [
             {
@@ -485,7 +485,7 @@
             "id": 103006100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 15,
         "id": 901000230,
         "materials": [
             {
@@ -513,7 +513,7 @@
             "id": 103007100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 16,
         "id": 901000240,
         "materials": [
             {
@@ -541,7 +541,7 @@
             "id": 103008100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 17,
         "id": 901000250,
         "materials": [
             {
@@ -574,7 +574,7 @@
             "id": 103009100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 18,
         "id": 901000260,
         "materials": [
             {
@@ -607,7 +607,7 @@
             "id": 103010100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 19,
         "id": 901000270,
         "materials": [
             {
@@ -635,7 +635,7 @@
             "id": 104000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 165,
         "id": 901000280,
         "materials": [
             {
@@ -658,7 +658,7 @@
             "id": 104000200,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 245,
         "id": 901000290,
         "materials": [
             {
@@ -686,7 +686,7 @@
             "id": 104001100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 198,
         "id": 901000300,
         "materials": [
             {
@@ -709,7 +709,7 @@
             "id": 104001200,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 240,
         "id": 901000310,
         "materials": [
             {
@@ -737,7 +737,7 @@
             "id": 104002100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 199,
         "id": 901000320,
         "materials": [
             {
@@ -753,6 +753,34 @@
         ],
         "name": "ゼウスの怒り"
     },
+    "901000330": {
+        "craft_cost": 100,
+        "craft_time": 300,
+        "crafts": {
+            "id": 104002200,
+            "type": "ITEM"
+        },
+        "guide_id": 279,
+        "id": 901000330,
+        "materials": [
+            {
+                "id": "201001100",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "神々の怒り"
+    },
     "901000340": {
         "craft_cost": 20,
         "craft_time": 60,
@@ -760,7 +788,7 @@
             "id": 104003100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 166,
         "id": 901000340,
         "materials": [
             {
@@ -776,6 +804,34 @@
         ],
         "name": "魚のウロコ"
     },
+    "901000350": {
+        "craft_cost": 100,
+        "craft_time": 300,
+        "crafts": {
+            "id": 104003200,
+            "type": "ITEM"
+        },
+        "guide_id": 280,
+        "id": 901000350,
+        "materials": [
+            {
+                "id": "201001200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "龍のウロコ"
+    },
     "901000360": {
         "craft_cost": 20,
         "craft_time": 60,
@@ -783,7 +839,7 @@
             "id": 104004100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 167,
         "id": 901000360,
         "materials": [
             {
@@ -806,7 +862,7 @@
             "id": 104004200,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 227,
         "id": 901000370,
         "materials": [
             {
@@ -834,7 +890,7 @@
             "id": 104005100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 200,
         "id": 901000380,
         "materials": [
             {
@@ -850,6 +906,34 @@
         ],
         "name": "大地のドラム"
     },
+    "901000390": {
+        "craft_cost": 100,
+        "craft_time": 300,
+        "crafts": {
+            "id": 104005200,
+            "type": "ITEM"
+        },
+        "guide_id": 295,
+        "id": 901000390,
+        "materials": [
+            {
+                "id": "201001300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "大地のうなり"
+    },
     "901000400": {
         "craft_cost": 400,
         "craft_time": 1800,
@@ -857,7 +941,7 @@
             "id": 104006100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 254,
         "id": 901000400,
         "materials": [
             {
@@ -885,7 +969,7 @@
             "id": 104007100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 228,
         "id": 901000410,
         "materials": [
             {
@@ -913,7 +997,7 @@
             "id": 104008100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 246,
         "id": 901000420,
         "materials": [
             {
@@ -941,7 +1025,7 @@
             "id": 104009100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 184,
         "id": 901000430,
         "materials": [
             {
@@ -969,7 +1053,7 @@
             "id": 105000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 20,
         "id": 901000440,
         "materials": [
             {
@@ -997,7 +1081,7 @@
             "id": 105001100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 21,
         "id": 901000450,
         "materials": [
             {
@@ -1030,7 +1114,7 @@
             "id": 105002100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 22,
         "id": 901000460,
         "materials": [
             {
@@ -1048,7 +1132,7 @@
             "id": 105003100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 23,
         "id": 901000470,
         "materials": [
             {
@@ -1071,7 +1155,7 @@
             "id": 105004100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 168,
         "id": 901000480,
         "materials": [
             {
@@ -1094,7 +1178,7 @@
             "id": 106000100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 24,
         "id": 901000490,
         "materials": [
             {
@@ -1122,7 +1206,7 @@
             "id": 106100100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 25,
         "id": 901000500,
         "materials": [
             {
@@ -1145,7 +1229,7 @@
             "id": 103001100,
             "type": "ITEM"
         },
-        "guide_id": "undefined",
+        "guide_id": 239,
         "id": 901000510,
         "materials": [
             {
@@ -1176,6 +1260,29 @@
         ],
         "name": "月のカーテン"
     },
+    "901000520": {
+        "craft_cost": 100,
+        "craft_time": 1,
+        "crafts": {
+            "id": 106302400,
+            "type": "ITEM"
+        },
+        "guide_id": 352,
+        "id": 901000520,
+        "materials": [
+            {
+                "id": "214000100",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "214000200",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "思い出の飴玉"
+    },
     "903000010": {
         "craft_cost": 20,
         "craft_time": 300,
@@ -1183,7 +1290,7 @@
             "id": 301000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 26,
         "id": 903000010,
         "materials": [
             {
@@ -1201,7 +1308,7 @@
             "id": 301000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 27,
         "id": 903000020,
         "materials": [
             {
@@ -1219,7 +1326,7 @@
             "id": 301000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 201,
         "id": 903000030,
         "materials": [
             {
@@ -1237,7 +1344,7 @@
             "id": 301000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 28,
         "id": 903000040,
         "materials": [
             {
@@ -1265,7 +1372,7 @@
             "id": 301000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 202,
         "id": 903000050,
         "materials": [
             {
@@ -1281,6 +1388,39 @@
         ],
         "name": "マインゴーシュ"
     },
+    "903000060": {
+        "craft_cost": 300,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 301001000,
+            "type": "EQUIP"
+        },
+        "guide_id": 325,
+        "id": 903000060,
+        "materials": [
+            {
+                "id": "201000600",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001400",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000200",
+                "quantity": "8",
+                "type": "ITEM"
+            }
+        ],
+        "name": "メイジマッシャー"
+    },
     "903000080": {
         "craft_cost": 40,
         "craft_time": 300,
@@ -1288,7 +1428,7 @@
             "id": 302000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 29,
         "id": 903000080,
         "materials": [
             {
@@ -1306,7 +1446,7 @@
             "id": 302000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 30,
         "id": 903000090,
         "materials": [
             {
@@ -1324,7 +1464,7 @@
             "id": 302000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 203,
         "id": 903000100,
         "materials": [
             {
@@ -1342,7 +1482,7 @@
             "id": 302000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 247,
         "id": 903000110,
         "materials": [
             {
@@ -1365,7 +1505,7 @@
             "id": 302000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 241,
         "id": 903000120,
         "materials": [
             {
@@ -1388,7 +1528,7 @@
             "id": 302001000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 169,
         "id": 903000130,
         "materials": [
             {
@@ -1411,7 +1551,7 @@
             "id": 302001200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 170,
         "id": 903000140,
         "materials": [
             {
@@ -1434,7 +1574,7 @@
             "id": 303000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 31,
         "id": 903000160,
         "materials": [
             {
@@ -1457,7 +1597,7 @@
             "id": 303000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 32,
         "id": 903000180,
         "materials": [
             {
@@ -1480,7 +1620,7 @@
             "id": 303000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 229,
         "id": 903000190,
         "materials": [
             {
@@ -1503,7 +1643,7 @@
             "id": 304000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 33,
         "id": 903000210,
         "materials": [
             {
@@ -1531,7 +1671,7 @@
             "id": 304000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 34,
         "id": 903000220,
         "materials": [
             {
@@ -1559,7 +1699,7 @@
             "id": 304000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 35,
         "id": 903000230,
         "materials": [
             {
@@ -1592,7 +1732,7 @@
             "id": 304000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 204,
         "id": 903000240,
         "materials": [
             {
@@ -1630,7 +1770,7 @@
             "id": 304020300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 36,
         "id": 903000270,
         "materials": [
             {
@@ -1658,7 +1798,7 @@
             "id": 304001000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 230,
         "id": 903000280,
         "materials": [
             {
@@ -1691,7 +1831,7 @@
             "id": 305000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 37,
         "id": 903000290,
         "materials": [
             {
@@ -1714,7 +1854,7 @@
             "id": 305000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 38,
         "id": 903000300,
         "materials": [
             {
@@ -1737,7 +1877,7 @@
             "id": 305000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 231,
         "id": 903000320,
         "materials": [
             {
@@ -1755,7 +1895,7 @@
             "id": 305000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 264,
         "id": 903000330,
         "materials": [
             {
@@ -1783,7 +1923,7 @@
             "id": 306000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 39,
         "id": 903000360,
         "materials": [
             {
@@ -1801,7 +1941,7 @@
             "id": 306000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 40,
         "id": 903000370,
         "materials": [
             {
@@ -1829,7 +1969,7 @@
             "id": 306000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 41,
         "id": 903000380,
         "materials": [
             {
@@ -1857,7 +1997,7 @@
             "id": 306000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 191,
         "id": 903000390,
         "materials": [
             {
@@ -1885,7 +2025,7 @@
             "id": 305001100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 224,
         "id": 903000400,
         "materials": [
             {
@@ -1913,7 +2053,7 @@
             "id": 307000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 42,
         "id": 903000420,
         "materials": [
             {
@@ -1931,7 +2071,7 @@
             "id": 307000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 43,
         "id": 903000430,
         "materials": [
             {
@@ -1949,7 +2089,7 @@
             "id": 307000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 265,
         "id": 903000440,
         "materials": [
             {
@@ -1977,7 +2117,7 @@
             "id": 307000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 205,
         "id": 903000450,
         "materials": [
             {
@@ -1995,7 +2135,7 @@
             "id": 308000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 44,
         "id": 903000470,
         "materials": [
             {
@@ -2013,7 +2153,7 @@
             "id": 308000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 45,
         "id": 903000480,
         "materials": [
             {
@@ -2036,7 +2176,7 @@
             "id": 308000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 185,
         "id": 903000490,
         "materials": [
             {
@@ -2059,7 +2199,7 @@
             "id": 308000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 255,
         "id": 903000500,
         "materials": [
             {
@@ -2092,7 +2232,7 @@
             "id": 308000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 248,
         "id": 903000510,
         "materials": [
             {
@@ -2125,7 +2265,7 @@
             "id": 308000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 266,
         "id": 903000520,
         "materials": [
             {
@@ -2151,6 +2291,39 @@
         ],
         "name": "アイスランス"
     },
+    "903000530": {
+        "craft_cost": 960,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 308001000,
+            "type": "EQUIP"
+        },
+        "guide_id": 304,
+        "id": 903000530,
+        "materials": [
+            {
+                "id": "201000300",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "12",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サンダースピア"
+    },
     "903000540": {
         "craft_cost": 5000,
         "craft_time": 10800,
@@ -2158,7 +2331,7 @@
             "id": 308001200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 192,
         "id": 903000540,
         "materials": [
             {
@@ -2191,7 +2364,7 @@
             "id": 308001600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 225,
         "id": 903000570,
         "materials": [
             {
@@ -2224,7 +2397,7 @@
             "id": 309020200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 46,
         "id": 903000580,
         "materials": [
             {
@@ -2242,7 +2415,7 @@
             "id": 309020300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 47,
         "id": 903000590,
         "materials": [
             {
@@ -2260,7 +2433,7 @@
             "id": 309000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 206,
         "id": 903000600,
         "materials": [
             {
@@ -2278,7 +2451,7 @@
             "id": 309020700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 249,
         "id": 903000620,
         "materials": [
             {
@@ -2301,7 +2474,7 @@
             "id": 309000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 48,
         "id": 903000640,
         "materials": [
             {
@@ -2324,7 +2497,7 @@
             "id": 309020800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 237,
         "id": 903000650,
         "materials": [
             {
@@ -2357,7 +2530,7 @@
             "id": 310000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 49,
         "id": 903000660,
         "materials": [
             {
@@ -2380,7 +2553,7 @@
             "id": 310000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 50,
         "id": 903000670,
         "materials": [
             {
@@ -2398,7 +2571,7 @@
             "id": 310000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 171,
         "id": 903000680,
         "materials": [
             {
@@ -2426,7 +2599,7 @@
             "id": 310000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 267,
         "id": 903000690,
         "materials": [
             {
@@ -2454,7 +2627,7 @@
             "id": 310000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 256,
         "id": 903000700,
         "materials": [
             {
@@ -2482,7 +2655,7 @@
             "id": 311001300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 51,
         "id": 903000720,
         "materials": [
             {
@@ -2500,7 +2673,7 @@
             "id": 311000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 52,
         "id": 903000730,
         "materials": [
             {
@@ -2523,7 +2696,7 @@
             "id": 311000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 53,
         "id": 903000750,
         "materials": [
             {
@@ -2556,7 +2729,7 @@
             "id": 311000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 54,
         "id": 903000760,
         "materials": [
             {
@@ -2582,6 +2755,34 @@
         ],
         "name": "ルーンの杖"
     },
+    "903000780": {
+        "craft_cost": 480,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 311001400,
+            "type": "EQUIP"
+        },
+        "guide_id": 281,
+        "id": 903000780,
+        "materials": [
+            {
+                "id": "203000400",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000500",
+                "quantity": "16",
+                "type": "ITEM"
+            },
+            {
+                "id": "204000100",
+                "quantity": "7",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ゴールドスタッフ"
+    },
     "903000790": {
         "craft_cost": 52,
         "craft_time": 300,
@@ -2589,7 +2790,7 @@
             "id": 312000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 55,
         "id": 903000790,
         "materials": [
             {
@@ -2617,7 +2818,7 @@
             "id": 312000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 56,
         "id": 903000800,
         "materials": [
             {
@@ -2645,7 +2846,7 @@
             "id": 312000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 207,
         "id": 903000810,
         "materials": [
             {
@@ -2673,7 +2874,7 @@
             "id": 312000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 57,
         "id": 903000820,
         "materials": [
             {
@@ -2701,7 +2902,7 @@
             "id": 312000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 257,
         "id": 903000830,
         "materials": [
             {
@@ -2734,7 +2935,7 @@
             "id": 313000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 58,
         "id": 903000850,
         "materials": [
             {
@@ -2762,7 +2963,7 @@
             "id": 313000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 172,
         "id": 903000860,
         "materials": [
             {
@@ -2790,7 +2991,7 @@
             "id": 313001300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 268,
         "id": 903000880,
         "materials": [
             {
@@ -2816,6 +3017,77 @@
         ],
         "name": "シリウス"
     },
+    "903000890": {
+        "craft_cost": 720,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 313001500,
+            "type": "EQUIP"
+        },
+        "guide_id": 305,
+        "id": 903000890,
+        "materials": [
+            {
+                "id": "201000100",
+                "quantity": "12",
+                "type": "ITEM"
+            },
+            {
+                "id": "201000900",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "204000100",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ベテルギウス"
+    },
+    "903000900": {
+        "craft_cost": 720,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 313001600,
+            "type": "EQUIP"
+        },
+        "guide_id": 324,
+        "id": 903000900,
+        "materials": [
+            {
+                "id": "201000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "201000900",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "204000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ラス・アルゲテイ"
+    },
     "903000920": {
         "craft_cost": 36,
         "craft_time": 300,
@@ -2823,7 +3095,7 @@
             "id": 314000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 59,
         "id": 903000920,
         "materials": [
             {
@@ -2841,7 +3113,7 @@
             "id": 314000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 60,
         "id": 903000930,
         "materials": [
             {
@@ -2864,7 +3136,7 @@
             "id": 314000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 173,
         "id": 903000940,
         "materials": [
             {
@@ -2897,7 +3169,7 @@
             "id": 314000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 208,
         "id": 903000950,
         "materials": [
             {
@@ -2920,7 +3192,7 @@
             "id": 315000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 61,
         "id": 903000970,
         "materials": [
             {
@@ -2938,7 +3210,7 @@
             "id": 315020200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 62,
         "id": 903000980,
         "materials": [
             {
@@ -2961,7 +3233,7 @@
             "id": 315020400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 63,
         "id": 903000990,
         "materials": [
             {
@@ -2984,7 +3256,7 @@
             "id": 316000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 64,
         "id": 903001020,
         "materials": [
             {
@@ -3007,7 +3279,7 @@
             "id": 316000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 65,
         "id": 903001030,
         "materials": [
             {
@@ -3023,6 +3295,765 @@
         ],
         "name": "銀の竪琴"
     },
+    "903001060": {
+        "craft_cost": 1020,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 306001100,
+            "type": "EQUIP"
+        },
+        "guide_id": 282,
+        "id": 903001060,
+        "materials": [
+            {
+                "id": "201000700",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "12",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "7",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ブレスドハンマー"
+    },
+    "903001070": {
+        "craft_cost": 4000,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 311002000,
+            "type": "EQUIP"
+        },
+        "guide_id": 286,
+        "id": 903001070,
+        "materials": [
+            {
+                "id": "209000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000400",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000500",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "バッデッドワンド"
+    },
+    "903001080": {
+        "craft_cost": 2000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 302002500,
+            "type": "EQUIP"
+        },
+        "guide_id": 289,
+        "id": 903001080,
+        "materials": [
+            {
+                "id": "209000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000600",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000700",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000800",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ウィングレット"
+    },
+    "903001090": {
+        "craft_cost": 600,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 302002600,
+            "type": "EQUIP"
+        },
+        "guide_id": 292,
+        "id": 903001090,
+        "materials": [
+            {
+                "id": "209000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000900",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "209001000",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "209001100",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ウルダハンファルシオン"
+    },
+    "903001100": {
+        "craft_cost": 900,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 303001300,
+            "type": "EQUIP"
+        },
+        "guide_id": 296,
+        "id": 903001100,
+        "materials": [
+            {
+                "id": "303000800",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "203000500",
+                "quantity": "12",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000800",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ゴールドブレイド"
+    },
+    "903001110": {
+        "craft_cost": 2000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 302003100,
+            "type": "EQUIP"
+        },
+        "guide_id": 300,
+        "id": 903001110,
+        "materials": [
+            {
+                "id": "302003000",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "210000100",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "210000200",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "210000500",
+                "quantity": "9",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ブレイクブレイド"
+    },
+    "903001120": {
+        "craft_cost": 4000,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 302003200,
+            "type": "EQUIP"
+        },
+        "guide_id": 301,
+        "id": 903001120,
+        "materials": [
+            {
+                "id": "302003100",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "210000100",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "210000300",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "210000500",
+                "quantity": "18",
+                "type": "ITEM"
+            },
+            {
+                "id": "210000600",
+                "quantity": "20",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ラズマタズ"
+    },
+    "903001130": {
+        "craft_cost": 2000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 315021400,
+            "type": "EQUIP"
+        },
+        "guide_id": 302,
+        "id": 903001130,
+        "materials": [
+            {
+                "id": "315021300",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "210000100",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "210000500",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ハイパーボール"
+    },
+    "903001140": {
+        "craft_cost": 2000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 309001400,
+            "type": "EQUIP"
+        },
+        "guide_id": 303,
+        "id": 903001140,
+        "materials": [
+            {
+                "id": "309001300",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "210000100",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "210000400",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "210000500",
+                "quantity": "7",
+                "type": "ITEM"
+            }
+        ],
+        "name": "オーバーライド"
+    },
+    "903001150": {
+        "craft_cost": 1000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 301001900,
+            "type": "EQUIP"
+        },
+        "guide_id": 308,
+        "id": 903001150,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001100",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000600",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ガルカンダガー"
+    },
+    "903001160": {
+        "craft_cost": 3600,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 305001600,
+            "type": "EQUIP"
+        },
+        "guide_id": 309,
+        "id": 903001160,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000800",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001200",
+                "quantity": "4",
+                "type": "ITEM"
+            }
+        ],
+        "name": "レコスヴォウジェ"
+    },
+    "903001170": {
+        "craft_cost": 540,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 307001600,
+            "type": "EQUIP"
+        },
+        "guide_id": 310,
+        "id": 903001170,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000900",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000700",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "トートワンド"
+    },
+    "903001180": {
+        "craft_cost": 960,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 308002300,
+            "type": "EQUIP"
+        },
+        "guide_id": 311,
+        "id": 903001180,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001100",
+                "quantity": "6",
+                "type": "ITEM"
+            }
+        ],
+        "name": "オークピアッサー"
+    },
+    "903001190": {
+        "craft_cost": 4000,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 309001600,
+            "type": "EQUIP"
+        },
+        "guide_id": 312,
+        "id": 903001190,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000800",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001200",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000300",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "リタリエーター"
+    },
+    "903001200": {
+        "craft_cost": 2800,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 310002200,
+            "type": "EQUIP"
+        },
+        "guide_id": 313,
+        "id": 903001200,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000900",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001400",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000300",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "イリダルスタッフ"
+    },
+    "903001210": {
+        "craft_cost": 420,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 310002300,
+            "type": "EQUIP"
+        },
+        "guide_id": 314,
+        "id": 903001210,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001000",
+                "quantity": "6",
+                "type": "ITEM"
+            }
+        ],
+        "name": "連邦軍師制式錫"
+    },
+    "903001220": {
+        "craft_cost": 4800,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 313002600,
+            "type": "EQUIP"
+        },
+        "guide_id": 315,
+        "id": 903001220,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001000",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000500",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000400",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "シャークガン"
+    },
+    "903001230": {
+        "craft_cost": 2000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 315021500,
+            "type": "EQUIP"
+        },
+        "guide_id": 316,
+        "id": 903001230,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001300",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000700",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "スリックダート"
+    },
+    "903001240": {
+        "craft_cost": 5600,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 304001500,
+            "type": "EQUIP"
+        },
+        "guide_id": 323,
+        "id": 903001240,
+        "materials": [
+            {
+                "id": "304000400",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "201000300",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000500",
+                "quantity": "12",
+                "type": "ITEM"
+            }
+        ],
+        "name": "雷切"
+    },
+    "903001250": {
+        "craft_cost": 6400,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 308002500,
+            "type": "EQUIP"
+        },
+        "guide_id": 327,
+        "id": 903001250,
+        "materials": [
+            {
+                "id": "212000100",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000300",
+                "quantity": "20",
+                "type": "ITEM"
+            }
+        ],
+        "name": "モーグリスピア"
+    },
+    "903001260": {
+        "craft_cost": 960,
+        "craft_time": 1,
+        "crafts": {
+            "id": 308002700,
+            "type": "EQUIP"
+        },
+        "guide_id": 344,
+        "id": 903001260,
+        "materials": [
+            {
+                "id": "213001300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001400",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001500",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ブレイクショット"
+    },
+    "903001270": {
+        "craft_cost": 13000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 312001700,
+            "type": "EQUIP"
+        },
+        "guide_id": 345,
+        "id": 903001270,
+        "materials": [
+            {
+                "id": "213001600",
+                "quantity": "4",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001700",
+                "quantity": "4",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001800",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "オウロウガ・アロウ"
+    },
+    "903001280": {
+        "craft_cost": 1800,
+        "craft_time": 1,
+        "crafts": {
+            "id": 314001000,
+            "type": "EQUIP"
+        },
+        "guide_id": 348,
+        "id": 903001280,
+        "materials": [
+            {
+                "id": "202000400",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001900",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001600",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "双散鞭"
+    },
     "904000010": {
         "craft_cost": 48,
         "craft_time": 300,
@@ -3030,7 +4061,7 @@
             "id": 401001000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 66,
         "id": 904000010,
         "materials": [
             {
@@ -3048,7 +4079,7 @@
             "id": 401000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 67,
         "id": 904000020,
         "materials": [
             {
@@ -3071,7 +4102,7 @@
             "id": 401000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 68,
         "id": 904000030,
         "materials": [
             {
@@ -3094,7 +4125,7 @@
             "id": 401000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 174,
         "id": 904000040,
         "materials": [
             {
@@ -3117,7 +4148,7 @@
             "id": 401000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 209,
         "id": 904000050,
         "materials": [
             {
@@ -3140,7 +4171,7 @@
             "id": 402000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 69,
         "id": 904000060,
         "materials": [
             {
@@ -3163,7 +4194,7 @@
             "id": 402000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 70,
         "id": 904000070,
         "materials": [
             {
@@ -3186,7 +4217,7 @@
             "id": 402000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 210,
         "id": 904000080,
         "materials": [
             {
@@ -3209,7 +4240,7 @@
             "id": 402000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 211,
         "id": 904000090,
         "materials": [
             {
@@ -3232,7 +4263,7 @@
             "id": 401001100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 232,
         "id": 904000100,
         "materials": [
             {
@@ -3253,6 +4284,34 @@
         ],
         "name": "エスカッション"
     },
+    "904000110": {
+        "craft_cost": 900,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 402000700,
+            "type": "EQUIP"
+        },
+        "guide_id": 283,
+        "id": 904000110,
+        "materials": [
+            {
+                "id": "201000200",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001000",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "15",
+                "type": "ITEM"
+            }
+        ],
+        "name": "アイスシールド"
+    },
     "904000120": {
         "craft_cost": 900,
         "craft_time": 43200,
@@ -3260,7 +4319,7 @@
             "id": 402000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 250,
         "id": 904000120,
         "materials": [
             {
@@ -3281,6 +4340,34 @@
         ],
         "name": "雷神の盾"
     },
+    "904000130": {
+        "craft_cost": 900,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 402001100,
+            "type": "EQUIP"
+        },
+        "guide_id": 306,
+        "id": 904000130,
+        "materials": [
+            {
+                "id": "402000500",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "202000400",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000500",
+                "quantity": "14",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ゴールドシールド"
+    },
     "904000150": {
         "craft_cost": 20,
         "craft_time": 300,
@@ -3288,7 +4375,7 @@
             "id": 403000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 71,
         "id": 904000150,
         "materials": [
             {
@@ -3306,7 +4393,7 @@
             "id": 403000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 72,
         "id": 904000160,
         "materials": [
             {
@@ -3329,7 +4416,7 @@
             "id": 403040100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 73,
         "id": 904000170,
         "materials": [
             {
@@ -3352,7 +4439,7 @@
             "id": 403000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 74,
         "id": 904000180,
         "materials": [
             {
@@ -3375,7 +4462,7 @@
             "id": 403040200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 75,
         "id": 904000200,
         "materials": [
             {
@@ -3403,7 +4490,7 @@
             "id": 403020200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 175,
         "id": 904000210,
         "materials": [
             {
@@ -3431,7 +4518,7 @@
             "id": 403040400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 186,
         "id": 904000220,
         "materials": [
             {
@@ -3464,7 +4551,7 @@
             "id": 403040500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 212,
         "id": 904000230,
         "materials": [
             {
@@ -3497,7 +4584,7 @@
             "id": 403040600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 76,
         "id": 904000250,
         "materials": [
             {
@@ -3525,7 +4612,7 @@
             "id": 403040700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 77,
         "id": 904000260,
         "materials": [
             {
@@ -3553,7 +4640,7 @@
             "id": 403040800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 269,
         "id": 904000270,
         "materials": [
             {
@@ -3574,6 +4661,44 @@
         ],
         "name": "神秘のヴェール"
     },
+    "904000280": {
+        "craft_cost": 300,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 403040900,
+            "type": "EQUIP"
+        },
+        "guide_id": 298,
+        "id": 904000280,
+        "materials": [
+            {
+                "id": "201000800",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001600",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サークレット"
+    },
     "904000310": {
         "craft_cost": 48,
         "craft_time": 300,
@@ -3581,7 +4706,7 @@
             "id": 404000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 78,
         "id": 904000310,
         "materials": [
             {
@@ -3599,7 +4724,7 @@
             "id": 404000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 79,
         "id": 904000320,
         "materials": [
             {
@@ -3617,7 +4742,7 @@
             "id": 404000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 176,
         "id": 904000330,
         "materials": [
             {
@@ -3635,7 +4760,7 @@
             "id": 404000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 193,
         "id": 904000340,
         "materials": [
             {
@@ -3653,7 +4778,7 @@
             "id": 405000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 80,
         "id": 904000370,
         "materials": [
             {
@@ -3676,7 +4801,7 @@
             "id": 405000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 81,
         "id": 904000380,
         "materials": [
             {
@@ -3699,7 +4824,7 @@
             "id": 405000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 82,
         "id": 904000390,
         "materials": [
             {
@@ -3727,7 +4852,7 @@
             "id": 405000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 83,
         "id": 904000400,
         "materials": [
             {
@@ -3755,7 +4880,7 @@
             "id": 405000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 84,
         "id": 904000420,
         "materials": [
             {
@@ -3783,7 +4908,7 @@
             "id": 405000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 85,
         "id": 904000430,
         "materials": [
             {
@@ -3811,7 +4936,7 @@
             "id": 405001000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 86,
         "id": 904000440,
         "materials": [
             {
@@ -3839,7 +4964,7 @@
             "id": 405001100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 87,
         "id": 904000450,
         "materials": [
             {
@@ -3867,7 +4992,7 @@
             "id": 406000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 88,
         "id": 904000500,
         "materials": [
             {
@@ -3885,7 +5010,7 @@
             "id": 406000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 89,
         "id": 904000510,
         "materials": [
             {
@@ -3908,7 +5033,7 @@
             "id": 406000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 90,
         "id": 904000520,
         "materials": [
             {
@@ -3926,7 +5051,7 @@
             "id": 406000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 213,
         "id": 904000530,
         "materials": [
             {
@@ -3944,7 +5069,7 @@
             "id": 406000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 214,
         "id": 904000540,
         "materials": [
             {
@@ -3967,7 +5092,7 @@
             "id": 406000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 233,
         "id": 904000550,
         "materials": [
             {
@@ -3988,6 +5113,29 @@
         ],
         "name": "ブリガンダイン"
     },
+    "904000560": {
+        "craft_cost": 720,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 406000900,
+            "type": "EQUIP"
+        },
+        "guide_id": 284,
+        "id": 904000560,
+        "materials": [
+            {
+                "id": "406000600",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "203000500",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ゴールドプレート"
+    },
     "904000570": {
         "craft_cost": 60,
         "craft_time": 300,
@@ -3995,7 +5143,7 @@
             "id": 407000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 91,
         "id": 904000570,
         "materials": [
             {
@@ -4013,7 +5161,7 @@
             "id": 407000400,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 92,
         "id": 904000580,
         "materials": [
             {
@@ -4031,7 +5179,7 @@
             "id": 407001100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 215,
         "id": 904000590,
         "materials": [
             {
@@ -4054,7 +5202,7 @@
             "id": 407000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 216,
         "id": 904000600,
         "materials": [
             {
@@ -4072,7 +5220,7 @@
             "id": 407000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 258,
         "id": 904000610,
         "materials": [
             {
@@ -4100,7 +5248,7 @@
             "id": 407000900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 251,
         "id": 904000620,
         "materials": [
             {
@@ -4128,7 +5276,7 @@
             "id": 407001200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 270,
         "id": 904000630,
         "materials": [
             {
@@ -4151,7 +5299,7 @@
             "id": 408000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 93,
         "id": 904000660,
         "materials": [
             {
@@ -4169,7 +5317,7 @@
             "id": 408000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 94,
         "id": 904000670,
         "materials": [
             {
@@ -4192,7 +5340,7 @@
             "id": 408000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 95,
         "id": 904000680,
         "materials": [
             {
@@ -4215,7 +5363,7 @@
             "id": 408000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 177,
         "id": 904000690,
         "materials": [
             {
@@ -4243,7 +5391,7 @@
             "id": 408000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 217,
         "id": 904000700,
         "materials": [
             {
@@ -4276,7 +5424,7 @@
             "id": 408000600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 96,
         "id": 904000710,
         "materials": [
             {
@@ -4304,7 +5452,7 @@
             "id": 408000800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 97,
         "id": 904000720,
         "materials": [
             {
@@ -4325,6 +5473,39 @@
         ],
         "name": "クリリカルガウン"
     },
+    "904000730": {
+        "craft_cost": 600,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 408000900,
+            "type": "EQUIP"
+        },
+        "guide_id": 285,
+        "id": 904000730,
+        "materials": [
+            {
+                "id": "201000700",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001200",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "白のローブ"
+    },
     "904000740": {
         "craft_cost": 600,
         "craft_time": 43200,
@@ -4332,7 +5513,7 @@
             "id": 408001000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 271,
         "id": 904000740,
         "materials": [
             {
@@ -4365,7 +5546,7 @@
             "id": 408001100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 187,
         "id": 904000750,
         "materials": [
             {
@@ -4403,7 +5584,7 @@
             "id": 409000100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 98,
         "id": 904000760,
         "materials": [
             {
@@ -4426,7 +5607,7 @@
             "id": 409000200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 99,
         "id": 904000770,
         "materials": [
             {
@@ -4454,7 +5635,7 @@
             "id": 409000300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 100,
         "id": 904000780,
         "materials": [
             {
@@ -4487,7 +5668,7 @@
             "id": 409000500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 188,
         "id": 904000800,
         "materials": [
             {
@@ -4520,7 +5701,7 @@
             "id": 409000700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 101,
         "id": 904000820,
         "materials": [
             {
@@ -4543,7 +5724,7 @@
             "id": 409002000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 102,
         "id": 904000950,
         "materials": [
             {
@@ -4571,7 +5752,7 @@
             "id": 409002300,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 103,
         "id": 904000980,
         "materials": [
             {
@@ -4599,7 +5780,7 @@
             "id": 409002600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 104,
         "id": 904001010,
         "materials": [
             {
@@ -4627,7 +5808,7 @@
             "id": 409002900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 105,
         "id": 904001040,
         "materials": [
             {
@@ -4648,6 +5829,39 @@
         ],
         "name": "水の指輪"
     },
+    "904001060": {
+        "craft_cost": 200,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 409003100,
+            "type": "EQUIP"
+        },
+        "guide_id": 326,
+        "id": 904001060,
+        "materials": [
+            {
+                "id": "201000400",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001200",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000500",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "水神の指輪"
+    },
     "904001070": {
         "craft_cost": 40,
         "craft_time": 300,
@@ -4655,7 +5869,7 @@
             "id": 409003200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 106,
         "id": 904001070,
         "materials": [
             {
@@ -4683,7 +5897,7 @@
             "id": 409003500,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 107,
         "id": 904001100,
         "materials": [
             {
@@ -4711,7 +5925,7 @@
             "id": 409003900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 108,
         "id": 904001140,
         "materials": [
             {
@@ -4739,7 +5953,7 @@
             "id": 409004000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 109,
         "id": 904001150,
         "materials": [
             {
@@ -4767,7 +5981,7 @@
             "id": 409004100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 110,
         "id": 904001160,
         "materials": [
             {
@@ -4795,7 +6009,7 @@
             "id": 409004200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 218,
         "id": 904001170,
         "materials": [
             {
@@ -4821,6 +6035,44 @@
         ],
         "name": "月の腕輪"
     },
+    "904001190": {
+        "craft_cost": 10000,
+        "craft_time": 604800,
+        "crafts": {
+            "id": 409004400,
+            "type": "EQUIP"
+        },
+        "guide_id": 299,
+        "id": 904001190,
+        "materials": [
+            {
+                "id": "504010020",
+                "quantity": "3",
+                "type": "MATERIA"
+            },
+            {
+                "id": "409004100",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "201001500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "天使の指輪"
+    },
     "904001310": {
         "craft_cost": 600,
         "craft_time": 43200,
@@ -4828,7 +6080,7 @@
             "id": 409005600,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 111,
         "id": 904001310,
         "materials": [
             {
@@ -4856,7 +6108,7 @@
             "id": 409006100,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 112,
         "id": 904001360,
         "materials": [
             {
@@ -4884,7 +6136,7 @@
             "id": 409006200,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 113,
         "id": 904001370,
         "materials": [
             {
@@ -4907,7 +6159,7 @@
             "id": 405000310,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 114,
         "id": 904001380,
         "materials": [
             {
@@ -4935,7 +6187,7 @@
             "id": 409008700,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 275,
         "id": 904001410,
         "materials": [
             {
@@ -4973,7 +6225,7 @@
             "id": 409008800,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 276,
         "id": 904001420,
         "materials": [
             {
@@ -5011,7 +6263,7 @@
             "id": 409008900,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 277,
         "id": 904001430,
         "materials": [
             {
@@ -5049,7 +6301,7 @@
             "id": 409009000,
             "type": "EQUIP"
         },
-        "guide_id": "undefined",
+        "guide_id": 278,
         "id": 904001440,
         "materials": [
             {
@@ -5075,6 +6327,898 @@
         ],
         "name": "エクシードリング"
     },
+    "904001450": {
+        "craft_cost": 4000,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 408001600,
+            "type": "EQUIP"
+        },
+        "guide_id": 287,
+        "id": 904001450,
+        "materials": [
+            {
+                "id": "209000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000300",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000400",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サイオンズコンジュラー・ダルマティカ"
+    },
+    "904001460": {
+        "craft_cost": 2000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 409009400,
+            "type": "EQUIP"
+        },
+        "guide_id": 288,
+        "id": 904001460,
+        "materials": [
+            {
+                "id": "209000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000300",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サイオンズコンジュラー・パッテン"
+    },
+    "904001470": {
+        "craft_cost": 2000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 405001900,
+            "type": "EQUIP"
+        },
+        "guide_id": 290,
+        "id": 904001470,
+        "materials": [
+            {
+                "id": "209000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000600",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000700",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サイオンズレディ・アタイア"
+    },
+    "904001480": {
+        "craft_cost": 600,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 409009500,
+            "type": "EQUIP"
+        },
+        "guide_id": 291,
+        "id": 904001480,
+        "materials": [
+            {
+                "id": "209000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000600",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "メテオサバイバーリング"
+    },
+    "904001490": {
+        "craft_cost": 720,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 406001400,
+            "type": "EQUIP"
+        },
+        "guide_id": 293,
+        "id": 904001490,
+        "materials": [
+            {
+                "id": "209000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000900",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "209001000",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サイオンズシーフ・チュニック"
+    },
+    "904001500": {
+        "craft_cost": 200,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 409009600,
+            "type": "EQUIP"
+        },
+        "guide_id": 294,
+        "id": 904001500,
+        "materials": [
+            {
+                "id": "209000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "209000900",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サイオンズシーフ・ハーフグローブ"
+    },
+    "904001510": {
+        "craft_cost": 2400,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 401001500,
+            "type": "EQUIP"
+        },
+        "guide_id": 317,
+        "id": 904001510,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000800",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000600",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ディバインシールド"
+    },
+    "904001520": {
+        "craft_cost": 300,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 403041900,
+            "type": "EQUIP"
+        },
+        "guide_id": 318,
+        "id": 904001520,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001300",
+                "quantity": "6",
+                "type": "ITEM"
+            }
+        ],
+        "name": "レイヴンベレー"
+    },
+    "904001530": {
+        "craft_cost": 4000,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 405002600,
+            "type": "EQUIP"
+        },
+        "guide_id": 319,
+        "id": 904001530,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000700",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000400",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "連邦軍師制式コート"
+    },
+    "904001540": {
+        "craft_cost": 4800,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 406001800,
+            "type": "EQUIP"
+        },
+        "guide_id": 320,
+        "id": 904001540,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001000",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000500",
+                "quantity": "4",
+                "type": "ITEM"
+            }
+        ],
+        "name": "パレードキュイラス"
+    },
+    "904001550": {
+        "craft_cost": 4000,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 409010700,
+            "type": "EQUIP"
+        },
+        "guide_id": 321,
+        "id": 904001550,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000900",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001400",
+                "quantity": "4",
+                "type": "ITEM"
+            }
+        ],
+        "name": "金の髪飾り"
+    },
+    "904001560": {
+        "craft_cost": 4000,
+        "craft_time": 259200,
+        "crafts": {
+            "id": 409010800,
+            "type": "EQUIP"
+        },
+        "guide_id": 322,
+        "id": 904001560,
+        "materials": [
+            {
+                "id": "211000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211001100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000600",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "211000400",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "パレードゴルゲット"
+    },
+    "904001570": {
+        "craft_cost": 2000,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 403042300,
+            "type": "EQUIP"
+        },
+        "guide_id": 328,
+        "id": 904001570,
+        "materials": [
+            {
+                "id": "212000100",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000500",
+                "quantity": "20",
+                "type": "ITEM"
+            }
+        ],
+        "name": "モーグリクラウン"
+    },
+    "904001580": {
+        "craft_cost": 4000,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 409011400,
+            "type": "EQUIP"
+        },
+        "guide_id": 329,
+        "id": 904001580,
+        "materials": [
+            {
+                "id": "212000100",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000400",
+                "quantity": "20",
+                "type": "ITEM"
+            }
+        ],
+        "name": "モーグリマント"
+    },
+    "904001590": {
+        "craft_cost": 2000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 405002800,
+            "type": "EQUIP"
+        },
+        "guide_id": 333,
+        "id": 904001590,
+        "materials": [
+            {
+                "id": "201000400",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001200",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000400",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "雲水の衣"
+    },
+    "904001600": {
+        "craft_cost": 900,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 402000600,
+            "type": "EQUIP"
+        },
+        "guide_id": 297,
+        "id": 904001600,
+        "materials": [
+            {
+                "id": "201000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "201000900",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "15",
+                "type": "ITEM"
+            }
+        ],
+        "name": "フレイムシールド"
+    },
+    "904001610": {
+        "craft_cost": 720,
+        "craft_time": 43200,
+        "crafts": {
+            "id": 404000800,
+            "type": "EQUIP"
+        },
+        "guide_id": 334,
+        "id": 904001610,
+        "materials": [
+            {
+                "id": "404000500",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "203000500",
+                "quantity": "7",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ゴールドヘルム"
+    },
+    "904001620": {
+        "craft_cost": 600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409012000,
+            "type": "EQUIP"
+        },
+        "guide_id": 335,
+        "id": 904001620,
+        "materials": [
+            {
+                "id": "213000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000400",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "アシラアーム"
+    },
+    "904001630": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409012100,
+            "type": "EQUIP"
+        },
+        "guide_id": 336,
+        "id": 904001630,
+        "materials": [
+            {
+                "id": "213000500",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000600",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000700",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000800",
+                "quantity": "4",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ラギアアーム"
+    },
+    "904001640": {
+        "craft_cost": 4000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409012200,
+            "type": "EQUIP"
+        },
+        "guide_id": 337,
+        "id": 904001640,
+        "materials": [
+            {
+                "id": "213000900",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001000",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001100",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001200",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "バンギスアーム"
+    },
+    "904001650": {
+        "craft_cost": 720,
+        "craft_time": 1,
+        "crafts": {
+            "id": 404001800,
+            "type": "EQUIP"
+        },
+        "guide_id": 338,
+        "id": 904001650,
+        "materials": [
+            {
+                "id": "213000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000400",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "アシラヘルム"
+    },
+    "904001660": {
+        "craft_cost": 2400,
+        "craft_time": 1,
+        "crafts": {
+            "id": 404001900,
+            "type": "EQUIP"
+        },
+        "guide_id": 339,
+        "id": 904001660,
+        "materials": [
+            {
+                "id": "213000500",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000600",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000700",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000800",
+                "quantity": "4",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ラギアヘルム"
+    },
+    "904001670": {
+        "craft_cost": 4800,
+        "craft_time": 1,
+        "crafts": {
+            "id": 404002000,
+            "type": "EQUIP"
+        },
+        "guide_id": 340,
+        "id": 904001670,
+        "materials": [
+            {
+                "id": "213000900",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001000",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001100",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001200",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "バンギスヘルム"
+    },
+    "904001680": {
+        "craft_cost": 720,
+        "craft_time": 1,
+        "crafts": {
+            "id": 406002100,
+            "type": "EQUIP"
+        },
+        "guide_id": 341,
+        "id": 904001680,
+        "materials": [
+            {
+                "id": "213000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000400",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "アシラメイル"
+    },
+    "904001690": {
+        "craft_cost": 2400,
+        "craft_time": 1,
+        "crafts": {
+            "id": 406002200,
+            "type": "EQUIP"
+        },
+        "guide_id": 342,
+        "id": 904001690,
+        "materials": [
+            {
+                "id": "213000500",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000600",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000700",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "213000800",
+                "quantity": "4",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ラギアメイル"
+    },
+    "904001700": {
+        "craft_cost": 4800,
+        "craft_time": 1,
+        "crafts": {
+            "id": 406002300,
+            "type": "EQUIP"
+        },
+        "guide_id": 343,
+        "id": 904001700,
+        "materials": [
+            {
+                "id": "213000900",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001000",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001100",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "213001200",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "バンギスメイル"
+    },
+    "904001710": {
+        "craft_cost": 600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 405002900,
+            "type": "EQUIP"
+        },
+        "guide_id": 346,
+        "id": 904001710,
+        "materials": [
+            {
+                "id": "405001600",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "213001900",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サンタの服改"
+    },
+    "904001720": {
+        "craft_cost": 300,
+        "craft_time": 1,
+        "crafts": {
+            "id": 403042600,
+            "type": "EQUIP"
+        },
+        "guide_id": 347,
+        "id": 904001720,
+        "materials": [
+            {
+                "id": "403041200",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "213002000",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サンタの帽子改"
+    },
+    "904001730": {
+        "craft_cost": 300,
+        "craft_time": 1,
+        "crafts": {
+            "id": 403042800,
+            "type": "EQUIP"
+        },
+        "guide_id": 349,
+        "id": 904001730,
+        "materials": [
+            {
+                "id": "202002500",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナティアラ"
+    },
     "905000010": {
         "craft_cost": 200,
         "craft_time": 300,
@@ -5082,7 +7226,7 @@
             "id": 504010010,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 115,
         "id": 905000010,
         "materials": [
             {
@@ -5115,7 +7259,7 @@
             "id": 504010020,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 116,
         "id": 905000020,
         "materials": [
             {
@@ -5143,7 +7287,7 @@
             "id": 504010030,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 117,
         "id": 905000030,
         "materials": [
             {
@@ -5171,7 +7315,7 @@
             "id": 504010040,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 118,
         "id": 905000040,
         "materials": [
             {
@@ -5199,7 +7343,7 @@
             "id": 504010050,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 119,
         "id": 905000050,
         "materials": [
             {
@@ -5227,7 +7371,7 @@
             "id": 504010070,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 189,
         "id": 905000070,
         "materials": [
             {
@@ -5260,7 +7404,7 @@
             "id": 504010080,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 120,
         "id": 905000080,
         "materials": [
             {
@@ -5288,7 +7432,7 @@
             "id": 504010090,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 121,
         "id": 905000090,
         "materials": [
             {
@@ -5316,7 +7460,7 @@
             "id": 504010130,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 219,
         "id": 905000130,
         "materials": [
             {
@@ -5354,7 +7498,7 @@
             "id": 504010150,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 234,
         "id": 905000150,
         "materials": [
             {
@@ -5392,7 +7536,7 @@
             "id": 504020010,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 122,
         "id": 905000230,
         "materials": [
             {
@@ -5420,7 +7564,7 @@
             "id": 504020020,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 123,
         "id": 905000240,
         "materials": [
             {
@@ -5448,7 +7592,7 @@
             "id": 504020030,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 124,
         "id": 905000250,
         "materials": [
             {
@@ -5476,7 +7620,7 @@
             "id": 504020040,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 125,
         "id": 905000260,
         "materials": [
             {
@@ -5504,7 +7648,7 @@
             "id": 504020050,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 126,
         "id": 905000270,
         "materials": [
             {
@@ -5532,7 +7676,7 @@
             "id": 504020060,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 127,
         "id": 905000280,
         "materials": [
             {
@@ -5560,7 +7704,7 @@
             "id": 504020070,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 128,
         "id": 905000290,
         "materials": [
             {
@@ -5593,7 +7737,7 @@
             "id": 504020090,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 129,
         "id": 905000310,
         "materials": [
             {
@@ -5626,7 +7770,7 @@
             "id": 504020100,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 130,
         "id": 905000320,
         "materials": [
             {
@@ -5659,7 +7803,7 @@
             "id": 504020110,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 131,
         "id": 905000330,
         "materials": [
             {
@@ -5692,7 +7836,7 @@
             "id": 504020120,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 132,
         "id": 905000340,
         "materials": [
             {
@@ -5725,7 +7869,7 @@
             "id": 504020150,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 133,
         "id": 905000370,
         "materials": [
             {
@@ -5753,7 +7897,7 @@
             "id": 504020160,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 134,
         "id": 905000380,
         "materials": [
             {
@@ -5786,7 +7930,7 @@
             "id": 504020180,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 135,
         "id": 905000400,
         "materials": [
             {
@@ -5824,7 +7968,7 @@
             "id": 504020280,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 259,
         "id": 905000500,
         "materials": [
             {
@@ -5862,7 +8006,7 @@
             "id": 504030010,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 136,
         "id": 905000670,
         "materials": [
             {
@@ -5890,7 +8034,7 @@
             "id": 504030020,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 137,
         "id": 905000680,
         "materials": [
             {
@@ -5918,7 +8062,7 @@
             "id": 504030030,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 138,
         "id": 905000690,
         "materials": [
             {
@@ -5946,7 +8090,7 @@
             "id": 504030040,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 139,
         "id": 905000700,
         "materials": [
             {
@@ -5974,7 +8118,7 @@
             "id": 504030050,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 140,
         "id": 905000710,
         "materials": [
             {
@@ -6002,7 +8146,7 @@
             "id": 504030060,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 141,
         "id": 905000720,
         "materials": [
             {
@@ -6030,7 +8174,7 @@
             "id": 504030070,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 142,
         "id": 905000730,
         "materials": [
             {
@@ -6058,7 +8202,7 @@
             "id": 504030080,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 143,
         "id": 905000740,
         "materials": [
             {
@@ -6086,7 +8230,7 @@
             "id": 504030090,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 178,
         "id": 905000750,
         "materials": [
             {
@@ -6119,7 +8263,7 @@
             "id": 504030100,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 144,
         "id": 905000760,
         "materials": [
             {
@@ -6147,7 +8291,7 @@
             "id": 504030110,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 145,
         "id": 905000770,
         "materials": [
             {
@@ -6180,7 +8324,7 @@
             "id": 504030120,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 146,
         "id": 905000780,
         "materials": [
             {
@@ -6213,7 +8357,7 @@
             "id": 504030130,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 147,
         "id": 905000790,
         "materials": [
             {
@@ -6246,7 +8390,7 @@
             "id": 504030140,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 148,
         "id": 905000800,
         "materials": [
             {
@@ -6279,7 +8423,7 @@
             "id": 504030160,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 149,
         "id": 905000820,
         "materials": [
             {
@@ -6312,7 +8456,7 @@
             "id": 504030170,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 150,
         "id": 905000830,
         "materials": [
             {
@@ -6345,7 +8489,7 @@
             "id": 504030180,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 151,
         "id": 905000840,
         "materials": [
             {
@@ -6378,7 +8522,7 @@
             "id": 504030190,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 152,
         "id": 905000850,
         "materials": [
             {
@@ -6404,6 +8548,39 @@
         ],
         "name": "バストンラ"
     },
+    "905000860": {
+        "craft_cost": 1600,
+        "craft_time": 21600,
+        "crafts": {
+            "id": 504030200,
+            "type": "MATERIA"
+        },
+        "guide_id": 307,
+        "id": 905000860,
+        "materials": [
+            {
+                "id": "201001500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001600",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ウィーク"
+    },
     "905000870": {
         "craft_cost": 800,
         "craft_time": 1800,
@@ -6411,7 +8588,7 @@
             "id": 504030210,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 194,
         "id": 905000870,
         "materials": [
             {
@@ -6444,7 +8621,7 @@
             "id": 504030220,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 220,
         "id": 905000880,
         "materials": [
             {
@@ -6470,6 +8647,39 @@
         ],
         "name": "フェイス"
     },
+    "905000890": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504020460,
+            "type": "MATERIA"
+        },
+        "guide_id": 350,
+        "id": 905000890,
+        "materials": [
+            {
+                "id": "201000800",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001600",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ダーラ"
+    },
     "905100040": {
         "craft_cost": 200,
         "craft_time": 300,
@@ -6477,7 +8687,7 @@
             "id": 504100040,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 179,
         "id": 905100040,
         "materials": [
             {
@@ -6505,7 +8715,7 @@
             "id": 504100070,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 242,
         "id": 905100070,
         "materials": [
             {
@@ -6533,7 +8743,7 @@
             "id": 504100100,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 195,
         "id": 905100100,
         "materials": [
             {
@@ -6561,7 +8771,7 @@
             "id": 504100130,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 190,
         "id": 905100130,
         "materials": [
             {
@@ -6589,7 +8799,7 @@
             "id": 504100160,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 180,
         "id": 905100160,
         "materials": [
             {
@@ -6617,7 +8827,7 @@
             "id": 504100190,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 235,
         "id": 905100190,
         "materials": [
             {
@@ -6655,7 +8865,7 @@
             "id": 504100710,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 243,
         "id": 905100710,
         "materials": [
             {
@@ -6693,7 +8903,7 @@
             "id": 504100720,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 252,
         "id": 905100720,
         "materials": [
             {
@@ -6731,7 +8941,7 @@
             "id": 504101020,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 181,
         "id": 905101020,
         "materials": [
             {
@@ -6764,7 +8974,7 @@
             "id": 504101060,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 272,
         "id": 905101060,
         "materials": [
             {
@@ -6797,7 +9007,7 @@
             "id": 504101090,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 260,
         "id": 905101090,
         "materials": [
             {
@@ -6830,7 +9040,7 @@
             "id": 504101100,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 221,
         "id": 905101100,
         "materials": [
             {
@@ -6863,7 +9073,7 @@
             "id": 504101120,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 261,
         "id": 905101120,
         "materials": [
             {
@@ -6901,7 +9111,7 @@
             "id": 504101500,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 196,
         "id": 905101500,
         "materials": [
             {
@@ -6939,7 +9149,7 @@
             "id": 504200010,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 153,
         "id": 905200010,
         "materials": [
             {
@@ -6967,7 +9177,7 @@
             "id": 504200120,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 154,
         "id": 905200120,
         "materials": [
             {
@@ -6990,7 +9200,7 @@
             "id": 504200510,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 155,
         "id": 905200510,
         "materials": [
             {
@@ -7023,7 +9233,7 @@
             "id": 504200520,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 156,
         "id": 905200520,
         "materials": [
             {
@@ -7056,7 +9266,7 @@
             "id": 504200530,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 274,
         "id": 905200530,
         "materials": [
             {
@@ -7089,7 +9299,7 @@
             "id": 504200540,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 222,
         "id": 905200540,
         "materials": [
             {
@@ -7122,7 +9332,7 @@
             "id": 504200550,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 157,
         "id": 905200550,
         "materials": [
             {
@@ -7155,7 +9365,7 @@
             "id": 504200560,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 158,
         "id": 905200560,
         "materials": [
             {
@@ -7188,7 +9398,7 @@
             "id": 504200570,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 223,
         "id": 905200570,
         "materials": [
             {
@@ -7221,7 +9431,7 @@
             "id": 504200580,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 159,
         "id": 905200580,
         "materials": [
             {
@@ -7254,7 +9464,7 @@
             "id": 504200590,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 160,
         "id": 905200590,
         "materials": [
             {
@@ -7287,7 +9497,7 @@
             "id": 504200600,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 161,
         "id": 905200600,
         "materials": [
             {
@@ -7325,7 +9535,7 @@
             "id": 504200640,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 236,
         "id": 905200640,
         "materials": [
             {
@@ -7363,7 +9573,7 @@
             "id": 504200660,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 197,
         "id": 905200660,
         "materials": [
             {
@@ -7401,7 +9611,7 @@
             "id": 504200680,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 244,
         "id": 905200680,
         "materials": [
             {
@@ -7439,7 +9649,7 @@
             "id": 504200690,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 253,
         "id": 905200690,
         "materials": [
             {
@@ -7477,7 +9687,7 @@
             "id": 504200800,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 162,
         "id": 905200800,
         "materials": [
             {
@@ -7510,7 +9720,7 @@
             "id": 504201130,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 262,
         "id": 905201130,
         "materials": [
             {
@@ -7538,7 +9748,7 @@
             "id": 504201140,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 263,
         "id": 905201140,
         "materials": [
             {
@@ -7566,7 +9776,7 @@
             "id": 504201150,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 273,
         "id": 905201150,
         "materials": [
             {
@@ -7594,7 +9804,7 @@
             "id": 504201160,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 163,
         "id": 905201160,
         "materials": [
             {
@@ -7622,7 +9832,7 @@
             "id": 504201320,
             "type": "MATERIA"
         },
-        "guide_id": "undefined",
+        "guide_id": 164,
         "id": 905201320,
         "materials": [
             {
@@ -7647,5 +9857,132 @@
             }
         ],
         "name": "バイオブラスター"
+    },
+    "905211120": {
+        "craft_cost": 200,
+        "craft_time": 300,
+        "crafts": {
+            "id": 504211120,
+            "type": "MATERIA"
+        },
+        "guide_id": 330,
+        "id": 905211120,
+        "materials": [
+            {
+                "id": "212000200",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000300",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "モグサーチ"
+    },
+    "905211150": {
+        "craft_cost": 1000,
+        "craft_time": 3600,
+        "crafts": {
+            "id": 504211150,
+            "type": "MATERIA"
+        },
+        "guide_id": 331,
+        "id": 905211150,
+        "materials": [
+            {
+                "id": "212000200",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000400",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "モグレジスト"
+    },
+    "905211160": {
+        "craft_cost": 3000,
+        "craft_time": 86400,
+        "crafts": {
+            "id": 504211160,
+            "type": "MATERIA"
+        },
+        "guide_id": 332,
+        "id": 905211160,
+        "materials": [
+            {
+                "id": "212000200",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000400",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "212000600",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "モグライズ"
+    },
+    "905211170": {
+        "craft_cost": 1000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504200610,
+            "type": "MATERIA"
+        },
+        "guide_id": 351,
+        "id": 905211170,
+        "materials": [
+            {
+                "id": "201000900",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000200",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000800",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ファイラ剣"
     }
 }
