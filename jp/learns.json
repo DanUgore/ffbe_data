@@ -26815,6 +26815,78 @@
             "magic": []
         }
     },
+    "303000204": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "214650",
+                    "min_rarity": 6,
+                    "name": "閃き"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "201810",
+                    "min_rarity": 0,
+                    "name": "パリィ"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "214660",
+                    "min_rarity": 5,
+                    "name": "ソードバリア"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "201790",
+                    "min_rarity": 0,
+                    "name": "なぎ払い"
+                }
+            ],
+            "magic": []
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "214670",
+                    "min_rarity": 5,
+                    "name": "ライトボール"
+                }
+            ],
+            "magic": []
+        },
+        "59": {
+            "abilities": [
+                {
+                    "id": "201800",
+                    "min_rarity": 0,
+                    "name": "残像剣"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "214680",
+                    "min_rarity": 6,
+                    "name": "皇帝"
+                }
+            ],
+            "magic": []
+        }
+    },
     "304000105": {
         "1": {
             "abilities": [
@@ -28020,6 +28092,434 @@
                     "id": "205600",
                     "min_rarity": 5,
                     "name": "ベギラゴン"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "309000105": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "214370",
+                    "min_rarity": 6,
+                    "name": "閃き"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [
+                {
+                    "id": "201790",
+                    "min_rarity": 0,
+                    "name": "なぎ払い"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "214380",
+                    "min_rarity": 0,
+                    "name": "シノンの開拓民"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 6,
+                    "name": "防御+10%"
+                }
+            ],
+            "magic": []
+        },
+        "35": {
+            "abilities": [
+                {
+                    "id": "201810",
+                    "min_rarity": 0,
+                    "name": "パリィ"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 6,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "65": {
+            "abilities": [
+                {
+                    "id": "214390",
+                    "min_rarity": 0,
+                    "name": "宿星:歳星"
+                }
+            ],
+            "magic": []
+        },
+        "71": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 6,
+                    "name": "攻撃+10%"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "214400",
+                    "min_rarity": 0,
+                    "name": "プリンセスガード"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "214690",
+                    "min_rarity": 6,
+                    "name": "勇猛なる剣士"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "309000205": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "214420",
+                    "min_rarity": 6,
+                    "name": "閃き"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [
+                {
+                    "id": "201790",
+                    "min_rarity": 0,
+                    "name": "なぎ払い"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "214480",
+                    "min_rarity": 0,
+                    "name": "ロアーヌ貴族"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "207410",
+                    "min_rarity": 6,
+                    "name": "大剣の極意"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "214490",
+                    "min_rarity": 0,
+                    "name": "宿星:辰星"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "214430",
+                    "min_rarity": 0,
+                    "name": "地走り"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "214440",
+                    "min_rarity": 6,
+                    "name": "ムーングロウ"
+                }
+            ],
+            "magic": []
+        },
+        "55": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 0,
+                    "name": "防御+10%"
+                }
+            ],
+            "magic": []
+        },
+        "59": {
+            "abilities": [
+                {
+                    "id": "214450",
+                    "min_rarity": 6,
+                    "name": "シャドウサーバント"
+                }
+            ],
+            "magic": []
+        },
+        "62": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "77": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 0,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "84": {
+            "abilities": [
+                {
+                    "id": "214460",
+                    "min_rarity": 6,
+                    "name": "ムーンシャイン"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "214500",
+                    "min_rarity": 6,
+                    "name": "秘めたる想い"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "309000304": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "214510",
+                    "min_rarity": 6,
+                    "name": "閃き"
+                }
+            ],
+            "magic": []
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "201810",
+                    "min_rarity": 0,
+                    "name": "パリィ"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "214560",
+                    "min_rarity": 5,
+                    "name": "宿星:太白"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "214550",
+                    "min_rarity": 0,
+                    "name": "流浪の王族"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "214520",
+                    "min_rarity": 0,
+                    "name": "バックスタッブ"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "201800",
+                    "min_rarity": 5,
+                    "name": "残像剣"
+                }
+            ],
+            "magic": []
+        },
+        "48": {
+            "abilities": [
+                {
+                    "id": "100160",
+                    "min_rarity": 0,
+                    "name": "精神+10%"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "100730",
+                    "min_rarity": 6,
+                    "name": "オートリジェネ"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 5,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "214540",
+                    "min_rarity": 6,
+                    "name": "トルネード"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "309000403": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "214570",
+                    "min_rarity": 5,
+                    "name": "閃き"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "214580",
+                    "min_rarity": 0,
+                    "name": "インプリズン"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "214590",
+                    "min_rarity": 4,
+                    "name": "マインドステア"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "214600",
+                    "min_rarity": 0,
+                    "name": "ウインドダート"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 5,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "39": {
+            "abilities": [
+                {
+                    "id": "214490",
+                    "min_rarity": 0,
+                    "name": "宿星:辰星"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "214640",
+                    "min_rarity": 4,
+                    "name": "覆面の怪傑"
+                }
+            ],
+            "magic": []
+        },
+        "58": {
+            "abilities": [
+                {
+                    "id": "214610",
+                    "min_rarity": 4,
+                    "name": "ナップ"
+                }
+            ],
+            "magic": []
+        },
+        "66": {
+            "abilities": [
+                {
+                    "id": "214620",
+                    "min_rarity": 5,
+                    "name": "サクション"
                 }
             ],
             "magic": []

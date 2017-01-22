@@ -7219,6 +7219,164 @@
         ],
         "name": "プラチナティアラ"
     },
+    "904001740": {
+        "craft_cost": 3600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 305002000,
+            "type": "EQUIP"
+        },
+        "guide_id": 353,
+        "id": 904001740,
+        "materials": [
+            {
+                "id": "215000100",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000300",
+                "quantity": "20",
+                "type": "ITEM"
+            }
+        ],
+        "name": "フランシスカ"
+    },
+    "904001750": {
+        "craft_cost": 3200,
+        "craft_time": 1,
+        "crafts": {
+            "id": 311002300,
+            "type": "EQUIP"
+        },
+        "guide_id": 354,
+        "id": 904001750,
+        "materials": [
+            {
+                "id": "215000200",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000300",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "栄光の杖"
+    },
+    "904001760": {
+        "craft_cost": 600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409013200,
+            "type": "EQUIP"
+        },
+        "guide_id": 355,
+        "id": 904001760,
+        "materials": [
+            {
+                "id": "215000100",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000500",
+                "quantity": "20",
+                "type": "ITEM"
+            }
+        ],
+        "name": "クリスナイフ"
+    },
+    "904001770": {
+        "craft_cost": 10000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409013300,
+            "type": "EQUIP"
+        },
+        "guide_id": 356,
+        "id": 904001770,
+        "materials": [
+            {
+                "id": "215000200",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000400",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000600",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "王家の指輪"
+    },
+    "904001780": {
+        "craft_cost": 3000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 407002100,
+            "type": "EQUIP"
+        },
+        "guide_id": 357,
+        "id": 904001780,
+        "materials": [
+            {
+                "id": "215000100",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000400",
+                "quantity": "20",
+                "type": "ITEM"
+            }
+        ],
+        "name": "機動装甲"
+    },
+    "904001790": {
+        "craft_cost": 4800,
+        "craft_time": 1,
+        "crafts": {
+            "id": 406002500,
+            "type": "EQUIP"
+        },
+        "guide_id": 358,
+        "id": 904001790,
+        "materials": [
+            {
+                "id": "215000200",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "215000400",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "星辰の鎧"
+    },
     "905000010": {
         "craft_cost": 200,
         "craft_time": 300,
