@@ -1848,6 +1848,94 @@
             "magic": []
         }
     },
+    "302003600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 125,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Sword",
+        "full_desc": "異界の伝承に登場する聖王遺物の中でもひときわ強力な剣。神王教団の伝道者マクシムスによって教団を乗っ取るため集められた聖王遺物のひとつ。刀身に星の力を宿しており、その力を解放すると爆発的な力を手に入れられる。ただし、扱いには剣の強さに見合った技術力が必要で、稀有な才を持つ一握りの剣士にしか扱うことはできない。",
+        "grade": 8,
+        "guide_id": 597,
+        "id": 302003600,
+        "max_stack": 99,
+        "name": "七星剣",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "聖王遺物の中でもひときわ強力な剣",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "214410",
+                    "name": "スターバースト"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "302003700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 105,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Sword",
+        "full_desc": "異界の英雄にして、ゲッシア朝ナジュ王国初代国王アル・アワドが使用していた曲刀。受け継ぐ者だけが手にできる名剣で、多くの者がアル・アワドと共に諸王の墓へ葬られたカムシーンを求め、命を落とした。一説ではトルネードという異名を持つ流浪の剣士が諸王の墓で黒き竜との戦いに勝利し、この剣を手にしたといわれている。",
+        "grade": 7,
+        "guide_id": 599,
+        "id": 302003700,
+        "max_stack": 99,
+        "name": "カムシーン",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "英雄アル・アワドが使用していた曲刀",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "214530",
+                    "name": "デミルーン"
+                }
+            ],
+            "magic": []
+        }
+    },
     "303000100": {
         "attack": {
             "ailments": {},
@@ -2758,6 +2846,50 @@
                 {
                     "id": "100730",
                     "name": "オートリジェネ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "303003100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 130,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Greatsword",
+        "full_desc": "異界の伝承に登場する聖王遺物のひとつ。羽のように軽く、持ち手はまるで舞踏のように軽々と大剣技を繰り出せる。元々は形状変化する小剣で“目覚め”させると大剣へ変わるとされるが、真偽は定かではない。持ち主の女剣士は謀略によってマスカレイドを奪われたが、主への強い忠誠心から、命を賭して取り返す旅に出たという。",
+        "grade": 8,
+        "guide_id": 598,
+        "id": 303003100,
+        "max_stack": 99,
+        "name": "マスカレイド",
+        "price": {
+            "buy": 150000,
+            "sell": 15000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "驚くほど軽い聖王遺物の剣",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "214470",
+                    "name": "ウェイクアップ"
                 }
             ],
             "magic": []
@@ -4052,6 +4184,50 @@
         "short_desc": "プラチナで作られた斧",
         "skills": {
             "abilities": [],
+            "magic": []
+        }
+    },
+    "305002000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 78,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "130",
+            "min": "70"
+        },
+        "equip_condition": false,
+        "equip_type": "Axe",
+        "full_desc": "異界の伝承に登場する武器のひとつで、開拓民が使う手斧を、より戦闘に適した形に改良したもの。切れ味が大幅にアップしており、投げたときに威力が発揮されるよう形状に工夫が施されている。熟練した使い手は、まるでヨーヨーのごとく手元に戻ってくるようコントロールして投げることもできるという。",
+        "grade": 5,
+        "guide_id": 591,
+        "id": 305002000,
+        "max_stack": 99,
+        "name": "フランシスカ",
+        "price": {
+            "buy": 18000,
+            "sell": 1800
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "改良された手斧",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "214700",
+                    "name": "ヨーヨー"
+                }
+            ],
             "magic": []
         }
     },
@@ -7754,6 +7930,50 @@
         "short_desc": "プラチナで作られた杖",
         "skills": {
             "abilities": [],
+            "magic": []
+        }
+    },
+    "311002300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 8,
+            "def": 0,
+            "hp": 0,
+            "int": 23,
+            "mnd": 56,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "異界の伝承に登場する聖王遺物のひとつで、神王教団の伝道者マクシムスによって、教団を乗っ取るために集められた杖。一見、どこにでもありそうなヤドリギの杖だが、さまざまな聖職者の手によって浄められ、神の加護を与えられている。この杖を手にした者は、味方に強力な腕力を授けることができるという。",
+        "grade": 6,
+        "guide_id": 592,
+        "id": 311002300,
+        "max_stack": 99,
+        "name": "栄光の杖",
+        "price": {
+            "buy": 16000,
+            "sell": 1600
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "味方に腕力を与える聖王遺物の杖",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "214710",
+                    "name": "ブレス"
+                }
+            ],
             "magic": []
         }
     },
@@ -12424,6 +12644,46 @@
             "magic": []
         }
     },
+    "403043100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 40,
+            "hp": 0,
+            "int": 0,
+            "mnd": 25,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Hat",
+        "full_desc": "異界の町ヤーマスで悪事を働くドフォーレ商会に立ち向かう正義のヒーロー、怪傑ロビンのマスク。困っている人の前に現れ、悪をくじいて去っていく勇姿に惹かれる者は多く、トレードマークのマスクには意外な人気があるようだ。また、このマスクをかぶれば、体型に関わらず誰からも怪傑ロビンと認められるため、秘匿性に優れている。",
+        "grade": 6,
+        "guide_id": 600,
+        "id": 403043100,
+        "max_stack": 99,
+        "name": "ロビンのマスク",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "正義のヒーロー怪傑ロビンのマスク",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "214630",
+                    "name": "ファイアクラッカー"
+                }
+            ],
+            "magic": []
+        }
+    },
     "404000200": {
         "attack": {
             "ailments": {},
@@ -15059,6 +15319,41 @@
             "magic": []
         }
     },
+    "406002500": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 40,
+            "hp": 0,
+            "int": 20,
+            "mnd": 8,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Light Armor",
+        "full_desc": "異界の伝承に登場する、いん石のかけらから作られた鎧。装備した者の魔力を強化してくれる不思議な力を持つ。鎧でありながら非常に軽く、異界においては打たれ弱い術者でも装備が可能だったとされている。",
+        "grade": 6,
+        "guide_id": 596,
+        "id": 406002500,
+        "max_stack": 99,
+        "name": "星辰の鎧",
+        "price": {
+            "buy": 24000,
+            "sell": 2400
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "いん石のかけらから作られた鎧",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
     "407000200": {
         "attack": {
             "ailments": {},
@@ -15600,6 +15895,41 @@
             "elements": {}
         },
         "short_desc": "プラチナで作られた重鎧",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "407002100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 55,
+            "hp": 0,
+            "int": 0,
+            "mnd": 12,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Heavy Armor",
+        "full_desc": "異界の伝承に登場する防具のひとつ。強化装甲をベースに開発された、全身をすっぽりと覆う鎧である。分厚いプレートは物理攻撃のみならず、魔法の力からも装備者を守ってくれる。ピドナの職人の英知が生み出した技術の結晶である。",
+        "grade": 5,
+        "guide_id": 595,
+        "id": 407002100,
+        "max_stack": 99,
+        "name": "機動装甲",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "機械化された全身鎧",
         "skills": {
             "abilities": [],
             "magic": []
@@ -21051,6 +21381,92 @@
                 {
                     "id": "213760",
                     "name": "神出鬼没"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409013200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 10,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界の伝承に登場する装飾ナイフ。刀身は優雅に波うち、装飾品として扱われることが多い。持ち主を守護する不思議な力があり、過酷な旅に赴く戦士たちが好んで身に着けるという。加護の力が生み出されるメカニズムは未だ解明されていないが、材料のいん石が力を及ぼしていることは間違いないだろう。",
+        "grade": 4,
+        "guide_id": 593,
+        "id": 409013200,
+        "max_stack": 99,
+        "name": "クリスナイフ",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "resists": {
+            "ailments": {
+                "blind": "25",
+                "confuse": "25",
+                "paralyze": "25",
+                "petrify": "25",
+                "poison": "25",
+                "silence": "25",
+                "sleep": "25",
+                "virus": "25"
+            },
+            "elements": {}
+        },
+        "short_desc": "持ち主を守護する装飾ナイフ",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "409013300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 5,
+            "hp": 0,
+            "int": 0,
+            "mnd": 5,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界の伝承に登場する聖王遺物のひとつで、聖王家に受け継がれてきた貴重な指輪。ひとたび身につければ、戦の疲れは吹き飛び、薄れゆく意識を現実に引き戻してくれる。王家の子孫を守る素晴らしい力であるが、この指輪の役目はそれだけではないという説もある。魔王殿の奥深くに、その謎の真相が隠されているようだ。",
+        "grade": 7,
+        "guide_id": 594,
+        "id": 409013300,
+        "max_stack": 99,
+        "name": "王家の指輪",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {
+                "confuse": "100"
+            },
+            "elements": {}
+        },
+        "short_desc": "聖王家に受け継がれる指輪",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "214730",
+                    "name": "聖王の加護"
                 }
             ],
             "magic": []

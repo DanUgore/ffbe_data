@@ -295,19 +295,122 @@
         ]
     },
     "10": {
-        "actions": [],
+        "actions": [
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "0",
+                        "type": "skill",
+                        "use skill": 0
+                    }
+                ],
+                "priority": 1,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "0",
+                        "type": "skill",
+                        "use skill": 0
+                    }
+                ],
+                "priority": 2,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "attack",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [],
+                "priority": 3,
+                "search_cond": "random:0",
+                "set_flags": {}
+            }
+        ],
         "id": "10",
-        "name": "混乱付与",
-        "skill": [],
+        "name": "スキル確定2回発動",
         "skills": [
             "13"
         ]
     },
     "11": {
-        "actions": [],
+        "actions": [
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "0",
+                        "type": "skill",
+                        "use skill": 0
+                    }
+                ],
+                "priority": 1,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "attack",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [],
+                "priority": 2,
+                "search_cond": "random:0",
+                "set_flags": {}
+            }
+        ],
         "id": "11",
-        "name": "石化付与",
-        "skill": [],
+        "name": "スキル確定1回発動",
         "skills": [
             "14"
         ]
@@ -73753,6 +73856,3124 @@
             "162910",
             "162920"
         ]
+    },
+    "404011000": {
+        "actions": [
+            {
+                "act_target": 4,
+                "act_type": "skill",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "over",
+                        "raw_params": "1,9",
+                        "raw_type": "flg_timer_over",
+                        "timer flag": 21,
+                        "timer threshold": 9,
+                        "type": "flg_timer"
+                    },
+                    {
+                        "raw_params": "21",
+                        "type": "skill",
+                        "use skill": 21
+                    }
+                ],
+                "priority": 1,
+                "search_cond": "random:0",
+                "set_flags": {}
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "1",
+                        "type": "skill",
+                        "use skill": 1
+                    },
+                    {
+                        "action limit": 1,
+                        "raw_params": "1",
+                        "type": "limited_act"
+                    }
+                ],
+                "priority": 2,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "21": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "1",
+                        "type": "skill",
+                        "use skill": 1
+                    }
+                ],
+                "priority": 3,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "2",
+                        "type": "skill",
+                        "use skill": 2
+                    }
+                ],
+                "priority": 4,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "6",
+                        "type": "skill",
+                        "use skill": 6
+                    }
+                ],
+                "priority": 5,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "7",
+                        "type": "skill",
+                        "use skill": 7
+                    }
+                ],
+                "priority": 6,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "11",
+                        "type": "skill",
+                        "use skill": 11
+                    },
+                    {
+                        "action limit": 1,
+                        "raw_params": "1",
+                        "type": "limited_act"
+                    }
+                ],
+                "priority": 7,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "10",
+                        "type": "skill",
+                        "use skill": 10
+                    }
+                ],
+                "priority": 8,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "15",
+                        "type": "skill",
+                        "use skill": 15
+                    }
+                ],
+                "priority": 9,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "16",
+                        "type": "skill",
+                        "use skill": 16
+                    }
+                ],
+                "priority": 10,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "attack",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [],
+                "priority": 11,
+                "search_cond": "random:0",
+                "set_flags": {}
+            }
+        ],
+        "id": "404011000",
+        "name": "四魔貴族（中級）",
+        "skills": [
+            "165970",
+            "165990",
+            "166010",
+            "166030",
+            "166050",
+            "166070",
+            "166090",
+            "166110",
+            "166130",
+            "166150",
+            "166170",
+            "166190",
+            "166210",
+            "166230",
+            "166250",
+            "166270",
+            "166290",
+            "166310",
+            "166330",
+            "166350",
+            "159790"
+        ]
+    },
+    "404011001": {
+        "actions": [
+            {
+                "act_target": 4,
+                "act_type": "skill",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "over",
+                        "raw_params": "1,9",
+                        "raw_type": "flg_timer_over",
+                        "timer flag": 21,
+                        "timer threshold": 9,
+                        "type": "flg_timer"
+                    },
+                    {
+                        "raw_params": "21",
+                        "type": "skill",
+                        "use skill": 21
+                    }
+                ],
+                "priority": 1,
+                "search_cond": "random:0",
+                "set_flags": {}
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "1",
+                        "type": "skill",
+                        "use skill": 1
+                    },
+                    {
+                        "action limit": 1,
+                        "raw_params": "1",
+                        "type": "limited_act"
+                    }
+                ],
+                "priority": 2,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "21": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "1",
+                        "type": "skill",
+                        "use skill": 1
+                    }
+                ],
+                "priority": 3,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "2",
+                        "type": "skill",
+                        "use skill": 2
+                    }
+                ],
+                "priority": 4,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "3",
+                        "type": "skill",
+                        "use skill": 3
+                    }
+                ],
+                "priority": 5,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "6",
+                        "type": "skill",
+                        "use skill": 6
+                    }
+                ],
+                "priority": 6,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "7",
+                        "type": "skill",
+                        "use skill": 7
+                    }
+                ],
+                "priority": 7,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "8",
+                        "type": "skill",
+                        "use skill": 8
+                    },
+                    {
+                        "action limit": 1,
+                        "raw_params": "1",
+                        "type": "limited_act"
+                    }
+                ],
+                "priority": 8,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "10",
+                        "type": "skill",
+                        "use skill": 10
+                    }
+                ],
+                "priority": 9,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "11",
+                        "type": "skill",
+                        "use skill": 11
+                    },
+                    {
+                        "action limit": 1,
+                        "raw_params": "1",
+                        "type": "limited_act"
+                    }
+                ],
+                "priority": 10,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "12",
+                        "type": "skill",
+                        "use skill": 12
+                    },
+                    {
+                        "action limit": 1,
+                        "raw_params": "1",
+                        "type": "limited_act"
+                    }
+                ],
+                "priority": 11,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "15",
+                        "type": "skill",
+                        "use skill": 15
+                    }
+                ],
+                "priority": 12,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "16",
+                        "type": "skill",
+                        "use skill": 16
+                    }
+                ],
+                "priority": 13,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "18",
+                        "type": "skill",
+                        "use skill": 18
+                    }
+                ],
+                "priority": 14,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "attack",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [],
+                "priority": 15,
+                "search_cond": "random:0",
+                "set_flags": {}
+            }
+        ],
+        "id": "404011001",
+        "name": "四魔貴族（上級）",
+        "skills": [
+            "165980",
+            "166000",
+            "166020",
+            "166040",
+            "166060",
+            "166080",
+            "166100",
+            "166120",
+            "166140",
+            "166160",
+            "166180",
+            "166200",
+            "166220",
+            "166240",
+            "166260",
+            "166280",
+            "166300",
+            "166320",
+            "166340",
+            "166360",
+            "159790"
+        ]
+    },
+    "404011002": {
+        "actions": [
+            {
+                "act_target": 4,
+                "act_type": "turn_end",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "over",
+                        "hp over%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_over",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "count flag": 26,
+                        "count limit": 4,
+                        "ext": "over",
+                        "raw_params": "1,4",
+                        "raw_type": "flg_cntup_over",
+                        "type": "flg_cntup"
+                    }
+                ],
+                "priority": 1,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "26": false
+                }
+            },
+            {
+                "act_target": 4,
+                "act_type": "skill",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "over",
+                        "raw_params": "1,9",
+                        "raw_type": "flg_timer_over",
+                        "timer flag": 21,
+                        "timer threshold": 9,
+                        "type": "flg_timer"
+                    },
+                    {
+                        "raw_params": "21",
+                        "type": "skill",
+                        "use skill": 21
+                    }
+                ],
+                "priority": 2,
+                "search_cond": "random:0",
+                "set_flags": {}
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "1",
+                        "type": "skill",
+                        "use skill": 1
+                    },
+                    {
+                        "action limit": 1,
+                        "raw_params": "1",
+                        "type": "limited_act"
+                    }
+                ],
+                "priority": 3,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "21": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "1",
+                        "type": "skill",
+                        "use skill": 1
+                    }
+                ],
+                "priority": 4,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "2",
+                        "type": "skill",
+                        "use skill": 2
+                    }
+                ],
+                "priority": 5,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 35,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "3",
+                        "type": "skill",
+                        "use skill": 3
+                    }
+                ],
+                "priority": 6,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "4",
+                        "type": "skill",
+                        "use skill": 4
+                    }
+                ],
+                "priority": 7,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "1",
+                        "type": "skill",
+                        "use skill": 1
+                    }
+                ],
+                "priority": 8,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "2",
+                        "type": "skill",
+                        "use skill": 2
+                    }
+                ],
+                "priority": 9,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 35,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "3",
+                        "type": "skill",
+                        "use skill": 3
+                    }
+                ],
+                "priority": 10,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "4",
+                        "type": "skill",
+                        "use skill": 4
+                    }
+                ],
+                "priority": 11,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "6",
+                        "type": "skill",
+                        "use skill": 6
+                    }
+                ],
+                "priority": 12,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 34,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "7",
+                        "type": "skill",
+                        "use skill": 7
+                    }
+                ],
+                "priority": 13,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "8",
+                        "type": "skill",
+                        "use skill": 8
+                    }
+                ],
+                "priority": 14,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "6",
+                        "type": "skill",
+                        "use skill": 6
+                    }
+                ],
+                "priority": 15,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 34,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "7",
+                        "type": "skill",
+                        "use skill": 7
+                    }
+                ],
+                "priority": 16,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "8",
+                        "type": "skill",
+                        "use skill": 8
+                    }
+                ],
+                "priority": 17,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 15,
+                        "flag type": "volatile",
+                        "raw_params": "15",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "10",
+                        "type": "skill",
+                        "use skill": 10
+                    }
+                ],
+                "priority": 18,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "15": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 15,
+                        "flag type": "volatile",
+                        "raw_params": "15",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "11",
+                        "type": "skill",
+                        "use skill": 11
+                    }
+                ],
+                "priority": 19,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "15": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 35,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 15,
+                        "flag type": "volatile",
+                        "raw_params": "15",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "12",
+                        "type": "skill",
+                        "use skill": 12
+                    }
+                ],
+                "priority": 20,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "15": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 15,
+                        "flag type": "volatile",
+                        "raw_params": "15",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "13",
+                        "type": "skill",
+                        "use skill": 13
+                    }
+                ],
+                "priority": 21,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "15": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 16,
+                        "flag type": "volatile",
+                        "raw_params": "16",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "10",
+                        "type": "skill",
+                        "use skill": 10
+                    }
+                ],
+                "priority": 22,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "16": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 16,
+                        "flag type": "volatile",
+                        "raw_params": "16",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "11",
+                        "type": "skill",
+                        "use skill": 11
+                    }
+                ],
+                "priority": 23,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "16": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 35,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 16,
+                        "flag type": "volatile",
+                        "raw_params": "16",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "12",
+                        "type": "skill",
+                        "use skill": 12
+                    }
+                ],
+                "priority": 24,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "16": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 16,
+                        "flag type": "volatile",
+                        "raw_params": "16",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "13",
+                        "type": "skill",
+                        "use skill": 13
+                    }
+                ],
+                "priority": 25,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "16": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "15",
+                        "type": "skill",
+                        "use skill": 15
+                    }
+                ],
+                "priority": 26,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "16",
+                        "type": "skill",
+                        "use skill": 16
+                    }
+                ],
+                "priority": 27,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 35,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "18",
+                        "type": "skill",
+                        "use skill": 18
+                    }
+                ],
+                "priority": 28,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 4,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "19",
+                        "type": "skill",
+                        "use skill": 19
+                    }
+                ],
+                "priority": 29,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "15",
+                        "type": "skill",
+                        "use skill": 15
+                    }
+                ],
+                "priority": 30,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "16",
+                        "type": "skill",
+                        "use skill": 16
+                    }
+                ],
+                "priority": 31,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 35,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "18",
+                        "type": "skill",
+                        "use skill": 18
+                    }
+                ],
+                "priority": 32,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 4,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "19",
+                        "type": "skill",
+                        "use skill": 19
+                    }
+                ],
+                "priority": 33,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "attack",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [],
+                "priority": 34,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "26": true
+                }
+            }
+        ],
+        "id": "404011002",
+        "name": "四魔貴族（超級）",
+        "skills": []
+    },
+    "404011003": {
+        "actions": [
+            {
+                "act_target": 4,
+                "act_type": "turn_end",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "over",
+                        "hp over%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_over",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "count flag": 26,
+                        "count limit": 4,
+                        "ext": "over",
+                        "raw_params": "1,4",
+                        "raw_type": "flg_cntup_over",
+                        "type": "flg_cntup"
+                    }
+                ],
+                "priority": 1,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "26": false
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 16,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "1",
+                        "type": "skill",
+                        "use skill": 1
+                    }
+                ],
+                "priority": 2,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "2",
+                        "type": "skill",
+                        "use skill": 2
+                    }
+                ],
+                "priority": 3,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "3",
+                        "type": "skill",
+                        "use skill": 3
+                    }
+                ],
+                "priority": 4,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 33,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "4",
+                        "type": "skill",
+                        "use skill": 4
+                    }
+                ],
+                "priority": 5,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 11,
+                        "flag type": "volatile",
+                        "raw_params": "11",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "5",
+                        "type": "skill",
+                        "use skill": 5
+                    }
+                ],
+                "priority": 6,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "11": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 16,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "1",
+                        "type": "skill",
+                        "use skill": 1
+                    }
+                ],
+                "priority": 7,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "2",
+                        "type": "skill",
+                        "use skill": 2
+                    }
+                ],
+                "priority": 8,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "3",
+                        "type": "skill",
+                        "use skill": 3
+                    }
+                ],
+                "priority": 9,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 33,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "4",
+                        "type": "skill",
+                        "use skill": 4
+                    }
+                ],
+                "priority": 10,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 12,
+                        "flag type": "volatile",
+                        "raw_params": "12",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "5",
+                        "type": "skill",
+                        "use skill": 5
+                    }
+                ],
+                "priority": 11,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "12": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "6",
+                        "type": "skill",
+                        "use skill": 6
+                    }
+                ],
+                "priority": 12,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "7",
+                        "type": "skill",
+                        "use skill": 7
+                    }
+                ],
+                "priority": 13,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 35,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "8",
+                        "type": "skill",
+                        "use skill": 8
+                    }
+                ],
+                "priority": 14,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 13,
+                        "flag type": "volatile",
+                        "raw_params": "13",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "9",
+                        "type": "skill",
+                        "use skill": 9
+                    }
+                ],
+                "priority": 15,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "13": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "6",
+                        "type": "skill",
+                        "use skill": 6
+                    }
+                ],
+                "priority": 16,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "7",
+                        "type": "skill",
+                        "use skill": 7
+                    }
+                ],
+                "priority": 17,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 35,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "8",
+                        "type": "skill",
+                        "use skill": 8
+                    }
+                ],
+                "priority": 18,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 14,
+                        "flag type": "volatile",
+                        "raw_params": "14",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "9",
+                        "type": "skill",
+                        "use skill": 9
+                    }
+                ],
+                "priority": 19,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "14": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 16,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 15,
+                        "flag type": "volatile",
+                        "raw_params": "15",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "10",
+                        "type": "skill",
+                        "use skill": 10
+                    }
+                ],
+                "priority": 20,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "15": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 15,
+                        "flag type": "volatile",
+                        "raw_params": "15",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "11",
+                        "type": "skill",
+                        "use skill": 11
+                    }
+                ],
+                "priority": 21,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "15": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 15,
+                        "flag type": "volatile",
+                        "raw_params": "15",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "12",
+                        "type": "skill",
+                        "use skill": 12
+                    }
+                ],
+                "priority": 22,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "15": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 33,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 15,
+                        "flag type": "volatile",
+                        "raw_params": "15",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "13",
+                        "type": "skill",
+                        "use skill": 13
+                    }
+                ],
+                "priority": 23,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "15": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 15,
+                        "flag type": "volatile",
+                        "raw_params": "15",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "14",
+                        "type": "skill",
+                        "use skill": 14
+                    }
+                ],
+                "priority": 24,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "15": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 16,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 16,
+                        "flag type": "volatile",
+                        "raw_params": "16",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "10",
+                        "type": "skill",
+                        "use skill": 10
+                    }
+                ],
+                "priority": 25,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "16": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 16,
+                        "flag type": "volatile",
+                        "raw_params": "16",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "11",
+                        "type": "skill",
+                        "use skill": 11
+                    }
+                ],
+                "priority": 26,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "16": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 16,
+                        "flag type": "volatile",
+                        "raw_params": "16",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "12",
+                        "type": "skill",
+                        "use skill": 12
+                    }
+                ],
+                "priority": 27,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "16": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 33,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 16,
+                        "flag type": "volatile",
+                        "raw_params": "16",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "13",
+                        "type": "skill",
+                        "use skill": 13
+                    }
+                ],
+                "priority": 28,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "16": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 50,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 16,
+                        "flag type": "volatile",
+                        "raw_params": "16",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "14",
+                        "type": "skill",
+                        "use skill": 14
+                    }
+                ],
+                "priority": 29,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "16": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 14,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "15",
+                        "type": "skill",
+                        "use skill": 15
+                    }
+                ],
+                "priority": 30,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 17,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "16",
+                        "type": "skill",
+                        "use skill": 16
+                    }
+                ],
+                "priority": 31,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "17",
+                        "type": "skill",
+                        "use skill": 17
+                    }
+                ],
+                "priority": 32,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "18",
+                        "type": "skill",
+                        "use skill": 18
+                    }
+                ],
+                "priority": 33,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 4,
+                "act_type": "skill",
+                "chance": 33,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "19",
+                        "type": "skill",
+                        "use skill": 19
+                    }
+                ],
+                "priority": 34,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 49,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 17,
+                        "flag type": "volatile",
+                        "raw_params": "17",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "raw_params": "20",
+                        "type": "skill",
+                        "use skill": 20
+                    }
+                ],
+                "priority": 35,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "17": true,
+                    "26": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 14,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "15",
+                        "type": "skill",
+                        "use skill": 15
+                    }
+                ],
+                "priority": 36,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 17,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "16",
+                        "type": "skill",
+                        "use skill": 16
+                    }
+                ],
+                "priority": 37,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 20,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "17",
+                        "type": "skill",
+                        "use skill": 17
+                    }
+                ],
+                "priority": 38,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 25,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "18",
+                        "type": "skill",
+                        "use skill": 18
+                    }
+                ],
+                "priority": 39,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 4,
+                "act_type": "skill",
+                "chance": 33,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "19",
+                        "type": "skill",
+                        "use skill": 19
+                    }
+                ],
+                "priority": 40,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "skill",
+                "chance": 49,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [
+                    {
+                        "ext": "off",
+                        "flag": 18,
+                        "flag type": "volatile",
+                        "raw_params": "18",
+                        "raw_type": "flg_off",
+                        "type": "flg"
+                    },
+                    {
+                        "ext": "under",
+                        "hp under%": 50,
+                        "raw_params": "50",
+                        "raw_type": "hp_pr_under",
+                        "type": "hp_pr"
+                    },
+                    {
+                        "raw_params": "20",
+                        "type": "skill",
+                        "use skill": 20
+                    }
+                ],
+                "priority": 41,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "18": true
+                }
+            },
+            {
+                "act_target": 2,
+                "act_type": "attack",
+                "chance": 100,
+                "cond_target": 0,
+                "conditions_party": [],
+                "conditions_self": [],
+                "priority": 42,
+                "search_cond": "random:0",
+                "set_flags": {
+                    "26": true
+                }
+            }
+        ],
+        "id": "404011003",
+        "name": "四魔貴族（覚醒級）",
+        "skills": []
     },
     "405001000": {
         "actions": [

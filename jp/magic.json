@@ -697,6 +697,7 @@
             }
         ],
         "elements": [],
+        "full_desc": "味方1体のHPを徐々に回復する。",
         "guide_id": 14,
         "icon_id": 700000004,
         "id": 10124,
@@ -704,6 +705,50 @@
         "mp_cost": 3,
         "name": "リジェネ(アクアフレッシュ用)",
         "rarity": 4,
+        "short_desc": "味方1体のHPを徐々に回復",
+        "skill_category": "recovery"
+    },
+    "10125": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 8,
+                "base heal": 500,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "heal mod": 6,
+                "params": [
+                    600,
+                    1,
+                    500,
+                    -1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体のHPを徐々に回復する。",
+        "guide_id": 14,
+        "icon_id": 700000004,
+        "id": 10125,
+        "level": 4,
+        "mp_cost": 3,
+        "name": "リジェネ(王家の指輪用)",
+        "rarity": 4,
+        "short_desc": "味方1体のHPを徐々に回復",
         "skill_category": "recovery"
     },
     "10130": {
@@ -1122,7 +1167,7 @@
             }
         ],
         "elements": [],
-        "full_desc": "味方1体の戦闘不能を1回だけ自動で回復する。",
+        "full_desc": "味方1体に戦闘不能を1回だけ自動回復する効果を付与する。",
         "guide_id": 25,
         "icon_id": 700000001,
         "id": 10230,
@@ -1130,7 +1175,7 @@
         "mp_cost": 21,
         "name": "リレイズ",
         "rarity": 8,
-        "short_desc": "味方1体の戦闘不能を1回だけ自動回復",
+        "short_desc": "味方1体に戦闘不能を1回だけ自動回復する効果を付与",
         "skill_category": "recovery"
     },
     "10280": {
@@ -1177,7 +1222,7 @@
         "elements": [
             "light"
         ],
-        "full_desc": "敵1体に光属性ダメージを与え、発動者のMPを回復する。",
+        "full_desc": "敵1体に光属性ダメージを与え、自分のMPを回復する。",
         "guide_id": 30,
         "icon_id": 700000005,
         "id": 10280,
@@ -1185,7 +1230,7 @@
         "mp_cost": 0,
         "name": "ホーリー",
         "rarity": 8,
-        "short_desc": "敵1体に光属性ダメージ+発動者のMPを回復",
+        "short_desc": "敵1体に光属性ダメージ+自分のMPを回復",
         "skill_category": "offensive"
     },
     "10290": {
@@ -1555,7 +1600,7 @@
         "elements": [
             "dark"
         ],
-        "full_desc": "敵1体に闇属性のダメージを与え、毒の追加効果。",
+        "full_desc": "敵1体に闇属性のダメージを与え、確率で毒状態にする。",
         "guide_id": 106,
         "icon_id": 700000024,
         "id": 20070,
@@ -1563,7 +1608,7 @@
         "mp_cost": 5,
         "name": "バイオ",
         "rarity": 2,
-        "short_desc": "敵1体に闇属性ダメージ+毒",
+        "short_desc": "敵1体に闇属性ダメージ+確率で毒",
         "skill_category": "offensive"
     },
     "20080": {
@@ -1960,7 +2005,7 @@
         "mp_cost": 15,
         "name": "コメット",
         "rarity": 5,
-        "short_desc": "敵1体にダメージ+威力をアップ",
+        "short_desc": "敵1体にダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "20171": {
@@ -2005,7 +2050,7 @@
         "mp_cost": 15,
         "name": "つよがる【コメット】",
         "rarity": 5,
-        "short_desc": "敵1体にダメージ+威力をアップ",
+        "short_desc": "敵1体にダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "20180": {
@@ -2062,7 +2107,7 @@
         "elements": [
             "dark"
         ],
-        "full_desc": "敵全体に闇属性のダメージを与え、毒の追加効果。",
+        "full_desc": "敵全体に闇属性のダメージを与え、確率で毒状態にする。",
         "guide_id": 117,
         "icon_id": 700000024,
         "id": 20180,
@@ -2070,7 +2115,7 @@
         "mp_cost": 12,
         "name": "バイオラ",
         "rarity": 5,
-        "short_desc": "敵全体に闇属性ダメージ+毒",
+        "short_desc": "敵全体に闇属性ダメージ+確率で毒",
         "skill_category": "offensive"
     },
     "20190": {
@@ -2438,7 +2483,7 @@
         "elements": [
             "dark"
         ],
-        "full_desc": "敵全体に闇属性のダメージを与え、毒の追加効果。",
+        "full_desc": "敵全体に闇属性のダメージを与え、確率で毒状態にする。",
         "guide_id": 125,
         "icon_id": 700000024,
         "id": 20260,
@@ -2446,7 +2491,7 @@
         "mp_cost": 20,
         "name": "バイオガ",
         "rarity": 6,
-        "short_desc": "敵全体に闇属性ダメージ+毒",
+        "short_desc": "敵全体に闇属性ダメージ+確率で毒",
         "skill_category": "offensive"
     },
     "20270": {
@@ -2519,7 +2564,7 @@
         "elements": [
             "dark"
         ],
-        "full_desc": "敵1体に即死の効果を与える。",
+        "full_desc": "敵1体に確率で即死の効果を与える。",
         "guide_id": 127,
         "icon_id": 700000038,
         "id": 20280,
@@ -2527,7 +2572,7 @@
         "mp_cost": 14,
         "name": "デス",
         "rarity": 6,
-        "short_desc": "敵1体に即死の効果",
+        "short_desc": "敵1体に確率で即死",
         "skill_category": "offensive"
     },
     "20290": {
@@ -2578,7 +2623,7 @@
         "mp_cost": 28,
         "name": "ファイジャ",
         "rarity": 7,
-        "short_desc": "敵全体に火属性ダメージ+威力をアップ",
+        "short_desc": "敵全体に火属性ダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "20300": {
@@ -2629,7 +2674,7 @@
         "mp_cost": 28,
         "name": "ブリザジャ",
         "rarity": 7,
-        "short_desc": "敵全体に氷属性ダメージ+威力をアップ",
+        "short_desc": "敵全体に氷属性ダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "20310": {
@@ -2680,7 +2725,7 @@
         "mp_cost": 28,
         "name": "サンダジャ",
         "rarity": 7,
-        "short_desc": "敵全体に雷属性ダメージ+威力をアップ",
+        "short_desc": "敵全体に雷属性ダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "20320": {
@@ -2731,7 +2776,7 @@
         "mp_cost": 28,
         "name": "ウォタジャ",
         "rarity": 7,
-        "short_desc": "敵全体に水属性ダメージ+威力をアップ",
+        "short_desc": "敵全体に水属性ダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "20330": {
@@ -2782,7 +2827,7 @@
         "mp_cost": 28,
         "name": "エアロジャ",
         "rarity": 7,
-        "short_desc": "敵全体に風属性ダメージ+威力をアップ",
+        "short_desc": "敵全体に風属性ダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "20340": {
@@ -2833,7 +2878,7 @@
         "mp_cost": 28,
         "name": "ストンジャ",
         "rarity": 7,
-        "short_desc": "敵全体に土属性ダメージ+威力をアップ",
+        "short_desc": "敵全体に土属性ダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "20350": {
@@ -3313,7 +3358,7 @@
         "elements": [
             "dark"
         ],
-        "full_desc": "敵1体に即死の効果を与え、HPを吸収する。",
+        "full_desc": "敵1体に確率で即死の効果を与え、HPを吸収する。",
         "guide_id": 147,
         "icon_id": 700000038,
         "id": 20480,
@@ -3321,7 +3366,7 @@
         "mp_cost": 30,
         "name": "デス",
         "rarity": 7,
-        "short_desc": "敵1体に即死の効果+HPを吸収",
+        "short_desc": "敵1体に確率で即死+HPを吸収",
         "skill_category": "offensive"
     },
     "20490": {
@@ -3405,7 +3450,7 @@
         "elements": [
             "dark"
         ],
-        "full_desc": "敵1体を睡眠状態にする。",
+        "full_desc": "敵1体を確率で睡眠状態にする。",
         "guide_id": 200,
         "icon_id": 700000009,
         "id": 30010,
@@ -3413,7 +3458,7 @@
         "mp_cost": 3,
         "name": "スリプル",
         "rarity": 1,
-        "short_desc": "敵1体に睡眠の効果",
+        "short_desc": "敵1体に確率で睡眠",
         "skill_category": "stat buff"
     },
     "30020": {
@@ -3455,7 +3500,7 @@
         "elements": [
             "dark"
         ],
-        "full_desc": "敵1体を暗闇状態にする。",
+        "full_desc": "敵1体を確率で暗闇状態にする。",
         "guide_id": 201,
         "icon_id": 700000009,
         "id": 30020,
@@ -3463,7 +3508,7 @@
         "mp_cost": 3,
         "name": "ブライン",
         "rarity": 1,
-        "short_desc": "敵1体に暗闇の効果",
+        "short_desc": "敵1体に確率で暗闇",
         "skill_category": "stat buff"
     },
     "30030": {
@@ -3895,7 +3940,7 @@
             }
         ],
         "elements": [],
-        "full_desc": "敵1体を沈黙状態にする。",
+        "full_desc": "敵1体を確率で沈黙状態にする。",
         "guide_id": 210,
         "icon_id": 700000009,
         "id": 30100,
@@ -3903,7 +3948,7 @@
         "mp_cost": 5,
         "name": "サイレス",
         "rarity": 2,
-        "short_desc": "敵1体に沈黙の効果",
+        "short_desc": "敵1体に確率で沈黙",
         "skill_category": "stat buff"
     },
     "30110": {
@@ -4436,7 +4481,7 @@
         "elements": [
             "dark"
         ],
-        "full_desc": "敵1体の全属性耐性をダウンさせる。",
+        "full_desc": "敵1体の火氷雷水風土光闇属性耐性をダウンさせる。",
         "guide_id": 221,
         "icon_id": 700000039,
         "id": 30200,
@@ -4444,7 +4489,7 @@
         "mp_cost": 15,
         "name": "ウィーク",
         "rarity": 4,
-        "short_desc": "敵1体の全属性耐性をダウン",
+        "short_desc": "敵1体の火氷雷水風土光闇属性耐性をダウン",
         "skill_category": "stat buff"
     },
     "30210": {
@@ -5159,7 +5204,7 @@
         "mp_cost": 20,
         "name": "サンダガ",
         "rarity": 6,
-        "short_desc": "敵全体に雷属性ダメージ+威力をアップ",
+        "short_desc": "敵全体に雷属性ダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "70030": {
@@ -5889,7 +5934,7 @@
         "mp_cost": 20,
         "name": "エアロガ",
         "rarity": 6,
-        "short_desc": "敵全体に風属性ダメージ+威力をアップ",
+        "short_desc": "敵全体に風属性ダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "70190": {
@@ -5985,7 +6030,7 @@
         "mp_cost": 20,
         "name": "ウォタガ",
         "rarity": 6,
-        "short_desc": "敵全体に水属性ダメージ+威力をアップ",
+        "short_desc": "敵全体に水属性ダメージ+連続使用時威力をアップ",
         "skill_category": "offensive"
     },
     "70210": {
