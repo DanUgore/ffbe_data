@@ -718,6 +718,52 @@
             "magic": []
         }
     },
+    "301002300": {
+        "attack": {
+            "ailments": {},
+            "elements": [
+                "dark"
+            ]
+        },
+        "boosts": {
+            "atk": 72,
+            "def": 0,
+            "hp": 0,
+            "int": 48,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Dagger",
+        "full_desc": "その名にふさわしく非常に華やかで美しい短剣。元々の持ち主は、茨と毒ガスでできた体を持つ女性だったといわれている。柄から伸びたバラのつるが装備した者の腕に絡みつき、体の一部になったかのように振るうことができる。また、短剣自体が意思を持ち、持ち主と定めない者には容赦なく棘で傷つけるという。",
+        "grade": 7,
+        "guide_id": 618,
+        "id": 301002300,
+        "max_stack": 99,
+        "name": "ブレスオブローズ",
+        "price": {
+            "buy": 25000,
+            "sell": 2500
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "美しく華やかな短剣",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "216030",
+                    "name": "薔薇の祝福"
+                }
+            ],
+            "magic": []
+        }
+    },
     "302000100": {
         "attack": {
             "ailments": {},
@@ -1936,6 +1982,128 @@
             "magic": []
         }
     },
+    "302003800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 48,
+            "def": 0,
+            "hp": 0,
+            "int": 8,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Sword",
+        "full_desc": "異界イオスよりもたらされた、特殊な鉱石で作成された剣。異界イオスでは武器屋での購入が可能だが、ルーンという特別な術がかけられており、通常の剣よりも数段上の切れ味を誇るという。",
+        "grade": 4,
+        "guide_id": 640,
+        "id": 302003800,
+        "max_stack": 99,
+        "name": "ルーンセイバー",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "特殊な鉱石で作成された異界の剣",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "302003900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 62,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Sword",
+        "full_desc": "異界からもたらされた、古の覇王が使っていた剣。不老不死の夢を求めて、最後の瞬間まで国民たちの命をその剣で狩り続けた。異界には、この剣を手に家族を守った少女の逸話が残されているという。",
+        "grade": 6,
+        "guide_id": 675,
+        "id": 302003900,
+        "max_stack": 99,
+        "name": "古の覇王",
+        "price": {
+            "buy": 20000,
+            "sell": 2000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた覇王の剣",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202460",
+                    "name": "クリティカルアップ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "302004000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 80,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Sword",
+        "full_desc": "初心者用の片刃の剣。柄から切っ先へいくにしたがって幅広になる独特の刀身が特徴。決して強い武器ではないが、剣の腕が未熟な者でも使いこなせるよう工夫して作られている。その扱いやすさから駆け出しの冒険者はもちろん、すでに一人前となった戦士の間でも、予備の武器として身に着けられることが多い。",
+        "grade": 6,
+        "guide_id": 695,
+        "id": 302004000,
+        "max_stack": 99,
+        "name": "ファルシオン",
+        "price": {
+            "buy": 20000,
+            "sell": 2000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "初心者用の片刃の剣",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
     "303000100": {
         "attack": {
             "ailments": {},
@@ -2895,6 +3063,261 @@
             "magic": []
         }
     },
+    "303003200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 130,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "160",
+            "min": "100"
+        },
+        "equip_condition": false,
+        "equip_type": "Greatsword",
+        "full_desc": "無数の小刃が周囲を回転するように作られた宝剣。非戦闘時は停止しているが、手に装備した瞬間から駆動が始まり、感情の変化によってその速度が変化する。高速で駆動する刃物であるため、経験の少ない者や感情の浮き沈みの激しい者には扱いづらく、生粋のマシーナリーであっても自在に使いこなすためには長い修行が必要。",
+        "grade": 7,
+        "guide_id": 609,
+        "id": 303003200,
+        "max_stack": 99,
+        "name": "リボルブソー",
+        "price": {
+            "buy": 75000,
+            "sell": 7500
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "無数の小刃が周囲を回転する宝剣",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        },
+        "two_handed": true
+    },
+    "303003300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 105,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "160",
+            "min": "100"
+        },
+        "equip_condition": false,
+        "equip_type": "Greatsword",
+        "full_desc": "元々は戦闘に長けた仕立て屋が、モンスターの毛皮などを手に入れるために使用したという巨大なハサミ。服作りの際にも使われていたが、切れ味がよすぎるあまりに未熟な仕立て屋が怪我をする事故が後を絶たなかったので、現在はもう作られていない。一流の仕立て屋の中でもこのハサミを使いこなせるのはほんの一握りだという。",
+        "grade": 7,
+        "guide_id": 615,
+        "id": 303003300,
+        "max_stack": 99,
+        "name": "テイラーシザー",
+        "price": {
+            "buy": 75000,
+            "sell": 7500
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "切れ味抜群の巨大なハサミ",
+        "skills": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20280",
+                    "name": "デス"
+                }
+            ]
+        },
+        "two_handed": true
+    },
+    "303003400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 118,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Greatsword",
+        "full_desc": "異界イオスよりもたらされた武骨な大剣。特別な効果こそ備えていないものの、高い攻撃力アップに徹した構造になっている。異界イオスでは、巨大な鳥のくちばしを素材として作成できる、至高の武器のひとつであるという。",
+        "grade": 7,
+        "guide_id": 637,
+        "id": 303003400,
+        "max_stack": 99,
+        "name": "アイアンデューク",
+        "price": {
+            "buy": 75000,
+            "sell": 7500
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "巨鳥のくちばしから作られた異界の大剣",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "303003500": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 135,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Greatsword",
+        "full_desc": "異界ガイアからもたらされた騎士剣。細身の刀身を持つ美しい剣で、異界ガイアに存在するアレクサンドリア王国の女王に忠誠を誓う女将軍が愛用していたとされる。王都アレクサンドリアが未曽有の危機に見舞われた際も、その女将軍はこの剣を手に戦い抜いたという。",
+        "grade": 8,
+        "guide_id": 655,
+        "id": 303003500,
+        "max_stack": 99,
+        "name": "セイブザクイーン",
+        "price": {
+            "buy": 150000,
+            "sell": 15000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "fire": "30"
+            }
+        },
+        "short_desc": "異界の女将軍が振るった騎士剣",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "217120",
+                    "name": "異名・百人斬り"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "303003600": {
+        "attack": {
+            "ailments": {},
+            "elements": [
+                "light"
+            ]
+        },
+        "boosts": {
+            "atk": 130,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Greatsword",
+        "full_desc": "異界ガイアからもたらされた騎士剣。緑がかった刀身が特徴。異界ガイアでは最強の呼び声が高い騎士剣である一方で、入手が非常に困難なことでも有名だったという。",
+        "grade": 8,
+        "guide_id": 657,
+        "id": 303003600,
+        "max_stack": 99,
+        "name": "エクスカリバーⅡ",
+        "price": {
+            "buy": 150000,
+            "sell": 15000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "入手困難なことで知られる異界の騎士剣",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "303003700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 40,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Greatsword",
+        "full_desc": "異界からもたらされた、巨大な剣。刃は鈍く、その重量を以って敵を制す。どんなに洗浄をして研ぎ直しても、刀身に染み付いた血の匂いが消える事はない。",
+        "grade": 4,
+        "guide_id": 676,
+        "id": 303003700,
+        "max_stack": 99,
+        "name": "鉄塊",
+        "price": {
+            "buy": 4500,
+            "sell": 450
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた巨大な剣",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "208970",
+                    "name": "防御+15%"
+                }
+            ],
+            "magic": []
+        }
+    },
     "304000100": {
         "attack": {
             "ailments": {},
@@ -3414,6 +3837,133 @@
             "elements": {}
         },
         "short_desc": "炎の力を宿した名刀",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "304001800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 105,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Katana",
+        "full_desc": "異界からもたらされた、東洋の武士が使っていた黒い刀。飾り気のない黒色の刀裝は実戦向けの趣を放つ。この刀が存在していた異界では、自動歩兵人形で構成された“ヨルハ部隊”の一員が装備していたという。",
+        "grade": 7,
+        "guide_id": 681,
+        "id": 304001800,
+        "max_stack": 99,
+        "name": "黒の誓約",
+        "price": {
+            "buy": 70000,
+            "sell": 7000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の武士が使っていた黒い刀",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "218930",
+                    "name": "黒の誓約"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "304001900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 130,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Katana",
+        "full_desc": "異界からもたらされた、東洋の侍が使っていた白い刀。その純白は装飾用の刀装だが、刃は一流の鍛冶師による業物である。この刀が存在していた異界では、自動歩兵人形で構成された“ヨルハ部隊”の一員が装備していたという。",
+        "grade": 8,
+        "guide_id": 682,
+        "id": 304001900,
+        "max_stack": 99,
+        "name": "白の契約",
+        "price": {
+            "buy": 140000,
+            "sell": 14000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の侍が使っていた白い刀",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "304002000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 64,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Katana",
+        "full_desc": "白金で作られた太刀。白金は比重が大きいため、太刀の材料として用いた場合、斬撃の振りが遅くなってしまう。しかし、近年は鍛冶師たちの涙ぐましい努力によって軽量化に成功し、冒険者の間で広く使用されるようになった。使い手にもよるが、研ぎ澄まされた刃の鋭い一太刀は、岩さえ両断するという。",
+        "grade": 6,
+        "guide_id": 689,
+        "id": 304002000,
+        "max_stack": 99,
+        "name": "白金の太刀",
+        "price": {
+            "buy": 28000,
+            "sell": 2800
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "白金で作られた太刀",
         "skills": {
             "abilities": [],
             "magic": []
@@ -4595,6 +5145,45 @@
             "magic": []
         }
     },
+    "306001800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 55,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "120",
+            "min": "80"
+        },
+        "equip_condition": false,
+        "equip_type": "Hammer",
+        "full_desc": "プラチナで作られたハンマー。比重の重い金属であるプラチナと、その重さを打撃力に変えるハンマーは相性が良く、プラチナハンマーは昔から研究されていた。扱いが難しく実用化には至っていなかったが、近年の製法技術向上によってついに製造が可能に。値段にさえ目をつぶれば、その重量と破壊力が心強いと評判の武器である。",
+        "grade": 5,
+        "guide_id": 626,
+        "id": 306001800,
+        "max_stack": 99,
+        "name": "プラチナハンマー",
+        "price": {
+            "buy": 17000,
+            "sell": 1700
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "プラチナで作られたハンマー",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
     "307000200": {
         "attack": {
             "ailments": {},
@@ -4966,6 +5555,129 @@
                     "name": "HP+10%"
                 }
             ],
+            "magic": []
+        }
+    },
+    "307001700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 115,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "160",
+            "min": "100"
+        },
+        "equip_condition": false,
+        "equip_type": "Mace",
+        "full_desc": "遥か異界よりもたらされた武器。バットと呼ばれる棒状の遊具に、無数の釘を打ち込んだ恐ろしい装備品である。異界においては、“古代種”と呼ばれる人々の神殿に祀られていた。",
+        "grade": 6,
+        "guide_id": 605,
+        "id": 307001700,
+        "max_stack": 99,
+        "name": "釘バット",
+        "price": {
+            "buy": 18000,
+            "sell": 1800
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界よりもたらされた謎の武器",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        },
+        "two_handed": true
+    },
+    "307001800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 110,
+            "def": 0,
+            "hp": 0,
+            "int": 98,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Mace",
+        "full_desc": "輝ける十二武具のひとつ。その打撃は神の一撃と呼ばれ、ひとたび振るえば巨大な岩さえ跡形もなく粉砕するという。神々が扱うに相応しい強力な武器として有名だが、実物の所在を知る者はおらず、伝説の中でのみの存在と言われ続けていた。“悲哀と狂乱の機械兵器・エルナト”にその力を認められた者のみが手にすることを許される。",
+        "grade": 8,
+        "guide_id": 698,
+        "id": 307001800,
+        "max_stack": 99,
+        "name": "メイスオブゼウス",
+        "price": {
+            "buy": 90000,
+            "sell": 9000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "偉大な神の名を冠したメイス",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "219900",
+                    "name": "アルテマブロウ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "307001900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 55,
+            "def": 0,
+            "hp": 0,
+            "int": 49,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Mace",
+        "full_desc": "輝ける十二武具のひとつ、神の名を冠したメイスのレプリカ。メイスオブゼウスによく似た模造品であるため、性能は本物に劣るが、十二武具のひとつを入手した気分を味わえる。",
+        "grade": 6,
+        "guide_id": 699,
+        "id": 307001900,
+        "max_stack": 99,
+        "name": "メイスオブゼウス・レプリカ",
+        "price": {
+            "buy": 18000,
+            "sell": 1800
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "神の名を冠したメイスのレプリカ",
+        "skills": {
+            "abilities": [],
             "magic": []
         }
     },
@@ -5645,8 +6357,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "160",
+            "min": "100"
         },
         "equip_condition": false,
         "equip_type": "Lance",
@@ -5894,6 +6606,179 @@
                 {
                     "id": "212760",
                     "name": "剛力"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "308002800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 62,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Lance",
+        "full_desc": "プラチナで作られた槍。穂先にプラチナが使用されており、光が射すと白銀に輝く。比重の関係で穂先があまりに重く、重心が前に傾いていたのは昔の話。現在は職人たちの涙ぐましい努力によって軽量化に成功し、鉄製のランスより使いやすいという者まで出るほど。しかし、当然ながら値段が張るため普及には至っていない。",
+        "grade": 5,
+        "guide_id": 627,
+        "id": 308002800,
+        "max_stack": 99,
+        "name": "プラチナランス",
+        "price": {
+            "buy": 16000,
+            "sell": 1600
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "プラチナで作られた槍",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "308002900": {
+        "attack": {
+            "ailments": {},
+            "elements": [
+                "ice"
+            ]
+        },
+        "boosts": {
+            "atk": 120,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Lance",
+        "full_desc": "竜の里の「竜封じ」と呼ばれる竜騎士が持つ槍。穂先は硬い竜の鱗を易々と貫くほどに鍛え上げられている。何を突いても決して折れることはないが、槍自体が持ち手を選び、相応しくない者が持つと一瞬で手指を氷漬けにするという。かつて「竜封じ」だった少年竜騎士が槍と共に竜の封印へ向かったまま戻らず、行方知れずになっていた。",
+        "grade": 7,
+        "guide_id": 645,
+        "id": 308002900,
+        "max_stack": 99,
+        "name": "凍槍ノーザンライツ",
+        "price": {
+            "buy": 80000,
+            "sell": 8000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "竜の里の「竜封じ」が持つ伝説の槍",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100710",
+                    "name": "オートプロテス"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "308003000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 52,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Lance",
+        "full_desc": "竜騎士デュークのかつての愛槍。竜の里に住む竜騎士は、悪しき竜を封じるために日夜研鑽を続けている。硬い竜の鱗を貫くためには、竜騎士の力だけでなく、その槍もまた強くなければならない。デュークが一族を代表する竜騎士となった時に、新たな槍へと持ち替えたためこの槍は一線を退いたが、その性能はいまだ衰えていない。",
+        "grade": 5,
+        "guide_id": 647,
+        "id": 308003000,
+        "max_stack": 99,
+        "name": "竜角の槍",
+        "price": {
+            "buy": 16000,
+            "sell": 1600
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "竜騎士デュークのかつての愛槍",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202510",
+                    "name": "オートブレイブ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "308003100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 55,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Lance",
+        "full_desc": "異界からもたらされた、覇王と老竜の盟約の槍。異界には、種族の違いを超えて友となった覇王と老竜の逸話が残されているという。",
+        "grade": 5,
+        "guide_id": 677,
+        "id": 308003100,
+        "max_stack": 99,
+        "name": "草原の竜騎槍",
+        "price": {
+            "buy": 16000,
+            "sell": 1600
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の覇王と老竜の盟約の槍",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "218920",
+                    "name": "草原の竜騎槍"
                 }
             ],
             "magic": []
@@ -6233,6 +7118,181 @@
                     "name": "MP+20%"
                 }
             ],
+            "magic": []
+        }
+    },
+    "309001700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 52,
+            "def": 28,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "100",
+            "min": "100"
+        },
+        "equip_condition": false,
+        "equip_type": "Knuckle",
+        "full_desc": "拳に装着して使う金属製の格闘武器。敵を殴打する際に、アームが伸縮することで拳に込めた力を増幅してくれるという。これはその昔、殺戮マシンとして広く恐れられた魔導アーマーと同じ素材で作られたもので、その機体のアーム部分をイメージしたデザインになっている。戦闘に特化しているので、普段から装着するには向かない。",
+        "grade": 5,
+        "guide_id": 619,
+        "id": 309001700,
+        "max_stack": 99,
+        "name": "ブロッケンアーム",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "魔導アーマーのアームを模した格闘武器",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "309001800": {
+        "attack": {
+            "ailments": {},
+            "elements": [
+                "water"
+            ]
+        },
+        "boosts": {
+            "atk": 82,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "100",
+            "min": "100"
+        },
+        "equip_condition": false,
+        "equip_type": "Knuckle",
+        "full_desc": "ドラゴンは、その力と知識から崇拝の対象になるが、同時に牙や眼、ツノや心臓などありとあらゆる部位が希少な素材として追い求められる存在でもある。このドラゴンクローも、実際の爪を利用して作られているが、激しいドラゴンとの死闘の中で爪を完全な形のまま残すことは難しく、非常に手に入れづらい武器となっている。",
+        "grade": 5,
+        "guide_id": 634,
+        "id": 309001800,
+        "max_stack": 99,
+        "name": "ドラゴンクロー",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "ドラゴンの爪を加工した武器",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "309001900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 88,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "100",
+            "min": "100"
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                214000404
+            ],
+            "series required": 214000404
+        },
+        "equip_type": "Knuckle",
+        "full_desc": "異界“エオルゼア”からもたらされた格闘士と呼ばれる人々が扱う呼武器。力を入れやすいように加工されたグリップと、殴打の際に攻撃箇所を抉りつける3つの鉄棘が特徴。高い耐久性と扱いやすさを追求して作られた装備品で“暁の血盟”に所属する女性格闘士も愛用している。",
+        "grade": 5,
+        "guide_id": 650,
+        "id": 309001900,
+        "max_stack": 99,
+        "name": "ガッツナックル",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた格闘武器",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "name": "HP+10%"
+                },
+                {
+                    "id": "100040",
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "309002000": {
+        "attack": {
+            "ailments": {
+                "confuse": "20"
+            },
+            "elements": []
+        },
+        "boosts": {
+            "atk": 60,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "100",
+            "min": "100"
+        },
+        "equip_condition": false,
+        "equip_type": "Knuckle",
+        "full_desc": "異界に存在する“ヨルハ部隊”の旧式モデル。炸薬で杭を打ち出す機構を持つ。仕組みが単純な分、信頼性は高い。異界には、この武器で復讐を目論んだ男の逸話が残されているという。",
+        "grade": 5,
+        "guide_id": 678,
+        "id": 309002000,
+        "max_stack": 99,
+        "name": "三式拳鍔",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界に存在する戦闘部隊の旧式モデル",
+        "skills": {
+            "abilities": [],
             "magic": []
         }
     },
@@ -7286,6 +8346,195 @@
             "magic": []
         }
     },
+    "310002700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 92,
+            "def": 0,
+            "hp": 0,
+            "int": 120,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Rod",
+        "full_desc": "“邪悪なる栄光”という不吉な名を持つロッド。形状は骸骨を模した装飾が施されている剣だが、魔力を増幅させる特殊な力を有しており、古くからロッドとして扱われてきた。出所不明の武器で、禍々しい赤き月と共にたびたび歴史の表舞台に現れては凶事を為し、再び行方知れずになるという。",
+        "grade": 8,
+        "guide_id": 625,
+        "id": 310002700,
+        "max_stack": 99,
+        "name": "グローリーオブイヴィル",
+        "price": {
+            "buy": 70000,
+            "sell": 7000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "凶事を為すというロッド",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "310002800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 11,
+            "def": 0,
+            "hp": 0,
+            "int": 88,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                214000504
+            ],
+            "series required": 214000504
+        },
+        "equip_type": "Rod",
+        "full_desc": "異界“エオルゼア”からもたらされた呪術士と呼ばれる人々が扱う呪具のひとつ。エオルゼア救済を掲げる組織“暁の血盟”の一員であるララフェル族の男性呪術士の家系に受け継がれてきた家宝で、杖頭に輝く宝珠からその名をつけられた。魔法の結節点として優秀な能力を秘めている。",
+        "grade": 5,
+        "guide_id": 653,
+        "id": 310002800,
+        "max_stack": 99,
+        "name": "ゴールデンアイ",
+        "price": {
+            "buy": 7000,
+            "sell": 700
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた呪具",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "name": "HP+10%"
+                },
+                {
+                    "id": "100040",
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "310002900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 5,
+            "def": 0,
+            "hp": 0,
+            "int": 80,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Rod",
+        "full_desc": "異界“スピラ”よりもたらされたぬいぐるみ。不思議なことに、ロッドとしての装備が可能。異界スピラでは装備者の用途に応じて武器に改造を施すのが主流。一部の黒魔道士は魔力を高める媒体として、ぬいぐるみを選んでいたようだ。モーグリの他にも、サボテンダーなどを模した武器が存在したという。",
+        "grade": 6,
+        "guide_id": 684,
+        "id": 310002900,
+        "max_stack": 99,
+        "name": "バリアブル・モグ",
+        "price": {
+            "buy": 14000,
+            "sell": 1400
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "モーグリを模して作られた異界の武器",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "name": "MP+10%"
+                },
+                {
+                    "id": "100160",
+                    "name": "精神+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "310003000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 21,
+            "def": 0,
+            "hp": 0,
+            "int": 120,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Rod",
+        "full_desc": "異界“スピラ”よりもたらされたぬいぐるみ。不思議なことに、ロッドとしての装備が可能。異界スピラには特殊な強化によって恐るべき力を発揮する七つの武器が存在しており、ナイト・オブ・タマネギはそのひとつであるという。強大な魔物“シン”を倒すため、召喚士と共に旅をしたガードの女性がこの武器を装備していたようだ。",
+        "grade": 8,
+        "guide_id": 694,
+        "id": 310003000,
+        "max_stack": 99,
+        "name": "ナイト・オブ・タマネギ",
+        "price": {
+            "buy": 70000,
+            "sell": 7000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "たまねぎ剣士を模して作られた異界の武器",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "217620",
+                    "name": "オートフェイス"
+                },
+                {
+                    "id": "100050",
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
     "311000200": {
         "attack": {
             "ailments": {},
@@ -7977,6 +9226,330 @@
             "magic": []
         }
     },
+    "311002400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 18,
+            "def": 0,
+            "hp": 0,
+            "int": 36,
+            "mnd": 36,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "不思議な加護を得たステッキ傘。一般に流通しているステッキ傘はパフォーマンスに使うもので戦闘では役に立たない。しかしこのステッキ傘は持ち主である少女が親友のモーグリからもらったもので特別な力が込められており、戦闘においても非常に有用な武器となる。また、少女が簡単に扱えるよう驚くほど軽い作りになっているという。",
+        "grade": 7,
+        "guide_id": 617,
+        "id": 311002400,
+        "max_stack": 99,
+        "name": "クラウンステッキ",
+        "price": {
+            "buy": 40000,
+            "sell": 4000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "モーグリの加護を受けたステッキ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "311002500": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 2,
+            "def": 12,
+            "hp": 0,
+            "int": 0,
+            "mnd": 48,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "青い宝石がついた美しい杖で、天使の加護があると信じられている。来歴については諸説あるが、古い書物によれば、この宝石は天使が流した涙が結晶化したものだという言い伝えがあるようだ。心の清らかな者がこの杖を使うと宝石はいっそうまばゆく光り輝くが、悪しき者が使うとどんどん光を失っていくともいわれている。",
+        "grade": 6,
+        "guide_id": 620,
+        "id": 311002500,
+        "max_stack": 99,
+        "name": "エンジェルワンド",
+        "price": {
+            "buy": 16000,
+            "sell": 1600
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "天使の加護があるという杖",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "216040",
+                    "name": "光属性耐性+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "311002600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 28,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 28,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "異界ガイアからもたらされた戦闘用のラケット。白魔道士の装備としてはロッドや杖が広く知られているが、異界ガイアではラケットや笛を装備して戦う者もいたという。このラケットは打撃武器ではなく、風を起こすことで攻撃する遠距離武器のようだ。",
+        "grade": 3,
+        "guide_id": 660,
+        "id": 311002600,
+        "max_stack": 99,
+        "name": "エアラケット",
+        "price": {
+            "buy": 800,
+            "sell": 80
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた戦闘用ラケット",
+        "skills": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10050",
+                    "name": "ポイゾナ"
+                }
+            ]
+        }
+    },
+    "311002700": {
+        "attack": {
+            "ailments": {},
+            "elements": [
+                "light"
+            ]
+        },
+        "boosts": {
+            "atk": 16,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 120,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "輝ける十二武具のひとつ。槍のようにも見える独特のデザインが特徴。白魔道士たちの間では、今も伝説として語り継がれている逸品。不浄を祓う聖なる杖とも呼ばれ、光の心を持つ者か、そのビジョンにしか扱えない。“憎しみを秘めし気高き軍師・シェラタン”にその力を認められた者のみが手にすることを許される。",
+        "grade": 8,
+        "guide_id": 670,
+        "id": 311002700,
+        "max_stack": 99,
+        "name": "ホーリーワンド",
+        "price": {
+            "buy": 80000,
+            "sell": 8000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "不浄を祓う聖なる杖",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "213980",
+                    "name": "W白魔法"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "10210",
+                    "name": "ホーリー"
+                }
+            ]
+        }
+    },
+    "311002800": {
+        "attack": {
+            "ailments": {},
+            "elements": [
+                "light"
+            ]
+        },
+        "boosts": {
+            "atk": 8,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 60,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "輝ける十二武具のひとつ、聖なる杖のレプリカ。槍のようにも見える独特のデザインが特徴。ホーリーワンドによく似た模造品であるため、性能は本物に劣るが、十二武具のひとつを入手した気分を味わえる。",
+        "grade": 6,
+        "guide_id": 671,
+        "id": 311002800,
+        "max_stack": 99,
+        "name": "ホーリーワンド・レプリカ",
+        "price": {
+            "buy": 16000,
+            "sell": 1600
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "聖なる杖のレプリカ",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "311002900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 8,
+            "def": 0,
+            "hp": 0,
+            "int": 68,
+            "mnd": 68,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "異界“スピラ”よりもたらされた杖。異界スピラでは、装備者が用途に応じて武器や防具に改造を施すのが主流であるため、形は似ていても異なる性能を持った装備が多数存在しているという。この杖は強大な魔物“シン”を倒すために旅をしていた召喚士が愛用していたものと、形がよく似ているようだ。",
+        "grade": 7,
+        "guide_id": 688,
+        "id": 311002900,
+        "max_stack": 99,
+        "name": "アークアルカナ",
+        "price": {
+            "buy": 40000,
+            "sell": 4000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた杖",
+        "skills": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20200",
+                    "name": "ファイガ"
+                },
+                {
+                    "id": "20210",
+                    "name": "ブリザガ"
+                },
+                {
+                    "id": "20220",
+                    "name": "サンダガ"
+                },
+                {
+                    "id": "20230",
+                    "name": "ウォタガ"
+                }
+            ]
+        }
+    },
+    "311003000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 19,
+            "def": 0,
+            "hp": 0,
+            "int": 68,
+            "mnd": 116,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "異界“スピラ”よりもたらされた杖。異界スピラには特殊な強化によって恐るべき力を発揮する七つの武器が存在しており、ニルヴァーナはそのひとつであるという。強大な魔物“シン”を倒すために旅をしていた召喚士が、この杖を装備していたようだ。",
+        "grade": 8,
+        "guide_id": 693,
+        "id": 311003000,
+        "max_stack": 99,
+        "name": "ニルヴァーナ",
+        "price": {
+            "buy": 80000,
+            "sell": 8000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の召喚士が所持していた杖",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100750",
+                    "name": "オートリミット"
+                }
+            ],
+            "magic": []
+        }
+    },
     "312000100": {
         "attack": {
             "ailments": {},
@@ -7991,8 +9564,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8036,8 +9609,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8081,8 +9654,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8126,8 +9699,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8171,8 +9744,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8218,8 +9791,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8271,8 +9844,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8316,8 +9889,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8361,8 +9934,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8406,8 +9979,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8451,8 +10024,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8500,8 +10073,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8542,8 +10115,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "115",
-            "min": "85"
+            "max": "175",
+            "min": "125"
         },
         "equip_condition": false,
         "equip_type": "Bow",
@@ -8564,6 +10137,55 @@
         "short_desc": "ジンオウガ不死種の素材から作られた弓",
         "skills": {
             "abilities": [],
+            "magic": []
+        },
+        "two_handed": true
+    },
+    "312001800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 72,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "175",
+            "min": "125"
+        },
+        "equip_condition": false,
+        "equip_type": "Bow",
+        "full_desc": "月の女神の名を冠した弓。セレーネは美しい月の女神であると同時に、繁殖を司る生命の女神でもある。彼女が放つ矢は柔らかな月光を纏い、不浄なる者たちを浄化する力を持っていたという。この弓が月の女神の用いていたものと同じなのかは定かではないが、アンデッドに対する力は間違いなく本物である。",
+        "grade": 6,
+        "guide_id": 690,
+        "id": 312001800,
+        "max_stack": 99,
+        "name": "セレーネボウ",
+        "price": {
+            "buy": 26000,
+            "sell": 2600
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "月の女神の名を冠した弓",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "200310",
+                    "name": "みだれうち"
+                },
+                {
+                    "id": "101060",
+                    "name": "アンデッドキラー"
+                }
+            ],
             "magic": []
         },
         "two_handed": true
@@ -8621,8 +10243,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "105",
-            "min": "95"
+            "max": "165",
+            "min": "135"
         },
         "equip_condition": false,
         "equip_type": "Gun",
@@ -8778,8 +10400,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "105",
-            "min": "95"
+            "max": "165",
+            "min": "135"
         },
         "equip_condition": false,
         "equip_type": "Gun",
@@ -9027,8 +10649,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "105",
-            "min": "95"
+            "max": "170",
+            "min": "130"
         },
         "equip_condition": false,
         "equip_type": "Gun",
@@ -9106,8 +10728,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "105",
-            "min": "95"
+            "max": "165",
+            "min": "135"
         },
         "equip_condition": false,
         "equip_type": "Gun",
@@ -9244,6 +10866,45 @@
             "elements": {}
         },
         "short_desc": "異界イオスからもたらされた突撃銃",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "313002900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 68,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Gun",
+        "full_desc": "プラチナで作られたマスケット銃。異界の遺物を研究する機関が、発見した銃を分析し、プラチナを用いた頑丈な銃として新たに作り出した。非常に強力な銃だが、弾丸を前から込める前装式となっているため、遺物の銃と比べて装填が難しく、銃使いになりたての初心者は取り扱いに注意が必要。",
+        "grade": 5,
+        "guide_id": 664,
+        "id": 313002900,
+        "max_stack": 99,
+        "name": "プラチナマスケット",
+        "price": {
+            "buy": 12000,
+            "sell": 1200
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "プラチナで作られたマスケット銃",
         "skills": {
             "abilities": [],
             "magic": []
@@ -9538,6 +11199,89 @@
                 {
                     "id": "101080",
                     "name": "ビーストキラー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "314001100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 70,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Whip",
+        "full_desc": "プラチナで作られたムチ。かつて、金属のムチを振るうには、その重さに負けぬ腕力が必要だった。しかし、武器職人たちの不断の努力により、プラチナウィップは軽量化に成功。柄から先端に至る重量バランスが絶妙に計算され、軽くなったことによる威力の低下は一切見られない。形状も洗練され、工芸品として収集する人々もいるほど。",
+        "grade": 5,
+        "guide_id": 663,
+        "id": 314001100,
+        "max_stack": 99,
+        "name": "プラチナウィップ",
+        "price": {
+            "buy": 9000,
+            "sell": 900
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "プラチナで作られたムチ",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "314001200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 78,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Whip",
+        "full_desc": "鎌に鎖と分銅をつけた特殊な武器。鎖を旋回させる手指の動きで、投げる鎌や分銅の軌道を変えられる。距離を測りかねている敵に接近し、油断した一瞬を見極めて鋭い攻撃を見舞うのが主な使用法。ただし、その扱いには長い努力と恵まれた才能が必要不可欠であるため、忍者の中でも鎖鎌を武器に選ぶ者は一握りである。",
+        "grade": 6,
+        "guide_id": 668,
+        "id": 314001200,
+        "max_stack": 99,
+        "name": "隠伏の鎖鎌",
+        "price": {
+            "buy": 18000,
+            "sell": 1800
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "鎌・鎖・分銅からなる特殊な武器",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101000",
+                    "name": "プラントキラー"
                 }
             ],
             "magic": []
@@ -10037,6 +11781,50 @@
             "magic": []
         }
     },
+    "315021700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 36,
+            "def": 0,
+            "hp": 0,
+            "int": 42,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Projectile",
+        "full_desc": "独特の形状をした投擲武器。投げる武器は当たるようになるまで相当の修練が必要であり、独特の形状を持つこの武器は特に扱いが難しい。しかし熟達すれば空を飛ぶ鳥にも命中させられるようになるという。自由自在に軌道を変えて飛ぶその姿は、まるで自ら獲物を求めて襲いかかっていくように見えるため、「鷹の目」と名付けられた。",
+        "grade": 5,
+        "guide_id": 628,
+        "id": 315021700,
+        "max_stack": 99,
+        "name": "ホークアイ",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "独特の形状をした投擲武器",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101090",
+                    "name": "バードキラー"
+                }
+            ],
+            "magic": []
+        }
+    },
     "316000100": {
         "attack": {
             "ailments": {},
@@ -10051,8 +11839,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "110",
-            "min": "90"
+            "max": "170",
+            "min": "130"
         },
         "equip_condition": false,
         "equip_type": "Harp",
@@ -10091,8 +11879,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "110",
-            "min": "90"
+            "max": "170",
+            "min": "130"
         },
         "equip_condition": false,
         "equip_type": "Harp",
@@ -10133,8 +11921,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "110",
-            "min": "90"
+            "max": "170",
+            "min": "130"
         },
         "equip_condition": false,
         "equip_type": "Harp",
@@ -10175,8 +11963,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "110",
-            "min": "90"
+            "max": "170",
+            "min": "130"
         },
         "equip_condition": false,
         "equip_type": "Harp",
@@ -10215,8 +12003,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "110",
-            "min": "90"
+            "max": "170",
+            "min": "130"
         },
         "equip_condition": false,
         "equip_type": "Harp",
@@ -10255,8 +12043,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "110",
-            "min": "90"
+            "max": "170",
+            "min": "130"
         },
         "equip_condition": false,
         "equip_type": "Harp",
@@ -10281,6 +12069,142 @@
         },
         "two_handed": true
     },
+    "316000900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 14,
+            "def": 0,
+            "hp": 0,
+            "int": 58,
+            "mnd": 15,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                401000104
+            ],
+            "series required": 401000104
+        },
+        "equip_type": "Harp",
+        "full_desc": "クリスタルでできた煌めくマイク。遥か遠い国の有名な歌手のために特別に作られたものだと言う。このマイクをひとたび持てば、歌う自信があふれてくる。",
+        "grade": 5,
+        "guide_id": 604,
+        "id": 316000900,
+        "max_stack": 99,
+        "name": "マイク",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "resists": {
+            "ailments": {
+                "silence": "100"
+            },
+            "elements": {}
+        },
+        "short_desc": "クリスタルでできた煌めくマイク",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "316001000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 10,
+            "def": 0,
+            "hp": 0,
+            "int": 38,
+            "mnd": 52,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "170",
+            "min": "130"
+        },
+        "equip_condition": false,
+        "equip_type": "Harp",
+        "full_desc": "吟遊詩人の間では知る者ぞ知る、ドラゴンの姿をかたどった竪琴。楽に持ち運びできるよう、見た目よりも軽い作りになっている。この竪琴を作った一流職人は、かつて美しい声で鳴くドラゴンに遭遇して感銘を受けたと述べているが、専門家によれば該当するようなドラゴンの存在は確認されていないという。",
+        "grade": 6,
+        "guide_id": 612,
+        "id": 316001000,
+        "max_stack": 99,
+        "name": "竜鳴の竪琴",
+        "price": {
+            "buy": 16000,
+            "sell": 1600
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "ドラゴンの姿をかたどった竪琴",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "203240",
+                    "name": "MP+15%"
+                }
+            ],
+            "magic": []
+        },
+        "two_handed": true
+    },
+    "316001100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 10,
+            "def": 0,
+            "hp": 0,
+            "int": 48,
+            "mnd": 98,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Harp",
+        "full_desc": "異界ガイアからもたらされた美しい音色を奏でる笛。強力な魔法の力が込められており、一度吹けば「聞く者すべてを魅了する」といわれている。文献によれば、幼くして天涯孤独の身になりながら明るさを失わなかった召喚士の少女が、この笛を吹きながら仲間たちの傷を癒していたという記録が残っている。",
+        "grade": 8,
+        "guide_id": 656,
+        "id": 316001100,
+        "max_stack": 99,
+        "name": "天使のふえ",
+        "price": {
+            "buy": 80000,
+            "sell": 8000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界ガイアからもたらされた美しい音色の笛",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
     "316040300": {
         "attack": {
             "ailments": {},
@@ -10295,8 +12219,8 @@
             "mp": 0
         },
         "damage_range": {
-            "max": "110",
-            "min": "90"
+            "max": "170",
+            "min": "130"
         },
         "equip_condition": false,
         "equip_type": "Harp",
@@ -10779,6 +12703,134 @@
         "short_desc": "プラチナで作られた盾",
         "skills": {
             "abilities": [],
+            "magic": []
+        }
+    },
+    "401001800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 25,
+            "hp": 0,
+            "int": 0,
+            "mnd": 25,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Light Shield",
+        "full_desc": "一時的に敵の注意をひきつける軽盾。危険な旅を続けるルシス王国の王子を案じ、心優しい少女が作った手製のお守りで、本来は敵を密集させたい場所へ投げて使うようだ。",
+        "grade": 6,
+        "guide_id": 642,
+        "id": 401001800,
+        "max_stack": 99,
+        "name": "モーグリぬいぐるみ",
+        "price": {
+            "buy": 24000,
+            "sell": 2400
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "敵の注意をひきつける軽盾",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "216410",
+                    "name": "モーグリぬいぐるみ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "401001900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 45,
+            "hp": 0,
+            "int": 0,
+            "mnd": 45,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Light Shield",
+        "full_desc": "枝分かれした巨大な角を持つ魔物が描かれた軽盾。頑丈で破損しにくい上に、軽くて扱いやすい。とある村に伝わる独自の技術を用い、表面に描かれた魔物の素材を加工して作られたものだが、詳しい製法は謎に包まれている。素材・製法共に価値が高いため、デザインを似せた粗悪品が出回っているという噂もあるようだ。",
+        "grade": 8,
+        "guide_id": 692,
+        "id": 401001900,
+        "max_stack": 99,
+        "name": "アスファレス",
+        "price": {
+            "buy": 120000,
+            "sell": 12000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "earth": "30",
+                "water": "30",
+                "wind": "30"
+            }
+        },
+        "short_desc": "巨大な角を持つ魔物が描かれた軽盾",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "401002000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 25,
+            "hp": 0,
+            "int": 0,
+            "mnd": 18,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Light Shield",
+        "full_desc": "剣闘士の使う頑丈な盾。集団戦闘が行われることもある闘技場では、周囲に複数の敵がいると攻撃の隙を狙われる場合も多い。そんな状況下では、むしろ剣よりも強靭な盾の存在が重要。この戦盾はとにかく壊れない頑丈さがウリであり、逃げるという概念のない剣闘士にとっては頼もしい味方となる。",
+        "grade": 6,
+        "guide_id": 697,
+        "id": 401002000,
+        "max_stack": 99,
+        "name": "剣闘士の戦盾",
+        "price": {
+            "buy": 24000,
+            "sell": 2400
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "剣闘士の使う頑丈な盾",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "206170",
+                    "name": "危険回避"
+                },
+                {
+                    "id": "101200",
+                    "name": "カウンター"
+                }
+            ],
             "magic": []
         }
     },
@@ -11386,6 +13438,120 @@
                     "name": "危険回避"
                 }
             ],
+            "magic": []
+        }
+    },
+    "402002000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 20,
+            "def": 32,
+            "hp": 0,
+            "int": 0,
+            "mnd": 6,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Heavy Shield",
+        "full_desc": "異界イオスよりもたらされた重盾。攻守を兼ね備えるよう配合されたエレメントを含んでいる。盾といえば防具のイメージしかないが、異界イオスのルシス王国の王子は盾を武器として扱い、正面に構えて敵に突進したり、振り下ろすといった戦い方をすることもあったようだ。",
+        "grade": 6,
+        "guide_id": 636,
+        "id": 402002000,
+        "max_stack": 99,
+        "name": "パワーシールド",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "攻撃を高めてくれる異界の重盾",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "402002100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 70,
+            "hp": 0,
+            "int": 0,
+            "mnd": 35,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Heavy Shield",
+        "full_desc": "異界イオスよりもたらされた、何枚もの装甲を重ね合わせて作られた重盾。装備することで非常に堅固な守りを手にできるが、盾を扱う技能に長けた者でなければ、構えることさえかなわないという。異界イオスにおいて、至高の武器のひとつとして数えられるほど稀少な装備品。",
+        "grade": 8,
+        "guide_id": 641,
+        "id": 402002100,
+        "max_stack": 99,
+        "name": "ザイドリッツ",
+        "price": {
+            "buy": 150000,
+            "sell": 15000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "何枚もの装甲を重ね合わせて作られた重盾",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "216170",
+                    "name": "ザイドリッツ"
+                },
+                {
+                    "id": "101500",
+                    "name": "HP+15%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "402002200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 42,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Heavy Shield",
+        "full_desc": "天使の翼があしらわれた重盾。信心深い騎士が、神の加護を示すために作らせたもの。この盾を装備した騎士は、乱戦に巻き込まれても、かすり傷ひとつ負わなかったとされる。いつしか盾そのものが信仰の対象となり、大金をはたいて手に入れようとする輩も現れたが、そうした者に限って戦場では手傷を負ったという。",
+        "grade": 5,
+        "guide_id": 665,
+        "id": 402002200,
+        "max_stack": 99,
+        "name": "セラフィムシールド",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "天使の翼があしらわれた重盾",
+        "skills": {
+            "abilities": [],
             "magic": []
         }
     },
@@ -12684,6 +14850,218 @@
             "magic": []
         }
     },
+    "403043200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 12,
+            "hp": 0,
+            "int": 25,
+            "mnd": 0,
+            "mp": 20
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                401000104
+            ],
+            "series required": 401000104
+        },
+        "equip_type": "Hat",
+        "full_desc": "ミステリアスなウサ耳のマスク。異世界から来たビジランティが正体を隠すために使用したもの。この不思議なマスクは着用者の恐怖心を消し去り、自信で満たす効果がある。",
+        "grade": 6,
+        "guide_id": 602,
+        "id": 403043200,
+        "max_stack": 99,
+        "name": "バニーマスク",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "ミステリアスなウサ耳のマスク",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "403043300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 8,
+            "hp": 0,
+            "int": 42,
+            "mnd": 46,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Hat",
+        "full_desc": "古代の有名な吟遊詩人が身につけていたといわれる髪飾り。どこまでも歌声が届くようにという祈りが込められている。この髪飾りに使用されている黒い羽を持つ鳥はすでに絶滅しており、現在手に入れることはほぼ不可能。貴重な品のため手に入れたいと願う好事家は多いが、これは吟遊詩人が持ってこそ真価を発揮するものだろう。",
+        "grade": 8,
+        "guide_id": 610,
+        "id": 403043300,
+        "max_stack": 99,
+        "name": "ミンストレルプレア",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "吟遊詩人の祈りが込められた髪飾り",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "403043400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 12,
+            "def": 25,
+            "hp": 0,
+            "int": 0,
+            "mnd": 12,
+            "mp": 0
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                214000404
+            ],
+            "series required": 214000404
+        },
+        "equip_type": "Hat",
+        "full_desc": "異界“エオルゼア”からもたらされたバイザー付きの帽子。エオルゼア救済を掲げる組織“暁の血盟”の一員であるヒューラン族の女性格闘士が愛用していることで知られており、視界を阻害することなく、しっかりとガードすることから格闘士に人気が高い。",
+        "grade": 4,
+        "guide_id": 648,
+        "id": 403043400,
+        "max_stack": 99,
+        "name": "サイオンズストライカー・バイザー",
+        "price": {
+            "buy": 1500,
+            "sell": 150
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされたバイザー付きの帽子",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "203250",
+                    "name": "HP+5%"
+                },
+                {
+                    "id": "206910",
+                    "name": "MP+5%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "403043500": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 15,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Hat",
+        "full_desc": "異界ガイアからもたらされた眼帯。アレクサンドリア王国の女将軍が着けていたものとされる。その女将軍は常にこの眼帯で右目を覆っていたにも関わらず、「100人斬り」の異名を持つほどの剣技を誇っていたという。",
+        "grade": 7,
+        "guide_id": 662,
+        "id": 403043500,
+        "max_stack": 99,
+        "name": "ベアトリクスの眼帯",
+        "price": {
+            "buy": 25000,
+            "sell": 2500
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の女将軍が着けていた眼帯",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101600",
+                    "name": "攻撃+15%"
+                },
+                {
+                    "id": "217130",
+                    "name": "ベアトリクスの眼帯"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "403043600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 16,
+            "hp": 500,
+            "int": 0,
+            "mnd": 50,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Hat",
+        "full_desc": "氷の羽根を重ねて作られたティアラ。隅々にまで精緻を極めた細工が施されており、その美しさは芸術品と見紛うほど。決して溶けない氷の翼を持つ古の巨大鳥グラシアールの羽根を素材とした世界に二つとない逸品で、ひとたびこのティアラを冠すれば、薄い氷の障壁が装備者の周囲に現れ、氷属性の攻撃から身を守ってくれる。",
+        "grade": 8,
+        "guide_id": 667,
+        "id": 403043600,
+        "max_stack": 99,
+        "name": "氷羽の聖冠",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "ice": "30"
+            }
+        },
+        "short_desc": "氷の羽根で作られたティアラ",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
     "404000200": {
         "attack": {
             "ailments": {},
@@ -13313,6 +15691,158 @@
         "short_desc": "イビルジョーの素材から作られた防具",
         "skills": {
             "abilities": [],
+            "magic": []
+        }
+    },
+    "404002100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 26,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Helm",
+        "full_desc": "非常に高度な科学技術によって作られたヘルメット。秘密裏に開発されていたロボット兵器の頭部を模してデザインされており、ロボットでいえば目にあたる部分はライトになっている。このヘルメットは元になった機体と同じ金属を使用しているため頑丈な作りだが、そのぶん重量はかなりのものだという。",
+        "grade": 5,
+        "guide_id": 623,
+        "id": 404002100,
+        "max_stack": 99,
+        "name": "ZDヘルメット",
+        "price": {
+            "buy": 12000,
+            "sell": 1200
+        },
+        "resists": {
+            "ailments": {
+                "blind": "100"
+            },
+            "elements": {}
+        },
+        "short_desc": "ロボット兵器を模したヘルメット",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "404002200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 31,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Helm",
+        "full_desc": "白い光沢を放つプラチナで作られた兜。プラチナの加工は、職人と比重との戦いの歴史であったと言っても過言ではない。特に兜は頭に装着するため、首に大きな負担がかかり、旅の途中で魔物以外の危機に晒されたという苦情が後を絶たなかった。近年、ようやく使い物になるほど軽くなったのは、まさに職人の血と汗と涙の結晶である。",
+        "grade": 5,
+        "guide_id": 630,
+        "id": 404002200,
+        "max_stack": 99,
+        "name": "プラチナヘルム",
+        "price": {
+            "buy": 12000,
+            "sell": 1200
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "プラチナで作られた兜",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "404002300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 32,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Helm",
+        "full_desc": "異界ガイアからもたらされた兜。ブリキのおもちゃのように見えるが性能は高く、異界ガイアに存在するアレクサンドリア王国の騎士が装備していたともいわれている。異界ガイアには、謎多き合成屋が作ったブリキの鎧という防具も存在するが、関連があるかは不明。これを装備して歩くと、ガシャガシャうるさいのが難点。",
+        "grade": 5,
+        "guide_id": 659,
+        "id": 404002300,
+        "max_stack": 99,
+        "name": "ブリキの兜",
+        "price": {
+            "buy": 12000,
+            "sell": 1200
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされたブリキ製の兜",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "217290",
+                    "name": "ブリキの兜"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "404002400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 30,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Helm",
+        "full_desc": "異界に存在する、エミールという名の生物の頭部を象った被り物。装備することでエミールの気分を味わうことができる。",
+        "grade": 6,
+        "guide_id": 679,
+        "id": 404002400,
+        "max_stack": 99,
+        "name": "エミールの被り物",
+        "price": {
+            "buy": 24000,
+            "sell": 2400
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の謎の生物を象った被り物",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101700",
+                    "name": "魔力+15%"
+                }
+            ],
             "magic": []
         }
     },
@@ -14489,6 +17019,340 @@
             "magic": []
         }
     },
+    "405003400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 28,
+            "hp": 0,
+            "int": 30,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                401000104
+            ],
+            "series required": 401000104
+        },
+        "equip_type": "Clothes",
+        "full_desc": "皆が振り返る、グラマラスな黒いドレス。舞踏会などに参加することを楽しんだお洒落なレディが愛用していたもの。貴重な素材で作られており、着心地は抜群で、まるで羽のように軽く、軽やかに踊ることができる。",
+        "grade": 6,
+        "guide_id": 603,
+        "id": 405003400,
+        "max_stack": 99,
+        "name": "スタイリッシュブラックドレス",
+        "price": {
+            "buy": 20000,
+            "sell": 2000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "皆が振り返る、グラマラスな黒いドレス",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "204830",
+                    "name": "受け流し"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "405003500": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 28,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 20
+        },
+        "equip_condition": false,
+        "equip_type": "Clothes",
+        "full_desc": "若い学者から人気が高い薄手のコート。一目でそれとわかる“学者服”だが、近年では見た目を気にする若手が増え、丈夫で軽量かつデザイン性の高い学者用の服を求める声が大きくなっていた。そんな中、自分なりに気安いアレンジができるこのコートは、派手すぎず地味すぎないバランスの良さで人気に火がついたという。",
+        "grade": 5,
+        "guide_id": 613,
+        "id": 405003500,
+        "max_stack": 99,
+        "name": "インテリコート",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "若い学者に人気のコート",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100100",
+                    "name": "魔力+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "405003600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 12,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Clothes",
+        "full_desc": "とってもキュートな猫の着ぐるみ。超一流の職人が猫好きの娘のために作り上げたもので、もふもふの手触りが心地いいのか、着るだけで猫が寄ってくる。娘の背が伸びても着られるようにと伸縮自在の特殊な生地が使用されているので、小さな子どもだけでなく大柄な成人男性でも着ることは可能だが、似合うかどうかは別の話。",
+        "grade": 7,
+        "guide_id": 616,
+        "id": 405003600,
+        "max_stack": 99,
+        "name": "猫の着ぐるみ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "キュートな猫の着ぐるみ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100110",
+                    "name": "魔力+20%"
+                },
+                {
+                    "id": "100170",
+                    "name": "精神+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "405003700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 20,
+            "hp": 0,
+            "int": 0,
+            "mnd": 32,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Clothes",
+        "full_desc": "天使が作ったとされるドラゴンのぬいぐるみが着ていたコート。白を基調とした可愛らしくもエレガントなデザインが特徴。天使の力が込められているうえに、名前の通り羽のように軽い着心地であるため、いつしか「このコートを着れば空が飛べる」という噂が広まった。しかしこれは真っ赤な嘘なので、試そうなどと考えてはいけない。",
+        "grade": 6,
+        "guide_id": 624,
+        "id": 405003700,
+        "max_stack": 99,
+        "name": "エンジェルウィング",
+        "price": {
+            "buy": 20000,
+            "sell": 2000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "天使の不思議な力が宿るコート",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100710",
+                    "name": "オートプロテス"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "405003800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 28,
+            "hp": 0,
+            "int": 0,
+            "mnd": 22,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Clothes",
+        "full_desc": "美しい空色のベスト。軽く薄い作りでありながら高い防御力を有しているため、動きやすさを重視するシーフや軽戦士たちに人気がある。素材となる染料の花は危険な場所に生息しており、非常に高価。数多の冒険者が一攫千金を夢見ては散っていったほどに採取は難しく、現在も量産できずにいる貴重品。",
+        "grade": 6,
+        "guide_id": 631,
+        "id": 405003800,
+        "max_stack": 99,
+        "name": "アジュールジレ",
+        "price": {
+            "buy": 20000,
+            "sell": 2000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "wind": "30"
+            }
+        },
+        "short_desc": "美しい空色のベスト",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "405003900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 12,
+            "hp": 0,
+            "int": 0,
+            "mnd": 32,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Clothes",
+        "full_desc": "異界イオスよりもたらされた耐熱防護服。異界イオスに存在する都市“レスタルム”の発電所で、日常的に使用されているもの。お世辞にも動きやすいとはいえないが、火属性の攻撃を多用するモンスターなどには有用な装備になるだろう。",
+        "grade": 5,
+        "guide_id": 635,
+        "id": 405003900,
+        "max_stack": 99,
+        "name": "耐熱防護服",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "fire": "50"
+            }
+        },
+        "short_desc": "異界の発電所で使われている服",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "405004000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 24,
+            "def": 40,
+            "hp": 0,
+            "int": 0,
+            "mnd": 12,
+            "mp": 0
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                214000404
+            ],
+            "series required": 214000404
+        },
+        "equip_type": "Clothes",
+        "full_desc": "異界“エオルゼア”からもたらされた格闘士が好んで身に着ける服。エオルゼア救済を掲げる組織“暁の血盟”の一員であるヒューラン族の女性格闘士が愛用していることで知られている。身のこなしや俊敏さが生命線となる格闘士の動きを制限しないよう作られた逸品。",
+        "grade": 5,
+        "guide_id": 649,
+        "id": 405004000,
+        "max_stack": 99,
+        "name": "サイオンズストライカー・アタイア",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた格闘士の服",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101500",
+                    "name": "HP+15%"
+                },
+                {
+                    "id": "203240",
+                    "name": "MP+15%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "405004100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 32,
+            "hp": 0,
+            "int": 0,
+            "mnd": 38,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Clothes",
+        "full_desc": "薬師のために考案された小袖。信じられないほど多くの道具を袖や懐にしまうことができる。薬研や薬種を携帯するという本来の目的だけでなく、手裏剣やクナイを隠すことにも適しているため、一部の忍者が愛用していた。薬売りに変装し、諜報の任務を遂行する者にとって、うってつけの衣装だったと言えるだろう。",
+        "grade": 6,
+        "guide_id": 674,
+        "id": 405004100,
+        "max_stack": 99,
+        "name": "薬師の小袖",
+        "price": {
+            "buy": 20000,
+            "sell": 2000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "薬師のために考案された小袖",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101150",
+                    "name": "くすりのちしき"
+                }
+            ],
+            "magic": []
+        }
+    },
     "406000100": {
         "attack": {
             "ailments": {},
@@ -15354,6 +18218,155 @@
             "magic": []
         }
     },
+    "406002600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 15,
+            "def": 30,
+            "hp": 500,
+            "int": 0,
+            "mnd": 15,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Light Armor",
+        "full_desc": "遥か異界よりもたらされた服。異界においては、ツンツンした金髪で、身の丈ほどの大剣をあやつる青年が身にまとっていたという。星の命ともされる“魔晄エネルギー”を利用して巨大企業に成長した“神羅カンパニー”が誇る精鋭“ソルジャー１ｓｔ”の制服。",
+        "grade": 7,
+        "guide_id": 607,
+        "id": 406002600,
+        "max_stack": 99,
+        "name": "クラウドの服",
+        "price": {
+            "buy": 60000,
+            "sell": 6000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の“元ソルジャー”の服",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "406002700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 38,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Light Armor",
+        "full_desc": "グランシェルト王国に伝わる軽鎧。王国に仕える騎士の中でも、優れた弓兵にのみ与えられる。一流の弓の使い手を称える証として騎士たちの間では広く知られているため、憧れる者も多いようだ。正確な射撃には、技術はもちろん、いかなるときも動じない精神力が必要であり、若くしてこの軽鎧を手にすることは大変難しい。",
+        "grade": 6,
+        "guide_id": 611,
+        "id": 406002700,
+        "max_stack": 99,
+        "name": "ライヒトパンツァー",
+        "price": {
+            "buy": 24000,
+            "sell": 2400
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "選ばれし弓兵に与えられる軽鎧",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "215430",
+                    "name": "射法八節"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "406002800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 32,
+            "hp": 0,
+            "int": 0,
+            "mnd": 5,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Light Armor",
+        "full_desc": "異界ガイアからもたらされたプルート隊の制服。プルート隊とは、異界ガイアに存在するアレクサンドリア王国の兵士9名からなる部隊である。アレクサンドリアは女王が治めているだけでなく、大陸一の剣技を誇る女将軍をはじめ多くの女性兵士が活躍している国だが、このプルート隊は男性のみで構成されているという。",
+        "grade": 4,
+        "guide_id": 661,
+        "id": 406002800,
+        "max_stack": 99,
+        "name": "プルート隊の制服",
+        "price": {
+            "buy": 3600,
+            "sell": 360
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界に存在する男性騎士団の制服",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "406002900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 50,
+            "hp": 0,
+            "int": 0,
+            "mnd": 32,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Light Armor",
+        "full_desc": "ファルム式の騎乗用武者鎧。チョコボを駆る姫君が、戦へ赴く際にあつらえたもの。騎乗することを前提として作られており、非常に軽く動きやすい。武者鎧には男性用も存在するが、丁寧に施された細工や、雅やかな意匠は女性用ならでは。この鎧をまとった姫が戦場で戦う勇姿は味方軍の士気を大きく高めたという。",
+        "grade": 7,
+        "guide_id": 673,
+        "id": 406002900,
+        "max_stack": 99,
+        "name": "姫侍の武者鎧",
+        "price": {
+            "buy": 60000,
+            "sell": 6000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "dark": "25",
+                "fire": "25",
+                "thunder": "25"
+            }
+        },
+        "short_desc": "ファルム式の騎乗用武者鎧",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
     "407000200": {
         "attack": {
             "ailments": {},
@@ -15930,6 +18943,85 @@
             "elements": {}
         },
         "short_desc": "機械化された全身鎧",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "407002200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 40,
+            "hp": 0,
+            "int": 0,
+            "mnd": 22,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Heavy Armor",
+        "full_desc": "竜の鱗で作られた重鎧。竜の鱗は鉄の剣では傷ひとつ付かず、生半可な魔法は無効化してしまうほど強固である。防具とするには最適な素材だが、なにしろ傷ひとつ付かないので加工には特殊な技術が必要。竜靭の重鎧は、竜に詳しい一族でもなかなか作れず数も少ないため、竜騎士の中でも特別な者だけが身に着けることを許されるようだ。",
+        "grade": 6,
+        "guide_id": 646,
+        "id": 407002200,
+        "max_stack": 99,
+        "name": "竜靭の重鎧",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "dark": "10",
+                "earth": "10",
+                "fire": "10",
+                "ice": "10",
+                "light": "10",
+                "thunder": "10",
+                "water": "10",
+                "wind": "10"
+            }
+        },
+        "short_desc": "竜の鱗で作られた重鎧",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "407002300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 36,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 30
+        },
+        "equip_condition": false,
+        "equip_type": "Heavy Armor",
+        "full_desc": "異界に存在する“ヨルハ部隊”で正式採用されている防護アーマー。ヨルハ機体B型が激戦地へ出撃する際に着用し、身を護るもの。その他のタイプが戦闘を得意とするB型に装備転換するときにも用いられる。",
+        "grade": 4,
+        "guide_id": 680,
+        "id": 407002300,
+        "max_stack": 99,
+        "name": "重装アーマー：B",
+        "price": {
+            "buy": 4500,
+            "sell": 450
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界に存在する戦闘部隊の防護アーマー",
         "skills": {
             "abilities": [],
             "magic": []
@@ -16784,6 +19876,166 @@
                     "name": "MP+15%"
                 }
             ],
+            "magic": []
+        }
+    },
+    "408002400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 38,
+            "hp": 0,
+            "int": 0,
+            "mnd": 15,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Robes",
+        "full_desc": "耐久性の高いプラチナを散りばめたローブ。プラチナは比重が大きな金属ではあるが、職人による軽量加工が随所に施されているため、ほぼ重さを感じないほど身軽に動くことができる。難点があるとすれば価格面のみと言われ、その点で肩を落とす者がほとんどである。",
+        "grade": 4,
+        "guide_id": 629,
+        "id": 408002400,
+        "max_stack": 99,
+        "name": "プラチナローブ",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "プラチナで作られたローブ",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "408002500": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 30,
+            "hp": 0,
+            "int": 0,
+            "mnd": 55,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Robes",
+        "full_desc": "竜の里の祭司がまとうローブ。その神々しい輝きは、大いなる赦しの象徴。この世に産まれた人間は、誰であっても様々な苦難を乗り越えねばならない。その過程における罪の大小や人種を問わず、一切を赦すという慈悲の精神を持つ者のみが着用を認められる。常時、神聖な力を放っており、邪の心を持つ者には触れることさえできない。",
+        "grade": 7,
+        "guide_id": 643,
+        "id": 408002500,
+        "max_stack": 99,
+        "name": "赦しのローブ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "竜の里の祭司がまとうローブ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "408002600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 12,
+            "hp": 0,
+            "int": 24,
+            "mnd": 40,
+            "mp": 0
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                214000504
+            ],
+            "series required": 214000504
+        },
+        "equip_type": "Robes",
+        "full_desc": "異界“エオルゼア”からもたらされた呪術士用のローブ。ゆったりと余裕を持った作りや、上品でシックなデザインが特徴。エオルゼア救済を掲げる組織“暁の血盟”の一員であるララフェル族の男性呪術士が愛用していることでも知られている優れた一品。",
+        "grade": 5,
+        "guide_id": 652,
+        "id": 408002600,
+        "max_stack": 99,
+        "name": "サイオンズサーマタージ・ローブ",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた呪術士のローブ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101500",
+                    "name": "HP+15%"
+                },
+                {
+                    "id": "203240",
+                    "name": "MP+15%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "408002700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 20,
+            "hp": 0,
+            "int": 36,
+            "mnd": 8,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Robes",
+        "full_desc": "異界“スピラ”よりもたらされたローブ。大きく開いた胸元のデザインが特徴。異界スピラで広く信仰されているエボン教の四老師のひとりであり、グアド族の族長も務めていた男性が着ていたものであるという。",
+        "grade": 5,
+        "guide_id": 685,
+        "id": 408002700,
+        "max_stack": 99,
+        "name": "老師のローブ",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の老師がまとっていたローブ",
+        "skills": {
+            "abilities": [],
             "magic": []
         }
     },
@@ -21467,6 +24719,958 @@
                 {
                     "id": "214730",
                     "name": "聖王の加護"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409013400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 3,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                401000104
+            ],
+            "series required": 401000104
+        },
+        "equip_type": "Accessory",
+        "full_desc": "特別な日に便利な長くて優美な手袋。制作過程で白魔法と黒魔法をかけられており、着用者の魔法攻撃と魔法防御をアップする。",
+        "grade": 5,
+        "guide_id": 601,
+        "id": 409013400,
+        "max_stack": 99,
+        "name": "イヴニンググローブ",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "特別な日に便利な長くて優美な手袋",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101700",
+                    "name": "魔力+15%"
+                },
+                {
+                    "id": "100160",
+                    "name": "精神+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409013500": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 15,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "遥か異界よりもたらされた防具。異界に存在する巨大企業“神羅カンパニー”が開発したものである。“神羅カンパニー”は“魔晄炉”という施設によって都市へ魔晄エネルギーを供給することで大きく成長した企業とされているが、都市基盤整備や宇宙開発など事業を幅広く展開しており、様々な装備の開発も行っていたようだ。",
+        "grade": 5,
+        "guide_id": 606,
+        "id": 409013500,
+        "max_stack": 99,
+        "name": "神羅安式防具",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界よりもたらされた量産型の防具",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409013600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 40,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "才能を持つ剣士の元へ、運命的に巡り寄る幻の籠手。手の甲側は恐ろしく頑丈でありながら、関節部は柔らかな皮革素材が用いられており、厳しい雪中戦でも難なく剣を振り続けられるほどの保温性と機動性に優れる。ある時は国の将軍が持ち、またある時は露天商が叩き売りするなど、様々な形で相応しい人物の元へ渡っていくという。",
+        "grade": 8,
+        "guide_id": 608,
+        "id": 409013600,
+        "max_stack": 99,
+        "name": "マーシャルグローブ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "武に秀でた者が巡り合う幻の籠手",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "215000",
+                    "name": "真・りょうてもち"
+                },
+                {
+                    "id": "215150",
+                    "name": "アウローラ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409013700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 15,
+            "hp": 0,
+            "int": 0,
+            "mnd": 15,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "ディルマギア育ちの若き天才魔道士が作ったゴーグル。魔法の実験や機械作業時に着用するゴーグルは数多く販売されているが、これは古くからディルマギアに伝わるドワーフの技術に、黒魔道士ならではの斬新なアレンジを加えて作られた貴重な一点もの。装着すると頭が冴えわたり、秘めた力を引き出してくれるという。",
+        "grade": 8,
+        "guide_id": 614,
+        "id": 409013700,
+        "max_stack": 99,
+        "name": "プロディジーゴーグル",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "若き天才魔道士が作ったゴーグル",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "200050",
+                    "name": "しらべる"
+                },
+                {
+                    "id": "216020",
+                    "name": "ハイパワー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409013800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 5,
+            "def": 10,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "非常に高度な科学技術によって作られたアームカバー。何者かが秘密裏に開発していたロボット兵器のアーム部分を模したアクセサリである。その特徴的なデザインは男性や子どもに「かっこいい」と非常に好評。しかし、開発者が姿を消し、ロボット兵器の生産が減少するにあたり、このアームカバーも見られなくなった。",
+        "grade": 4,
+        "guide_id": 621,
+        "id": 409013800,
+        "max_stack": 99,
+        "name": "ジャバラアームカバー",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "ロボット兵器を模したアームカバー",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "203250",
+                    "name": "HP+5%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409013900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "魔導アーマーの製造技術を応用して作られた腕輪。その昔、殺戮マシンとして広く恐れられた魔導アーマーをイメージした外観をしている。古い書物によれば、こうした装備はいくつも作られてきたという。しかし現在も問題なく使えるものは少なく、大半は長い年月のうちに破損して使いものにならないため、貴重なものとなっている。",
+        "grade": 7,
+        "guide_id": 622,
+        "id": 409013900,
+        "max_stack": 99,
+        "name": "魔導バリア発生装置",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "魔導アーマーの製造技術を応用した腕輪",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "208970",
+                    "name": "防御+15%"
+                },
+                {
+                    "id": "208980",
+                    "name": "精神+15%"
+                },
+                {
+                    "id": "100720",
+                    "name": "オートシェル"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409014000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 5,
+            "hp": 0,
+            "int": 0,
+            "mnd": 5,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "鉄製の丈夫な小手。前腕部を保護する小手は数多くの種類があるが、その中でも指の一本一本まで覆うタイプをガントレットと呼ぶ。指先の自由度を高めることで剣や弓などが扱いやすく、相手の攻撃を小手で受け流すと同時に反撃する、という動作さえ可能になった。攻防一体の装備品として、各地で多くの冒険者に愛用されている。",
+        "grade": 7,
+        "guide_id": 632,
+        "id": 409014000,
+        "max_stack": 99,
+        "name": "ガントレット",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "鉄製の丈夫な小手",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "name": "攻撃+20%"
+                },
+                {
+                    "id": "100980",
+                    "name": "軽盾装備"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409014100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 5,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 10,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "中央に不思議な輝きを放つルビーがはめこまれた指輪。物体の変形しにくさや傷つきにくさを示す硬度はダイヤモンドに次ぐほど。宝石は種類ごとに加護の力を持つが、お守りとしてよりもファッションのひとつとして身に着ける婦人が多く、中でも指輪は好評な商品。「情熱・純愛・勇気・仁徳」などの宝石言葉も人気の理由のひとつ。",
+        "grade": 5,
+        "guide_id": 633,
+        "id": 409014100,
+        "max_stack": 99,
+        "name": "ルビーの指輪",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "fire": "15"
+            }
+        },
+        "short_desc": "ルビーがはめこまれた指輪",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "409014200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 10,
+            "def": 5,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界イオスよりもたらされた、ガーネットが埋めこまれている腕輪。異界イオスでは、ルシス王国の王子が所持していたアクセサリーのひとつとして知られている。またその腕輪は、王子自らが危険を冒して入手した貴重な原石を使用して作られたという。",
+        "grade": 3,
+        "guide_id": 638,
+        "id": 409014200,
+        "max_stack": 99,
+        "name": "ガーネットの腕輪",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "ガーネットが埋めこまれた異界の腕輪",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "409014300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 5,
+            "hp": 600,
+            "int": 0,
+            "mnd": 5,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界イオスよりもたらされた、カーボンで作られたバングル。異界イオスでは、ルシス王国の王子らもよく遊んでいたという大人気ピンボールゲームの景品にもなっていたようだ。",
+        "grade": 4,
+        "guide_id": 639,
+        "id": 409014300,
+        "max_stack": 99,
+        "name": "カーボンバングル",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "カーボン素材で作られた異界のバングル",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "409014400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "竜の里の祈り子が、代々受け継いできた髪飾り。ひときわ目立つ氷晶飾りは、周囲の光を吸収し、複雑に屈折させて強い輝きを放つ。その煌めきは興奮した竜の感情を落ち着かせ、敵意を和らげてくれる。祈り子の踊りは、このカチュームの輝きを際立たせるように振り付けられたという。",
+        "grade": 6,
+        "guide_id": 644,
+        "id": 409014400,
+        "max_stack": 99,
+        "name": "氷煌のカチューム",
+        "price": {
+            "buy": 20000,
+            "sell": 2000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "竜の里の祈り子がつける髪飾り",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101500",
+                    "name": "HP+15%"
+                },
+                {
+                    "id": "203240",
+                    "name": "MP+15%"
+                },
+                {
+                    "id": "100160",
+                    "name": "精神+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409014500": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 8,
+            "mnd": 8,
+            "mp": 0
+        },
+        "equip_condition": {
+            "cond_id": "3",
+            "params": [
+                214000504
+            ],
+            "series required": 214000504
+        },
+        "equip_type": "Accessory",
+        "full_desc": "異界“エオルゼア”からもたらされた呪術士が好んで身に着ける片眼鏡。エオルゼア救済を掲げる組織“暁の血盟”の一員であるララフェル族の男性呪術士が愛用していることで知られている。軽量で掛け心地も良い優良品。",
+        "grade": 4,
+        "guide_id": 651,
+        "id": 409014500,
+        "max_stack": 99,
+        "name": "サイオンズサーマタージ・モノクル",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた呪術士の片眼鏡",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "203250",
+                    "name": "HP+5%"
+                },
+                {
+                    "id": "206910",
+                    "name": "MP+5%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409014600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 30,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“エオルゼア”からもたらされた岩神タイタンを模した魔法人形。岩神の討伐経験があるという自称元海雄旅団の男性の証言に基づいて、リアルにデザインされているという。“エオルゼア”には他にもたくさんの魔法人形が存在しており、持ち主の後ろをついてくる彼らの愛らしさは各地で好評を博しているようだ。",
+        "grade": 7,
+        "guide_id": 654,
+        "id": 409014600,
+        "max_stack": 99,
+        "name": "マメット・タイタン",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {
+                "petrify": "100"
+            },
+            "elements": {
+                "earth": "30"
+            }
+        },
+        "short_desc": "異界からもたらされた蛮神を模した魔法人形",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "409014700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 10,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 70
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界ガイアからもたらされた可愛らしいアクセサリー。“モグ”という名の小さなモーグリが身につけていたものとされる。モグは異界ガイアに存在する召喚士の村に住んでおり、同い年の少女と常に行動を共にしていた。このリボンには、その少女を大切に思うモグの気持ちが、不思議な力となって宿っているという。",
+        "grade": 6,
+        "guide_id": 658,
+        "id": 409014700,
+        "max_stack": 99,
+        "name": "モグのリボン",
+        "price": {
+            "buy": 20000,
+            "sell": 2000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "とあるモーグリの思いが込められたリボン",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "208980",
+                    "name": "精神+15%"
+                },
+                {
+                    "id": "100730",
+                    "name": "オートリジェネ"
+                },
+                {
+                    "id": "217180",
+                    "name": "モグのリボン"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409014800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 5,
+            "mnd": 10,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "中央に不思議な輝きを放つトルマリンがはめこまれた指輪。宝石の発する不思議な加護が所持者の風耐性を高める。敵対する相手次第では非常に有用であるため、手軽に身に着けられる指輪は価値の高い装飾品のひとつ。宝石言葉は「希望・潔白・寛大」などで、友情の証として贈られる場合も。",
+        "grade": 5,
+        "guide_id": 666,
+        "id": 409014800,
+        "max_stack": 99,
+        "name": "トルマリンの指輪",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "wind": "15"
+            }
+        },
+        "short_desc": "トルマリンがはめこまれた指輪",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "409014900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "忍者が姿を隠すための風呂敷。単なる布きれに見えるが、持ち主の背後の景色とそっくりに模様を変えられる。熟練者が使えば、敵の視界から突然消えたように見せかけることも可能。多くの軍事国家が、この迷彩技術を手に入れようと研究を重ねてきた。しかし、実用に足るものは、いまだ開発できていないようだ。",
+        "grade": 5,
+        "guide_id": 669,
+        "id": 409014900,
+        "max_stack": 99,
+        "name": "隠れ身の風呂敷",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "忍者が姿を隠すための風呂敷",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101350",
+                    "name": "カモフラージュ"
+                },
+                {
+                    "id": "200410",
+                    "name": "かくれる"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409015000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 12,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "額の一部に金属板を縫いつけたハチマキ。俊敏さが命の忍者にとって、重たい兜は避けたいもの。そこで生み出された装備が、鉢金だった。身軽さを保ちながら頭部を守れるという長所が受け入れられ、多くの忍者が愛用している。優れた忍者が身に着ける鉢金には紋章が刻まれており、身分証明の役割を果たすことも。",
+        "grade": 8,
+        "guide_id": 672,
+        "id": 409015000,
+        "max_stack": 99,
+        "name": "上忍の鉢金",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "金属板を縫いつけたハチマキ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100090",
+                    "name": "攻撃+30%"
+                },
+                {
+                    "id": "100120",
+                    "name": "魔力+30%"
+                },
+                {
+                    "id": "101230",
+                    "name": "しらはどり"
+                },
+                {
+                    "id": "218370",
+                    "name": "忍・二刀剣法"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409015100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 8,
+            "hp": 0,
+            "int": 0,
+            "mnd": 8,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界からもたらされた、機械ユニット。ポッド153が存在した異界では、人々が異星人の侵略を受けており、その対抗手段として自動歩兵人形で構成された“ヨルハ部隊”を投入した。ポッド153は、その“ヨルハ部隊”に標準装備されている随行支援ユニットの1体だったという。",
+        "grade": 7,
+        "guide_id": 683,
+        "id": 409015100,
+        "max_stack": 99,
+        "name": "ポッド153",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界に存在する戦闘部隊の随行支援ユニット",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "218780",
+                    "name": "A120：リペア"
+                },
+                {
+                    "id": "218790",
+                    "name": "A170：スキャナー"
+                },
+                {
+                    "id": "218800",
+                    "name": "A060：Pシールド"
+                },
+                {
+                    "id": "218810",
+                    "name": "R020：ミラージュ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409015200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 5,
+            "hp": 0,
+            "int": 0,
+            "mnd": 5,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“スピラ”よりもたらされた小手。異界スピラでは、装備者が用途に応じて武器や防具に改造を施すのが主流であるため、形は似ていても異なる性能を持った装備が多数存在しているという。この小手は召喚士のガードを務めるロンゾ族の青年が愛用していたものと、形がよく似ているようだ。",
+        "grade": 3,
+        "guide_id": 686,
+        "id": 409015200,
+        "max_stack": 99,
+        "name": "栄光の小手",
+        "price": {
+            "buy": 1000,
+            "sell": 100
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた小手",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409015300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 24,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“スピラ”よりもたらされた腕輪。その名に相応しく、様々な厄災から装備者を守ってくれる。異界スピラの人々が怯える強大な魔物“シン”を大召喚士と共に倒した伝説のガードが愛用していたものと、形がよく似ているようだ。",
+        "grade": 4,
+        "guide_id": 687,
+        "id": 409015300,
+        "max_stack": 99,
+        "name": "守護の腕輪",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "resists": {
+            "ailments": {
+                "blind": "40",
+                "confuse": "40",
+                "poison": "40",
+                "silence": "40"
+            },
+            "elements": {}
+        },
+        "short_desc": "異界からもたらされた腕輪",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "409015400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 5,
+            "mnd": 10,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "中央に不思議な輝きを放つトパーズがはめこまれた指輪。トパーズは別名「黄玉」と呼ばれるが、特殊な加工を施すことで、黄色に限らず様々な色彩に変化する宝石である。特に、込められた魔力によって雷属性の耐性を持たせたトパーズは鮮やかに輝くことで有名。宝石言葉は「誠実・希望・友情・潔白・知性」など。",
+        "grade": 5,
+        "guide_id": 691,
+        "id": 409015400,
+        "max_stack": 99,
+        "name": "トパーズの指輪",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "thunder": "15"
+            }
+        },
+        "short_desc": "トパーズがはめこまれた指輪",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "409015500": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 11,
+            "hp": 0,
+            "int": 0,
+            "mnd": 6,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "ドワーフの鍛冶師ラグルスが、弟子に遺した秘伝書。名匠の知識と知恵が細かく書き記されている。正統な後継者、およびその後継者と深い信頼関係によって結ばれている者だけがその内容を知ることを許されてきた。世に強力な武器があふれ、傷つく者が増えることを恐れたラグルスが遺した唯一の書ともいわれている。",
+        "grade": 7,
+        "guide_id": 696,
+        "id": 409015500,
+        "max_stack": 99,
+        "name": "名匠の秘伝書",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "ドワーフの鍛冶師が遺した秘伝書",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "219560",
+                    "name": "火炉の炎"
+                },
+                {
+                    "id": "219570",
+                    "name": "たたらの風"
+                },
+                {
+                    "id": "219580",
+                    "name": "焼き刃の土"
                 }
             ],
             "magic": []

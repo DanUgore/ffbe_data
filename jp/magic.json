@@ -237,17 +237,16 @@
         "dmg_type": "magic",
         "effects": [
             {
-                "action_id": 15,
+                "action_id": 103,
+                "convert cap": 99999,
                 "effect_frame": 0,
                 "params": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    100,
+                    99999,
                     120
                 ],
-                "skill int%": 120,
+                "skill mod%": 120,
+                "spr convert%": 100,
                 "target_area": "single",
                 "target_side": "enemy"
             }
@@ -937,17 +936,16 @@
         "dmg_type": "magic",
         "effects": [
             {
-                "action_id": 15,
+                "action_id": 103,
+                "convert cap": 99999,
                 "effect_frame": 40,
                 "params": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    100,
+                    99999,
                     180
                 ],
-                "skill int%": 180,
+                "skill mod%": 180,
+                "spr convert%": 100,
                 "target_area": "all",
                 "target_side": "enemy"
             }
@@ -1109,17 +1107,16 @@
         "dmg_type": "magic",
         "effects": [
             {
-                "action_id": 15,
+                "action_id": 103,
+                "convert cap": 99999,
                 "effect_frame": 0,
                 "params": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    100,
+                    99999,
                     230
                 ],
-                "skill int%": 230,
+                "skill mod%": 230,
+                "spr convert%": 100,
                 "target_area": "single",
                 "target_side": "enemy"
             }
@@ -1167,7 +1164,7 @@
             }
         ],
         "elements": [],
-        "full_desc": "味方1体に戦闘不能を1回だけ自動回復する効果を付与する。",
+        "full_desc": "味方1体に戦闘不能を1回自動回復する効果を付与する。",
         "guide_id": 25,
         "icon_id": 700000001,
         "id": 10230,
@@ -1175,7 +1172,7 @@
         "mp_cost": 21,
         "name": "リレイズ",
         "rarity": 8,
-        "short_desc": "味方1体に戦闘不能を1回だけ自動回復する効果を付与",
+        "short_desc": "味方1体に戦闘不能を1回自動回復する効果を付与",
         "skill_category": "recovery"
     },
     "10280": {
@@ -1222,7 +1219,7 @@
         "elements": [
             "light"
         ],
-        "full_desc": "敵1体に光属性ダメージを与え、自分のMPを回復する。",
+        "full_desc": "敵1体に光属性のダメージを与え、自分のMPを回復する。",
         "guide_id": 30,
         "icon_id": 700000005,
         "id": 10280,
@@ -1274,6 +1271,358 @@
         "name": "ケアルジャ",
         "rarity": 7,
         "short_desc": "味方全体のHPを回復",
+        "skill_category": "recovery"
+    },
+    "10300": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 111,
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "remove debuffs": [
+                    "atk"
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の攻撃ダウン効果を解除する。",
+        "guide_id": 32,
+        "icon_id": 700000003,
+        "id": 10300,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "デブレナ",
+        "rarity": 4,
+        "short_desc": "味方1体の攻撃ダウン効果を解除",
+        "skill_category": "recovery"
+    },
+    "10310": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 111,
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "remove debuffs": [
+                    "atk"
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方全体の攻撃ダウン効果を解除する。",
+        "guide_id": 33,
+        "icon_id": 700000003,
+        "id": 10310,
+        "level": 6,
+        "mp_cost": 16,
+        "name": "デブレナガ",
+        "rarity": 6,
+        "short_desc": "味方全体の攻撃ダウン効果を解除",
+        "skill_category": "recovery"
+    },
+    "10320": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 111,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "remove debuffs": [
+                    "def"
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の防御ダウン効果を解除する。",
+        "guide_id": 34,
+        "icon_id": 700000003,
+        "id": 10320,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "デプロナ",
+        "rarity": 4,
+        "short_desc": "味方1体の防御ダウン効果を解除",
+        "skill_category": "recovery"
+    },
+    "10330": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 111,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "remove debuffs": [
+                    "def"
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方全体の防御ダウン効果を解除する。",
+        "guide_id": 35,
+        "icon_id": 700000003,
+        "id": 10330,
+        "level": 6,
+        "mp_cost": 16,
+        "name": "デプロナガ",
+        "rarity": 6,
+        "short_desc": "味方全体の防御ダウン効果を解除",
+        "skill_category": "recovery"
+    },
+    "10340": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 111,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "remove debuffs": [
+                    "int"
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の魔力ダウン効果を解除する。",
+        "guide_id": 36,
+        "icon_id": 700000003,
+        "id": 10340,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "デフェスナ",
+        "rarity": 4,
+        "short_desc": "味方1体の魔力ダウン効果を解除",
+        "skill_category": "recovery"
+    },
+    "10350": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 111,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "remove debuffs": [
+                    "int"
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方全体の魔力ダウン効果を解除する。",
+        "guide_id": 37,
+        "icon_id": 700000003,
+        "id": 10350,
+        "level": 6,
+        "mp_cost": 16,
+        "name": "デフェスナガ",
+        "rarity": 6,
+        "short_desc": "味方全体の魔力ダウン効果を解除",
+        "skill_category": "recovery"
+    },
+    "10360": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 111,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ],
+                "remove debuffs": [
+                    "mnd"
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方1体の精神ダウン効果を解除する。",
+        "guide_id": 38,
+        "icon_id": 700000003,
+        "id": 10360,
+        "level": 4,
+        "mp_cost": 8,
+        "name": "デシェルナ",
+        "rarity": 4,
+        "short_desc": "味方1体の精神ダウン効果を解除",
+        "skill_category": "recovery"
+    },
+    "10370": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 111,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ],
+                "remove debuffs": [
+                    "mnd"
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "full_desc": "味方全体の精神ダウン効果を解除する。",
+        "guide_id": 39,
+        "icon_id": 700000003,
+        "id": 10370,
+        "level": 6,
+        "mp_cost": 16,
+        "name": "デシェルナガ",
+        "rarity": 6,
+        "short_desc": "味方全体の精神ダウン効果を解除",
         "skill_category": "recovery"
     },
     "20010": {
@@ -2005,7 +2354,7 @@
         "mp_cost": 15,
         "name": "コメット",
         "rarity": 5,
-        "short_desc": "敵1体にダメージ+連続使用時威力をアップ",
+        "short_desc": "敵1体にダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "20171": {
@@ -2050,7 +2399,7 @@
         "mp_cost": 15,
         "name": "つよがる【コメット】",
         "rarity": 5,
-        "short_desc": "敵1体にダメージ+連続使用時威力をアップ",
+        "short_desc": "敵1体にダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "20180": {
@@ -2623,7 +2972,7 @@
         "mp_cost": 28,
         "name": "ファイジャ",
         "rarity": 7,
-        "short_desc": "敵全体に火属性ダメージ+連続使用時威力をアップ",
+        "short_desc": "敵全体に火属性ダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "20300": {
@@ -2674,7 +3023,7 @@
         "mp_cost": 28,
         "name": "ブリザジャ",
         "rarity": 7,
-        "short_desc": "敵全体に氷属性ダメージ+連続使用時威力をアップ",
+        "short_desc": "敵全体に氷属性ダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "20310": {
@@ -2725,7 +3074,7 @@
         "mp_cost": 28,
         "name": "サンダジャ",
         "rarity": 7,
-        "short_desc": "敵全体に雷属性ダメージ+連続使用時威力をアップ",
+        "short_desc": "敵全体に雷属性ダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "20320": {
@@ -2776,7 +3125,7 @@
         "mp_cost": 28,
         "name": "ウォタジャ",
         "rarity": 7,
-        "short_desc": "敵全体に水属性ダメージ+連続使用時威力をアップ",
+        "short_desc": "敵全体に水属性ダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "20330": {
@@ -2827,7 +3176,7 @@
         "mp_cost": 28,
         "name": "エアロジャ",
         "rarity": 7,
-        "short_desc": "敵全体に風属性ダメージ+連続使用時威力をアップ",
+        "short_desc": "敵全体に風属性ダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "20340": {
@@ -2878,7 +3227,7 @@
         "mp_cost": 28,
         "name": "ストンジャ",
         "rarity": 7,
-        "short_desc": "敵全体に土属性ダメージ+連続使用時威力をアップ",
+        "short_desc": "敵全体に土属性ダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "20350": {
@@ -2944,6 +3293,93 @@
         "name": "フレア",
         "rarity": 7,
         "short_desc": "敵1体に火属性ダメージ+水属性耐性をダウン",
+        "skill_category": "offensive"
+    },
+    "20380": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    8,
+                    12
+                ],
+                "hit_frames": [
+                    133,
+                    145,
+                    157,
+                    169,
+                    181,
+                    193,
+                    205,
+                    217,
+                    229,
+                    241,
+                    253,
+                    265
+                ],
+                "hits": 12
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill int%": 250,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    -50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "enemy",
+                "thunder resist%": -50
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "敵全体に水属性のダメージを与え、雷属性耐性をダウンさせる。",
+        "guide_id": 137,
+        "icon_id": 700000035,
+        "id": 20380,
+        "level": 8,
+        "mp_cost": 48,
+        "name": "フラッド",
+        "rarity": 8,
+        "short_desc": "敵全体に水属性ダメージ+雷属性耐性をダウン",
         "skill_category": "offensive"
     },
     "20390": {
@@ -3031,6 +3467,85 @@
         "name": "トルネド",
         "rarity": 8,
         "short_desc": "敵全体に風属性ダメージ+風属性耐性減",
+        "skill_category": "offensive"
+    },
+    "20400": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    12,
+                    13,
+                    12,
+                    13,
+                    12,
+                    13,
+                    12,
+                    13
+                ],
+                "hit_frames": [
+                    160,
+                    182,
+                    203,
+                    225,
+                    248,
+                    271,
+                    293,
+                    316
+                ],
+                "hits": 8
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    275
+                ],
+                "skill int%": 275,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "earth resist%": -50,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -50,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "full_desc": "敵全体に土属性のダメージを与え、土属性耐性をダウンさせる。",
+        "guide_id": 139,
+        "icon_id": 700000034,
+        "id": 20400,
+        "level": 8,
+        "mp_cost": 48,
+        "name": "クエイク",
+        "rarity": 8,
+        "short_desc": "敵全体に土属性ダメージ+土属性耐性をダウン",
         "skill_category": "offensive"
     },
     "20410": {
@@ -3409,6 +3924,213 @@
         "name": "オルタナ",
         "rarity": 8,
         "short_desc": "敵全体に一部魔法防御無視ダメージ",
+        "skill_category": "offensive"
+    },
+    "20500": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    80
+                ],
+                "skill int%": 80,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "int buff%": 50,
+                "params": [
+                    0,
+                    0,
+                    50,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "full_desc": "敵1体に火属性のダメージを与え、自分の魔力をアップする。",
+        "guide_id": 149,
+        "icon_id": 700000021,
+        "id": 20500,
+        "level": 4,
+        "mp_cost": 10,
+        "name": "アストラルファイア",
+        "rarity": 4,
+        "short_desc": "敵1体に火属性ダメージ+自分の魔力をアップ",
+        "skill_category": "offensive"
+    },
+    "20510": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    80
+                ],
+                "skill int%": 80,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 30,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "mp base heal": 60,
+                "mp heal mod": 0,
+                "params": [
+                    0,
+                    1,
+                    60,
+                    3
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "full_desc": "敵1体に氷属性のダメージを与え、自分のMPを徐々に回復する。",
+        "guide_id": 150,
+        "icon_id": 700000022,
+        "id": 20510,
+        "level": 4,
+        "mp_cost": 10,
+        "name": "アンブラルブリザード",
+        "rarity": 4,
+        "short_desc": "敵1体に氷属性ダメージ+自分のMPを徐々に回復",
+        "skill_category": "offensive"
+    },
+    "20520": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100
+                ],
+                "skill int%": 100,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "full_desc": "敵1体にダメージを与える。",
+        "guide_id": 151,
+        "icon_id": 700000019,
+        "id": 20520,
+        "level": 3,
+        "mp_cost": 5,
+        "name": "コラプス",
+        "rarity": 3,
+        "short_desc": "敵1体にダメージ",
+        "skill_category": "offensive"
+    },
+    "20530": {
+        "action_length": 0,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    300
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 70,
+                "effect_frame": 0,
+                "mnd ignore%": -25,
+                "params": [
+                    0,
+                    0,
+                    300,
+                    25
+                ],
+                "skill int%": 300,
+                "target_area": "all"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "full_desc": "敵味方全体に闇属性一部魔法防御無視のダメージを与える。",
+        "guide_id": 152,
+        "icon_id": 700000026,
+        "id": 20530,
+        "level": 8,
+        "mp_cost": 56,
+        "name": "ジハード",
+        "rarity": 8,
+        "short_desc": "敵味方全体に闇属性一部魔法防御無視ダメージ",
         "skill_category": "offensive"
     },
     "30010": {
@@ -4716,7 +5438,7 @@
             "fire"
         ],
         "full_desc": "味方全体の火属性耐性をアップする。",
-        "guide_id": 226,
+        "guide_id": 227,
         "icon_id": 700000006,
         "id": 30260,
         "level": 6,
@@ -4766,7 +5488,7 @@
             "ice"
         ],
         "full_desc": "味方全体の氷属性耐性をアップする。",
-        "guide_id": 227,
+        "guide_id": 228,
         "icon_id": 700000010,
         "id": 30270,
         "level": 6,
@@ -4816,7 +5538,7 @@
             "thunder"
         ],
         "full_desc": "味方全体の雷属性耐性をアップする。",
-        "guide_id": 228,
+        "guide_id": 229,
         "icon_id": 700000008,
         "id": 30280,
         "level": 6,
@@ -4866,7 +5588,7 @@
             "water"
         ],
         "full_desc": "味方全体の水属性耐性をアップする。",
-        "guide_id": 229,
+        "guide_id": 230,
         "icon_id": 700000013,
         "id": 30290,
         "level": 6,
@@ -4916,7 +5638,7 @@
             "wind"
         ],
         "full_desc": "味方全体の風属性耐性をアップする。",
-        "guide_id": 230,
+        "guide_id": 231,
         "icon_id": 700000007,
         "id": 30300,
         "level": 6,
@@ -4966,7 +5688,7 @@
             "earth"
         ],
         "full_desc": "味方全体の土属性耐性をアップする。",
-        "guide_id": 231,
+        "guide_id": 232,
         "icon_id": 700000012,
         "id": 30310,
         "level": 6,
@@ -5012,7 +5734,7 @@
             "light"
         ],
         "full_desc": "味方全体の防御をアップする。",
-        "guide_id": 232,
+        "guide_id": 233,
         "icon_id": 700000077,
         "id": 30320,
         "level": 6,
@@ -5058,7 +5780,7 @@
             "light"
         ],
         "full_desc": "味方全体の精神をアップする。",
-        "guide_id": 233,
+        "guide_id": 234,
         "icon_id": 700000077,
         "id": 30330,
         "level": 6,
@@ -5101,7 +5823,7 @@
             "light"
         ],
         "full_desc": "味方1体への魔法を跳ね返す。",
-        "guide_id": 234,
+        "guide_id": 235,
         "icon_id": 700000098,
         "id": 30370,
         "level": 8,
@@ -5204,7 +5926,7 @@
         "mp_cost": 20,
         "name": "サンダガ",
         "rarity": 6,
-        "short_desc": "敵全体に雷属性ダメージ+連続使用時威力をアップ",
+        "short_desc": "敵全体に雷属性ダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "70030": {
@@ -5934,7 +6656,7 @@
         "mp_cost": 20,
         "name": "エアロガ",
         "rarity": 6,
-        "short_desc": "敵全体に風属性ダメージ+連続使用時威力をアップ",
+        "short_desc": "敵全体に風属性ダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "70190": {
@@ -6030,7 +6752,7 @@
         "mp_cost": 20,
         "name": "ウォタガ",
         "rarity": 6,
-        "short_desc": "敵全体に水属性ダメージ+連続使用時威力をアップ",
+        "short_desc": "敵全体に水属性ダメージ+連続使用時ダメージをアップ",
         "skill_category": "offensive"
     },
     "70210": {
@@ -6218,5 +6940,384 @@
         "rarity": 8,
         "short_desc": "味方1体への魔法を跳ね返す",
         "skill_category": "stat buff"
+    },
+    "70250": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill int%": 200,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "enhance": 20200,
+        "enhance_level": 1,
+        "full_desc": "敵全体に火属性のダメージを与える。",
+        "guide_id": 119,
+        "icon_id": 700000021,
+        "id": 70250,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "ファイガ",
+        "rarity": 6,
+        "short_desc": "敵全体に火属性ダメージ",
+        "skill_category": "offensive"
+    },
+    "70260": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 72,
+                "effect_frame": 0,
+                "max uses": 2,
+                "params": [
+                    0,
+                    0,
+                    100,
+                    100,
+                    100,
+                    2
+                ],
+                "skill int%": 100,
+                "target_area": "all",
+                "target_side": "enemy",
+                "turn boost": 100
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "enhance": 20200,
+        "enhance_level": 2,
+        "full_desc": "敵全体に火属性のダメージを与える。連続して使用するとさらにダメージ量がアップする。",
+        "guide_id": 119,
+        "icon_id": 700000021,
+        "id": 70260,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "ファイガ",
+        "rarity": 6,
+        "short_desc": "敵全体に火属性ダメージ+連続使用時さらにダメージをアップ",
+        "skill_category": "offensive"
+    },
+    "70270": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill int%": 200,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "enhance": 20210,
+        "enhance_level": 1,
+        "full_desc": "敵全体に氷属性のダメージを与える。",
+        "guide_id": 120,
+        "icon_id": 700000022,
+        "id": 70270,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "ブリザガ",
+        "rarity": 6,
+        "short_desc": "敵全体に氷属性ダメージ",
+        "skill_category": "offensive"
+    },
+    "70280": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 72,
+                "effect_frame": 0,
+                "max uses": 2,
+                "params": [
+                    0,
+                    0,
+                    100,
+                    100,
+                    100,
+                    2
+                ],
+                "skill int%": 100,
+                "target_area": "all",
+                "target_side": "enemy",
+                "turn boost": 100
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "enhance": 20210,
+        "enhance_level": 2,
+        "full_desc": "敵全体に氷属性のダメージを与える。連続して使用するとさらにダメージ量がアップする。",
+        "guide_id": 120,
+        "icon_id": 700000022,
+        "id": 70280,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "ブリザガ",
+        "rarity": 6,
+        "short_desc": "敵全体に氷属性ダメージ+連続使用時さらにダメージをアップ",
+        "skill_category": "offensive"
+    },
+    "70290": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    70
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill int%": 200,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "enhance": 20220,
+        "enhance_level": 1,
+        "full_desc": "敵全体に雷属性のダメージを与える。",
+        "guide_id": 121,
+        "icon_id": 700000020,
+        "id": 70290,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "サンダガ",
+        "rarity": 6,
+        "short_desc": "敵全体に雷属性ダメージ",
+        "skill_category": "offensive"
+    },
+    "70300": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    70
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 72,
+                "effect_frame": 0,
+                "max uses": 2,
+                "params": [
+                    0,
+                    0,
+                    100,
+                    100,
+                    100,
+                    2
+                ],
+                "skill int%": 100,
+                "target_area": "all",
+                "target_side": "enemy",
+                "turn boost": 100
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "enhance": 20220,
+        "enhance_level": 2,
+        "full_desc": "敵全体に雷属性のダメージを与える。連続して使用するとさらにダメージ量がアップする。",
+        "guide_id": 121,
+        "icon_id": 700000020,
+        "id": 70300,
+        "level": 6,
+        "mp_cost": 20,
+        "name": "サンダガ",
+        "rarity": 6,
+        "short_desc": "敵全体に雷属性ダメージ+連続使用時さらにダメージをアップ",
+        "skill_category": "offensive"
+    },
+    "70310": {
+        "action_length": 0,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    300
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 70,
+                "effect_frame": 0,
+                "mnd ignore%": -25,
+                "params": [
+                    0,
+                    0,
+                    400,
+                    25
+                ],
+                "skill int%": 400,
+                "target_area": "all"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "enhance": 20530,
+        "enhance_level": 1,
+        "full_desc": "敵味方全体に闇属性一部魔法防御無視のダメージを与える。",
+        "guide_id": 152,
+        "icon_id": 700000026,
+        "id": 70310,
+        "level": 8,
+        "mp_cost": 56,
+        "name": "ジハード",
+        "rarity": 8,
+        "short_desc": "敵味方全体に闇属性一部魔法防御無視ダメージ",
+        "skill_category": "offensive"
+    },
+    "70320": {
+        "action_length": 0,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    300
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 70,
+                "effect_frame": 0,
+                "mnd ignore%": -25,
+                "params": [
+                    0,
+                    0,
+                    400,
+                    25
+                ],
+                "skill int%": 400,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "enhance": 20530,
+        "enhance_level": 2,
+        "full_desc": "敵全体に闇属性一部魔法防御無視のダメージを与える。",
+        "guide_id": 152,
+        "icon_id": 700000026,
+        "id": 70320,
+        "level": 8,
+        "mp_cost": 56,
+        "name": "ジハード",
+        "rarity": 8,
+        "short_desc": "敵全体に闇属性一部魔法防御無視ダメージ",
+        "skill_category": "offensive"
     }
 }

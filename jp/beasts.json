@@ -5,12 +5,12 @@
             "1": {
                 "beast_id": 1,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 11,
@@ -26,46 +26,95 @@
                 "stats": {
                     "atk": {
                         "base": 1000,
-                        "bonus_cap": null,
                         "max": 1300
                     },
                     "def": {
                         "base": 1200,
-                        "bonus_cap": null,
                         "max": 1500
                     },
                     "hp": {
                         "base": 1500,
-                        "bonus_cap": null,
                         "max": 2000
                     },
                     "int": {
                         "base": 1500,
-                        "bonus_cap": null,
                         "max": 2500
                     },
                     "mnd": {
                         "base": 1500,
-                        "bonus_cap": null,
                         "max": 2500
                     },
                     "mp": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2500
                     }
                 },
-                "summon": 10101
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                170
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に水属性ダメージと睡眠の効果",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                3000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        },
+                        {
+                            "action_id": 6,
+                            "effect_frame": 0,
+                            "inflict ailments%": {
+                                "sleep": 50
+                            },
+                            "params": [
+                                0,
+                                0,
+                                50,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy"
+                        }
+                    ],
+                    "elements": [
+                        "water"
+                    ],
+                    "id": 10101,
+                    "name": "ルナティックボイス"
+                }
             },
             "2": {
                 "beast_id": 1,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 12,
@@ -81,46 +130,95 @@
                 "stats": {
                     "atk": {
                         "base": 1500,
-                        "bonus_cap": null,
                         "max": 1800
                     },
                     "def": {
                         "base": 1600,
-                        "bonus_cap": null,
                         "max": 1900
                     },
                     "hp": {
                         "base": 2500,
-                        "bonus_cap": null,
                         "max": 3000
                     },
                     "int": {
                         "base": 2600,
-                        "bonus_cap": null,
                         "max": 3600
                     },
                     "mnd": {
                         "base": 2600,
-                        "bonus_cap": null,
                         "max": 3600
                     },
                     "mp": {
                         "base": 2700,
-                        "bonus_cap": null,
                         "max": 3400
                     }
                 },
-                "summon": 10102
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                170
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に水属性ダメージと睡眠の効果",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                12000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        },
+                        {
+                            "action_id": 6,
+                            "effect_frame": 0,
+                            "inflict ailments%": {
+                                "sleep": 60
+                            },
+                            "params": [
+                                0,
+                                0,
+                                60,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy"
+                        }
+                    ],
+                    "elements": [
+                        "water"
+                    ],
+                    "id": 10102,
+                    "name": "ルナティックボイス"
+                }
             },
             "3": {
                 "beast_id": 1,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 13,
@@ -136,36 +234,85 @@
                 "stats": {
                     "atk": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 2300
                     },
                     "def": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 2300
                     },
                     "hp": {
                         "base": 3500,
-                        "bonus_cap": null,
                         "max": 4000
                     },
                     "int": {
                         "base": 3700,
-                        "bonus_cap": null,
                         "max": 4700
                     },
                     "mnd": {
                         "base": 3700,
-                        "bonus_cap": null,
                         "max": 4700
                     },
                     "mp": {
                         "base": 3600,
-                        "bonus_cap": null,
                         "max": 4300
                     }
                 },
-                "summon": 10103
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                170
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に水属性ダメージと睡眠の効果",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                18000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        },
+                        {
+                            "action_id": 6,
+                            "effect_frame": 0,
+                            "inflict ailments%": {
+                                "sleep": 70
+                            },
+                            "params": [
+                                0,
+                                0,
+                                70,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy"
+                        }
+                    ],
+                    "elements": [
+                        "water"
+                    ],
+                    "id": 10103,
+                    "name": "ルナティックボイス"
+                }
             }
         },
         "id": 1,
@@ -178,12 +325,12 @@
             "1": {
                 "beast_id": 2,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 21,
@@ -201,46 +348,76 @@
                 "stats": {
                     "atk": {
                         "base": 2500,
-                        "bonus_cap": null,
                         "max": 3700
                     },
                     "def": {
                         "base": 1600,
-                        "bonus_cap": null,
                         "max": 2100
                     },
                     "hp": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 3000
                     },
                     "int": {
                         "base": 1200,
-                        "bonus_cap": null,
                         "max": 1600
                     },
                     "mnd": {
                         "base": 1200,
-                        "bonus_cap": null,
                         "max": 1600
                     },
                     "mp": {
                         "base": 1500,
-                        "bonus_cap": null,
                         "max": 1800
                     }
                 },
-                "summon": 10201
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                110
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に火属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                3200
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 79
+                        }
+                    ],
+                    "elements": [
+                        "fire"
+                    ],
+                    "id": 10201,
+                    "name": "地獄の火炎"
+                }
             },
             "2": {
                 "beast_id": 2,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 22,
@@ -258,46 +435,76 @@
                 "stats": {
                     "atk": {
                         "base": 3900,
-                        "bonus_cap": null,
                         "max": 5100
                     },
                     "def": {
                         "base": 2300,
-                        "bonus_cap": null,
                         "max": 2800
                     },
                     "hp": {
                         "base": 3500,
-                        "bonus_cap": null,
                         "max": 4500
                     },
                     "int": {
                         "base": 1700,
-                        "bonus_cap": null,
                         "max": 2100
                     },
                     "mnd": {
                         "base": 1700,
-                        "bonus_cap": null,
                         "max": 2100
                     },
                     "mp": {
                         "base": 1900,
-                        "bonus_cap": null,
                         "max": 2200
                     }
                 },
-                "summon": 10202
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                110
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に火属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                14000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 79
+                        }
+                    ],
+                    "elements": [
+                        "fire"
+                    ],
+                    "id": 10202,
+                    "name": "地獄の火炎"
+                }
             },
             "3": {
                 "beast_id": 2,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 23,
@@ -315,36 +522,66 @@
                 "stats": {
                     "atk": {
                         "base": 5300,
-                        "bonus_cap": null,
                         "max": 6500
                     },
                     "def": {
                         "base": 3000,
-                        "bonus_cap": null,
                         "max": 3500
                     },
                     "hp": {
                         "base": 5000,
-                        "bonus_cap": null,
                         "max": 6000
                     },
                     "int": {
                         "base": 2200,
-                        "bonus_cap": null,
                         "max": 2600
                     },
                     "mnd": {
                         "base": 2200,
-                        "bonus_cap": null,
                         "max": 2600
                     },
                     "mp": {
                         "base": 2300,
-                        "bonus_cap": null,
                         "max": 2600
                     }
                 },
-                "summon": 10203
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                110
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に火属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                21000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 79
+                        }
+                    ],
+                    "elements": [
+                        "fire"
+                    ],
+                    "id": 10203,
+                    "name": "地獄の火炎"
+                }
             }
         },
         "id": 2,
@@ -357,12 +594,12 @@
             "1": {
                 "beast_id": 3,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 31,
@@ -378,46 +615,75 @@
                 "stats": {
                     "atk": {
                         "base": 1200,
-                        "bonus_cap": null,
                         "max": 1500
                     },
                     "def": {
                         "base": 1400,
-                        "bonus_cap": null,
                         "max": 1800
                     },
                     "hp": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2300
                     },
                     "int": {
                         "base": 2300,
-                        "bonus_cap": null,
                         "max": 3800
                     },
                     "mnd": {
                         "base": 2300,
-                        "bonus_cap": null,
                         "max": 3800
                     },
                     "mp": {
                         "base": 2700,
-                        "bonus_cap": null,
                         "max": 4200
                     }
                 },
-                "summon": 10301
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                80
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に氷属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                3200
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "ice"
+                    ],
+                    "id": 10301,
+                    "name": "ダイヤモンドダスト"
+                }
             },
             "2": {
                 "beast_id": 3,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 32,
@@ -433,46 +699,75 @@
                 "stats": {
                     "atk": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2100
                     },
                     "def": {
                         "base": 1900,
-                        "bonus_cap": null,
                         "max": 2300
                     },
                     "hp": {
                         "base": 2800,
-                        "bonus_cap": null,
                         "max": 3300
                     },
                     "int": {
                         "base": 3900,
-                        "bonus_cap": null,
                         "max": 5400
                     },
                     "mnd": {
                         "base": 3900,
-                        "bonus_cap": null,
                         "max": 5400
                     },
                     "mp": {
                         "base": 4400,
-                        "bonus_cap": null,
                         "max": 5900
                     }
                 },
-                "summon": 10302
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                110
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に氷属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                14000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "ice"
+                    ],
+                    "id": 10302,
+                    "name": "ダイヤモンドダスト"
+                }
             },
             "3": {
                 "beast_id": 3,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 33,
@@ -488,36 +783,65 @@
                 "stats": {
                     "atk": {
                         "base": 2400,
-                        "bonus_cap": null,
                         "max": 2700
                     },
                     "def": {
                         "base": 2400,
-                        "bonus_cap": null,
                         "max": 2800
                     },
                     "hp": {
                         "base": 3800,
-                        "bonus_cap": null,
                         "max": 4300
                     },
                     "int": {
                         "base": 5500,
-                        "bonus_cap": null,
                         "max": 7000
                     },
                     "mnd": {
                         "base": 5500,
-                        "bonus_cap": null,
                         "max": 7000
                     },
                     "mp": {
                         "base": 6100,
-                        "bonus_cap": null,
                         "max": 7500
                     }
                 },
-                "summon": 10303
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                110
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に氷属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                21000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "ice"
+                    ],
+                    "id": 10303,
+                    "name": "ダイヤモンドダスト"
+                }
             }
         },
         "id": 3,
@@ -530,12 +854,12 @@
             "1": {
                 "beast_id": 4,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 41,
@@ -551,46 +875,74 @@
                 "stats": {
                     "atk": {
                         "base": 800,
-                        "bonus_cap": null,
                         "max": 1200
                     },
                     "def": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2400
                     },
                     "hp": {
                         "base": 1600,
-                        "bonus_cap": null,
                         "max": 2200
                     },
                     "int": {
                         "base": 1500,
-                        "bonus_cap": null,
                         "max": 2800
                     },
                     "mnd": {
                         "base": 2500,
-                        "bonus_cap": null,
                         "max": 4000
                     },
                     "mp": {
                         "base": 2500,
-                        "bonus_cap": null,
                         "max": 4000
                     }
                 },
-                "summon": 10401
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体への魔法を跳ね返す",
+                    "effects": [
+                        {
+                            "action_id": 86,
+                            "buff turns": 2,
+                            "effect_frame": 0,
+                            "params": [
+                                100,
+                                1,
+                                2
+                            ],
+                            "reflect attacks max": 1,
+                            "reflect damage%": 100,
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [
+                        "light"
+                    ],
+                    "id": 10401,
+                    "name": "ルビーの光"
+                }
             },
             "2": {
                 "beast_id": 4,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 42,
@@ -606,46 +958,74 @@
                 "stats": {
                     "atk": {
                         "base": 1300,
-                        "bonus_cap": null,
                         "max": 1800
                     },
                     "def": {
                         "base": 2600,
-                        "bonus_cap": null,
                         "max": 3200
                     },
                     "hp": {
                         "base": 2600,
-                        "bonus_cap": null,
                         "max": 3200
                     },
                     "int": {
                         "base": 3000,
-                        "bonus_cap": null,
                         "max": 4300
                     },
                     "mnd": {
                         "base": 4200,
-                        "bonus_cap": null,
                         "max": 6000
                     },
                     "mp": {
                         "base": 4200,
-                        "bonus_cap": null,
                         "max": 5700
                     }
                 },
-                "summon": 10402
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体への魔法を跳ね返す",
+                    "effects": [
+                        {
+                            "action_id": 86,
+                            "buff turns": 3,
+                            "effect_frame": 0,
+                            "params": [
+                                100,
+                                1,
+                                3
+                            ],
+                            "reflect attacks max": 1,
+                            "reflect damage%": 100,
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [
+                        "light"
+                    ],
+                    "id": 10402,
+                    "name": "ルビーの光"
+                }
             },
             "3": {
                 "beast_id": 4,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 43,
@@ -661,36 +1041,64 @@
                 "stats": {
                     "atk": {
                         "base": 1900,
-                        "bonus_cap": null,
                         "max": 2300
                     },
                     "def": {
                         "base": 3400,
-                        "bonus_cap": null,
                         "max": 4000
                     },
                     "hp": {
                         "base": 3600,
-                        "bonus_cap": null,
                         "max": 4200
                     },
                     "int": {
                         "base": 4500,
-                        "bonus_cap": null,
                         "max": 5800
                     },
                     "mnd": {
                         "base": 6200,
-                        "bonus_cap": null,
                         "max": 7800
                     },
                     "mp": {
                         "base": 6000,
-                        "bonus_cap": null,
                         "max": 7200
                     }
                 },
-                "summon": 10403
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体への魔法を跳ね返す",
+                    "effects": [
+                        {
+                            "action_id": 86,
+                            "buff turns": 4,
+                            "effect_frame": 0,
+                            "params": [
+                                100,
+                                1,
+                                4
+                            ],
+                            "reflect attacks max": 1,
+                            "reflect damage%": 100,
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [
+                        "light"
+                    ],
+                    "id": 10403,
+                    "name": "ルビーの光"
+                }
             }
         },
         "id": 4,
@@ -703,12 +1111,12 @@
             "1": {
                 "beast_id": 5,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 51,
@@ -724,46 +1132,75 @@
                 "stats": {
                     "atk": {
                         "base": 1000,
-                        "bonus_cap": null,
                         "max": 1200
                     },
                     "def": {
                         "base": 1200,
-                        "bonus_cap": null,
                         "max": 1700
                     },
                     "hp": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 2800
                     },
                     "int": {
                         "base": 2200,
-                        "bonus_cap": null,
                         "max": 3700
                     },
                     "mnd": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2300
                     },
                     "mp": {
                         "base": 2800,
-                        "bonus_cap": null,
                         "max": 4300
                     }
                 },
-                "summon": 10501
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に闇属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                4200
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "dark"
+                    ],
+                    "id": 10501,
+                    "name": "闇よりの使者"
+                }
             },
             "2": {
                 "beast_id": 5,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 52,
@@ -779,46 +1216,75 @@
                 "stats": {
                     "atk": {
                         "base": 1300,
-                        "bonus_cap": null,
                         "max": 1500
                     },
                     "def": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2300
                     },
                     "hp": {
                         "base": 3500,
-                        "bonus_cap": null,
                         "max": 4300
                     },
                     "int": {
                         "base": 3800,
-                        "bonus_cap": null,
                         "max": 5300
                     },
                     "mnd": {
                         "base": 2600,
-                        "bonus_cap": null,
                         "max": 3100
                     },
                     "mp": {
                         "base": 4500,
-                        "bonus_cap": null,
                         "max": 6000
                     }
                 },
-                "summon": 10502
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                190
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に闇属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                17000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "dark"
+                    ],
+                    "id": 10502,
+                    "name": "闇よりの使者"
+                }
             },
             "3": {
                 "beast_id": 5,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 53,
@@ -834,36 +1300,65 @@
                 "stats": {
                     "atk": {
                         "base": 1600,
-                        "bonus_cap": null,
                         "max": 1800
                     },
                     "def": {
                         "base": 2400,
-                        "bonus_cap": null,
                         "max": 2900
                     },
                     "hp": {
                         "base": 5000,
-                        "bonus_cap": null,
                         "max": 5800
                     },
                     "int": {
                         "base": 5400,
-                        "bonus_cap": null,
                         "max": 6900
                     },
                     "mnd": {
                         "base": 3400,
-                        "bonus_cap": null,
                         "max": 3900
                     },
                     "mp": {
                         "base": 6200,
-                        "bonus_cap": null,
                         "max": 7700
                     }
                 },
-                "summon": 10503
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に闇属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                26000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "dark"
+                    ],
+                    "id": 10503,
+                    "name": "闇よりの使者"
+                }
             }
         },
         "id": 5,
@@ -876,12 +1371,12 @@
             "1": {
                 "beast_id": 6,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 61,
@@ -897,46 +1392,73 @@
                 "stats": {
                     "atk": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 2500
                     },
                     "def": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 3000
                     },
                     "hp": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 3500
                     },
                     "int": {
                         "base": 1100,
-                        "bonus_cap": null,
                         "max": 1300
                     },
                     "mnd": {
                         "base": 1100,
-                        "bonus_cap": null,
                         "max": 1300
                     },
                     "mp": {
                         "base": 2700,
-                        "bonus_cap": null,
                         "max": 3400
                     }
                 },
-                "summon": 10601
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体への物理ダメージを軽減",
+                    "effects": [
+                        {
+                            "action_id": 18,
+                            "buff turns": 1,
+                            "effect_frame": 0,
+                            "params": [
+                                50,
+                                1,
+                                1
+                            ],
+                            "reduce phys damage%": 50,
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [
+                        "earth"
+                    ],
+                    "id": 10601,
+                    "name": "アースウォール"
+                }
             },
             "2": {
                 "beast_id": 6,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 62,
@@ -952,46 +1474,73 @@
                 "stats": {
                     "atk": {
                         "base": 2700,
-                        "bonus_cap": null,
                         "max": 3200
                     },
                     "def": {
                         "base": 3500,
-                        "bonus_cap": null,
                         "max": 4500
                     },
                     "hp": {
                         "base": 4000,
-                        "bonus_cap": null,
                         "max": 5500
                     },
                     "int": {
                         "base": 1400,
-                        "bonus_cap": null,
                         "max": 1600
                     },
                     "mnd": {
                         "base": 1400,
-                        "bonus_cap": null,
                         "max": 1600
                     },
                     "mp": {
                         "base": 3600,
-                        "bonus_cap": null,
                         "max": 4300
                     }
                 },
-                "summon": 10602
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体への物理ダメージを軽減",
+                    "effects": [
+                        {
+                            "action_id": 18,
+                            "buff turns": 1,
+                            "effect_frame": 0,
+                            "params": [
+                                60,
+                                1,
+                                1
+                            ],
+                            "reduce phys damage%": 60,
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [
+                        "earth"
+                    ],
+                    "id": 10602,
+                    "name": "アースウォール"
+                }
             },
             "3": {
                 "beast_id": 6,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 63,
@@ -1007,36 +1556,63 @@
                 "stats": {
                     "atk": {
                         "base": 3400,
-                        "bonus_cap": null,
                         "max": 3900
                     },
                     "def": {
                         "base": 5000,
-                        "bonus_cap": null,
                         "max": 6000
                     },
                     "hp": {
                         "base": 6000,
-                        "bonus_cap": null,
                         "max": 7500
                     },
                     "int": {
                         "base": 1700,
-                        "bonus_cap": null,
                         "max": 1900
                     },
                     "mnd": {
                         "base": 1700,
-                        "bonus_cap": null,
                         "max": 1900
                     },
                     "mp": {
                         "base": 4600,
-                        "bonus_cap": null,
                         "max": 5800
                     }
                 },
-                "summon": 10603
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体への物理ダメージを軽減",
+                    "effects": [
+                        {
+                            "action_id": 18,
+                            "buff turns": 1,
+                            "effect_frame": 0,
+                            "params": [
+                                70,
+                                1,
+                                1
+                            ],
+                            "reduce phys damage%": 70,
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [
+                        "earth"
+                    ],
+                    "id": 10603,
+                    "name": "アースウォール"
+                }
             }
         },
         "id": 6,
@@ -1049,12 +1625,12 @@
             "1": {
                 "beast_id": 7,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 71,
@@ -1070,46 +1646,75 @@
                 "stats": {
                     "atk": {
                         "base": 700,
-                        "bonus_cap": null,
                         "max": 1000
                     },
                     "def": {
                         "base": 300,
-                        "bonus_cap": null,
                         "max": 600
                     },
                     "hp": {
                         "base": 1400,
-                        "bonus_cap": null,
                         "max": 1800
                     },
                     "int": {
                         "base": 2600,
-                        "bonus_cap": null,
                         "max": 4100
                     },
                     "mnd": {
                         "base": 1000,
-                        "bonus_cap": null,
                         "max": 2500
                     },
                     "mp": {
                         "base": 2900,
-                        "bonus_cap": null,
                         "max": 4400
                     }
                 },
-                "summon": 10701
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                140
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に雷属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                3500
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "thunder"
+                    ],
+                    "id": 10701,
+                    "name": "裁きの雷"
+                }
             },
             "2": {
                 "beast_id": 7,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 72,
@@ -1125,46 +1730,75 @@
                 "stats": {
                     "atk": {
                         "base": 1300,
-                        "bonus_cap": null,
                         "max": 1600
                     },
                     "def": {
                         "base": 800,
-                        "bonus_cap": null,
                         "max": 1100
                     },
                     "hp": {
                         "base": 2400,
-                        "bonus_cap": null,
                         "max": 2800
                     },
                     "int": {
                         "base": 4400,
-                        "bonus_cap": null,
                         "max": 5900
                     },
                     "mnd": {
                         "base": 3000,
-                        "bonus_cap": null,
                         "max": 4500
                     },
                     "mp": {
                         "base": 4700,
-                        "bonus_cap": null,
                         "max": 6200
                     }
                 },
-                "summon": 10702
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                110
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に雷属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                14000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "thunder"
+                    ],
+                    "id": 10702,
+                    "name": "裁きの雷"
+                }
             },
             "3": {
                 "beast_id": 7,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 73,
@@ -1180,36 +1814,65 @@
                 "stats": {
                     "atk": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2100
                     },
                     "def": {
                         "base": 1400,
-                        "bonus_cap": null,
                         "max": 1700
                     },
                     "hp": {
                         "base": 3400,
-                        "bonus_cap": null,
                         "max": 3800
                     },
                     "int": {
                         "base": 6200,
-                        "bonus_cap": null,
                         "max": 7700
                     },
                     "mnd": {
                         "base": 5000,
-                        "bonus_cap": null,
                         "max": 6500
                     },
                     "mp": {
                         "base": 6500,
-                        "bonus_cap": null,
                         "max": 8000
                     }
                 },
-                "summon": 10703
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                110
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に雷属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                21000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "thunder"
+                    ],
+                    "id": 10703,
+                    "name": "裁きの雷"
+                }
             }
         },
         "id": 7,
@@ -1222,12 +1885,12 @@
             "1": {
                 "beast_id": 8,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 81,
@@ -1243,46 +1906,76 @@
                 "stats": {
                     "atk": {
                         "base": 2700,
-                        "bonus_cap": null,
                         "max": 3900
                     },
                     "def": {
                         "base": 1500,
-                        "bonus_cap": null,
                         "max": 2700
                     },
                     "hp": {
                         "base": 2300,
-                        "bonus_cap": null,
                         "max": 4000
                     },
                     "int": {
                         "base": 1100,
-                        "bonus_cap": null,
                         "max": 1500
                     },
                     "mnd": {
                         "base": 2300,
-                        "bonus_cap": null,
                         "max": 2700
                     },
                     "mp": {
                         "base": 1300,
-                        "bonus_cap": null,
                         "max": 1600
                     }
                 },
-                "summon": 10801
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                170
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に土属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                4200
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 79
+                        }
+                    ],
+                    "elements": [
+                        "earth"
+                    ],
+                    "id": 10801,
+                    "name": "大地の怒り"
+                }
             },
             "2": {
                 "beast_id": 8,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 82,
@@ -1298,46 +1991,76 @@
                 "stats": {
                     "atk": {
                         "base": 4100,
-                        "bonus_cap": null,
                         "max": 5300
                     },
                     "def": {
                         "base": 2800,
-                        "bonus_cap": null,
                         "max": 4000
                     },
                     "hp": {
                         "base": 4400,
-                        "bonus_cap": null,
                         "max": 6000
                     },
                     "int": {
                         "base": 1600,
-                        "bonus_cap": null,
                         "max": 1800
                     },
                     "mnd": {
                         "base": 2800,
-                        "bonus_cap": null,
                         "max": 3200
                     },
                     "mp": {
                         "base": 1700,
-                        "bonus_cap": null,
                         "max": 2000
                     }
                 },
-                "summon": 10802
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                170
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に土属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                17000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 79
+                        }
+                    ],
+                    "elements": [
+                        "earth"
+                    ],
+                    "id": 10802,
+                    "name": "大地の怒り"
+                }
             },
             "3": {
                 "beast_id": 8,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 83,
@@ -1353,36 +2076,66 @@
                 "stats": {
                     "atk": {
                         "base": 5500,
-                        "bonus_cap": null,
                         "max": 6700
                     },
                     "def": {
                         "base": 4000,
-                        "bonus_cap": null,
                         "max": 5200
                     },
                     "hp": {
                         "base": 6600,
-                        "bonus_cap": null,
                         "max": 8200
                     },
                     "int": {
                         "base": 1900,
-                        "bonus_cap": null,
                         "max": 2100
                     },
                     "mnd": {
                         "base": 3300,
-                        "bonus_cap": null,
                         "max": 3700
                     },
                     "mp": {
                         "base": 2100,
-                        "bonus_cap": null,
                         "max": 2300
                     }
                 },
-                "summon": 10803
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                120
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に土属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                26000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 79
+                        }
+                    ],
+                    "elements": [
+                        "earth"
+                    ],
+                    "id": 10803,
+                    "name": "大地の怒り"
+                }
             }
         },
         "id": 8,
@@ -1395,12 +2148,12 @@
             "1": {
                 "beast_id": 9,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 91,
@@ -1416,46 +2169,75 @@
                 "stats": {
                     "atk": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2000
                     },
                     "def": {
                         "base": 1200,
-                        "bonus_cap": null,
                         "max": 1600
                     },
                     "hp": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2600
                     },
                     "int": {
                         "base": 2800,
-                        "bonus_cap": null,
                         "max": 4200
                     },
                     "mnd": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 2600
                     },
                     "mp": {
                         "base": 2600,
-                        "bonus_cap": null,
                         "max": 3800
                     }
                 },
-                "summon": 10901
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                150
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に風属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                4500
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "wind"
+                    ],
+                    "id": 10901,
+                    "name": "四天の風"
+                }
             },
             "2": {
                 "beast_id": 9,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 92,
@@ -1471,46 +2253,75 @@
                 "stats": {
                     "atk": {
                         "base": 2200,
-                        "bonus_cap": null,
                         "max": 2600
                     },
                     "def": {
                         "base": 1700,
-                        "bonus_cap": null,
                         "max": 2000
                     },
                     "hp": {
                         "base": 3000,
-                        "bonus_cap": null,
                         "max": 4000
                     },
                     "int": {
                         "base": 4600,
-                        "bonus_cap": null,
                         "max": 6000
                     },
                     "mnd": {
                         "base": 2700,
-                        "bonus_cap": null,
                         "max": 3500
                     },
                     "mp": {
                         "base": 4200,
-                        "bonus_cap": null,
                         "max": 5400
                     }
                 },
-                "summon": 10902
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                190
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に風属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                18000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "wind"
+                    ],
+                    "id": 10902,
+                    "name": "四天の風"
+                }
             },
             "3": {
                 "beast_id": 9,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 93,
@@ -1526,36 +2337,65 @@
                 "stats": {
                     "atk": {
                         "base": 2800,
-                        "bonus_cap": null,
                         "max": 3400
                     },
                     "def": {
                         "base": 2200,
-                        "bonus_cap": null,
                         "max": 2600
                     },
                     "hp": {
                         "base": 4400,
-                        "bonus_cap": null,
                         "max": 5000
                     },
                     "int": {
                         "base": 6300,
-                        "bonus_cap": null,
                         "max": 7900
                     },
                     "mnd": {
                         "base": 3600,
-                        "bonus_cap": null,
                         "max": 4200
                     },
                     "mp": {
                         "base": 5600,
-                        "bonus_cap": null,
                         "max": 6800
                     }
                 },
-                "summon": 10903
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                230
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に風属性ダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                27000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [
+                        "wind"
+                    ],
+                    "id": 10903,
+                    "name": "四天の風"
+                }
             }
         },
         "id": 9,
@@ -1568,12 +2408,12 @@
             "1": {
                 "beast_id": 10,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 101,
@@ -1585,46 +2425,74 @@
                 "stats": {
                     "atk": {
                         "base": 2700,
-                        "bonus_cap": null,
                         "max": 4200
                     },
                     "def": {
                         "base": 1700,
-                        "bonus_cap": null,
                         "max": 2900
                     },
                     "hp": {
                         "base": 2100,
-                        "bonus_cap": null,
                         "max": 3400
                     },
                     "int": {
                         "base": 1100,
-                        "bonus_cap": null,
                         "max": 1500
                     },
                     "mnd": {
                         "base": 1300,
-                        "bonus_cap": null,
                         "max": 1700
                     },
                     "mp": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 2900
                     }
                 },
-                "summon": 11001
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                70
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体にダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                6000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 79
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11001,
+                    "name": "グングニル"
+                }
             },
             "2": {
                 "beast_id": 10,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 102,
@@ -1636,46 +2504,69 @@
                 "stats": {
                     "atk": {
                         "base": 4500,
-                        "bonus_cap": null,
                         "max": 6000
                     },
                     "def": {
                         "base": 3000,
-                        "bonus_cap": null,
                         "max": 4200
                     },
                     "hp": {
                         "base": 3700,
-                        "bonus_cap": null,
                         "max": 5000
                     },
                     "int": {
                         "base": 1600,
-                        "bonus_cap": null,
                         "max": 2000
                     },
                     "mnd": {
                         "base": 1800,
-                        "bonus_cap": null,
                         "max": 2200
                     },
                     "mp": {
                         "base": 3000,
-                        "bonus_cap": null,
                         "max": 3900
                     }
                 },
-                "summon": 11002
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                70
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に即死の効果、またはダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                20000,
+                                50,
+                                1
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 94
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11002,
+                    "name": "斬鉄剣"
+                }
             },
             "3": {
                 "beast_id": 10,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 103,
@@ -1687,36 +2578,59 @@
                 "stats": {
                     "atk": {
                         "base": 6300,
-                        "bonus_cap": null,
                         "max": 7800
                     },
                     "def": {
                         "base": 4300,
-                        "bonus_cap": null,
                         "max": 5500
                     },
                     "hp": {
                         "base": 5300,
-                        "bonus_cap": null,
                         "max": 6600
                     },
                     "int": {
                         "base": 2100,
-                        "bonus_cap": null,
                         "max": 2500
                     },
                     "mnd": {
                         "base": 2300,
-                        "bonus_cap": null,
                         "max": 2700
                     },
                     "mp": {
                         "base": 4000,
-                        "bonus_cap": null,
                         "max": 4900
                     }
                 },
-                "summon": 11003
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                70
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に即死の効果、またはダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                30000,
+                                60,
+                                1
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 94
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11003,
+                    "name": "真・斬鉄剣"
+                }
             }
         },
         "id": 10,
@@ -1729,12 +2643,12 @@
             "1": {
                 "beast_id": 11,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 30,
                 "id": 111,
@@ -1746,46 +2660,71 @@
                 "stats": {
                     "atk": {
                         "base": 1100,
-                        "bonus_cap": null,
                         "max": 1400
                     },
                     "def": {
                         "base": 1500,
-                        "bonus_cap": null,
                         "max": 1900
                     },
                     "hp": {
                         "base": 2100,
-                        "bonus_cap": null,
                         "max": 3200
                     },
                     "int": {
                         "base": 1400,
-                        "bonus_cap": null,
                         "max": 2300
                     },
                     "mnd": {
                         "base": 2400,
-                        "bonus_cap": null,
                         "max": 3900
                     },
                     "mp": {
                         "base": 2600,
-                        "bonus_cap": null,
                         "max": 3700
                     }
                 },
-                "summon": 11101
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                240
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体のHPを回復",
+                    "effects": [
+                        {
+                            "action_id": 26,
+                            "effect_frame": 0,
+                            "hp recovery max%": 50,
+                            "hp recovery min%": 50,
+                            "params": [
+                                50,
+                                50,
+                                100
+                            ],
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11101,
+                    "name": "魅惑の抱擁"
+                }
             },
             "2": {
                 "beast_id": 11,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 40,
                 "id": 112,
@@ -1797,46 +2736,71 @@
                 "stats": {
                     "atk": {
                         "base": 1600,
-                        "bonus_cap": null,
                         "max": 2000
                     },
                     "def": {
                         "base": 2000,
-                        "bonus_cap": null,
                         "max": 2400
                     },
                     "hp": {
                         "base": 3600,
-                        "bonus_cap": null,
                         "max": 4800
                     },
                     "int": {
                         "base": 2400,
-                        "bonus_cap": null,
                         "max": 3400
                     },
                     "mnd": {
                         "base": 4000,
-                        "bonus_cap": null,
                         "max": 5700
                     },
                     "mp": {
                         "base": 3800,
-                        "bonus_cap": null,
                         "max": 5000
                     }
                 },
-                "summon": 11102
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                240
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体のHPを回復",
+                    "effects": [
+                        {
+                            "action_id": 26,
+                            "effect_frame": 0,
+                            "hp recovery max%": 75,
+                            "hp recovery min%": 75,
+                            "params": [
+                                75,
+                                75,
+                                100
+                            ],
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11102,
+                    "name": "魅惑の抱擁"
+                }
             },
             "3": {
                 "beast_id": 11,
                 "equip_bonus%": {
-                    "atk": 1,
-                    "def": 1,
-                    "hp": 1,
-                    "int": 1,
-                    "mnd": 1,
-                    "mp": 1
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
                 },
                 "exp_growth": 50,
                 "id": 113,
@@ -1848,40 +2812,600 @@
                 "stats": {
                     "atk": {
                         "base": 2200,
-                        "bonus_cap": null,
                         "max": 2500
                     },
                     "def": {
                         "base": 2500,
-                        "bonus_cap": null,
                         "max": 3000
                     },
                     "hp": {
                         "base": 5100,
-                        "bonus_cap": null,
                         "max": 6300
                     },
                     "int": {
                         "base": 3500,
-                        "bonus_cap": null,
                         "max": 4500
                     },
                     "mnd": {
                         "base": 5900,
-                        "bonus_cap": null,
                         "max": 7600
                     },
                     "mp": {
                         "base": 5300,
-                        "bonus_cap": null,
                         "max": 6500
                     }
                 },
-                "summon": 11103
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                240
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体のHPを全回復",
+                    "effects": [
+                        {
+                            "action_id": 26,
+                            "effect_frame": 0,
+                            "hp recovery max%": 100,
+                            "hp recovery min%": 100,
+                            "params": [
+                                100,
+                                100,
+                                100
+                            ],
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11103,
+                    "name": "魅惑の抱擁"
+                }
             }
         },
         "id": 11,
         "name": "ラクシュミ",
+        "sp_max": null
+    },
+    "15": {
+        "board_id": 15,
+        "forms": {
+            "1": {
+                "beast_id": 15,
+                "equip_bonus%": {
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
+                },
+                "exp_growth": 31,
+                "id": 151,
+                "max_level": 30,
+                "resists": {
+                    "ailments": {},
+                    "elements": {}
+                },
+                "stats": {
+                    "atk": {
+                        "base": 4500,
+                        "max": 6000
+                    },
+                    "def": {
+                        "base": 4500,
+                        "max": 6000
+                    },
+                    "hp": {
+                        "base": 4800,
+                        "max": 6400
+                    },
+                    "int": {
+                        "base": 4500,
+                        "max": 6000
+                    },
+                    "mnd": {
+                        "base": 4500,
+                        "max": 6000
+                    },
+                    "mp": {
+                        "base": 4700,
+                        "max": 6300
+                    }
+                },
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                170
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体にダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                30000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11501,
+                    "name": "メガフレア"
+                }
+            },
+            "2": {
+                "beast_id": 15,
+                "equip_bonus%": {
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
+                },
+                "exp_growth": 41,
+                "id": 152,
+                "max_level": 40,
+                "resists": {
+                    "ailments": {},
+                    "elements": {}
+                },
+                "stats": {
+                    "atk": {
+                        "base": 6200,
+                        "max": 8400
+                    },
+                    "def": {
+                        "base": 6200,
+                        "max": 8400
+                    },
+                    "hp": {
+                        "base": 6600,
+                        "max": 9600
+                    },
+                    "int": {
+                        "base": 6200,
+                        "max": 8400
+                    },
+                    "mnd": {
+                        "base": 6200,
+                        "max": 8400
+                    },
+                    "mp": {
+                        "base": 6500,
+                        "max": 9450
+                    }
+                },
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                210
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体にダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                40000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11502,
+                    "name": "メガフレア"
+                }
+            },
+            "3": {
+                "beast_id": 15,
+                "equip_bonus%": {
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
+                },
+                "exp_growth": 51,
+                "id": 153,
+                "max_level": 50,
+                "resists": {
+                    "ailments": {},
+                    "elements": {}
+                },
+                "stats": {
+                    "atk": {
+                        "base": 8600,
+                        "max": 12000
+                    },
+                    "def": {
+                        "base": 8600,
+                        "max": 12000
+                    },
+                    "hp": {
+                        "base": 9800,
+                        "max": 12800
+                    },
+                    "int": {
+                        "base": 8600,
+                        "max": 12000
+                    },
+                    "mnd": {
+                        "base": 8600,
+                        "max": 12000
+                    },
+                    "mp": {
+                        "base": 9650,
+                        "max": 12600
+                    }
+                },
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                210
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体にダメージ",
+                    "effects": [
+                        {
+                            "effect_frame": 0,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                50000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy",
+                            "unknown_action": 80
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11503,
+                    "name": "メガフレア"
+                }
+            }
+        },
+        "id": 15,
+        "name": "バハムート",
+        "sp_max": null
+    },
+    "16": {
+        "board_id": 16,
+        "forms": {
+            "1": {
+                "beast_id": 16,
+                "equip_bonus%": {
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
+                },
+                "exp_growth": 32,
+                "id": 161,
+                "max_level": 30,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "dark": "25",
+                        "fire": "-50",
+                        "ice": "50",
+                        "light": "-25"
+                    }
+                },
+                "stats": {
+                    "atk": {
+                        "base": 2900,
+                        "max": 4200
+                    },
+                    "def": {
+                        "base": 1400,
+                        "max": 1900
+                    },
+                    "hp": {
+                        "base": 2500,
+                        "max": 3600
+                    },
+                    "int": {
+                        "base": 2900,
+                        "max": 4200
+                    },
+                    "mnd": {
+                        "base": 1400,
+                        "max": 1900
+                    },
+                    "mp": {
+                        "base": 1600,
+                        "max": 2300
+                    }
+                },
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体の攻撃防御魔力精神をアップ",
+                    "effects": [
+                        {
+                            "action_id": 3,
+                            "atk buff%": 50,
+                            "buff turns": 3,
+                            "def buff%": 50,
+                            "effect_frame": 0,
+                            "int buff%": 50,
+                            "mnd buff%": 50,
+                            "params": [
+                                50,
+                                50,
+                                50,
+                                50,
+                                3,
+                                1
+                            ],
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11601,
+                    "name": "ハウリングムーン"
+                }
+            },
+            "2": {
+                "beast_id": 16,
+                "equip_bonus%": {
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
+                },
+                "exp_growth": 42,
+                "id": 162,
+                "max_level": 40,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "dark": "25",
+                        "fire": "-50",
+                        "ice": "50",
+                        "light": "-25"
+                    }
+                },
+                "stats": {
+                    "atk": {
+                        "base": 4400,
+                        "max": 5500
+                    },
+                    "def": {
+                        "base": 2100,
+                        "max": 2500
+                    },
+                    "hp": {
+                        "base": 3800,
+                        "max": 4800
+                    },
+                    "int": {
+                        "base": 4400,
+                        "max": 5500
+                    },
+                    "mnd": {
+                        "base": 2100,
+                        "max": 2500
+                    },
+                    "mp": {
+                        "base": 2500,
+                        "max": 3000
+                    }
+                },
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体の攻撃防御魔力精神をアップ+物理攻撃を1回回避",
+                    "effects": [
+                        {
+                            "action_id": 3,
+                            "atk buff%": 80,
+                            "buff turns": 3,
+                            "def buff%": 80,
+                            "effect_frame": 0,
+                            "int buff%": 80,
+                            "mnd buff%": 80,
+                            "params": [
+                                80,
+                                80,
+                                80,
+                                80,
+                                3,
+                                1
+                            ],
+                            "target_area": "all",
+                            "target_side": "ally"
+                        },
+                        {
+                            "action_id": 54,
+                            "buff turns": 3,
+                            "effect_frame": 0,
+                            "evade attack max": 1,
+                            "params": [
+                                1,
+                                3
+                            ],
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11602,
+                    "name": "ハウリングムーン"
+                }
+            },
+            "3": {
+                "beast_id": 16,
+                "equip_bonus%": {
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
+                },
+                "exp_growth": 52,
+                "id": 163,
+                "max_level": 50,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "dark": "25",
+                        "fire": "-50",
+                        "ice": "50",
+                        "light": "-25"
+                    }
+                },
+                "stats": {
+                    "atk": {
+                        "base": 5700,
+                        "max": 8400
+                    },
+                    "def": {
+                        "base": 2700,
+                        "max": 3800
+                    },
+                    "hp": {
+                        "base": 5000,
+                        "max": 7200
+                    },
+                    "int": {
+                        "base": 5700,
+                        "max": 8400
+                    },
+                    "mnd": {
+                        "base": 2700,
+                        "max": 3800
+                    },
+                    "mp": {
+                        "base": 3200,
+                        "max": 4600
+                    }
+                },
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                30
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "味方全体の攻撃防御魔力精神をアップ+物理攻撃を2回回避",
+                    "effects": [
+                        {
+                            "action_id": 3,
+                            "atk buff%": 80,
+                            "buff turns": 3,
+                            "def buff%": 80,
+                            "effect_frame": 0,
+                            "int buff%": 80,
+                            "mnd buff%": 80,
+                            "params": [
+                                80,
+                                80,
+                                80,
+                                80,
+                                3,
+                                1
+                            ],
+                            "target_area": "all",
+                            "target_side": "ally"
+                        },
+                        {
+                            "action_id": 54,
+                            "buff turns": 4,
+                            "effect_frame": 0,
+                            "evade attack max": 2,
+                            "params": [
+                                2,
+                                4
+                            ],
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [],
+                    "id": 11603,
+                    "name": "ハウリングムーン"
+                }
+            }
+        },
+        "id": 16,
+        "name": "フェンリル",
         "sp_max": null
     }
 }

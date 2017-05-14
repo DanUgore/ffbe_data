@@ -3472,6 +3472,16 @@
                 }
             ]
         },
+        "18": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 6,
+                    "name": "防御+10%"
+                }
+            ],
+            "magic": []
+        },
         "24": {
             "abilities": [],
             "magic": [
@@ -3492,6 +3502,16 @@
                 }
             ]
         },
+        "32": {
+            "abilities": [
+                {
+                    "id": "219440",
+                    "min_rarity": 6,
+                    "name": "慈しみの光"
+                }
+            ],
+            "magic": []
+        },
         "36": {
             "abilities": [],
             "magic": [
@@ -3501,6 +3521,16 @@
                     "name": "ストナ"
                 }
             ]
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "219470",
+                    "min_rarity": 6,
+                    "name": "白光の乙女"
+                }
+            ],
+            "magic": []
         },
         "40": {
             "abilities": [],
@@ -3522,6 +3552,26 @@
                 }
             ]
         },
+        "49": {
+            "abilities": [
+                {
+                    "id": "219410",
+                    "min_rarity": 6,
+                    "name": "白光の加護"
+                }
+            ],
+            "magic": []
+        },
+        "53": {
+            "abilities": [
+                {
+                    "id": "100060",
+                    "min_rarity": 6,
+                    "name": "MP+30%"
+                }
+            ],
+            "magic": []
+        },
         "58": {
             "abilities": [
                 {
@@ -3542,6 +3592,26 @@
                 }
             ]
         },
+        "68": {
+            "abilities": [
+                {
+                    "id": "219460",
+                    "min_rarity": 6,
+                    "name": "ホワイトエナジー"
+                }
+            ],
+            "magic": []
+        },
+        "78": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 6,
+                    "name": "HP+20%"
+                }
+            ],
+            "magic": []
+        },
         "80": {
             "abilities": [],
             "magic": [
@@ -3551,6 +3621,26 @@
                     "name": "ケアルガ"
                 }
             ]
+        },
+        "96": {
+            "abilities": [
+                {
+                    "id": "219450",
+                    "min_rarity": 6,
+                    "name": "白光の大蘇生"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "219480",
+                    "min_rarity": 6,
+                    "name": "T白魔法"
+                }
+            ],
+            "magic": []
         }
     },
     "100002803": {
@@ -4072,12 +4162,37 @@
         }
     },
     "100003803": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "218130",
+                    "min_rarity": 6,
+                    "name": "苦無雨"
+                },
+                {
+                    "id": "204490",
+                    "min_rarity": 6,
+                    "name": "空蝉"
+                }
+            ],
+            "magic": []
+        },
         "3": {
             "abilities": [
                 {
                     "id": "200180",
                     "min_rarity": 0,
                     "name": "なげる"
+                }
+            ],
+            "magic": []
+        },
+        "7": {
+            "abilities": [
+                {
+                    "id": "100030",
+                    "min_rarity": 6,
+                    "name": "HP+30%"
                 }
             ],
             "magic": []
@@ -4092,12 +4207,37 @@
             ],
             "magic": []
         },
+        "18": {
+            "abilities": [
+                {
+                    "id": "101040",
+                    "min_rarity": 6,
+                    "name": "マンイーター"
+                },
+                {
+                    "id": "100070",
+                    "min_rarity": 6,
+                    "name": "攻撃+10%"
+                }
+            ],
+            "magic": []
+        },
         "24": {
             "abilities": [
                 {
                     "id": "200410",
                     "min_rarity": 0,
                     "name": "かくれる"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "218150",
+                    "min_rarity": 6,
+                    "name": "闇の呼び声"
                 }
             ],
             "magic": []
@@ -4122,6 +4262,21 @@
             ],
             "magic": []
         },
+        "39": {
+            "abilities": [
+                {
+                    "id": "217700",
+                    "min_rarity": 6,
+                    "name": "らいげき弐式"
+                },
+                {
+                    "id": "218090",
+                    "min_rarity": 6,
+                    "name": "らいじん弐式"
+                }
+            ],
+            "magic": []
+        },
         "42": {
             "abilities": [
                 {
@@ -4142,6 +4297,16 @@
             ],
             "magic": []
         },
+        "52": {
+            "abilities": [
+                {
+                    "id": "218100",
+                    "min_rarity": 6,
+                    "name": "騙し討ち"
+                }
+            ],
+            "magic": []
+        },
         "59": {
             "abilities": [
                 {
@@ -4152,12 +4317,52 @@
             ],
             "magic": []
         },
+        "61": {
+            "abilities": [
+                {
+                    "id": "218110",
+                    "min_rarity": 6,
+                    "name": "影縫い"
+                }
+            ],
+            "magic": []
+        },
         "71": {
             "abilities": [
                 {
                     "id": "201030",
                     "min_rarity": 5,
                     "name": "ぶんしん"
+                }
+            ],
+            "magic": []
+        },
+        "77": {
+            "abilities": [
+                {
+                    "id": "218120",
+                    "min_rarity": 6,
+                    "name": "閃光爆弾"
+                }
+            ],
+            "magic": []
+        },
+        "93": {
+            "abilities": [
+                {
+                    "id": "218160",
+                    "min_rarity": 6,
+                    "name": "忍・双刃術"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "218140",
+                    "min_rarity": 6,
+                    "name": "絶双雷裂刃"
                 }
             ],
             "magic": []
@@ -9137,6 +9342,16 @@
         }
     },
     "100007603": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "219870",
+                    "min_rarity": 6,
+                    "name": "坑道の開拓者"
+                }
+            ],
+            "magic": []
+        },
         "8": {
             "abilities": [
                 {
@@ -9153,6 +9368,16 @@
                     "id": "201150",
                     "min_rarity": 0,
                     "name": "アーマーブレイク"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "219830",
+                    "min_rarity": 6,
+                    "name": "仲裁"
                 }
             ],
             "magic": []
@@ -9197,6 +9422,16 @@
             ],
             "magic": []
         },
+        "52": {
+            "abilities": [
+                {
+                    "id": "219850",
+                    "min_rarity": 6,
+                    "name": "大地の加護"
+                }
+            ],
+            "magic": []
+        },
         "53": {
             "abilities": [
                 {
@@ -9227,6 +9462,16 @@
             ],
             "magic": []
         },
+        "73": {
+            "abilities": [
+                {
+                    "id": "219860",
+                    "min_rarity": 6,
+                    "name": "熟練鍛冶師"
+                }
+            ],
+            "magic": []
+        },
         "75": {
             "abilities": [
                 {
@@ -9243,6 +9488,16 @@
                     "id": "209870",
                     "min_rarity": 5,
                     "name": "つくりだす"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "219840",
+                    "min_rarity": 6,
+                    "name": "絆の歌"
                 }
             ],
             "magic": []
@@ -11521,6 +11776,1189 @@
             "magic": []
         }
     },
+    "100009204": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "215870",
+                    "min_rarity": 6,
+                    "name": "モーグリの声援"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 5,
+                    "name": "HP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "215840",
+                    "min_rarity": 0,
+                    "name": "モグワルツ練習中"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 6,
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "215810",
+                    "min_rarity": 5,
+                    "name": "凍土のステップ"
+                }
+            ],
+            "magic": []
+        },
+        "30": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10090",
+                    "min_rarity": 0,
+                    "name": "ストナ"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "215830",
+                    "min_rarity": 6,
+                    "name": "深海のステップ"
+                }
+            ],
+            "magic": []
+        },
+        "44": {
+            "abilities": [
+                {
+                    "id": "100160",
+                    "min_rarity": 0,
+                    "name": "精神+10%"
+                }
+            ],
+            "magic": []
+        },
+        "50": {
+            "abilities": [
+                {
+                    "id": "201550",
+                    "min_rarity": 5,
+                    "name": "おうえん"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "215860",
+                    "min_rarity": 0,
+                    "name": "あそぶ"
+                }
+            ],
+            "magic": []
+        },
+        "66": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10190",
+                    "min_rarity": 6,
+                    "name": "エスナガ"
+                }
+            ]
+        },
+        "67": {
+            "abilities": [
+                {
+                    "id": "215800",
+                    "min_rarity": 5,
+                    "name": "火嵐のステップ"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "215790",
+                    "min_rarity": 5,
+                    "name": "クポポダンス"
+                }
+            ],
+            "magic": []
+        },
+        "83": {
+            "abilities": [
+                {
+                    "id": "215820",
+                    "min_rarity": 6,
+                    "name": "雷光のステップ"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "215850",
+                    "min_rarity": 6,
+                    "name": "おちょくる"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100009304": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "215620",
+                    "min_rarity": 6,
+                    "name": "毒素吸引"
+                }
+            ],
+            "magic": []
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "208500",
+                    "min_rarity": 0,
+                    "name": "ポイズン"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "10050",
+                    "min_rarity": 0,
+                    "name": "ポイゾナ"
+                }
+            ]
+        },
+        "10": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 5,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20070",
+                    "min_rarity": 0,
+                    "name": "バイオ"
+                }
+            ]
+        },
+        "22": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20260",
+                    "min_rarity": 5,
+                    "name": "バイオガ"
+                }
+            ]
+        },
+        "23": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 6,
+                    "name": "攻撃+10%"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "215710",
+                    "min_rarity": 6,
+                    "name": "ハイブリッドレディ"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20180",
+                    "min_rarity": 0,
+                    "name": "バイオラ"
+                }
+            ]
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "215640",
+                    "min_rarity": 0,
+                    "name": "ポイズンセラー"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "215690",
+                    "min_rarity": 5,
+                    "name": "魔華の庭園"
+                }
+            ],
+            "magic": []
+        },
+        "47": {
+            "abilities": [
+                {
+                    "id": "215670",
+                    "min_rarity": 6,
+                    "name": "とげまんぼん"
+                }
+            ],
+            "magic": []
+        },
+        "51": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10140",
+                    "min_rarity": 0,
+                    "name": "リブート"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "215630",
+                    "min_rarity": 0,
+                    "name": "デモンソーン"
+                }
+            ],
+            "magic": []
+        },
+        "63": {
+            "abilities": [
+                {
+                    "id": "215660",
+                    "min_rarity": 5,
+                    "name": "腐食する煙"
+                }
+            ],
+            "magic": []
+        },
+        "75": {
+            "abilities": [
+                {
+                    "id": "100160",
+                    "min_rarity": 6,
+                    "name": "精神+10%"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "215650",
+                    "min_rarity": 5,
+                    "name": "絡みつく茨"
+                }
+            ],
+            "magic": []
+        },
+        "86": {
+            "abilities": [
+                {
+                    "id": "215700",
+                    "min_rarity": 6,
+                    "name": "毒素変換"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "215680",
+                    "min_rarity": 6,
+                    "name": "ダークブルーム"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100009405": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "215550",
+                    "min_rarity": 6,
+                    "name": "メタルテリトリー"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "ファイラ"
+                }
+            ]
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 6,
+                    "name": "HP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "215570",
+                    "min_rarity": 6,
+                    "name": "ファイアプラズマ"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "215560",
+                    "min_rarity": 0,
+                    "name": "サンダープラズマ"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "215610",
+                    "min_rarity": 6,
+                    "name": "ツインアームズ"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "ブリザラ"
+                }
+            ]
+        },
+        "45": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 6,
+                    "name": "サンダガ"
+                }
+            ]
+        },
+        "49": {
+            "abilities": [
+                {
+                    "id": "100140",
+                    "min_rarity": 0,
+                    "name": "防御+20%"
+                }
+            ],
+            "magic": []
+        },
+        "51": {
+            "abilities": [
+                {
+                    "id": "215580",
+                    "min_rarity": 6,
+                    "name": "アイスプラズマ"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [
+                {
+                    "id": "215590",
+                    "min_rarity": 0,
+                    "name": "ダークプラズマ"
+                }
+            ],
+            "magic": []
+        },
+        "76": {
+            "abilities": [
+                {
+                    "id": "100090",
+                    "min_rarity": 6,
+                    "name": "攻撃+30%"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "214960",
+                    "min_rarity": 0,
+                    "name": "ミサイルシェルター"
+                }
+            ],
+            "magic": []
+        },
+        "89": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20470",
+                    "min_rarity": 6,
+                    "name": "ダーガ"
+                }
+            ]
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "215600",
+                    "min_rarity": 6,
+                    "name": "リミッターカット"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100009504": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "215770",
+                    "min_rarity": 6,
+                    "name": "ねこかぶり"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10150",
+                    "min_rarity": 5,
+                    "name": "ケアルダ"
+                }
+            ]
+        },
+        "10": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 0,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 0,
+                    "name": "ケアルラ"
+                }
+            ]
+        },
+        "26": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30320",
+                    "min_rarity": 5,
+                    "name": "プロテガ"
+                }
+            ]
+        },
+        "39": {
+            "abilities": [
+                {
+                    "id": "215780",
+                    "min_rarity": 6,
+                    "name": "ねこの九生"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "215760",
+                    "min_rarity": 0,
+                    "name": "毛づくろい"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "215720",
+                    "min_rarity": 0,
+                    "name": "ねこなで声"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [
+                {
+                    "id": "215740",
+                    "min_rarity": 5,
+                    "name": "ねこっかわいがり"
+                }
+            ],
+            "magic": []
+        },
+        "67": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30330",
+                    "min_rarity": 6,
+                    "name": "シェルガ"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "215730",
+                    "min_rarity": 5,
+                    "name": "ねこじゃらし"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "215750",
+                    "min_rarity": 6,
+                    "name": "ねこフック"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100009604": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "215880",
+                    "min_rarity": 6,
+                    "name": "予知夢"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "30010",
+                    "min_rarity": 0,
+                    "name": "スリプル"
+                }
+            ]
+        },
+        "11": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 0,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [
+                {
+                    "id": "100170",
+                    "min_rarity": 5,
+                    "name": "精神+20%"
+                }
+            ],
+            "magic": []
+        },
+        "35": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10170",
+                    "min_rarity": 0,
+                    "name": "バニシュガ"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [
+                {
+                    "id": "100110",
+                    "min_rarity": 5,
+                    "name": "魔力+20%"
+                }
+            ],
+            "magic": []
+        },
+        "49": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10160",
+                    "min_rarity": 5,
+                    "name": "ケアルガ"
+                }
+            ]
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "215900",
+                    "min_rarity": 6,
+                    "name": "ナイトメア"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "215920",
+                    "min_rarity": 0,
+                    "name": "夢の終焉"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10100",
+                    "min_rarity": 5,
+                    "name": "レイズ"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "215910",
+                    "min_rarity": 5,
+                    "name": "夢の神託"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "215890",
+                    "min_rarity": 6,
+                    "name": "夢堕ちの砂"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100009704": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "216010",
+                    "min_rarity": 6,
+                    "name": "テイラーのたしなみ"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 0,
+                    "name": "HP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "215990",
+                    "min_rarity": 0,
+                    "name": "クラックスティッチ"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20110",
+                    "min_rarity": 5,
+                    "name": "ウォタラ"
+                }
+            ]
+        },
+        "30": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20240",
+                    "min_rarity": 6,
+                    "name": "エアロガ"
+                }
+            ]
+        },
+        "39": {
+            "abilities": [
+                {
+                    "id": "215960",
+                    "min_rarity": 0,
+                    "name": "ファンシードレス"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10150",
+                    "min_rarity": 5,
+                    "name": "ケアルダ"
+                }
+            ]
+        },
+        "55": {
+            "abilities": [
+                {
+                    "id": "215970",
+                    "min_rarity": 6,
+                    "name": "ウォッシャブル"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "215950",
+                    "min_rarity": 0,
+                    "name": "パッチワーク"
+                }
+            ],
+            "magic": []
+        },
+        "67": {
+            "abilities": [
+                {
+                    "id": "215980",
+                    "min_rarity": 5,
+                    "name": "ドレーピング"
+                }
+            ],
+            "magic": []
+        },
+        "78": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20250",
+                    "min_rarity": 6,
+                    "name": "ストンガ"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "215940",
+                    "min_rarity": 5,
+                    "name": "強化縫製"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "216000",
+                    "min_rarity": 6,
+                    "name": "ブラックフォーマル"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100009805": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "215140",
+                    "min_rarity": 6,
+                    "name": "兵装知識"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "215010",
+                    "min_rarity": 0,
+                    "name": "フローズンブレイド"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "215020",
+                    "min_rarity": 0,
+                    "name": "アイシクルストーム"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "215040",
+                    "min_rarity": 0,
+                    "name": "怜悧な微笑"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "215000",
+                    "min_rarity": 6,
+                    "name": "真・りょうてもち"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "215060",
+                    "min_rarity": 0,
+                    "name": "氷柩封刃"
+                },
+                {
+                    "id": "215070",
+                    "min_rarity": 0,
+                    "name": "氷柩封盾"
+                },
+                {
+                    "id": "215080",
+                    "min_rarity": 6,
+                    "name": "氷柩封魔"
+                },
+                {
+                    "id": "215090",
+                    "min_rarity": 6,
+                    "name": "氷柩封心"
+                }
+            ],
+            "magic": []
+        },
+        "51": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 0,
+                    "name": "ブリザガ"
+                }
+            ]
+        },
+        "56": {
+            "abilities": [
+                {
+                    "id": "215100",
+                    "min_rarity": 6,
+                    "name": "零点振動"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [
+                {
+                    "id": "215130",
+                    "min_rarity": 0,
+                    "name": "傭兵の気構え"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 0,
+                    "name": "HP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "69": {
+            "abilities": [
+                {
+                    "id": "100140",
+                    "min_rarity": 0,
+                    "name": "防御+20%"
+                }
+            ],
+            "magic": []
+        },
+        "70": {
+            "abilities": [
+                {
+                    "id": "100090",
+                    "min_rarity": 0,
+                    "name": "攻撃+30%"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "215110",
+                    "min_rarity": 0,
+                    "name": "フォーリングスノー"
+                }
+            ],
+            "magic": []
+        },
+        "84": {
+            "abilities": [
+                {
+                    "id": "215050",
+                    "min_rarity": 6,
+                    "name": "気高き鬨声"
+                }
+            ],
+            "magic": []
+        },
+        "90": {
+            "abilities": [
+                {
+                    "id": "215030",
+                    "min_rarity": 6,
+                    "name": "フロストバイト"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "215120",
+                    "min_rarity": 6,
+                    "name": "アイスプリズム"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100009903": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "201420",
+                    "min_rarity": 0,
+                    "name": "オートボウガン"
+                }
+            ],
+            "magic": []
+        },
+        "5": {
+            "abilities": [
+                {
+                    "id": "200390",
+                    "min_rarity": 0,
+                    "name": "ねらう"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "101030",
+                    "min_rarity": 5,
+                    "name": "マシーンキラー"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "200050",
+                    "min_rarity": 0,
+                    "name": "しらべる"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 5,
+                    "name": "攻撃+10%"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 4,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 0,
+                    "name": "防御+10%"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "201440",
+                    "min_rarity": 4,
+                    "name": "ドリル"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "214940",
+                    "min_rarity": 0,
+                    "name": "ランダムサンプル"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "201450",
+                    "min_rarity": 5,
+                    "name": "かいてんのこぎり"
+                }
+            ],
+            "magic": []
+        },
+        "49": {
+            "abilities": [
+                {
+                    "id": "201430",
+                    "min_rarity": 4,
+                    "name": "サンビーム"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "214950",
+                    "min_rarity": 4,
+                    "name": "メンテナンス"
+                }
+            ],
+            "magic": []
+        },
+        "66": {
+            "abilities": [
+                {
+                    "id": "214970",
+                    "min_rarity": 5,
+                    "name": "ブービートラップ"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "214960",
+                    "min_rarity": 5,
+                    "name": "ミサイルシェルター"
+                }
+            ],
+            "magic": []
+        }
+    },
     "100010104": {
         "1": {
             "abilities": [
@@ -11831,6 +13269,16 @@
         }
     },
     "100010303": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "218250",
+                    "min_rarity": 6,
+                    "name": "未来の担い手"
+                }
+            ],
+            "magic": []
+        },
         "8": {
             "abilities": [
                 {
@@ -11847,6 +13295,11 @@
                     "id": "100010",
                     "min_rarity": 5,
                     "name": "HP+10%"
+                },
+                {
+                    "id": "100080",
+                    "min_rarity": 6,
+                    "name": "攻撃+20%"
                 }
             ],
             "magic": []
@@ -11877,6 +13330,16 @@
                     "id": "201010",
                     "min_rarity": 4,
                     "name": "どとん"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "218240",
+                    "min_rarity": 6,
+                    "name": "忍の継承者"
                 }
             ],
             "magic": []
@@ -11921,6 +13384,21 @@
             ],
             "magic": []
         },
+        "39": {
+            "abilities": [
+                {
+                    "id": "218170",
+                    "min_rarity": 6,
+                    "name": "ふうじん弐式"
+                },
+                {
+                    "id": "218180",
+                    "min_rarity": 6,
+                    "name": "どとん弐式"
+                }
+            ],
+            "magic": []
+        },
         "40": {
             "abilities": [
                 {
@@ -11961,6 +13439,16 @@
             ],
             "magic": []
         },
+        "54": {
+            "abilities": [
+                {
+                    "id": "218210",
+                    "min_rarity": 6,
+                    "name": "滅草の秘術"
+                }
+            ],
+            "magic": []
+        },
         "60": {
             "abilities": [
                 {
@@ -11981,12 +13469,2698 @@
             ],
             "magic": []
         },
+        "72": {
+            "abilities": [
+                {
+                    "id": "218220",
+                    "min_rarity": 6,
+                    "name": "殺虫の秘術"
+                }
+            ],
+            "magic": []
+        },
         "80": {
             "abilities": [
                 {
                     "id": "214280",
                     "min_rarity": 5,
                     "name": "土割遁"
+                }
+            ],
+            "magic": []
+        },
+        "91": {
+            "abilities": [
+                {
+                    "id": "218190",
+                    "min_rarity": 6,
+                    "name": "旋風遁・弐式"
+                },
+                {
+                    "id": "218200",
+                    "min_rarity": 6,
+                    "name": "土割遁・弐式"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "218230",
+                    "min_rarity": 6,
+                    "name": "夢幻ノ術・偽"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100010405": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "215210",
+                    "min_rarity": 0,
+                    "name": "序章・英雄の旅立ち"
+                },
+                {
+                    "id": "215260",
+                    "min_rarity": 6,
+                    "name": "トニックピチカート"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "100180",
+                    "min_rarity": 6,
+                    "name": "精神+30%"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "200410",
+                    "min_rarity": 0,
+                    "name": "かくれる"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "200840",
+                    "min_rarity": 0,
+                    "name": "レクイエム"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "215240",
+                    "min_rarity": 6,
+                    "name": "移り気なタチェット"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "100730",
+                    "min_rarity": 0,
+                    "name": "オートリジェネ"
+                }
+            ],
+            "magic": []
+        },
+        "58": {
+            "abilities": [
+                {
+                    "id": "215250",
+                    "min_rarity": 6,
+                    "name": "生命のリフレーン"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "200820",
+                    "min_rarity": 0,
+                    "name": "ゆうわくのうた"
+                }
+            ],
+            "magic": []
+        },
+        "73": {
+            "abilities": [
+                {
+                    "id": "100140",
+                    "min_rarity": 0,
+                    "name": "防御+20%"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "215220",
+                    "min_rarity": 0,
+                    "name": "天使のカプリッチョ"
+                }
+            ],
+            "magic": []
+        },
+        "84": {
+            "abilities": [
+                {
+                    "id": "215540",
+                    "min_rarity": 6,
+                    "name": "うるわしの双剣将軍"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "215230",
+                    "min_rarity": 6,
+                    "name": "愚か者のバラッド"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100010504": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200160",
+                    "min_rarity": 6,
+                    "name": "W黒魔法"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20250",
+                    "min_rarity": 0,
+                    "name": "ストンガ"
+                }
+            ]
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "215170",
+                    "min_rarity": 5,
+                    "name": "石化無効"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "100060",
+                    "min_rarity": 0,
+                    "name": "MP+30%"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20340",
+                    "min_rarity": 5,
+                    "name": "ストンジャ"
+                }
+            ]
+        },
+        "35": {
+            "abilities": [
+                {
+                    "id": "100110",
+                    "min_rarity": 6,
+                    "name": "魔力+20%"
+                }
+            ],
+            "magic": []
+        },
+        "44": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20190",
+                    "min_rarity": 0,
+                    "name": "アスピル"
+                }
+            ]
+        },
+        "48": {
+            "abilities": [
+                {
+                    "id": "214890",
+                    "min_rarity": 5,
+                    "name": "フォッシルグレア"
+                }
+            ],
+            "magic": []
+        },
+        "56": {
+            "abilities": [
+                {
+                    "id": "208590",
+                    "min_rarity": 6,
+                    "name": "ロッドの極意"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "214900",
+                    "min_rarity": 0,
+                    "name": "ウィズドロー"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "214910",
+                    "min_rarity": 5,
+                    "name": "オープンハート"
+                }
+            ],
+            "magic": []
+        },
+        "82": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20400",
+                    "min_rarity": 6,
+                    "name": "クエイク"
+                }
+            ]
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "214920",
+                    "min_rarity": 6,
+                    "name": "イノセント・マギカ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100010604": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "215340",
+                    "min_rarity": 6,
+                    "name": "医学知識"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [
+                {
+                    "id": "215500",
+                    "min_rarity": 5,
+                    "name": "留土の法"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "100170",
+                    "min_rarity": 0,
+                    "name": "精神+20%"
+                }
+            ],
+            "magic": []
+        },
+        "14": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 0,
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "215510",
+                    "min_rarity": 6,
+                    "name": "遮光の法"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "215460",
+                    "min_rarity": 0,
+                    "name": "融氷の法"
+                }
+            ],
+            "magic": []
+        },
+        "27": {
+            "abilities": [
+                {
+                    "id": "215490",
+                    "min_rarity": 5,
+                    "name": "防風の法"
+                }
+            ],
+            "magic": []
+        },
+        "30": {
+            "abilities": [
+                {
+                    "id": "215450",
+                    "min_rarity": 0,
+                    "name": "消炎の法"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "215520",
+                    "min_rarity": 6,
+                    "name": "忌闇の法"
+                }
+            ],
+            "magic": []
+        },
+        "39": {
+            "abilities": [
+                {
+                    "id": "215270",
+                    "min_rarity": 0,
+                    "name": "魔獣の研究"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "215530",
+                    "min_rarity": 6,
+                    "name": "ルールエレメンツ"
+                }
+            ],
+            "magic": []
+        },
+        "47": {
+            "abilities": [
+                {
+                    "id": "215280",
+                    "min_rarity": 0,
+                    "name": "魔鳥の研究"
+                }
+            ],
+            "magic": []
+        },
+        "55": {
+            "abilities": [
+                {
+                    "id": "215480",
+                    "min_rarity": 5,
+                    "name": "治水の法"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "215330",
+                    "min_rarity": 0,
+                    "name": "博覧強記"
+                }
+            ],
+            "magic": []
+        },
+        "61": {
+            "abilities": [
+                {
+                    "id": "215320",
+                    "min_rarity": 6,
+                    "name": "魔草の研究"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [
+                {
+                    "id": "215470",
+                    "min_rarity": 5,
+                    "name": "避雷の法"
+                }
+            ],
+            "magic": []
+        },
+        "77": {
+            "abilities": [
+                {
+                    "id": "215290",
+                    "min_rarity": 5,
+                    "name": "悪魔の研究"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "215300",
+                    "min_rarity": 5,
+                    "name": "魔竜の研究"
+                }
+            ],
+            "magic": []
+        },
+        "85": {
+            "abilities": [
+                {
+                    "id": "215310",
+                    "min_rarity": 6,
+                    "name": "魔像の研究"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "215350",
+                    "min_rarity": 6,
+                    "name": "オブジェクション"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100010703": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200390",
+                    "min_rarity": 0,
+                    "name": "ねらう"
+                }
+            ],
+            "magic": []
+        },
+        "9": {
+            "abilities": [
+                {
+                    "id": "100160",
+                    "min_rarity": 4,
+                    "name": "精神+10%"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "215370",
+                    "min_rarity": 0,
+                    "name": "正射必中"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "215440",
+                    "min_rarity": 5,
+                    "name": "暗闇無効"
+                }
+            ],
+            "magic": []
+        },
+        "27": {
+            "abilities": [
+                {
+                    "id": "215380",
+                    "min_rarity": 4,
+                    "name": "ビーストハント"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 5,
+                    "name": "攻撃+10%"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "215420",
+                    "min_rarity": 0,
+                    "name": "ソニックショット"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "215410",
+                    "min_rarity": 4,
+                    "name": "ストームアロー"
+                }
+            ],
+            "magic": []
+        },
+        "63": {
+            "abilities": [
+                {
+                    "id": "215390",
+                    "min_rarity": 5,
+                    "name": "バードハント"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "215400",
+                    "min_rarity": 5,
+                    "name": "残心"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100010805": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "216510",
+                    "min_rarity": 6,
+                    "name": "空戦自在の槍使い"
+                },
+                {
+                    "id": "200260",
+                    "min_rarity": 0,
+                    "name": "ジャンプ"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [
+                {
+                    "id": "216500",
+                    "min_rarity": 6,
+                    "name": "竜封じの血族"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "200270",
+                    "min_rarity": 0,
+                    "name": "りゅうけん"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "216420",
+                    "min_rarity": 0,
+                    "name": "グレイシアランス"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 6,
+                    "name": "ブリザガ"
+                }
+            ]
+        },
+        "28": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30270",
+                    "min_rarity": 6,
+                    "name": "バブリザガ"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [
+                {
+                    "id": "216430",
+                    "min_rarity": 0,
+                    "name": "ゲイルピアース"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "208880",
+                    "min_rarity": 6,
+                    "name": "槍の極意"
+                }
+            ],
+            "magic": []
+        },
+        "51": {
+            "abilities": [
+                {
+                    "id": "216470",
+                    "min_rarity": 6,
+                    "name": "絶槍迅"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "100030",
+                    "min_rarity": 0,
+                    "name": "HP+30%"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [
+                {
+                    "id": "216440",
+                    "min_rarity": 0,
+                    "name": "パルスジャベリン"
+                }
+            ],
+            "magic": []
+        },
+        "73": {
+            "abilities": [
+                {
+                    "id": "216480",
+                    "min_rarity": 6,
+                    "name": "竜墜"
+                }
+            ],
+            "magic": []
+        },
+        "74": {
+            "abilities": [
+                {
+                    "id": "100090",
+                    "min_rarity": 0,
+                    "name": "攻撃+30%"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "216460",
+                    "min_rarity": 0,
+                    "name": "バイセクトスウィング"
+                }
+            ],
+            "magic": []
+        },
+        "86": {
+            "abilities": [
+                {
+                    "id": "216490",
+                    "min_rarity": 6,
+                    "name": "飛天滅竜槍・極"
+                }
+            ],
+            "magic": []
+        },
+        "93": {
+            "abilities": [
+                {
+                    "id": "202860",
+                    "min_rarity": 6,
+                    "name": "竜騎士の魂"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "216450",
+                    "min_rarity": 6,
+                    "name": "ヘキサスラスト"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100010904": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "216630",
+                    "min_rarity": 6,
+                    "name": "祭司の器量"
+                }
+            ],
+            "magic": []
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "216560",
+                    "min_rarity": 6,
+                    "name": "竜の息吹"
+                }
+            ],
+            "magic": []
+        },
+        "9": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "216530",
+                    "min_rarity": 0,
+                    "name": "清浄なる一撃"
+                }
+            ],
+            "magic": []
+        },
+        "19": {
+            "abilities": [
+                {
+                    "id": "100140",
+                    "min_rarity": 5,
+                    "name": "防御+20%"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "100170",
+                    "min_rarity": 6,
+                    "name": "精神+20%"
+                }
+            ],
+            "magic": []
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "216600",
+                    "min_rarity": 0,
+                    "name": "竜鱗"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30260",
+                    "min_rarity": 5,
+                    "name": "バファイガ"
+                }
+            ]
+        },
+        "39": {
+            "abilities": [
+                {
+                    "id": "216590",
+                    "min_rarity": 0,
+                    "name": "竜牙"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "216620",
+                    "min_rarity": 6,
+                    "name": "退魔唱"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30270",
+                    "min_rarity": 5,
+                    "name": "バブリザガ"
+                }
+            ]
+        },
+        "51": {
+            "abilities": [
+                {
+                    "id": "216550",
+                    "min_rarity": 0,
+                    "name": "竜紋・陰"
+                }
+            ],
+            "magic": []
+        },
+        "56": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30280",
+                    "min_rarity": 5,
+                    "name": "バサンダガ"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "216540",
+                    "min_rarity": 0,
+                    "name": "竜紋・陽"
+                }
+            ],
+            "magic": []
+        },
+        "63": {
+            "abilities": [
+                {
+                    "id": "216610",
+                    "min_rarity": 6,
+                    "name": "竜滅唱"
+                }
+            ],
+            "magic": []
+        },
+        "65": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30290",
+                    "min_rarity": 5,
+                    "name": "バウォタガ"
+                }
+            ]
+        },
+        "72": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30300",
+                    "min_rarity": 5,
+                    "name": "バエアロガ"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30310",
+                    "min_rarity": 5,
+                    "name": "バストンガ"
+                }
+            ]
+        },
+        "88": {
+            "abilities": [
+                {
+                    "id": "216580",
+                    "min_rarity": 6,
+                    "name": "竜殺しの秘儀"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "216570",
+                    "min_rarity": 6,
+                    "name": "竜陣"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100011004": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "216710",
+                    "min_rarity": 6,
+                    "name": "精神防壁"
+                }
+            ],
+            "magic": []
+        },
+        "6": {
+            "abilities": [
+                {
+                    "id": "216720",
+                    "min_rarity": 0,
+                    "name": "魔法誘壁"
+                }
+            ],
+            "magic": []
+        },
+        "11": {
+            "abilities": [
+                {
+                    "id": "100060",
+                    "min_rarity": 5,
+                    "name": "MP+30%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10130",
+                    "min_rarity": 0,
+                    "name": "デスペル"
+                }
+            ]
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "101350",
+                    "min_rarity": 5,
+                    "name": "カモフラージュ"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "216670",
+                    "min_rarity": 6,
+                    "name": "クリアヴェール"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "216700",
+                    "min_rarity": 0,
+                    "name": "物理防壁"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "216640",
+                    "min_rarity": 6,
+                    "name": "リーンフォース"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30320",
+                    "min_rarity": 5,
+                    "name": "プロテガ"
+                },
+                {
+                    "id": "30330",
+                    "min_rarity": 5,
+                    "name": "シェルガ"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "216690",
+                    "min_rarity": 0,
+                    "name": "マインドフォートレス"
+                }
+            ],
+            "magic": []
+        },
+        "66": {
+            "abilities": [
+                {
+                    "id": "216660",
+                    "min_rarity": 6,
+                    "name": "ディスティネーション"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "216650",
+                    "min_rarity": 5,
+                    "name": "リーンステート"
+                }
+            ],
+            "magic": []
+        },
+        "88": {
+            "abilities": [
+                {
+                    "id": "200150",
+                    "min_rarity": 6,
+                    "name": "れんぞくま"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "216680",
+                    "min_rarity": 6,
+                    "name": "ブローディアウォール"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100011103": {
+        "8": {
+            "abilities": [
+                {
+                    "id": "100730",
+                    "min_rarity": 0,
+                    "name": "オートリジェネ"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "100160",
+                    "min_rarity": 4,
+                    "name": "精神+10%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "216760",
+                    "min_rarity": 0,
+                    "name": "覇竜の舞"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "101350",
+                    "min_rarity": 4,
+                    "name": "カモフラージュ"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 5,
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "216750",
+                    "min_rarity": 0,
+                    "name": "光刃の剣舞"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "216810",
+                    "min_rarity": 0,
+                    "name": "遠雷の舞"
+                }
+            ],
+            "magic": []
+        },
+        "44": {
+            "abilities": [
+                {
+                    "id": "216740",
+                    "min_rarity": 4,
+                    "name": "氷雪の剣舞"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "216780",
+                    "min_rarity": 5,
+                    "name": "招雲の竜舞"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "216770",
+                    "min_rarity": 4,
+                    "name": "慰竜の舞"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "216800",
+                    "min_rarity": 4,
+                    "name": "旋風の舞"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "216790",
+                    "min_rarity": 5,
+                    "name": "落雹の舞"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "216820",
+                    "min_rarity": 5,
+                    "name": "蘇生の祈踏"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100011203": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "101050",
+                    "min_rarity": 0,
+                    "name": "ドラゴンキラー"
+                }
+            ],
+            "magic": []
+        },
+        "4": {
+            "abilities": [
+                {
+                    "id": "200260",
+                    "min_rarity": 0,
+                    "name": "ジャンプ"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 4,
+                    "name": "攻撃+10%"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [
+                {
+                    "id": "216880",
+                    "min_rarity": 5,
+                    "name": "応竜破天"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "200270",
+                    "min_rarity": 4,
+                    "name": "りゅうけん"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "216830",
+                    "min_rarity": 0,
+                    "name": "僕が守る！"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "216840",
+                    "min_rarity": 4,
+                    "name": "みんな大丈夫？"
+                }
+            ],
+            "magic": []
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "216870",
+                    "min_rarity": 5,
+                    "name": "輝竜降天"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "216850",
+                    "min_rarity": 5,
+                    "name": "六殺の槍"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "216860",
+                    "min_rarity": 4,
+                    "name": "暴竜の槍"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "202860",
+                    "min_rarity": 5,
+                    "name": "竜騎士の魂"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "216890",
+                    "min_rarity": 5,
+                    "name": "飛天滅竜槍"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100011305": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200180",
+                    "min_rarity": 0,
+                    "name": "なげる"
+                },
+                {
+                    "id": "204490",
+                    "min_rarity": 0,
+                    "name": "空蝉"
+                },
+                {
+                    "id": "217800",
+                    "min_rarity": 6,
+                    "name": "隠形術"
+                }
+            ],
+            "magic": []
+        },
+        "7": {
+            "abilities": [
+                {
+                    "id": "212020",
+                    "min_rarity": 0,
+                    "name": "かとん弐式"
+                },
+                {
+                    "id": "217700",
+                    "min_rarity": 0,
+                    "name": "らいげき弐式"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "217730",
+                    "min_rarity": 6,
+                    "name": "闇葬刃"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "217740",
+                    "min_rarity": 0,
+                    "name": "猛毒けむりだま"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "217710",
+                    "min_rarity": 0,
+                    "name": "心頭滅却"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "100740",
+                    "min_rarity": 6,
+                    "name": "オートリフレシュ"
+                }
+            ],
+            "magic": []
+        },
+        "37": {
+            "abilities": [
+                {
+                    "id": "217720",
+                    "min_rarity": 0,
+                    "name": "影斬り"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "218340",
+                    "min_rarity": 6,
+                    "name": "六氣相生"
+                }
+            ],
+            "magic": []
+        },
+        "48": {
+            "abilities": [
+                {
+                    "id": "217830",
+                    "min_rarity": 0,
+                    "name": "忍耐"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "203260",
+                    "min_rarity": 6,
+                    "name": "マンイーター改"
+                }
+            ],
+            "magic": []
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "214330",
+                    "min_rarity": 0,
+                    "name": "変わり身"
+                },
+                {
+                    "id": "218350",
+                    "min_rarity": 0,
+                    "name": "奇策縦横"
+                }
+            ],
+            "magic": []
+        },
+        "66": {
+            "abilities": [
+                {
+                    "id": "217810",
+                    "min_rarity": 6,
+                    "name": "幽身"
+                }
+            ],
+            "magic": []
+        },
+        "75": {
+            "abilities": [
+                {
+                    "id": "217820",
+                    "min_rarity": 6,
+                    "name": "背負い刀"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "217750",
+                    "min_rarity": 0,
+                    "name": "焔獄斬"
+                },
+                {
+                    "id": "217760",
+                    "min_rarity": 0,
+                    "name": "雷撃陣"
+                }
+            ],
+            "magic": []
+        },
+        "91": {
+            "abilities": [
+                {
+                    "id": "217790",
+                    "min_rarity": 6,
+                    "name": "虚空刃"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217770",
+                    "min_rarity": 6,
+                    "name": "九字結印"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100011404": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "217970",
+                    "min_rarity": 6,
+                    "name": "臂力無窮"
+                },
+                {
+                    "id": "200440",
+                    "min_rarity": 0,
+                    "name": "ぜんぎり"
+                },
+                {
+                    "id": "100070",
+                    "min_rarity": 0,
+                    "name": "攻撃+10%"
+                }
+            ],
+            "magic": []
+        },
+        "11": {
+            "abilities": [
+                {
+                    "id": "101410",
+                    "min_rarity": 0,
+                    "name": "歩くとHP回復"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "217960",
+                    "min_rarity": 5,
+                    "name": "戦姫降臨"
+                }
+            ],
+            "magic": []
+        },
+        "30": {
+            "abilities": [
+                {
+                    "id": "200430",
+                    "min_rarity": 0,
+                    "name": "ひっさつ"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "217990",
+                    "min_rarity": 6,
+                    "name": "女傑の檄声"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "218000",
+                    "min_rarity": 5,
+                    "name": "軍鳥のいななき"
+                }
+            ],
+            "magic": []
+        },
+        "51": {
+            "abilities": [
+                {
+                    "id": "100140",
+                    "min_rarity": 0,
+                    "name": "防御+20%"
+                }
+            ],
+            "magic": []
+        },
+        "55": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 6,
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "218010",
+                    "min_rarity": 0,
+                    "name": "鳳凰飛突"
+                }
+            ],
+            "magic": []
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "218020",
+                    "min_rarity": 5,
+                    "name": "操鳥の妙手"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "208880",
+                    "min_rarity": 5,
+                    "name": "槍の極意"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217980",
+                    "min_rarity": 6,
+                    "name": "薙刀艶舞"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100011504": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "205360",
+                    "min_rarity": 0,
+                    "name": "ぶっとばし"
+                },
+                {
+                    "id": "217840",
+                    "min_rarity": 5,
+                    "name": "大立ち回り"
+                },
+                {
+                    "id": "217920",
+                    "min_rarity": 6,
+                    "name": "武辺者"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 5,
+                    "name": "攻撃+20%"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "100090",
+                    "min_rarity": 6,
+                    "name": "攻撃+30%"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "100030",
+                    "min_rarity": 5,
+                    "name": "HP+30%"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "217870",
+                    "min_rarity": 0,
+                    "name": "虎狼の習い"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "217880",
+                    "min_rarity": 5,
+                    "name": "一斬十死"
+                }
+            ],
+            "magic": []
+        },
+        "50": {
+            "abilities": [
+                {
+                    "id": "217910",
+                    "min_rarity": 6,
+                    "name": "一献所望"
+                }
+            ],
+            "magic": []
+        },
+        "51": {
+            "abilities": [
+                {
+                    "id": "217890",
+                    "min_rarity": 0,
+                    "name": "邪法不服"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "217860",
+                    "min_rarity": 0,
+                    "name": "大喝"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [
+                {
+                    "id": "217900",
+                    "min_rarity": 5,
+                    "name": "口舌無用"
+                }
+            ],
+            "magic": []
+        },
+        "75": {
+            "abilities": [
+                {
+                    "id": "217930",
+                    "min_rarity": 6,
+                    "name": "無礼講"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "217940",
+                    "min_rarity": 6,
+                    "name": "狂瀾怒濤"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217850",
+                    "min_rarity": 6,
+                    "name": "修羅の咆哮"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100011603": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200080",
+                    "min_rarity": 0,
+                    "name": "くすり"
+                }
+            ],
+            "magic": []
+        },
+        "10": {
+            "abilities": [
+                {
+                    "id": "218060",
+                    "min_rarity": 0,
+                    "name": "致死毒"
+                }
+            ],
+            "magic": []
+        },
+        "13": {
+            "abilities": [
+                {
+                    "id": "218070",
+                    "min_rarity": 4,
+                    "name": "毒薬の心得"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "218040",
+                    "min_rarity": 0,
+                    "name": "解毒忍薬"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "201020",
+                    "min_rarity": 5,
+                    "name": "けむりだま"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 4,
+                    "name": "HP+10%"
+                },
+                {
+                    "id": "100040",
+                    "min_rarity": 4,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "200090",
+                    "min_rarity": 0,
+                    "name": "のむ"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "200180",
+                    "min_rarity": 4,
+                    "name": "なげる"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "218080",
+                    "min_rarity": 5,
+                    "name": "闇に生きる一族"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "218030",
+                    "min_rarity": 4,
+                    "name": "秘薬調合"
+                }
+            ],
+            "magic": []
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "101150",
+                    "min_rarity": 5,
+                    "name": "くすりのちしき"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "218050",
+                    "min_rarity": 5,
+                    "name": "脱力忍薬"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100011705": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "200320",
+                    "min_rarity": 0,
+                    "name": "明鏡"
+                },
+                {
+                    "id": "200330",
+                    "min_rarity": 0,
+                    "name": "醒夢"
+                },
+                {
+                    "id": "205550",
+                    "min_rarity": 0,
+                    "name": "明鏡・朧"
+                },
+                {
+                    "id": "218300",
+                    "min_rarity": 0,
+                    "name": "緋剣への誓い"
+                },
+                {
+                    "id": "218260",
+                    "min_rarity": 6,
+                    "name": "明鏡・活"
+                }
+            ],
+            "magic": []
+        },
+        "7": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 0,
+                    "name": "ブリザガ"
+                },
+                {
+                    "id": "20240",
+                    "min_rarity": 0,
+                    "name": "エアロガ"
+                }
+            ]
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "218280",
+                    "min_rarity": 6,
+                    "name": "眺望破天"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "205500",
+                    "min_rarity": 0,
+                    "name": "明鏡・応報"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "218270",
+                    "min_rarity": 0,
+                    "name": "月光散華"
+                }
+            ],
+            "magic": []
+        },
+        "37": {
+            "abilities": [
+                {
+                    "id": "205530",
+                    "min_rarity": 0,
+                    "name": "破邪氷嵐"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "218330",
+                    "min_rarity": 6,
+                    "name": "燃えたつ決意"
+                }
+            ],
+            "magic": []
+        },
+        "48": {
+            "abilities": [
+                {
+                    "id": "205520",
+                    "min_rarity": 0,
+                    "name": "秘刀の継承者"
+                },
+                {
+                    "id": "205540",
+                    "min_rarity": 0,
+                    "name": "静かなる闘志"
+                }
+            ],
+            "magic": []
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "205510",
+                    "min_rarity": 0,
+                    "name": "紫電一閃・醒"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [
+                {
+                    "id": "100740",
+                    "min_rarity": 6,
+                    "name": "オートリフレシュ"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "218310",
+                    "min_rarity": 0,
+                    "name": "練達の極み"
+                }
+            ],
+            "magic": []
+        },
+        "89": {
+            "abilities": [
+                {
+                    "id": "218320",
+                    "min_rarity": 6,
+                    "name": "真紅の輝き"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "218290",
+                    "min_rarity": 6,
+                    "name": "紅紫一閃"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100012405": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "219430",
+                    "min_rarity": 0,
+                    "name": "連迅"
+                }
+            ],
+            "magic": []
+        },
+        "10": {
+            "abilities": [
+                {
+                    "id": "219410",
+                    "min_rarity": 0,
+                    "name": "白光の加護"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "219360",
+                    "min_rarity": 0,
+                    "name": "迅・雷の刃"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [
+                {
+                    "id": "219330",
+                    "min_rarity": 6,
+                    "name": "迅・雷光"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "100120",
+                    "min_rarity": 0,
+                    "name": "魔力+30%"
+                }
+            ],
+            "magic": []
+        },
+        "35": {
+            "abilities": [
+                {
+                    "id": "219370",
+                    "min_rarity": 0,
+                    "name": "迅・光の刃"
+                }
+            ],
+            "magic": []
+        },
+        "39": {
+            "abilities": [
+                {
+                    "id": "219340",
+                    "min_rarity": 6,
+                    "name": "迅・光閃"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "219380",
+                    "min_rarity": 0,
+                    "name": "迅・闇の刃"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "219420",
+                    "min_rarity": 6,
+                    "name": "雷の報復"
+                }
+            ],
+            "magic": []
+        },
+        "48": {
+            "abilities": [
+                {
+                    "id": "100180",
+                    "min_rarity": 6,
+                    "name": "精神+30%"
+                }
+            ],
+            "magic": []
+        },
+        "50": {
+            "abilities": [
+                {
+                    "id": "219320",
+                    "min_rarity": 0,
+                    "name": "迅・終の轟雷"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "100740",
+                    "min_rarity": 0,
+                    "name": "オートリフレシュ"
+                }
+            ],
+            "magic": []
+        },
+        "59": {
+            "abilities": [
+                {
+                    "id": "219350",
+                    "min_rarity": 6,
+                    "name": "迅・冥闇"
+                }
+            ],
+            "magic": []
+        },
+        "62": {
+            "abilities": [
+                {
+                    "id": "219290",
+                    "min_rarity": 6,
+                    "name": "迅・攻勢"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "100060",
+                    "min_rarity": 0,
+                    "name": "MP+30%"
+                }
+            ],
+            "magic": []
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "206990",
+                    "min_rarity": 0,
+                    "name": "迅雷の守り"
+                }
+            ],
+            "magic": []
+        },
+        "76": {
+            "abilities": [
+                {
+                    "id": "219300",
+                    "min_rarity": 6,
+                    "name": "迅・魔勢"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "206980",
+                    "min_rarity": 0,
+                    "name": "防御結界"
+                },
+                {
+                    "id": "208590",
+                    "min_rarity": 0,
+                    "name": "ロッドの極意"
+                }
+            ],
+            "magic": []
+        },
+        "83": {
+            "abilities": [
+                {
+                    "id": "219400",
+                    "min_rarity": 6,
+                    "name": "エナジーチェンジ"
+                }
+            ],
+            "magic": []
+        },
+        "86": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 6,
+                    "name": "HP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "91": {
+            "abilities": [
+                {
+                    "id": "219390",
+                    "min_rarity": 6,
+                    "name": "ステートリセッタ"
+                }
+            ],
+            "magic": []
+        },
+        "96": {
+            "abilities": [
+                {
+                    "id": "219310",
+                    "min_rarity": 6,
+                    "name": "迅・ショートリフレシュ"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "219490",
+                    "min_rarity": 6,
+                    "name": "迅・レブルインテンション"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100013004": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "206380",
+                    "min_rarity": 0,
+                    "name": "振りおろし"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20010",
+                    "min_rarity": 0,
+                    "name": "ファイア"
+                },
+                {
+                    "id": "20060",
+                    "min_rarity": 0,
+                    "name": "ストーン"
+                }
+            ]
+        },
+        "19": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "100170",
+                    "min_rarity": 6,
+                    "name": "精神+20%"
+                }
+            ],
+            "magic": []
+        },
+        "36": {
+            "abilities": [
+                {
+                    "id": "219600",
+                    "min_rarity": 5,
+                    "name": "一心不乱"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "219590",
+                    "min_rarity": 0,
+                    "name": "若き名匠"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "219510",
+                    "min_rarity": 0,
+                    "name": "継承せし魂"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "219610",
+                    "min_rarity": 6,
+                    "name": "ドワーフ式岩砕術"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "219530",
+                    "min_rarity": 5,
+                    "name": "ファイアブラント"
+                },
+                {
+                    "id": "219540",
+                    "min_rarity": 5,
+                    "name": "ウインドブラント"
+                },
+                {
+                    "id": "219550",
+                    "min_rarity": 5,
+                    "name": "ソイルブラント"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "219520",
+                    "min_rarity": 6,
+                    "name": "作業開始"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "100013104": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "101200",
+                    "min_rarity": 0,
+                    "name": "カウンター"
+                },
+                {
+                    "id": "219630",
+                    "min_rarity": 0,
+                    "name": "闘技・全力斬り"
+                },
+                {
+                    "id": "207120",
+                    "min_rarity": 0,
+                    "name": "シールドバッシュ"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20120",
+                    "min_rarity": 0,
+                    "name": "エアロラ"
+                },
+                {
+                    "id": "30090",
+                    "min_rarity": 0,
+                    "name": "プロテス"
+                },
+                {
+                    "id": "10120",
+                    "min_rarity": 0,
+                    "name": "リジェネ"
+                }
+            ]
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "219760",
+                    "min_rarity": 0,
+                    "name": "前進あるのみ！"
+                },
+                {
+                    "id": "219740",
+                    "min_rarity": 0,
+                    "name": "負けん気"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "219770",
+                    "min_rarity": 5,
+                    "name": "こっちの番ね"
+                }
+            ],
+            "magic": []
+        },
+        "27": {
+            "abilities": [
+                {
+                    "id": "219750",
+                    "min_rarity": 6,
+                    "name": "後の先"
+                },
+                {
+                    "id": "219720",
+                    "min_rarity": 6,
+                    "name": "剣に賭ける想い"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "219620",
+                    "min_rarity": 5,
+                    "name": "バックステップ"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "219650",
+                    "min_rarity": 0,
+                    "name": "闘技・剣折り"
+                },
+                {
+                    "id": "219660",
+                    "min_rarity": 0,
+                    "name": "闘技・鎧刺し"
+                }
+            ],
+            "magic": []
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "219640",
+                    "min_rarity": 6,
+                    "name": "闘技・多裂剣"
+                },
+                {
+                    "id": "219670",
+                    "min_rarity": 6,
+                    "name": "闘技・盾砕き"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "219800",
+                    "min_rarity": 0,
+                    "name": "コロシアムスター"
+                },
+                {
+                    "id": "219680",
+                    "min_rarity": 0,
+                    "name": "闘技・業火剣嵐"
+                }
+            ],
+            "magic": []
+        },
+        "61": {
+            "abilities": [
+                {
+                    "id": "219690",
+                    "min_rarity": 5,
+                    "name": "闘技・気合い斬り"
+                },
+                {
+                    "id": "219780",
+                    "min_rarity": 5,
+                    "name": "いい度胸！"
+                }
+            ],
+            "magic": []
+        },
+        "79": {
+            "abilities": [
+                {
+                    "id": "219700",
+                    "min_rarity": 6,
+                    "name": "闘技・二連気合い斬り"
+                },
+                {
+                    "id": "219790",
+                    "min_rarity": 6,
+                    "name": "覚悟はできた？"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "219810",
+                    "min_rarity": 5,
+                    "name": "バトルスピリッツ"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "219710",
+                    "min_rarity": 6,
+                    "name": "剣闘錬気"
+                },
+                {
+                    "id": "219730",
+                    "min_rarity": 6,
+                    "name": "女剣闘士の覚悟"
                 }
             ],
             "magic": []
@@ -18048,6 +22222,123 @@
             "magic": []
         }
     },
+    "207000105": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "214860",
+                    "min_rarity": 6,
+                    "name": "ヴァンガード"
+                },
+                {
+                    "id": "214800",
+                    "min_rarity": 0,
+                    "name": "ブレイバー"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "214790",
+                    "min_rarity": 0,
+                    "name": "凶斬り"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "214820",
+                    "min_rarity": 6,
+                    "name": "クライムハザード"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "215160",
+                    "min_rarity": 0,
+                    "name": "憧れの虚像"
+                }
+            ],
+            "magic": []
+        },
+        "49": {
+            "abilities": [
+                {
+                    "id": "214830",
+                    "min_rarity": 6,
+                    "name": "メテオレイン"
+                }
+            ],
+            "magic": []
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "214810",
+                    "min_rarity": 0,
+                    "name": "破晄撃"
+                }
+            ],
+            "magic": []
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "214870",
+                    "min_rarity": 6,
+                    "name": "ジェノバ細胞"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "214850",
+                    "min_rarity": 0,
+                    "name": "ソルジャークラス1st"
+                }
+            ],
+            "magic": []
+        },
+        "81": {
+            "abilities": [
+                {
+                    "id": "214880",
+                    "min_rarity": 6,
+                    "name": "闘争本能"
+                }
+            ],
+            "magic": []
+        },
+        "93": {
+            "abilities": [
+                {
+                    "id": "214980",
+                    "min_rarity": 6,
+                    "name": "アグレッシブ"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "214840",
+                    "min_rarity": 6,
+                    "name": "画龍点睛"
+                }
+            ],
+            "magic": []
+        }
+    },
     "209000103": {
         "1": {
             "abilities": [
@@ -18055,6 +22346,11 @@
                     "id": "200010",
                     "min_rarity": 0,
                     "name": "ぬすむ"
+                },
+                {
+                    "id": "217480",
+                    "min_rarity": 6,
+                    "name": "盗賊団タンタラス"
                 }
             ],
             "magic": []
@@ -18069,12 +22365,37 @@
             ],
             "magic": []
         },
+        "10": {
+            "abilities": [
+                {
+                    "id": "217450",
+                    "min_rarity": 6,
+                    "name": "デュアルエッジ"
+                }
+            ],
+            "magic": []
+        },
         "15": {
             "abilities": [
                 {
                     "id": "200250",
                     "min_rarity": 4,
                     "name": "とんずら"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "217460",
+                    "min_rarity": 6,
+                    "name": "混乱回避の術"
+                },
+                {
+                    "id": "217470",
+                    "min_rarity": 6,
+                    "name": "眠らずの術"
                 }
             ],
             "magic": []
@@ -18089,12 +22410,47 @@
             ],
             "magic": []
         },
+        "23": {
+            "abilities": [
+                {
+                    "id": "213410",
+                    "min_rarity": 6,
+                    "name": "短剣の極意"
+                }
+            ],
+            "magic": []
+        },
         "26": {
             "abilities": [
                 {
                     "id": "101200",
                     "min_rarity": 5,
                     "name": "カウンター"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "209770",
+                    "min_rarity": 6,
+                    "name": "危機察知"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 6,
+                    "name": "HP+20%"
+                },
+                {
+                    "id": "100130",
+                    "min_rarity": 6,
+                    "name": "防御+10%"
                 }
             ],
             "magic": []
@@ -18119,12 +22475,62 @@
             ],
             "magic": []
         },
+        "55": {
+            "abilities": [
+                {
+                    "id": "217360",
+                    "min_rarity": 6,
+                    "name": "ライフスティール"
+                },
+                {
+                    "id": "217370",
+                    "min_rarity": 6,
+                    "name": "マジックスティール"
+                }
+            ],
+            "magic": []
+        },
         "60": {
             "abilities": [
                 {
                     "id": "101220",
                     "min_rarity": 4,
                     "name": "目には目を"
+                }
+            ],
+            "magic": []
+        },
+        "64": {
+            "abilities": [
+                {
+                    "id": "217380",
+                    "min_rarity": 6,
+                    "name": "フィジカルスティール"
+                },
+                {
+                    "id": "217390",
+                    "min_rarity": 6,
+                    "name": "メンタルスティール"
+                }
+            ],
+            "magic": []
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "217400",
+                    "min_rarity": 6,
+                    "name": "刀魂放気"
+                }
+            ],
+            "magic": []
+        },
+        "77": {
+            "abilities": [
+                {
+                    "id": "217420",
+                    "min_rarity": 6,
+                    "name": "リーチセブン"
                 }
             ],
             "magic": []
@@ -18138,11 +22544,47 @@
                 }
             ],
             "magic": []
+        },
+        "88": {
+            "abilities": [
+                {
+                    "id": "217410",
+                    "min_rarity": 6,
+                    "name": "ライフデジョン"
+                }
+            ],
+            "magic": []
+        },
+        "96": {
+            "abilities": [
+                {
+                    "id": "217440",
+                    "min_rarity": 6,
+                    "name": "スティールチャンス"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217430",
+                    "min_rarity": 6,
+                    "name": "フリーエナジー"
+                }
+            ],
+            "magic": []
         }
     },
     "209000203": {
         "1": {
-            "abilities": [],
+            "abilities": [
+                {
+                    "id": "217570",
+                    "min_rarity": 6,
+                    "name": "生の証明"
+                }
+            ],
             "magic": [
                 {
                     "id": "20010",
@@ -18171,6 +22613,16 @@
                 }
             ]
         },
+        "12": {
+            "abilities": [
+                {
+                    "id": "217560",
+                    "min_rarity": 5,
+                    "name": "魔力をためる"
+                }
+            ],
+            "magic": []
+        },
         "18": {
             "abilities": [],
             "magic": [
@@ -18180,6 +22632,26 @@
                     "name": "バイオ"
                 }
             ]
+        },
+        "20": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20190",
+                    "min_rarity": 5,
+                    "name": "アスピル"
+                }
+            ]
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "101240",
+                    "min_rarity": 6,
+                    "name": "満月の心得"
+                }
+            ],
+            "magic": []
         },
         "30": {
             "abilities": [],
@@ -18211,6 +22683,16 @@
                 }
             ]
         },
+        "37": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 5,
+                    "name": "ブリザガ"
+                }
+            ]
+        },
         "38": {
             "abilities": [],
             "magic": [
@@ -18231,6 +22713,26 @@
                 }
             ]
         },
+        "48": {
+            "abilities": [
+                {
+                    "id": "208590",
+                    "min_rarity": 6,
+                    "name": "ロッドの極意"
+                }
+            ],
+            "magic": []
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 5,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
         "55": {
             "abilities": [],
             "magic": [
@@ -18250,9 +22752,69 @@
                 }
             ],
             "magic": []
+        },
+        "63": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 5,
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20430",
+                    "min_rarity": 6,
+                    "name": "メテオ"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 5,
+                    "name": "サンダガ"
+                }
+            ]
+        },
+        "82": {
+            "abilities": [
+                {
+                    "id": "200470",
+                    "min_rarity": 6,
+                    "name": "たくす"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20530",
+                    "min_rarity": 6,
+                    "name": "ジハード"
+                }
+            ]
         }
     },
     "209000304": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "217500",
+                    "min_rarity": 6,
+                    "name": "召喚士の記憶"
+                }
+            ],
+            "magic": []
+        },
         "4": {
             "abilities": [],
             "magic": [
@@ -18264,7 +22826,13 @@
             ]
         },
         "12": {
-            "abilities": [],
+            "abilities": [
+                {
+                    "id": "217550",
+                    "min_rarity": 6,
+                    "name": "眠らずの術"
+                }
+            ],
             "magic": [
                 {
                     "id": "10120",
@@ -18274,7 +22842,13 @@
             ]
         },
         "24": {
-            "abilities": [],
+            "abilities": [
+                {
+                    "id": "217540",
+                    "min_rarity": 6,
+                    "name": "沈黙回避の術"
+                }
+            ],
             "magic": [
                 {
                     "id": "10070",
@@ -18282,6 +22856,16 @@
                     "name": "ケアルラ"
                 }
             ]
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "217510",
+                    "min_rarity": 6,
+                    "name": "薬剤師の免許"
+                }
+            ],
+            "magic": []
         },
         "36": {
             "abilities": [],
@@ -18308,12 +22892,32 @@
             ],
             "magic": []
         },
+        "44": {
+            "abilities": [
+                {
+                    "id": "217520",
+                    "min_rarity": 6,
+                    "name": "アレクサンドリア王女"
+                }
+            ],
+            "magic": []
+        },
         "48": {
             "abilities": [
                 {
                     "id": "100190",
                     "min_rarity": 0,
                     "name": "召喚魔法+10%"
+                }
+            ],
+            "magic": []
+        },
+        "53": {
+            "abilities": [
+                {
+                    "id": "217530",
+                    "min_rarity": 6,
+                    "name": "魔力感知"
                 }
             ],
             "magic": []
@@ -18335,6 +22939,11 @@
                     "id": "10150",
                     "min_rarity": 0,
                     "name": "ケアルダ"
+                },
+                {
+                    "id": "30320",
+                    "min_rarity": 6,
+                    "name": "プロテガ"
                 }
             ]
         },
@@ -18344,6 +22953,26 @@
                     "id": "100040",
                     "min_rarity": 5,
                     "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "71": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 6,
+                    "name": "HP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 6,
+                    "name": "MP+20%"
                 }
             ],
             "magic": []
@@ -18372,6 +23001,223 @@
                     "name": "レイズ"
                 }
             ]
+        },
+        "85": {
+            "abilities": [
+                {
+                    "id": "100740",
+                    "min_rarity": 6,
+                    "name": "オートリフレシュ"
+                },
+                {
+                    "id": "217690",
+                    "min_rarity": 6,
+                    "name": "幻獣への祈り"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217490",
+                    "min_rarity": 6,
+                    "name": "生命のハーモニー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "209000404": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "217260",
+                    "min_rarity": 6,
+                    "name": "プルート隊隊長"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [
+                {
+                    "id": "217200",
+                    "min_rarity": 5,
+                    "name": "突撃"
+                }
+            ],
+            "magic": []
+        },
+        "11": {
+            "abilities": [
+                {
+                    "id": "201130",
+                    "min_rarity": 0,
+                    "name": "パワーブレイク"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "100030",
+                    "min_rarity": 6,
+                    "name": "HP+30%"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "100730",
+                    "min_rarity": 5,
+                    "name": "オートリジェネ"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "201140",
+                    "min_rarity": 0,
+                    "name": "マジックブレイク"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "217270",
+                    "min_rarity": 5,
+                    "name": "固まらずの術"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "201150",
+                    "min_rarity": 0,
+                    "name": "アーマーブレイク"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "217210",
+                    "min_rarity": 5,
+                    "name": "騎士剣技・雷鳴剣"
+                }
+            ],
+            "magic": []
+        },
+        "44": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 6,
+                    "name": "攻撃+20%"
+                }
+            ],
+            "magic": []
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "201160",
+                    "min_rarity": 0,
+                    "name": "メンタルブレイク"
+                }
+            ],
+            "magic": []
+        },
+        "50": {
+            "abilities": [
+                {
+                    "id": "217280",
+                    "min_rarity": 5,
+                    "name": "暗闇回避の術"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "200300",
+                    "min_rarity": 0,
+                    "name": "いあいぬき"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "217190",
+                    "min_rarity": 0,
+                    "name": "暗黒剣"
+                }
+            ],
+            "magic": []
+        },
+        "65": {
+            "abilities": [
+                {
+                    "id": "217230",
+                    "min_rarity": 6,
+                    "name": "騎士剣技・クライムハザード"
+                }
+            ],
+            "magic": []
+        },
+        "67": {
+            "abilities": [
+                {
+                    "id": "101360",
+                    "min_rarity": 5,
+                    "name": "りょうてもち"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "217220",
+                    "min_rarity": 5,
+                    "name": "騎士剣技・ストックブレイク"
+                }
+            ],
+            "magic": []
+        },
+        "88": {
+            "abilities": [
+                {
+                    "id": "217250",
+                    "min_rarity": 6,
+                    "name": "月光斬り"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217240",
+                    "min_rarity": 6,
+                    "name": "騎士剣技・ショック"
+                }
+            ],
+            "magic": []
         }
     },
     "209000503": {
@@ -18456,6 +23302,199 @@
                     "id": "201710",
                     "min_rarity": 5,
                     "name": "レーゼの風"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "209000705": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "217160",
+                    "min_rarity": 6,
+                    "name": "モグとの友情"
+                }
+            ],
+            "magic": []
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "217170",
+                    "min_rarity": 0,
+                    "name": "おしゃまな召喚士"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10160",
+                    "min_rarity": 0,
+                    "name": "ケアルガ"
+                }
+            ]
+        },
+        "23": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10210",
+                    "min_rarity": 6,
+                    "name": "ホーリー"
+                }
+            ]
+        },
+        "30": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10090",
+                    "min_rarity": 0,
+                    "name": "ストナ"
+                }
+            ]
+        },
+        "32": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10310",
+                    "min_rarity": 6,
+                    "name": "デブレナガ"
+                }
+            ]
+        },
+        "39": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10100",
+                    "min_rarity": 0,
+                    "name": "レイズ"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10330",
+                    "min_rarity": 6,
+                    "name": "デプロナガ"
+                }
+            ]
+        },
+        "54": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10190",
+                    "min_rarity": 0,
+                    "name": "エスナガ"
+                }
+            ]
+        },
+        "55": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10350",
+                    "min_rarity": 6,
+                    "name": "デフェスナガ"
+                }
+            ]
+        },
+        "64": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10200",
+                    "min_rarity": 0,
+                    "name": "デスペガ"
+                }
+            ]
+        },
+        "67": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10370",
+                    "min_rarity": 6,
+                    "name": "デシェルナガ"
+                }
+            ]
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "100180",
+                    "min_rarity": 6,
+                    "name": "精神+30%"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 0,
+                    "name": "HP+20%"
+                },
+                {
+                    "id": "217680",
+                    "min_rarity": 0,
+                    "name": "パッションパフォーム"
+                }
+            ],
+            "magic": []
+        },
+        "85": {
+            "abilities": [
+                {
+                    "id": "213980",
+                    "min_rarity": 6,
+                    "name": "W白魔法"
+                }
+            ],
+            "magic": []
+        },
+        "89": {
+            "abilities": [
+                {
+                    "id": "217150",
+                    "min_rarity": 6,
+                    "name": "召喚士一族の末裔"
+                }
+            ],
+            "magic": []
+        },
+        "96": {
+            "abilities": [
+                {
+                    "id": "217660",
+                    "min_rarity": 6,
+                    "name": "クリプトパフォーム"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "10180",
+                    "min_rarity": 6,
+                    "name": "アレイズ"
+                }
+            ]
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217140",
+                    "min_rarity": 6,
+                    "name": "召喚士の角"
                 }
             ],
             "magic": []
@@ -18627,7 +23666,13 @@
     },
     "209001003": {
         "1": {
-            "abilities": [],
+            "abilities": [
+                {
+                    "id": "217590",
+                    "min_rarity": 6,
+                    "name": "生への執着"
+                }
+            ],
             "magic": [
                 {
                     "id": "20150",
@@ -18635,6 +23680,16 @@
                     "name": "グラビデ"
                 }
             ]
+        },
+        "8": {
+            "abilities": [
+                {
+                    "id": "100060",
+                    "min_rarity": 6,
+                    "name": "MP+30%"
+                }
+            ],
+            "magic": []
         },
         "18": {
             "abilities": [],
@@ -18645,6 +23700,16 @@
                     "name": "デスペル"
                 }
             ]
+        },
+        "19": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "min_rarity": 6,
+                    "name": "HP+20%"
+                }
+            ],
+            "magic": []
         },
         "25": {
             "abilities": [
@@ -18666,6 +23731,21 @@
                 }
             ]
         },
+        "30": {
+            "abilities": [
+                {
+                    "id": "100120",
+                    "min_rarity": 6,
+                    "name": "魔力+30%"
+                },
+                {
+                    "id": "217620",
+                    "min_rarity": 6,
+                    "name": "オートフェイス"
+                }
+            ],
+            "magic": []
+        },
         "32": {
             "abilities": [],
             "magic": [
@@ -18685,6 +23765,31 @@
                 }
             ],
             "magic": []
+        },
+        "42": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10200",
+                    "min_rarity": 6,
+                    "name": "デスペガ"
+                }
+            ]
+        },
+        "50": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10210",
+                    "min_rarity": 6,
+                    "name": "ホーリー"
+                },
+                {
+                    "id": "10160",
+                    "min_rarity": 6,
+                    "name": "ケアルガ"
+                }
+            ]
         },
         "52": {
             "abilities": [],
@@ -18706,6 +23811,26 @@
             ],
             "magic": []
         },
+        "63": {
+            "abilities": [
+                {
+                    "id": "217670",
+                    "min_rarity": 6,
+                    "name": "フレアスター"
+                }
+            ],
+            "magic": []
+        },
+        "78": {
+            "abilities": [
+                {
+                    "id": "200150",
+                    "min_rarity": 6,
+                    "name": "れんぞくま"
+                }
+            ],
+            "magic": []
+        },
         "80": {
             "abilities": [],
             "magic": [
@@ -18715,6 +23840,315 @@
                     "name": "グラビガ"
                 }
             ]
+        },
+        "94": {
+            "abilities": [
+                {
+                    "id": "217580",
+                    "min_rarity": 6,
+                    "name": "戦乱の死神"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217600",
+                    "min_rarity": 6,
+                    "name": "フレアカウンター"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "209001105": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "217110",
+                    "min_rarity": 6,
+                    "name": "絶対の忠誠心"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10070",
+                    "min_rarity": 0,
+                    "name": "ケアルラ"
+                }
+            ]
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "217070",
+                    "min_rarity": 6,
+                    "name": "聖剣技・クライムハザード"
+                },
+                {
+                    "id": "100740",
+                    "min_rarity": 6,
+                    "name": "オートリフレシュ"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30020",
+                    "min_rarity": 0,
+                    "name": "ブライン"
+                },
+                {
+                    "id": "30100",
+                    "min_rarity": 0,
+                    "name": "サイレス"
+                }
+            ]
+        },
+        "28": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10110",
+                    "min_rarity": 0,
+                    "name": "エスナ"
+                }
+            ]
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "217100",
+                    "min_rarity": 6,
+                    "name": "流麗なる聖騎士"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "217050",
+                    "min_rarity": 0,
+                    "name": "聖剣技・雷鳴剣"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10210",
+                    "min_rarity": 6,
+                    "name": "ホーリー"
+                }
+            ]
+        },
+        "49": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10100",
+                    "min_rarity": 0,
+                    "name": "レイズ"
+                }
+            ]
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "100030",
+                    "min_rarity": 6,
+                    "name": "HP+30%"
+                }
+            ],
+            "magic": []
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "100080",
+                    "min_rarity": 0,
+                    "name": "攻撃+20%"
+                }
+            ],
+            "magic": []
+        },
+        "66": {
+            "abilities": [
+                {
+                    "id": "100180",
+                    "min_rarity": 6,
+                    "name": "精神+30%"
+                }
+            ],
+            "magic": []
+        },
+        "75": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10180",
+                    "min_rarity": 6,
+                    "name": "アレイズ"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "217060",
+                    "min_rarity": 0,
+                    "name": "聖剣技・ストックブレイク"
+                }
+            ],
+            "magic": []
+        },
+        "93": {
+            "abilities": [
+                {
+                    "id": "217090",
+                    "min_rarity": 6,
+                    "name": "聖剣技・セイントブリンガー"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217080",
+                    "min_rarity": 6,
+                    "name": "聖剣技・ショック"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "209001203": {
+        "10": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30010",
+                    "min_rarity": 0,
+                    "name": "スリプル"
+                },
+                {
+                    "id": "30020",
+                    "min_rarity": 0,
+                    "name": "ブライン"
+                }
+            ]
+        },
+        "12": {
+            "abilities": [
+                {
+                    "id": "100070",
+                    "min_rarity": 4,
+                    "name": "攻撃+10%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "サンダラ"
+                }
+            ]
+        },
+        "19": {
+            "abilities": [
+                {
+                    "id": "100110",
+                    "min_rarity": 5,
+                    "name": "魔力+20%"
+                }
+            ],
+            "magic": []
+        },
+        "23": {
+            "abilities": [
+                {
+                    "id": "217310",
+                    "min_rarity": 4,
+                    "name": "暗黒の雷"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "212280",
+                    "min_rarity": 0,
+                    "name": "霧"
+                }
+            ],
+            "magic": []
+        },
+        "42": {
+            "abilities": [
+                {
+                    "id": "217320",
+                    "min_rarity": 5,
+                    "name": "存在証明"
+                }
+            ],
+            "magic": []
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "217330",
+                    "min_rarity": 5,
+                    "name": "帯電の霧"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 4,
+                    "name": "サンダガ"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "217340",
+                    "min_rarity": 5,
+                    "name": "魔霧の雷撃"
+                }
+            ],
+            "magic": []
         }
     },
     "210000105": {
@@ -18859,7 +24293,185 @@
             "magic": []
         }
     },
+    "210000205": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "100740",
+                    "min_rarity": 0,
+                    "name": "オートリフレシュ"
+                },
+                {
+                    "id": "219200",
+                    "min_rarity": 6,
+                    "name": "揺るがぬ覚悟"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "10160",
+                    "min_rarity": 0,
+                    "name": "ケアルガ"
+                },
+                {
+                    "id": "10110",
+                    "min_rarity": 0,
+                    "name": "エスナ"
+                },
+                {
+                    "id": "10100",
+                    "min_rarity": 6,
+                    "name": "レイズ"
+                }
+            ]
+        },
+        "14": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30260",
+                    "min_rarity": 0,
+                    "name": "バファイガ"
+                },
+                {
+                    "id": "30270",
+                    "min_rarity": 0,
+                    "name": "バブリザガ"
+                },
+                {
+                    "id": "30280",
+                    "min_rarity": 0,
+                    "name": "バサンダガ"
+                },
+                {
+                    "id": "30290",
+                    "min_rarity": 0,
+                    "name": "バウォタガ"
+                }
+            ]
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "219170",
+                    "min_rarity": 6,
+                    "name": "決意の召喚士"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "219180",
+                    "min_rarity": 0,
+                    "name": "月輪の印"
+                }
+            ],
+            "magic": []
+        },
+        "39": {
+            "abilities": [
+                {
+                    "id": "219160",
+                    "min_rarity": 6,
+                    "name": "召喚士の使命"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30320",
+                    "min_rarity": 0,
+                    "name": "プロテガ"
+                },
+                {
+                    "id": "30330",
+                    "min_rarity": 0,
+                    "name": "シェルガ"
+                }
+            ]
+        },
+        "63": {
+            "abilities": [
+                {
+                    "id": "219130",
+                    "min_rarity": 6,
+                    "name": "召喚獣への祈り"
+                }
+            ],
+            "magic": []
+        },
+        "70": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10130",
+                    "min_rarity": 0,
+                    "name": "デスペル"
+                }
+            ]
+        },
+        "77": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10230",
+                    "min_rarity": 6,
+                    "name": "リレイズ"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "219150",
+                    "min_rarity": 0,
+                    "name": "シューティング・レイ"
+                }
+            ],
+            "magic": []
+        },
+        "89": {
+            "abilities": [
+                {
+                    "id": "219190",
+                    "min_rarity": 6,
+                    "name": "大召喚士の娘"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "219140",
+                    "min_rarity": 6,
+                    "name": "シューティング・パワー"
+                }
+            ],
+            "magic": []
+        }
+    },
     "210000303": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 6,
+                    "name": "HP+10%"
+                },
+                {
+                    "id": "100080",
+                    "min_rarity": 6,
+                    "name": "攻撃+20%"
+                }
+            ],
+            "magic": []
+        },
         "3": {
             "abilities": [
                 {
@@ -18886,6 +24498,16 @@
                     "id": "209140",
                     "min_rarity": 5,
                     "name": "サイレスバスター"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "219100",
+                    "min_rarity": 6,
+                    "name": "ステータスリール"
                 }
             ],
             "magic": []
@@ -18940,6 +24562,16 @@
             ],
             "magic": []
         },
+        "42": {
+            "abilities": [
+                {
+                    "id": "100750",
+                    "min_rarity": 6,
+                    "name": "オートリミット"
+                }
+            ],
+            "magic": []
+        },
         "43": {
             "abilities": [],
             "magic": [
@@ -18980,6 +24612,16 @@
             ],
             "magic": []
         },
+        "63": {
+            "abilities": [
+                {
+                    "id": "219120",
+                    "min_rarity": 6,
+                    "name": "エレメントリール"
+                }
+            ],
+            "magic": []
+        },
         "68": {
             "abilities": [
                 {
@@ -19009,6 +24651,176 @@
                 }
             ],
             "magic": []
+        },
+        "85": {
+            "abilities": [
+                {
+                    "id": "219280",
+                    "min_rarity": 6,
+                    "name": "バードキラー改"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "219090",
+                    "min_rarity": 6,
+                    "name": "熱血ファイター"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "210000405": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "213200",
+                    "min_rarity": 0,
+                    "name": "沈黙無効"
+                },
+                {
+                    "id": "211100",
+                    "min_rarity": 0,
+                    "name": "混乱無効"
+                },
+                {
+                    "id": "219030",
+                    "min_rarity": 6,
+                    "name": "火星の印"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 0,
+                    "name": "サンダガ"
+                },
+                {
+                    "id": "20230",
+                    "min_rarity": 0,
+                    "name": "ウォタガ"
+                },
+                {
+                    "id": "20070",
+                    "min_rarity": 0,
+                    "name": "バイオ"
+                }
+            ]
+        },
+        "17": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20280",
+                    "min_rarity": 0,
+                    "name": "デス"
+                }
+            ]
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "100060",
+                    "min_rarity": 6,
+                    "name": "MP+30%"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "200460",
+                    "min_rarity": 0,
+                    "name": "集中"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "219020",
+                    "min_rarity": 6,
+                    "name": "マジカル・モグ"
+                }
+            ],
+            "magic": []
+        },
+        "61": {
+            "abilities": [
+                {
+                    "id": "100740",
+                    "min_rarity": 0,
+                    "name": "オートリフレシュ"
+                }
+            ],
+            "magic": []
+        },
+        "72": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20310",
+                    "min_rarity": 6,
+                    "name": "サンダジャ"
+                },
+                {
+                    "id": "20320",
+                    "min_rarity": 6,
+                    "name": "ウォタジャ"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "200160",
+                    "min_rarity": 0,
+                    "name": "W黒魔法"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20350",
+                    "min_rarity": 0,
+                    "name": "フレア"
+                }
+            ]
+        },
+        "88": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20290",
+                    "min_rarity": 6,
+                    "name": "ファイジャ"
+                },
+                {
+                    "id": "20300",
+                    "min_rarity": 6,
+                    "name": "ブリザジャ"
+                }
+            ]
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "219040",
+                    "min_rarity": 6,
+                    "name": "スタンバイ・水"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20380",
+                    "min_rarity": 6,
+                    "name": "フラッド"
+                }
+            ]
         }
     },
     "210000704": {
@@ -19158,6 +24970,156 @@
                     "id": "209010",
                     "min_rarity": 6,
                     "name": "メガフェニックス"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "210000804": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 6,
+                    "name": "MP+10%"
+                },
+                {
+                    "id": "100010",
+                    "min_rarity": 6,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "ファイラ"
+                },
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "ブリザラ"
+                },
+                {
+                    "id": "20460",
+                    "min_rarity": 0,
+                    "name": "ダーラ"
+                }
+            ]
+        },
+        "26": {
+            "abilities": [
+                {
+                    "id": "219060",
+                    "min_rarity": 5,
+                    "name": "死刃の交撃"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20200",
+                    "min_rarity": 5,
+                    "name": "ファイガ"
+                },
+                {
+                    "id": "20210",
+                    "min_rarity": 5,
+                    "name": "ブリザガ"
+                }
+            ]
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "100110",
+                    "min_rarity": 6,
+                    "name": "魔力+20%"
+                },
+                {
+                    "id": "100200",
+                    "min_rarity": 6,
+                    "name": "召喚魔法+20%"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "サンダラ"
+                },
+                {
+                    "id": "20110",
+                    "min_rarity": 0,
+                    "name": "ウォタラ"
+                }
+            ]
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "219070",
+                    "min_rarity": 5,
+                    "name": "暗き執念"
+                }
+            ],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 5,
+                    "name": "サンダガ"
+                },
+                {
+                    "id": "20230",
+                    "min_rarity": 5,
+                    "name": "ウォタガ"
+                }
+            ]
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "219050",
+                    "min_rarity": 0,
+                    "name": "インサニティダーク"
+                }
+            ],
+            "magic": []
+        },
+        "67": {
+            "abilities": [
+                {
+                    "id": "100120",
+                    "min_rarity": 6,
+                    "name": "魔力+30%"
+                },
+                {
+                    "id": "100210",
+                    "min_rarity": 6,
+                    "name": "召喚魔法+30%"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20470",
+                    "min_rarity": 5,
+                    "name": "ダーガ"
+                }
+            ]
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "200160",
+                    "min_rarity": 6,
+                    "name": "W黒魔法"
                 }
             ],
             "magic": []
@@ -21839,6 +27801,275 @@
             "magic": []
         }
     },
+    "214000404": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "216910",
+                    "min_rarity": 6,
+                    "name": "内丹"
+                },
+                {
+                    "id": "216980",
+                    "min_rarity": 5,
+                    "name": "型"
+                }
+            ],
+            "magic": []
+        },
+        "4": {
+            "abilities": [
+                {
+                    "id": "207870",
+                    "min_rarity": 0,
+                    "name": "フェザーステップ"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "216950",
+                    "min_rarity": 6,
+                    "name": "疾風の構え"
+                }
+            ],
+            "magic": []
+        },
+        "30": {
+            "abilities": [
+                {
+                    "id": "101200",
+                    "min_rarity": 0,
+                    "name": "カウンター"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "216960",
+                    "min_rarity": 5,
+                    "name": "金剛の構え"
+                }
+            ],
+            "magic": []
+        },
+        "58": {
+            "abilities": [
+                {
+                    "id": "216970",
+                    "min_rarity": 0,
+                    "name": "発勁"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "216930",
+                    "min_rarity": 6,
+                    "name": "空鳴拳"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "216920",
+                    "min_rarity": 5,
+                    "name": "鉄山靠"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "216940",
+                    "min_rarity": 6,
+                    "name": "紅蓮の構え"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "214000504": {
+        "1": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20500",
+                    "min_rarity": 6,
+                    "name": "アストラルファイア"
+                }
+            ]
+        },
+        "10": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "30010",
+                    "min_rarity": 0,
+                    "name": "スリプル"
+                }
+            ]
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "min_rarity": 6,
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20200",
+                    "min_rarity": 5,
+                    "name": "ファイガ"
+                }
+            ]
+        },
+        "22": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20090",
+                    "min_rarity": 0,
+                    "name": "ブリザラ"
+                }
+            ]
+        },
+        "33": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20210",
+                    "min_rarity": 5,
+                    "name": "ブリザガ"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20520",
+                    "min_rarity": 0,
+                    "name": "コラプス"
+                }
+            ]
+        },
+        "39": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20510",
+                    "min_rarity": 6,
+                    "name": "アンブラルブリザード"
+                }
+            ]
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "217010",
+                    "min_rarity": 5,
+                    "name": "アポカタスタシス"
+                }
+            ],
+            "magic": []
+        },
+        "43": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20080",
+                    "min_rarity": 0,
+                    "name": "ファイラ"
+                }
+            ]
+        },
+        "51": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "サンダラ"
+                }
+            ]
+        },
+        "53": {
+            "abilities": [
+                {
+                    "id": "100120",
+                    "min_rarity": 6,
+                    "name": "魔力+30%"
+                }
+            ],
+            "magic": []
+        },
+        "58": {
+            "abilities": [
+                {
+                    "id": "217020",
+                    "min_rarity": 5,
+                    "name": "ウォール"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "202130",
+                    "min_rarity": 0,
+                    "name": "コンバート"
+                }
+            ],
+            "magic": []
+        },
+        "74": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20350",
+                    "min_rarity": 6,
+                    "name": "フレア"
+                }
+            ]
+        },
+        "80": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 5,
+                    "name": "サンダガ"
+                }
+            ]
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "217030",
+                    "min_rarity": 6,
+                    "name": "迅速魔"
+                }
+            ],
+            "magic": []
+        }
+    },
     "215000105": {
         "1": {
             "abilities": [
@@ -22036,6 +28267,407 @@
                     "id": "211760",
                     "min_rarity": 6,
                     "name": "シフトブレイク"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "215000205": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "216140",
+                    "min_rarity": 6,
+                    "name": "見切る"
+                },
+                {
+                    "id": "216070",
+                    "min_rarity": 0,
+                    "name": "テンペスト"
+                }
+            ],
+            "magic": []
+        },
+        "8": {
+            "abilities": [
+                {
+                    "id": "216150",
+                    "min_rarity": 0,
+                    "name": "サバイバル"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "100740",
+                    "min_rarity": 6,
+                    "name": "オートリフレシュ"
+                }
+            ],
+            "magic": []
+        },
+        "22": {
+            "abilities": [
+                {
+                    "id": "216160",
+                    "min_rarity": 6,
+                    "name": "王の盾"
+                }
+            ],
+            "magic": []
+        },
+        "30": {
+            "abilities": [
+                {
+                    "id": "216080",
+                    "min_rarity": 0,
+                    "name": "ドーンブレイカー"
+                }
+            ],
+            "magic": []
+        },
+        "31": {
+            "abilities": [
+                {
+                    "id": "100170",
+                    "min_rarity": 6,
+                    "name": "精神+20%"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "207410",
+                    "min_rarity": 6,
+                    "name": "大剣の極意"
+                }
+            ],
+            "magic": []
+        },
+        "48": {
+            "abilities": [
+                {
+                    "id": "216120",
+                    "min_rarity": 0,
+                    "name": "シンクガード"
+                }
+            ],
+            "magic": []
+        },
+        "55": {
+            "abilities": [
+                {
+                    "id": "216130",
+                    "min_rarity": 6,
+                    "name": "一喝"
+                },
+                {
+                    "id": "100150",
+                    "min_rarity": 6,
+                    "name": "防御+30%"
+                }
+            ],
+            "magic": []
+        },
+        "63": {
+            "abilities": [
+                {
+                    "id": "216090",
+                    "min_rarity": 6,
+                    "name": "サイクロン"
+                }
+            ],
+            "magic": []
+        },
+        "67": {
+            "abilities": [
+                {
+                    "id": "100010",
+                    "min_rarity": 0,
+                    "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "100730",
+                    "min_rarity": 0,
+                    "name": "オートリジェネ"
+                }
+            ],
+            "magic": []
+        },
+        "84": {
+            "abilities": [
+                {
+                    "id": "216110",
+                    "min_rarity": 6,
+                    "name": "ダッシュガード"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "216100",
+                    "min_rarity": 6,
+                    "name": "ロイヤルガード"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "215000304": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "216230",
+                    "min_rarity": 6,
+                    "name": "刀の極意改"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "216250",
+                    "min_rarity": 5,
+                    "name": "セーフティガード"
+                }
+            ],
+            "magic": []
+        },
+        "19": {
+            "abilities": [
+                {
+                    "id": "211750",
+                    "min_rarity": 0,
+                    "name": "バックアタック"
+                }
+            ],
+            "magic": []
+        },
+        "36": {
+            "abilities": [
+                {
+                    "id": "216200",
+                    "min_rarity": 6,
+                    "name": "飛燕"
+                }
+            ],
+            "magic": []
+        },
+        "39": {
+            "abilities": [
+                {
+                    "id": "216190",
+                    "min_rarity": 5,
+                    "name": "心眼菊一文字"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "100730",
+                    "min_rarity": 0,
+                    "name": "オートリジェネ"
+                }
+            ],
+            "magic": []
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "200300",
+                    "min_rarity": 5,
+                    "name": "いあいぬき"
+                }
+            ],
+            "magic": []
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "216220",
+                    "min_rarity": 6,
+                    "name": "ルシス三強"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "216180",
+                    "min_rarity": 0,
+                    "name": "虎鉄一閃"
+                }
+            ],
+            "magic": []
+        },
+        "66": {
+            "abilities": [
+                {
+                    "id": "210850",
+                    "min_rarity": 5,
+                    "name": "鼓舞"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "216240",
+                    "min_rarity": 5,
+                    "name": "不死将軍"
+                }
+            ],
+            "magic": []
+        },
+        "87": {
+            "abilities": [
+                {
+                    "id": "216260",
+                    "min_rarity": 6,
+                    "name": "抜刀術"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "216210",
+                    "min_rarity": 6,
+                    "name": "斬瞬刀"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "215000403": {
+        "8": {
+            "abilities": [
+                {
+                    "id": "216280",
+                    "min_rarity": 0,
+                    "name": "手伝うよ！"
+                }
+            ],
+            "magic": []
+        },
+        "11": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 4,
+                    "name": "防御+10%"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 0,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "216330",
+                    "min_rarity": 5,
+                    "name": "アミシティア家の娘"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [
+                {
+                    "id": "216350",
+                    "min_rarity": 4,
+                    "name": "オートST回復薬"
+                }
+            ],
+            "magic": []
+        },
+        "32": {
+            "abilities": [
+                {
+                    "id": "216340",
+                    "min_rarity": 0,
+                    "name": "イリスの花束"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "216300",
+                    "min_rarity": 4,
+                    "name": "ダブルステップ"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "203360",
+                    "min_rarity": 5,
+                    "name": "勇気づける"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "216270",
+                    "min_rarity": 0,
+                    "name": "モーグリアタック"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "216290",
+                    "min_rarity": 5,
+                    "name": "元気だしてね！"
+                },
+                {
+                    "id": "216310",
+                    "min_rarity": 4,
+                    "name": "これからだよ！"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "216320",
+                    "min_rarity": 5,
+                    "name": "すぐに治すね！"
                 }
             ],
             "magic": []
@@ -28520,6 +35152,681 @@
                     "id": "214620",
                     "min_rarity": 5,
                     "name": "サクション"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "310000105": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "218510",
+                    "min_rarity": 6,
+                    "name": "スピード"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "218540",
+                    "min_rarity": 0,
+                    "name": "R040：ブレード"
+                }
+            ],
+            "magic": []
+        },
+        "19": {
+            "abilities": [
+                {
+                    "id": "218570",
+                    "min_rarity": 6,
+                    "name": "自爆：2B"
+                }
+            ],
+            "magic": []
+        },
+        "24": {
+            "abilities": [
+                {
+                    "id": "218580",
+                    "min_rarity": 0,
+                    "name": "釣る"
+                }
+            ],
+            "magic": []
+        },
+        "33": {
+            "abilities": [
+                {
+                    "id": "218550",
+                    "min_rarity": 0,
+                    "name": "R050：スピアー"
+                }
+            ],
+            "magic": []
+        },
+        "38": {
+            "abilities": [
+                {
+                    "id": "218590",
+                    "min_rarity": 6,
+                    "name": "オートアヴォイド"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [
+                {
+                    "id": "218610",
+                    "min_rarity": 0,
+                    "name": "近接武器攻撃力UP+3"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "218560",
+                    "min_rarity": 0,
+                    "name": "A150：ヴォルト"
+                }
+            ],
+            "magic": []
+        },
+        "66": {
+            "abilities": [
+                {
+                    "id": "218600",
+                    "min_rarity": 6,
+                    "name": "Code：E"
+                }
+            ],
+            "magic": []
+        },
+        "70": {
+            "abilities": [
+                {
+                    "id": "218630",
+                    "min_rarity": 0,
+                    "name": "オートHP回復"
+                },
+                {
+                    "id": "218650",
+                    "min_rarity": 0,
+                    "name": "リスタート"
+                }
+            ],
+            "magic": []
+        },
+        "77": {
+            "abilities": [
+                {
+                    "id": "101370",
+                    "min_rarity": 6,
+                    "name": "にとうりゅう"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "218530",
+                    "min_rarity": 0,
+                    "name": "ポッドチャージ"
+                }
+            ],
+            "magic": []
+        },
+        "82": {
+            "abilities": [
+                {
+                    "id": "218640",
+                    "min_rarity": 6,
+                    "name": "HP最大値UP+4"
+                }
+            ],
+            "magic": []
+        },
+        "95": {
+            "abilities": [
+                {
+                    "id": "218620",
+                    "min_rarity": 6,
+                    "name": "近接武器攻撃力UP+5"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "218520",
+                    "min_rarity": 6,
+                    "name": "アヴォイド"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "310000204": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "218750",
+                    "min_rarity": 0,
+                    "name": "クリティカルUP"
+                },
+                {
+                    "id": "101200",
+                    "min_rarity": 0,
+                    "name": "カウンター"
+                },
+                {
+                    "id": "218660",
+                    "min_rarity": 6,
+                    "name": "自爆：9S"
+                }
+            ],
+            "magic": []
+        },
+        "17": {
+            "abilities": [
+                {
+                    "id": "218770",
+                    "min_rarity": 5,
+                    "name": "HP最大値UP+2"
+                }
+            ],
+            "magic": []
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "218760",
+                    "min_rarity": 6,
+                    "name": "ジャスト回避"
+                }
+            ],
+            "magic": []
+        },
+        "29": {
+            "abilities": [
+                {
+                    "id": "218710",
+                    "min_rarity": 0,
+                    "name": "ビューハック"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "218740",
+                    "min_rarity": 5,
+                    "name": "攻撃HP回復"
+                }
+            ],
+            "magic": []
+        },
+        "35": {
+            "abilities": [
+                {
+                    "id": "218610",
+                    "min_rarity": 6,
+                    "name": "近接武器攻撃力UP+3"
+                }
+            ],
+            "magic": []
+        },
+        "59": {
+            "abilities": [
+                {
+                    "id": "218720",
+                    "min_rarity": 5,
+                    "name": "バランスハック"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "218680",
+                    "min_rarity": 0,
+                    "name": "パージ：魔精"
+                }
+            ],
+            "magic": []
+        },
+        "72": {
+            "abilities": [
+                {
+                    "id": "218730",
+                    "min_rarity": 6,
+                    "name": "スプレッドシールド"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "218690",
+                    "min_rarity": 5,
+                    "name": "エレメントパージ：火雷風"
+                },
+                {
+                    "id": "218700",
+                    "min_rarity": 5,
+                    "name": "エレメントパージ：氷水土"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "218670",
+                    "min_rarity": 6,
+                    "name": "パージ：攻防"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "310000304": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "218500",
+                    "min_rarity": 0,
+                    "name": "人類模倣"
+                },
+                {
+                    "id": "218910",
+                    "min_rarity": 6,
+                    "name": "人類への渇望"
+                }
+            ],
+            "magic": []
+        },
+        "16": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 0,
+                    "name": "防御+10%"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "218480",
+                    "min_rarity": 0,
+                    "name": "ダメージカット"
+                }
+            ],
+            "magic": []
+        },
+        "45": {
+            "abilities": [
+                {
+                    "id": "100160",
+                    "min_rarity": 5,
+                    "name": "精神+10%"
+                }
+            ],
+            "magic": []
+        },
+        "52": {
+            "abilities": [
+                {
+                    "id": "100030",
+                    "min_rarity": 6,
+                    "name": "HP+30%"
+                }
+            ],
+            "magic": []
+        },
+        "58": {
+            "abilities": [
+                {
+                    "id": "218880",
+                    "min_rarity": 0,
+                    "name": "カタナ避ケル"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "211100",
+                    "min_rarity": 5,
+                    "name": "混乱無効"
+                }
+            ],
+            "magic": []
+        },
+        "77": {
+            "abilities": [
+                {
+                    "id": "218890",
+                    "min_rarity": 5,
+                    "name": "ネットワーク切断"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "218470",
+                    "min_rarity": 5,
+                    "name": "バレットウェーブ"
+                }
+            ],
+            "magic": []
+        },
+        "87": {
+            "abilities": [
+                {
+                    "id": "101030",
+                    "min_rarity": 6,
+                    "name": "マシーンキラー"
+                }
+            ],
+            "magic": []
+        },
+        "94": {
+            "abilities": [
+                {
+                    "id": "218900",
+                    "min_rarity": 6,
+                    "name": "生の実感"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "218490",
+                    "min_rarity": 6,
+                    "name": "キューブ爆破"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "310000403": {
+        "10": {
+            "abilities": [
+                {
+                    "id": "218450",
+                    "min_rarity": 0,
+                    "name": "R010：レーザー"
+                }
+            ],
+            "magic": []
+        },
+        "18": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 0,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "28": {
+            "abilities": [
+                {
+                    "id": "218440",
+                    "min_rarity": 4,
+                    "name": "データ解析"
+                }
+            ],
+            "magic": []
+        },
+        "34": {
+            "abilities": [
+                {
+                    "id": "218950",
+                    "min_rarity": 5,
+                    "name": "射撃ダメージ軽減+2"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "218400",
+                    "min_rarity": 0,
+                    "name": "物資転送"
+                }
+            ],
+            "magic": []
+        },
+        "47": {
+            "abilities": [
+                {
+                    "id": "218960",
+                    "min_rarity": 4,
+                    "name": "物理ダメージ軽減+2"
+                }
+            ],
+            "magic": []
+        },
+        "54": {
+            "abilities": [
+                {
+                    "id": "218940",
+                    "min_rarity": 5,
+                    "name": "HP最大値UP"
+                }
+            ],
+            "magic": []
+        },
+        "60": {
+            "abilities": [
+                {
+                    "id": "218410",
+                    "min_rarity": 4,
+                    "name": "全体支援：21O"
+                }
+            ],
+            "magic": []
+        },
+        "68": {
+            "abilities": [
+                {
+                    "id": "218430",
+                    "min_rarity": 5,
+                    "name": "単体支援：防精"
+                }
+            ],
+            "magic": []
+        },
+        "75": {
+            "abilities": [
+                {
+                    "id": "218420",
+                    "min_rarity": 5,
+                    "name": "単体支援：攻魔"
+                }
+            ],
+            "magic": []
+        },
+        "80": {
+            "abilities": [
+                {
+                    "id": "218460",
+                    "min_rarity": 5,
+                    "name": "A100：デコイ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "401000104": {
+        "1": {
+            "abilities": [
+                {
+                    "id": "201360",
+                    "min_rarity": 0,
+                    "name": "マジックショット"
+                }
+            ],
+            "magic": []
+        },
+        "15": {
+            "abilities": [
+                {
+                    "id": "100040",
+                    "min_rarity": 0,
+                    "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        },
+        "20": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20100",
+                    "min_rarity": 0,
+                    "name": "サンダラ"
+                }
+            ]
+        },
+        "21": {
+            "abilities": [
+                {
+                    "id": "214740",
+                    "min_rarity": 5,
+                    "name": "歌姫の魅惑"
+                }
+            ],
+            "magic": []
+        },
+        "25": {
+            "abilities": [
+                {
+                    "id": "214780",
+                    "min_rarity": 6,
+                    "name": "パッション"
+                }
+            ],
+            "magic": []
+        },
+        "30": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20180",
+                    "min_rarity": 0,
+                    "name": "バイオラ"
+                }
+            ]
+        },
+        "36": {
+            "abilities": [
+                {
+                    "id": "214750",
+                    "min_rarity": 5,
+                    "name": "ダンスチューン"
+                }
+            ],
+            "magic": []
+        },
+        "40": {
+            "abilities": [
+                {
+                    "id": "100130",
+                    "min_rarity": 0,
+                    "name": "防御+10%"
+                }
+            ],
+            "magic": []
+        },
+        "41": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20220",
+                    "min_rarity": 6,
+                    "name": "サンダガ"
+                }
+            ]
+        },
+        "46": {
+            "abilities": [
+                {
+                    "id": "214760",
+                    "min_rarity": 5,
+                    "name": "スローバラッド"
+                }
+            ],
+            "magic": []
+        },
+        "51": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20260",
+                    "min_rarity": 6,
+                    "name": "バイオガ"
+                }
+            ]
+        },
+        "52": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20190",
+                    "min_rarity": 5,
+                    "name": "アスピル"
+                }
+            ]
+        },
+        "57": {
+            "abilities": [
+                {
+                    "id": "100100",
+                    "min_rarity": 0,
+                    "name": "魔力+10%"
+                }
+            ],
+            "magic": []
+        },
+        "61": {
+            "abilities": [
+                {
+                    "id": "101480",
+                    "min_rarity": 6,
+                    "name": "ソウルボイス"
+                }
+            ],
+            "magic": []
+        },
+        "100": {
+            "abilities": [
+                {
+                    "id": "214770",
+                    "min_rarity": 6,
+                    "name": "プレコーラス"
                 }
             ],
             "magic": []
