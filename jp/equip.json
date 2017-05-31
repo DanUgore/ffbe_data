@@ -25675,5 +25675,288 @@
             ],
             "magic": []
         }
+    },
+    "409015600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 30,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“エオルゼア”に存在する嵐神ガルーダを模した魔法人形。当初は蛮神を人形とすることに反発があったものの、ある週刊誌で厄除けに良いという記事が掲載されるや大人気になったという。“エオルゼア”には他にも多くの魔法人形が存在しており、持ち主の後ろをついてくる彼らの愛らしさは各地で好評を博しているようだ。",
+        "grade": 7,
+        "guide_id": 700,
+        "id": 409015600,
+        "max_stack": 99,
+        "name": "マメット・ガルーダ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {
+                "confuse": "100"
+            },
+            "elements": {
+                "wind": "30"
+            }
+        },
+        "short_desc": "異界の蛮神を模した魔法人形",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "409015700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 30,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“エオルゼア”に存在する組織「暁の血盟」の賢人を模した魔法人形。工芸「フェン・イル」特製のマメット用本革ブーツをはかせたコダワリの逸品。「永遠の23歳を完全再現」というのが売りだという。“エオルゼア”には他にも多くの魔法人形が存在しており、持ち主の後ろをついてくる彼らの愛らしさは各地で好評を博しているようだ。",
+        "grade": 7,
+        "guide_id": 701,
+        "id": 409015700,
+        "max_stack": 99,
+        "name": "マメット・ヤ・シュトラ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の賢人を模した魔法人形",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100720",
+                    "name": "オートシェル"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409015800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“エオルゼア”に存在する組織「暁の血盟」の賢人を模した魔法人形。彼に対して淡い恋心を抱く女性や、暗い感情を抱く女性に、いろいろな意味で絶大な人気を誇るという。“エオルゼア”には他にも多くの魔法人形が存在しており、持ち主の後ろをついてくる彼らの愛らしさは各地で好評を博しているようだ。",
+        "grade": 7,
+        "guide_id": 702,
+        "id": 409015800,
+        "max_stack": 99,
+        "name": "マメット・サンクレッド",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の賢人を模した魔法人形",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101500",
+                    "name": "HP+15%"
+                },
+                {
+                    "id": "100730",
+                    "name": "オートリジェネ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409015900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 30,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“エオルゼア”に存在する組織「暁の血盟」の盟主を模した魔法人形。「いつも呼びつけてくるあの人だが、この人形は一緒に来てくれる」というのが売りだという。“エオルゼア”には他にも多くの魔法人形が存在しており、持ち主の後ろをついてくる彼らの愛らしさは各地で好評を博しているようだ。",
+        "grade": 7,
+        "guide_id": 703,
+        "id": 409015900,
+        "max_stack": 99,
+        "name": "マメット・ミンフィリア",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の盟主を模した魔法人形",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100710",
+                    "name": "オートプロテス"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409016000": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 20,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“エオルゼア”に存在する組織「暁の血盟」の賢人を模した魔法人形。仮面の下まで精巧に作られているようだが、なぜか仮面を剥がすことはできないらしい。“エオルゼア”には他にも多くの魔法人形が存在しており、持ち主の後ろをついてくる彼らの愛らしさは各地で好評を博しているようだ。",
+        "grade": 7,
+        "guide_id": 704,
+        "id": 409016000,
+        "max_stack": 99,
+        "name": "マメット・イダ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の賢人を模した魔法人形",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202510",
+                    "name": "オートブレイブ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409016100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 20,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“エオルゼア”に存在する組織「暁の血盟」の賢人を模した魔法人形。実に愛らしい姿をしているが、モデルとなっているララフェル族の男性は、こう見えて40代である。“エオルゼア”には他にも多くの魔法人形が存在しており、持ち主の後ろをついてくる彼らの愛らしさは各地で好評を博しているようだ。",
+        "grade": 7,
+        "guide_id": 705,
+        "id": 409016100,
+        "max_stack": 99,
+        "name": "マメット・パパリモ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の賢人を模した魔法人形",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "217620",
+                    "name": "オートフェイス"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409016200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界“エオルゼア”に存在するシャーレアンの名門、ルヴェユール家の御曹司を模した魔法人形。とある主計官が活動費を稼ぐために製造したものの、総帥にバレて販売中止命令を受けてしまった品。“エオルゼア”には他にも多くの魔法人形が存在しており、持ち主の後ろをついてくる彼らの愛らしさは各地で好評を博しているようだ。",
+        "grade": 7,
+        "guide_id": 706,
+        "id": 409016200,
+        "max_stack": 99,
+        "name": "マメット・アルフィノ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界の御曹司を模した魔法人形",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100740",
+                    "name": "オートリフレシュ"
+                }
+            ],
+            "magic": []
+        }
     }
 }

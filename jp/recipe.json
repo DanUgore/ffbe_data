@@ -9807,6 +9807,96 @@
         ],
         "name": "召喚魔法+10%"
     },
+    "905100300": {
+        "craft_cost": 20000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504218970,
+            "type": "MATERIA"
+        },
+        "guide_id": 390,
+        "id": 905100300,
+        "materials": [
+            {
+                "id": "504208100",
+                "quantity": "2",
+                "type": "MATERIA"
+            }
+        ],
+        "name": "真・叡知の結晶"
+    },
+    "905100310": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504218980,
+            "type": "MATERIA"
+        },
+        "guide_id": 391,
+        "id": 905100310,
+        "materials": [
+            {
+                "id": "504208110",
+                "quantity": "5",
+                "type": "MATERIA"
+            }
+        ],
+        "name": "真・盟主への誓い"
+    },
+    "905100320": {
+        "craft_cost": 10000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504218990,
+            "type": "MATERIA"
+        },
+        "guide_id": 392,
+        "id": 905100320,
+        "materials": [
+            {
+                "id": "504208120",
+                "quantity": "2",
+                "type": "MATERIA"
+            }
+        ],
+        "name": "真・ハイデリンの加護"
+    },
+    "905100330": {
+        "craft_cost": 10000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504219000,
+            "type": "MATERIA"
+        },
+        "guide_id": 393,
+        "id": 905100330,
+        "materials": [
+            {
+                "id": "504216990",
+                "quantity": "3",
+                "type": "MATERIA"
+            }
+        ],
+        "name": "真・不羈への気焔"
+    },
+    "905100340": {
+        "craft_cost": 10000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504219010,
+            "type": "MATERIA"
+        },
+        "guide_id": 394,
+        "id": 905100340,
+        "materials": [
+            {
+                "id": "504217040",
+                "quantity": "3",
+                "type": "MATERIA"
+            }
+        ],
+        "name": "真・賢人の智慧"
+    },
     "905100710": {
         "craft_cost": 1600,
         "craft_time": 21600,

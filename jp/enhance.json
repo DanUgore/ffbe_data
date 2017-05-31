@@ -11369,6 +11369,1046 @@
             "type": "MAGIC"
         }
     },
+    "214000105": {
+        "10210": {
+            "cost": 500000,
+            "desc": "対象範囲が敵全体になる",
+            "id": 70330,
+            "mats": [
+                {
+                    "id": "270000100",
+                    "name": "白の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000200",
+                    "name": "白の中晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000300",
+                    "name": "白の大晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000400",
+                    "name": "白の超晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000500",
+                    "name": "白の神晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "MAGIC"
+        },
+        "70330": {
+            "cost": 500000,
+            "desc": "対象範囲が敵全体になる\nダメージ量をアップ(特大)",
+            "id": 70340,
+            "mats": [
+                {
+                    "id": "270000100",
+                    "name": "白の晶石",
+                    "quantity": 23,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000200",
+                    "name": "白の中晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000300",
+                    "name": "白の大晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000400",
+                    "name": "白の超晶石",
+                    "quantity": 4,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000500",
+                    "name": "白の神晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "MAGIC"
+        },
+        "207730": {
+            "cost": 250000,
+            "desc": "MPをアップ",
+            "id": 703930,
+            "mats": [
+                {
+                    "id": "270003100",
+                    "name": "守りの晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003200",
+                    "name": "守りの中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003300",
+                    "name": "守りの大晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003400",
+                    "name": "守りの超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "207750": {
+            "cost": 500000,
+            "desc": "<color=0:255:0>発動時、精神ダウンしなくなる\n精神をアップ</color>",
+            "id": 703910,
+            "mats": [
+                {
+                    "id": "270004100",
+                    "name": "支援の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004200",
+                    "name": "支援の中晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004300",
+                    "name": "支援の大晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004400",
+                    "name": "支援の超晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004500",
+                    "name": "支援の神晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "703910": {
+            "cost": 500000,
+            "desc": "発動時、精神ダウンしなくなる\n精神をアップ精神上昇量をアップ(特大)",
+            "id": 703920,
+            "mats": [
+                {
+                    "id": "270004100",
+                    "name": "支援の晶石",
+                    "quantity": 23,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004200",
+                    "name": "支援の中晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004300",
+                    "name": "支援の大晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004400",
+                    "name": "支援の超晶石",
+                    "quantity": 4,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004500",
+                    "name": "支援の神晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "703930": {
+            "cost": 250000,
+            "desc": "MPをアップ\nHP、防御をアップ",
+            "id": 703940,
+            "mats": [
+                {
+                    "id": "270003100",
+                    "name": "守りの晶石",
+                    "quantity": 23,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003200",
+                    "name": "守りの中晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003300",
+                    "name": "守りの大晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003400",
+                    "name": "守りの超晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003500",
+                    "name": "守りの神晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        }
+    },
+    "214000203": {
+        "207780": {
+            "cost": 60000,
+            "desc": "ダメージ量をアップ(中)",
+            "id": 703950,
+            "mats": [
+                {
+                    "id": "270002600",
+                    "name": "攻めの晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002700",
+                    "name": "攻めの中晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002800",
+                    "name": "攻めの大晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "207790": {
+            "cost": 250000,
+            "desc": "「ファストブレード」使用後のダメージ上昇量をアップ(特大)",
+            "id": 703970,
+            "mats": [
+                {
+                    "id": "270002600",
+                    "name": "攻めの晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002700",
+                    "name": "攻めの中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002800",
+                    "name": "攻めの大晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002900",
+                    "name": "攻めの超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "207870": {
+            "cost": 120000,
+            "desc": "物理攻撃を回避する確率をアップ(中)",
+            "id": 704010,
+            "mats": [
+                {
+                    "id": "270004600",
+                    "name": "技巧の晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004700",
+                    "name": "技巧の中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004800",
+                    "name": "技巧の大晶石",
+                    "quantity": 3,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "703950": {
+            "cost": 60000,
+            "desc": "ダメージ量をアップ(中)\nダメージ量をアップ(大)",
+            "id": 703960,
+            "mats": [
+                {
+                    "id": "270002600",
+                    "name": "攻めの晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002700",
+                    "name": "攻めの中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002800",
+                    "name": "攻めの大晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002900",
+                    "name": "攻めの超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "703970": {
+            "cost": 250000,
+            "desc": "「ファストブレード」使用後のダメージ上昇量をアップ(特大)\n「ファストブレード」使用後、発動時、一時的に敵から狙われやすくなる",
+            "id": 703980,
+            "mats": [
+                {
+                    "id": "270002600",
+                    "name": "攻めの晶石",
+                    "quantity": 23,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002700",
+                    "name": "攻めの中晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002800",
+                    "name": "攻めの大晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002900",
+                    "name": "攻めの超晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003000",
+                    "name": "攻めの神晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "704010": {
+            "cost": 120000,
+            "desc": "物理攻撃を回避する確率をアップ(中)\nHP、攻撃をアップ",
+            "id": 704020,
+            "mats": [
+                {
+                    "id": "270004600",
+                    "name": "技巧の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004700",
+                    "name": "技巧の中晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004800",
+                    "name": "技巧の大晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004900",
+                    "name": "技巧の超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        }
+    },
+    "214000304": {
+        "207910": {
+            "cost": 250000,
+            "desc": "毎ターンHPMPを回復",
+            "id": 704030,
+            "mats": [
+                {
+                    "id": "270004100",
+                    "name": "支援の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004200",
+                    "name": "支援の中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004300",
+                    "name": "支援の大晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004400",
+                    "name": "支援の超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "208050": {
+            "cost": 250000,
+            "desc": "消費MPを減少(大)",
+            "id": 704070,
+            "mats": [
+                {
+                    "id": "270004100",
+                    "name": "支援の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004200",
+                    "name": "支援の中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004300",
+                    "name": "支援の大晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004400",
+                    "name": "支援の超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "208060": {
+            "cost": 250000,
+            "desc": "消費MPを減少(大)",
+            "id": 704090,
+            "mats": [
+                {
+                    "id": "270003100",
+                    "name": "守りの晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003200",
+                    "name": "守りの中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003300",
+                    "name": "守りの大晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003400",
+                    "name": "守りの超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "208080": {
+            "cost": 120000,
+            "desc": "麻痺石化耐性をアップ",
+            "id": 704050,
+            "mats": [
+                {
+                    "id": "270004600",
+                    "name": "技巧の晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004700",
+                    "name": "技巧の中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004800",
+                    "name": "技巧の大晶石",
+                    "quantity": 3,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "704030": {
+            "cost": 250000,
+            "desc": "毎ターンHPMPを回復\nHPMP、攻撃防御魔力精神上昇量をアップ(小)",
+            "id": 704040,
+            "mats": [
+                {
+                    "id": "270004100",
+                    "name": "支援の晶石",
+                    "quantity": 23,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004200",
+                    "name": "支援の中晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004300",
+                    "name": "支援の大晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004400",
+                    "name": "支援の超晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004500",
+                    "name": "支援の神晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "704050": {
+            "cost": 120000,
+            "desc": "麻痺石化耐性をアップ\nストップ耐性をアップ",
+            "id": 704060,
+            "mats": [
+                {
+                    "id": "270004600",
+                    "name": "技巧の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004700",
+                    "name": "技巧の中晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004800",
+                    "name": "技巧の大晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004900",
+                    "name": "技巧の超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "704070": {
+            "cost": 250000,
+            "desc": "消費MPを減少(大)\n攻撃魔力上昇量をアップ(中)",
+            "id": 704080,
+            "mats": [
+                {
+                    "id": "270004100",
+                    "name": "支援の晶石",
+                    "quantity": 23,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004200",
+                    "name": "支援の中晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004300",
+                    "name": "支援の大晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004400",
+                    "name": "支援の超晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004500",
+                    "name": "支援の神晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "704090": {
+            "cost": 250000,
+            "desc": "消費MPを減少(大)\n防御精神上昇量をアップ(中)",
+            "id": 704100,
+            "mats": [
+                {
+                    "id": "270003100",
+                    "name": "守りの晶石",
+                    "quantity": 23,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003200",
+                    "name": "守りの中晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003300",
+                    "name": "守りの大晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003400",
+                    "name": "守りの超晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270003500",
+                    "name": "守りの神晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        }
+    },
+    "214000404": {
+        "216930": {
+            "cost": 120000,
+            "desc": "ダメージ量をアップ(中)",
+            "id": 704190,
+            "mats": [
+                {
+                    "id": "270002600",
+                    "name": "攻めの晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002700",
+                    "name": "攻めの中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002800",
+                    "name": "攻めの大晶石",
+                    "quantity": 3,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "216940": {
+            "cost": 120000,
+            "desc": "<color=0:255:0>HPをアップ\n格闘装備時、攻撃をアップ</color>",
+            "id": 704170,
+            "mats": [
+                {
+                    "id": "270004600",
+                    "name": "技巧の晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004700",
+                    "name": "技巧の中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004800",
+                    "name": "技巧の大晶石",
+                    "quantity": 3,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "216980": {
+            "cost": 30000,
+            "desc": "「双竜脚」発動後に使用可能となる「双掌打」の攻撃上昇量をアップ(大)",
+            "id": 704110,
+            "mats": [
+                {
+                    "id": "270004600",
+                    "name": "技巧の晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004700",
+                    "name": "技巧の中晶石",
+                    "quantity": 3,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "704110": {
+            "cost": 30000,
+            "desc": "「双竜脚」発動後に使用可能となる「双掌打」の攻撃上昇量をアップ(大)\n「双竜脚」「双掌打」「崩拳」発動後と、「連撃」「正拳突き」「破砕拳」発動後に使用可能となる「踏鳴」の「崩拳」「破砕拳」使用可能回数をアップ(小)",
+            "id": 704120,
+            "mats": [
+                {
+                    "id": "270004600",
+                    "name": "技巧の晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004700",
+                    "name": "技巧の中晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004800",
+                    "name": "技巧の大晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "704170": {
+            "cost": 120000,
+            "desc": "HPをアップ\n格闘装備時、攻撃をアップ片手用武器装備時、片手が空いた状態だと攻撃がアップ",
+            "id": 704180,
+            "mats": [
+                {
+                    "id": "270004600",
+                    "name": "技巧の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004700",
+                    "name": "技巧の中晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004800",
+                    "name": "技巧の大晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270004900",
+                    "name": "技巧の超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        },
+        "704190": {
+            "cost": 120000,
+            "desc": "ダメージ量をアップ(中)\nダメージ量をアップ(大)",
+            "id": 704200,
+            "mats": [
+                {
+                    "id": "270002600",
+                    "name": "攻めの晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002700",
+                    "name": "攻めの中晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002800",
+                    "name": "攻めの大晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270002900",
+                    "name": "攻めの超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "ABILITY"
+        }
+    },
+    "214000504": {
+        "20350": {
+            "cost": 500000,
+            "desc": "ダメージ量をアップ(中)",
+            "id": 70350,
+            "mats": [
+                {
+                    "id": "270000600",
+                    "name": "黒の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000700",
+                    "name": "黒の中晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000800",
+                    "name": "黒の大晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000900",
+                    "name": "黒の超晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270001000",
+                    "name": "黒の神晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "MAGIC"
+        },
+        "20500": {
+            "cost": 60000,
+            "desc": "魔力上昇量をアップ(中)",
+            "id": 70370,
+            "mats": [
+                {
+                    "id": "270000600",
+                    "name": "黒の晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000700",
+                    "name": "黒の中晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000800",
+                    "name": "黒の大晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "MAGIC"
+        },
+        "20510": {
+            "cost": 60000,
+            "desc": "回復量をアップ(小)",
+            "id": 70390,
+            "mats": [
+                {
+                    "id": "270000600",
+                    "name": "黒の晶石",
+                    "quantity": 10,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000700",
+                    "name": "黒の中晶石",
+                    "quantity": 5,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000800",
+                    "name": "黒の大晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "MAGIC"
+        },
+        "70350": {
+            "cost": 500000,
+            "desc": "ダメージ量をアップ(中)\n火属性耐性をダウン",
+            "id": 70360,
+            "mats": [
+                {
+                    "id": "270000600",
+                    "name": "黒の晶石",
+                    "quantity": 23,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000700",
+                    "name": "黒の中晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000800",
+                    "name": "黒の大晶石",
+                    "quantity": 12,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000900",
+                    "name": "黒の超晶石",
+                    "quantity": 4,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270001000",
+                    "name": "黒の神晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "MAGIC"
+        },
+        "70370": {
+            "cost": 60000,
+            "desc": "魔力上昇量をアップ(中)\n効果ターン数をアップ(中)",
+            "id": 70380,
+            "mats": [
+                {
+                    "id": "270000600",
+                    "name": "黒の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000700",
+                    "name": "黒の中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000800",
+                    "name": "黒の大晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000900",
+                    "name": "黒の超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "MAGIC"
+        },
+        "70390": {
+            "cost": 60000,
+            "desc": "回復量をアップ(小)\n効果ターン数をアップ(中)",
+            "id": 70400,
+            "mats": [
+                {
+                    "id": "270000600",
+                    "name": "黒の晶石",
+                    "quantity": 15,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000700",
+                    "name": "黒の中晶石",
+                    "quantity": 8,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000800",
+                    "name": "黒の大晶石",
+                    "quantity": 2,
+                    "type": "ITEM"
+                },
+                {
+                    "id": "270000900",
+                    "name": "黒の超晶石",
+                    "quantity": 1,
+                    "type": "ITEM"
+                }
+            ],
+            "type": "MAGIC"
+        }
+    },
     "253000105": {
         "202160": {
             "cost": 250000,
