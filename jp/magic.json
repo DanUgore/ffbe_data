@@ -7319,5 +7319,482 @@
         "rarity": 8,
         "short_desc": "敵全体に闇属性一部魔法防御無視ダメージ",
         "skill_category": "offensive"
+    },
+    "70330": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    450
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 103,
+                "convert cap": 99999,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    99999,
+                    230
+                ],
+                "skill mod%": 230,
+                "spr convert%": 100,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "enhance": 10210,
+        "enhance_level": 1,
+        "full_desc": "敵全体に光属性のダメージを与える。",
+        "guide_id": 23,
+        "icon_id": 700000005,
+        "id": 70330,
+        "level": 7,
+        "mp_cost": 35,
+        "name": "ホーリー",
+        "rarity": 7,
+        "short_desc": "敵全体に光属性ダメージ",
+        "skill_category": "offensive"
+    },
+    "70340": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    450
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 103,
+                "convert cap": 99999,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    99999,
+                    320
+                ],
+                "skill mod%": 320,
+                "spr convert%": 100,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "enhance": 10210,
+        "enhance_level": 2,
+        "full_desc": "敵全体に光属性のダメージを与える。",
+        "guide_id": 23,
+        "icon_id": 700000005,
+        "id": 70340,
+        "level": 7,
+        "mp_cost": 35,
+        "name": "ホーリー",
+        "rarity": 7,
+        "short_desc": "敵全体に光属性ダメージ",
+        "skill_category": "offensive"
+    },
+    "70350": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    240
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    260
+                ],
+                "skill int%": 260,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    -30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "enemy",
+                "water resist%": -30
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "enhance": 20350,
+        "enhance_level": 1,
+        "full_desc": "敵1体に火属性のダメージを与え、水属性耐性をダウンさせる。",
+        "guide_id": 134,
+        "icon_id": 700000030,
+        "id": 70350,
+        "level": 7,
+        "mp_cost": 35,
+        "name": "フレア",
+        "rarity": 7,
+        "short_desc": "敵1体に火属性ダメージ+水属性耐性をダウン",
+        "skill_category": "offensive"
+    },
+    "70360": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    240
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill int%": 300,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": -30,
+                "params": [
+                    -30,
+                    0,
+                    0,
+                    -30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "enemy",
+                "water resist%": -30
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "enhance": 20350,
+        "enhance_level": 2,
+        "full_desc": "敵1体に火属性のダメージを与え、火水属性耐性をダウンさせる。",
+        "guide_id": 134,
+        "icon_id": 700000030,
+        "id": 70360,
+        "level": 7,
+        "mp_cost": 35,
+        "name": "フレア",
+        "rarity": 7,
+        "short_desc": "敵1体に火属性ダメージ+火水属性耐性をダウン",
+        "skill_category": "offensive"
+    },
+    "70370": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    80
+                ],
+                "skill int%": 80,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "int buff%": 70,
+                "params": [
+                    0,
+                    0,
+                    70,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "enhance": 20500,
+        "enhance_level": 1,
+        "full_desc": "敵1体に火属性のダメージを与え、自分の魔力をアップする。",
+        "guide_id": 149,
+        "icon_id": 700000021,
+        "id": 70370,
+        "level": 4,
+        "mp_cost": 10,
+        "name": "アストラルファイア",
+        "rarity": 4,
+        "short_desc": "敵1体に火属性ダメージ+自分の魔力をアップ",
+        "skill_category": "offensive"
+    },
+    "70380": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    80
+                ],
+                "skill int%": 80,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 3,
+                "buff turns": 5,
+                "effect_frame": 0,
+                "int buff%": 70,
+                "params": [
+                    0,
+                    0,
+                    70,
+                    0,
+                    5,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "enhance": 20500,
+        "enhance_level": 2,
+        "full_desc": "敵1体に火属性のダメージを与え、自分の魔力をアップする。",
+        "guide_id": 149,
+        "icon_id": 700000021,
+        "id": 70380,
+        "level": 4,
+        "mp_cost": 10,
+        "name": "アストラルファイア",
+        "rarity": 4,
+        "short_desc": "敵1体に火属性ダメージ+自分の魔力をアップ",
+        "skill_category": "offensive"
+    },
+    "70390": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    80
+                ],
+                "skill int%": 80,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 30,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "mp base heal": 90,
+                "mp heal mod": 0,
+                "params": [
+                    0,
+                    1,
+                    90,
+                    3
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "enhance": 20510,
+        "enhance_level": 1,
+        "full_desc": "敵1体に氷属性のダメージを与え、自分のMPを徐々に回復する。",
+        "guide_id": 150,
+        "icon_id": 700000022,
+        "id": 70390,
+        "level": 4,
+        "mp_cost": 10,
+        "name": "アンブラルブリザード",
+        "rarity": 4,
+        "short_desc": "敵1体に氷属性ダメージ+自分のMPを徐々に回復",
+        "skill_category": "offensive"
+    },
+    "70400": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    80
+                ],
+                "skill int%": 80,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 30,
+                "buff turns": 5,
+                "effect_frame": 0,
+                "mp base heal": 150,
+                "mp heal mod": 0,
+                "params": [
+                    0,
+                    1,
+                    150,
+                    5
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "enhance": 20510,
+        "enhance_level": 2,
+        "full_desc": "敵1体に氷属性のダメージを与え、自分のMPを徐々に回復する。",
+        "guide_id": 150,
+        "icon_id": 700000022,
+        "id": 70400,
+        "level": 4,
+        "mp_cost": 10,
+        "name": "アンブラルブリザード",
+        "rarity": 4,
+        "short_desc": "敵1体に氷属性ダメージ+自分のMPを徐々に回復",
+        "skill_category": "offensive"
     }
 }

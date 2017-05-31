@@ -98273,5 +98273,1531 @@
         "id": 172510,
         "mp_cost": 0,
         "name": "ショックグロー"
+    },
+    "172520": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    85
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172520,
+        "mp_cost": 0,
+        "name": "ウィンドブレード"
+    },
+    "172530": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "skill atk%": 160,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 20
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    20,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172530,
+        "mp_cost": 0,
+        "name": "スリップストリーム"
+    },
+    "172540": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    85
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill int%": 220,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172540,
+        "mp_cost": 0,
+        "name": "ウィンドブレード"
+    },
+    "172550": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220,
+                    0
+                ],
+                "skill atk%": 220,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172550,
+        "mp_cost": 0,
+        "name": "ウィケッドホイール"
+    },
+    "172560": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill atk%": 200,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 30
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172560,
+        "mp_cost": 0,
+        "name": "スリップストリーム"
+    },
+    "172570": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    85
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill int%": 250,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172570,
+        "mp_cost": 0,
+        "name": "ウィンドブレード"
+    },
+    "172580": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0
+                ],
+                "skill atk%": 300,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172580,
+        "mp_cost": 0,
+        "name": "ウィケッドホイール"
+    },
+    "172590": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    280
+                ],
+                "skill atk%": 280,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 35
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    35,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172590,
+        "mp_cost": 0,
+        "name": "スリップストリーム"
+    },
+    "172600": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    270,
+                    0
+                ],
+                "skill atk%": 270,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172600,
+        "mp_cost": 0,
+        "name": "ダウンバースト"
+    },
+    "172610": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    85
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    330
+                ],
+                "skill int%": 330,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172610,
+        "mp_cost": 0,
+        "name": "ウィンドブレード"
+    },
+    "172620": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    330,
+                    0
+                ],
+                "skill atk%": 330,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172620,
+        "mp_cost": 0,
+        "name": "ウィケッドホイール"
+    },
+    "172630": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill atk%": 300,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 40
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172630,
+        "mp_cost": 0,
+        "name": "スリップストリーム"
+    },
+    "172640": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    270,
+                    0
+                ],
+                "skill atk%": 270,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172640,
+        "mp_cost": 0,
+        "name": "ダウンバースト"
+    },
+    "172650": {
+        "attacks": [],
+        "effects": [
+            {
+                "action_id": 24,
+                "debuff turns": 0,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 172650,
+        "mp_cost": 0,
+        "name": "プルーメージ"
+    },
+    "172660": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    240
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill int%": 300,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172660,
+        "mp_cost": 0,
+        "name": "羽が爆発した！"
+    },
+    "172670": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    85
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    320
+                ],
+                "skill int%": 320,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172670,
+        "mp_cost": 0,
+        "name": "ウィンドブレード"
+    },
+    "172680": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    320,
+                    0
+                ],
+                "skill atk%": 320,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172680,
+        "mp_cost": 0,
+        "name": "ウィケッドホイール"
+    },
+    "172690": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    280
+                ],
+                "skill atk%": 280,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 50
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172690,
+        "mp_cost": 0,
+        "name": "スリップストリーム"
+    },
+    "172700": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    400,
+                    0
+                ],
+                "skill atk%": 400,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172700,
+        "mp_cost": 0,
+        "name": "ダウンバースト"
+    },
+    "172710": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            },
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    270,
+                    0
+                ],
+                "skill atk%": 270,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 41,
+                "effect_frame": 0,
+                "fixed damage": 250000,
+                "params": [
+                    250000
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "id": 172710,
+        "mp_cost": 0,
+        "name": "ダウンバースト"
+    },
+    "172720": {
+        "attacks": [],
+        "effects": [
+            {
+                "action_id": 24,
+                "debuff turns": 0,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 172720,
+        "mp_cost": 0,
+        "name": "プルーメージ"
+    },
+    "172730": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    240
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    720
+                ],
+                "skill int%": 720,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172730,
+        "mp_cost": 0,
+        "name": "羽が爆発した！"
+    },
+    "172740": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    200
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 59,
+                "dispel buffs": true,
+                "effect_frame": 0,
+                "params": [
+                    "none"
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    80000
+                ],
+                "skill int%": 80000,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172740,
+        "mp_cost": 0,
+        "name": "エリアルブラスト"
+    },
+    "172750": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 50,
+                "instant death%": 100,
+                "params": [
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            },
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1200
+                ],
+                "skill int%": 1200,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172750,
+        "mp_cost": 0,
+        "name": "エリアルブラスト"
+    },
+    "172760": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 50,
+                "instant death%": 100,
+                "params": [
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            },
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    500
+                ],
+                "skill int%": 500,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172760,
+        "mp_cost": 0,
+        "name": "エリアルブラスト"
+    },
+    "172770": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 50,
+                "instant death%": 100,
+                "params": [
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            },
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill int%": 250,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172770,
+        "mp_cost": 0,
+        "name": "エリアルブラスト"
+    },
+    "172780": {
+        "attacks": [],
+        "effects": [
+            {
+                "action_id": 24,
+                "debuff turns": 0,
+                "effect_frame": 100,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 172780,
+        "mp_cost": 0,
+        "name": "もはや殺すのではたりぬっ！"
+    },
+    "172790": {
+        "attacks": [],
+        "effects": [
+            {
+                "effect_frame": 100,
+                "params": [
+                    2,
+                    1,
+                    "なぜこん",
+                    100,
+                    5018600
+                ],
+                "target_area": "none",
+                "target_side": "ally",
+                "unknown_action": 87
+            },
+            {
+                "effect_frame": 0,
+                "params": [
+                    2,
+                    3,
+                    "なぜこぬ",
+                    100,
+                    5018600
+                ],
+                "target_area": "none",
+                "target_side": "ally",
+                "unknown_action": 87
+            }
+        ],
+        "elements": [],
+        "id": 172790,
+        "mp_cost": 0,
+        "name": "千々に刻めっ────！　我が蜃気楼たちっ！"
+    },
+    "172800": {
+        "attacks": [],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 50,
+                "buff turns": 99,
+                "def buff%": 50,
+                "effect_frame": 0,
+                "int buff%": 50,
+                "mnd buff%": 50,
+                "params": [
+                    50,
+                    50,
+                    50,
+                    50,
+                    99,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "id": 172800,
+        "mp_cost": 0,
+        "name": "ウィケッドホイール"
+    },
+    "172810": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    350,
+                    0
+                ],
+                "skill atk%": 350,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172810,
+        "mp_cost": 0,
+        "name": "ウィケッドホイール"
+    },
+    "172820": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    280,
+                    0
+                ],
+                "skill atk%": 280,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172820,
+        "mp_cost": 0,
+        "name": "ダウンバースト"
+    },
+    "172830": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    85
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 16,
+                "effect_frame": 0,
+                "hp recovery": 250000,
+                "params": [
+                    250000
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "id": 172830,
+        "mp_cost": 0,
+        "name": "ウィンドブレード"
+    },
+    "172840": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    85
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill int%": 300,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172840,
+        "mp_cost": 0,
+        "name": "ウィンドブレード"
+    },
+    "172850": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    260
+                ],
+                "skill atk%": 260,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 70
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    70,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172850,
+        "mp_cost": 0,
+        "name": "スリップストリーム"
+    },
+    "172860": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    85
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    500
+                ],
+                "skill int%": 500,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172860,
+        "mp_cost": 0,
+        "name": "ウィンドブレード"
+    },
+    "172870": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    520,
+                    0
+                ],
+                "skill atk%": 520,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172870,
+        "mp_cost": 0,
+        "name": "ウィケッドホイール"
+    },
+    "172880": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    380
+                ],
+                "skill atk%": 380,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 50
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 172880,
+        "mp_cost": 0,
+        "name": "スリップストリーム"
     }
 }
