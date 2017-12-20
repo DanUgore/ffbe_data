@@ -4392,6 +4392,843 @@
         ],
         "name": "黒の誓約"
     },
+    "903001400": {
+        "craft_cost": 1000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 301001800,
+            "type": "EQUIP"
+        },
+        "guide_id": 396,
+        "id": 903001400,
+        "materials": [
+            {
+                "id": "202000300",
+                "quantity": "12",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "4",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナメッサー"
+    },
+    "903001410": {
+        "craft_cost": 12000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 313003000,
+            "type": "EQUIP"
+        },
+        "guide_id": 397,
+        "id": 903001410,
+        "materials": [
+            {
+                "id": "218000600",
+                "quantity": "240",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000500",
+                "quantity": "150",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000400",
+                "quantity": "80",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000300",
+                "quantity": "70",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000200",
+                "quantity": "70",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000100",
+                "quantity": "1",
+                "type": "ITEM"
+            },
+            {
+                "id": "313003100",
+                "quantity": "1",
+                "type": "EQUIP"
+            }
+        ],
+        "name": "バリアントⅡ"
+    },
+    "903001420": {
+        "craft_cost": 6400,
+        "craft_time": 1,
+        "crafts": {
+            "id": 308003400,
+            "type": "EQUIP"
+        },
+        "guide_id": 399,
+        "id": 903001420,
+        "materials": [
+            {
+                "id": "218000500",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000400",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000200",
+                "quantity": "15",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プレサイズランス"
+    },
+    "903001430": {
+        "craft_cost": 720,
+        "craft_time": 1,
+        "crafts": {
+            "id": 313003100,
+            "type": "EQUIP"
+        },
+        "guide_id": 402,
+        "id": 903001430,
+        "materials": [
+            {
+                "id": "218000600",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000300",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "バリアント"
+    },
+    "903001440": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 311002100,
+            "type": "EQUIP"
+        },
+        "guide_id": 403,
+        "id": 903001440,
+        "materials": [
+            {
+                "id": "202000200",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "2",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000200",
+                "quantity": "4",
+                "type": "ITEM"
+            },
+            {
+                "id": "204000100",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サイプレスパイル"
+    },
+    "903001450": {
+        "craft_cost": 3000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 303002900,
+            "type": "EQUIP"
+        },
+        "guide_id": 404,
+        "id": 903001450,
+        "materials": [
+            {
+                "id": "203000300",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "4",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "15",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナセイバー"
+    },
+    "903001460": {
+        "craft_cost": 10000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 302004700,
+            "type": "EQUIP"
+        },
+        "guide_id": 407,
+        "id": 903001460,
+        "materials": [
+            {
+                "id": "218001200",
+                "quantity": "240",
+                "type": "ITEM"
+            },
+            {
+                "id": "218001100",
+                "quantity": "150",
+                "type": "ITEM"
+            },
+            {
+                "id": "218001000",
+                "quantity": "80",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000900",
+                "quantity": "70",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000800",
+                "quantity": "70",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000700",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ダークブリンガー"
+    },
+    "903001470": {
+        "craft_cost": 3200,
+        "craft_time": 1,
+        "crafts": {
+            "id": 311003100,
+            "type": "EQUIP"
+        },
+        "guide_id": 409,
+        "id": 903001470,
+        "materials": [
+            {
+                "id": "218001100",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218001000",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000800",
+                "quantity": "15",
+                "type": "ITEM"
+            }
+        ],
+        "name": "世界樹の杖"
+    },
+    "903001480": {
+        "craft_cost": 3000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 303003800,
+            "type": "EQUIP"
+        },
+        "guide_id": 410,
+        "id": 903001480,
+        "materials": [
+            {
+                "id": "218001200",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218001100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000900",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000800",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ドラグヴァンデル"
+    },
+    "903001490": {
+        "craft_cost": 1000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 301002600,
+            "type": "EQUIP"
+        },
+        "guide_id": 411,
+        "id": 903001490,
+        "materials": [
+            {
+                "id": "218001200",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218001100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "218001000",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000800",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "スウィートキッス"
+    },
+    "903001500": {
+        "craft_cost": 540,
+        "craft_time": 1,
+        "crafts": {
+            "id": 307001500,
+            "type": "EQUIP"
+        },
+        "guide_id": 413,
+        "id": 903001500,
+        "materials": [
+            {
+                "id": "202000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "4",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナメイス"
+    },
+    "903001510": {
+        "craft_cost": 1800,
+        "craft_time": 1,
+        "crafts": {
+            "id": 314001100,
+            "type": "EQUIP"
+        },
+        "guide_id": 414,
+        "id": 903001510,
+        "materials": [
+            {
+                "id": "202000300",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "12",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "4",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナウィップ"
+    },
+    "903001520": {
+        "craft_cost": 10000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 309002300,
+            "type": "EQUIP"
+        },
+        "guide_id": 417,
+        "id": 903001520,
+        "materials": [
+            {
+                "id": "219000600",
+                "quantity": "240",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000500",
+                "quantity": "150",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000400",
+                "quantity": "80",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000300",
+                "quantity": "70",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000200",
+                "quantity": "70",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "猛獣使いのグローブ"
+    },
+    "903001530": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 301002900,
+            "type": "EQUIP"
+        },
+        "guide_id": 418,
+        "id": 903001530,
+        "materials": [
+            {
+                "id": "219000500",
+                "quantity": "60",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000300",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000200",
+                "quantity": "25",
+                "type": "ITEM"
+            }
+        ],
+        "name": "シークレットナイフ"
+    },
+    "903001540": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 311003300,
+            "type": "EQUIP"
+        },
+        "guide_id": 419,
+        "id": 903001540,
+        "materials": [
+            {
+                "id": "219000600",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000500",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000200",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "憤怒の杖"
+    },
+    "903001550": {
+        "craft_cost": 600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 315021600,
+            "type": "EQUIP"
+        },
+        "guide_id": 424,
+        "id": 903001550,
+        "materials": [
+            {
+                "id": "202000500",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002100",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "2",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナエッジ"
+    },
+    "903001560": {
+        "craft_cost": 13000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 312002100,
+            "type": "EQUIP"
+        },
+        "guide_id": 426,
+        "id": 903001560,
+        "materials": [
+            {
+                "id": "220000600",
+                "quantity": "240",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000500",
+                "quantity": "150",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000400",
+                "quantity": "80",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000300",
+                "quantity": "70",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000200",
+                "quantity": "70",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "剛弓“烈風新月”"
+    },
+    "903001570": {
+        "craft_cost": 5600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 304002800,
+            "type": "EQUIP"
+        },
+        "guide_id": 427,
+        "id": 903001570,
+        "materials": [
+            {
+                "id": "220000500",
+                "quantity": "60",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000300",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000200",
+                "quantity": "25",
+                "type": "ITEM"
+            }
+        ],
+        "name": "霊剣・小烏丸"
+    },
+    "903001580": {
+        "craft_cost": 4800,
+        "craft_time": 1,
+        "crafts": {
+            "id": 313003400,
+            "type": "EQUIP"
+        },
+        "guide_id": 428,
+        "id": 903001580,
+        "materials": [
+            {
+                "id": "220000500",
+                "quantity": "60",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000400",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000200",
+                "quantity": "25",
+                "type": "ITEM"
+            }
+        ],
+        "name": "スカーレットローゼス"
+    },
+    "903001590": {
+        "craft_cost": 1000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 301003000,
+            "type": "EQUIP"
+        },
+        "guide_id": 430,
+        "id": 903001590,
+        "materials": [
+            {
+                "id": "220000600",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000500",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000400",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000200",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "霹剣・タケミカヅチ"
+    },
+    "903001600": {
+        "craft_cost": 600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 302005100,
+            "type": "EQUIP"
+        },
+        "guide_id": 431,
+        "id": 903001600,
+        "materials": [
+            {
+                "id": "220000600",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000300",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "鉄パイプ"
+    },
+    "903001610": {
+        "craft_cost": 3600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 305001900,
+            "type": "EQUIP"
+        },
+        "guide_id": 432,
+        "id": 903001610,
+        "materials": [
+            {
+                "id": "202000300",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "4",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナアクス"
+    },
+    "903001620": {
+        "craft_cost": 3200,
+        "craft_time": 1,
+        "crafts": {
+            "id": 308002800,
+            "type": "EQUIP"
+        },
+        "guide_id": 439,
+        "id": 903001620,
+        "materials": [
+            {
+                "id": "202000300",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "4",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナランス"
+    },
+    "903001630": {
+        "craft_cost": 2600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 312001600,
+            "type": "EQUIP"
+        },
+        "guide_id": 440,
+        "id": 903001630,
+        "materials": [
+            {
+                "id": "202000300",
+                "quantity": "13",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "3",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナボウ"
+    },
     "904000010": {
         "craft_cost": 48,
         "craft_time": 300,
@@ -8168,6 +9005,794 @@
         ],
         "name": "プラチナアーマー"
     },
+    "904001960": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 405003100,
+            "type": "EQUIP"
+        },
+        "guide_id": 395,
+        "id": 904001960,
+        "materials": [
+            {
+                "id": "201000300",
+                "quantity": "12",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001100",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000400",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001200",
+                "quantity": "6",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "4",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ラバーコンシャス"
+    },
+    "904001970": {
+        "craft_cost": 4000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409016800,
+            "type": "EQUIP"
+        },
+        "guide_id": 398,
+        "id": 904001970,
+        "materials": [
+            {
+                "id": "218000500",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000300",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000200",
+                "quantity": "15",
+                "type": "ITEM"
+            }
+        ],
+        "name": "士官用特A級シールド"
+    },
+    "904001980": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 405004400,
+            "type": "EQUIP"
+        },
+        "guide_id": 400,
+        "id": 904001980,
+        "materials": [
+            {
+                "id": "218000600",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000500",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000300",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "アシストスーツ"
+    },
+    "904001990": {
+        "craft_cost": 2400,
+        "craft_time": 1,
+        "crafts": {
+            "id": 406003000,
+            "type": "EQUIP"
+        },
+        "guide_id": 401,
+        "id": 904001990,
+        "materials": [
+            {
+                "id": "218000600",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000500",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000400",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000200",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "チョバムアーマー"
+    },
+    "904002000": {
+        "craft_cost": 4000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409017600,
+            "type": "EQUIP"
+        },
+        "guide_id": 408,
+        "id": 904002000,
+        "materials": [
+            {
+                "id": "218001100",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000900",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000800",
+                "quantity": "15",
+                "type": "ITEM"
+            }
+        ],
+        "name": "師匠の戦術書"
+    },
+    "904002010": {
+        "craft_cost": 4000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409018200,
+            "type": "EQUIP"
+        },
+        "guide_id": 420,
+        "id": 904002010,
+        "materials": [
+            {
+                "id": "219000500",
+                "quantity": "60",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000400",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000200",
+                "quantity": "25",
+                "type": "ITEM"
+            }
+        ],
+        "name": "氷の首飾り"
+    },
+    "904002020": {
+        "craft_cost": 1000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 403044200,
+            "type": "EQUIP"
+        },
+        "guide_id": 421,
+        "id": 904002020,
+        "materials": [
+            {
+                "id": "219000600",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000500",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000400",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000200",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "黒のバンダナ"
+    },
+    "904002030": {
+        "craft_cost": 300,
+        "craft_time": 1,
+        "crafts": {
+            "id": 403044300,
+            "type": "EQUIP"
+        },
+        "guide_id": 422,
+        "id": 904002030,
+        "materials": [
+            {
+                "id": "219000600",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "219000300",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "正義の冠"
+    },
+    "904002040": {
+        "craft_cost": 4000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409018700,
+            "type": "EQUIP"
+        },
+        "guide_id": 423,
+        "id": 904002040,
+        "materials": [
+            {
+                "id": "205000300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "205000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001600",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "409005900",
+                "quantity": "1",
+                "type": "EQUIP"
+            },
+            {
+                "id": "409001900",
+                "quantity": "1",
+                "type": "EQUIP"
+            }
+        ],
+        "name": "ジュエルベルト"
+    },
+    "904002050": {
+        "craft_cost": 4800,
+        "craft_time": 1,
+        "crafts": {
+            "id": 406001900,
+            "type": "EQUIP"
+        },
+        "guide_id": 425,
+        "id": 904002050,
+        "materials": [
+            {
+                "id": "202000100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000200",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "2",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナの胸当て"
+    },
+    "904002060": {
+        "craft_cost": 2400,
+        "craft_time": 1,
+        "crafts": {
+            "id": 406003300,
+            "type": "EQUIP"
+        },
+        "guide_id": 429,
+        "id": 904002060,
+        "materials": [
+            {
+                "id": "220000600",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000500",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "220000200",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ライオットギア"
+    },
+    "904002070": {
+        "craft_cost": 720,
+        "craft_time": 1,
+        "crafts": {
+            "id": 401001700,
+            "type": "EQUIP"
+        },
+        "guide_id": 433,
+        "id": 904002070,
+        "materials": [
+            {
+                "id": "202000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000200",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナシールド"
+    },
+    "904002080": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409020100,
+            "type": "EQUIP"
+        },
+        "guide_id": 435,
+        "id": 904002080,
+        "materials": [
+            {
+                "id": "221000600",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000500",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000400",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "竜のうろこ"
+    },
+    "904002090": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 311003500,
+            "type": "EQUIP"
+        },
+        "guide_id": 436,
+        "id": 904002090,
+        "materials": [
+            {
+                "id": "221000600",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000500",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000300",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "賢者の杖"
+    },
+    "904002100": {
+        "craft_cost": 600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 408003000,
+            "type": "EQUIP"
+        },
+        "guide_id": 412,
+        "id": 904002100,
+        "materials": [
+            {
+                "id": "218001200",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "218000900",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "マグノリアの服"
+    },
+    "904002110": {
+        "craft_cost": 4000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 309002800,
+            "type": "EQUIP"
+        },
+        "guide_id": 437,
+        "id": 904002110,
+        "materials": [
+            {
+                "id": "221000500",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000400",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000300",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000200",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "まよけのつめ"
+    },
+    "904002120": {
+        "craft_cost": 16000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 308004000,
+            "type": "EQUIP"
+        },
+        "guide_id": 438,
+        "id": 904002120,
+        "materials": [
+            {
+                "id": "221000600",
+                "quantity": "150",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000500",
+                "quantity": "80",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000400",
+                "quantity": "45",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000300",
+                "quantity": "45",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000200",
+                "quantity": "45",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "竜神のヤリ"
+    },
+    "904002130": {
+        "craft_cost": 1000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 403044900,
+            "type": "EQUIP"
+        },
+        "guide_id": 441,
+        "id": 904002130,
+        "materials": [
+            {
+                "id": "403040500",
+                "quantity": "3",
+                "type": "EQUIP"
+            },
+            {
+                "id": "202001900",
+                "quantity": "80",
+                "type": "ITEM"
+            },
+            {
+                "id": "205000100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "205000300",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ウルフマスク"
+    },
+    "904002140": {
+        "craft_cost": 200,
+        "craft_time": 1,
+        "crafts": {
+            "id": 405001600,
+            "type": "EQUIP"
+        },
+        "guide_id": 446,
+        "id": 904002140,
+        "materials": [
+            {
+                "id": "213001900",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サンタの服"
+    },
+    "904002150": {
+        "craft_cost": 100,
+        "craft_time": 1,
+        "crafts": {
+            "id": 403041200,
+            "type": "EQUIP"
+        },
+        "guide_id": 447,
+        "id": 904002150,
+        "materials": [
+            {
+                "id": "213002000",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サンタの帽子"
+    },
+    "904002180": {
+        "craft_cost": 4000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 315022300,
+            "type": "EQUIP"
+        },
+        "guide_id": 443,
+        "id": 904002180,
+        "materials": [
+            {
+                "id": "221001100",
+                "quantity": "100",
+                "type": "ITEM"
+            },
+            {
+                "id": "221001000",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000900",
+                "quantity": "40",
+                "type": "ITEM"
+            }
+        ],
+        "name": "陰陽の札"
+    },
+    "904002190": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 405005000,
+            "type": "EQUIP"
+        },
+        "guide_id": 448,
+        "id": 904002190,
+        "materials": [
+            {
+                "id": "213001900",
+                "quantity": "45",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サンタの服・II"
+    },
+    "904002200": {
+        "craft_cost": 1000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 403045000,
+            "type": "EQUIP"
+        },
+        "guide_id": 449,
+        "id": 904002200,
+        "materials": [
+            {
+                "id": "213002000",
+                "quantity": "45",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サンタの帽子・II"
+    },
+    "904002210": {
+        "craft_cost": 1000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 403045100,
+            "type": "EQUIP"
+        },
+        "guide_id": 450,
+        "id": 904002210,
+        "materials": [
+            {
+                "id": "221001100",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "221001000",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000900",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000800",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ツクモ人形"
+    },
+    "904002220": {
+        "craft_cost": 600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 408003600,
+            "type": "EQUIP"
+        },
+        "guide_id": 451,
+        "id": 904002220,
+        "materials": [
+            {
+                "id": "221001100",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "221001000",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000900",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000800",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ちゃんちゃんこ"
+    },
+    "904002230": {
+        "craft_cost": 8000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 311003600,
+            "type": "EQUIP"
+        },
+        "guide_id": 442,
+        "id": 904002230,
+        "materials": [
+            {
+                "id": "221001000",
+                "quantity": "90",
+                "type": "ITEM"
+            },
+            {
+                "id": "221001100",
+                "quantity": "70",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000800",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "221000700",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "サンタの杖"
+    },
     "905000010": {
         "craft_cost": 200,
         "craft_time": 300,
@@ -9897,6 +11522,120 @@
         ],
         "name": "真・賢人の智慧"
     },
+    "905100350": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504221620,
+            "type": "MATERIA"
+        },
+        "guide_id": 405,
+        "id": 905100350,
+        "materials": [
+            {
+                "id": "201000900",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001100",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "オートブレイブ"
+    },
+    "905100360": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504221630,
+            "type": "MATERIA"
+        },
+        "guide_id": 406,
+        "id": 905100360,
+        "materials": [
+            {
+                "id": "201001200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001000",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002100",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "オートフェイス"
+    },
+    "905100370": {
+        "craft_cost": 600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504203240,
+            "type": "MATERIA"
+        },
+        "guide_id": 415,
+        "id": 905100370,
+        "materials": [
+            {
+                "id": "201001600",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001500",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "205000200",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "MP+15%"
+    },
     "905100710": {
         "craft_cost": 1600,
         "craft_time": 21600,
@@ -11180,5 +12919,43 @@
             }
         ],
         "name": "エアロラ剣"
+    },
+    "905211210": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504223820,
+            "type": "MATERIA"
+        },
+        "guide_id": 416,
+        "id": 905211210,
+        "materials": [
+            {
+                "id": "201000400",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "201001200",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202000300",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "3",
+                "type": "ITEM"
+            },
+            {
+                "id": "280000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "カッパワー"
     }
 }

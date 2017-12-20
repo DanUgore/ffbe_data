@@ -1,10 +1,12 @@
 {
     "504010010": {
+        "category": "magic",
         "full_desc": "敵1体の情報を見ることができる。",
         "guide_id": 1150010,
         "id": 504010010,
         "max_stack": 99,
         "name": "ライブラ",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -21,11 +23,13 @@
         }
     },
     "504010020": {
+        "category": "magic",
         "full_desc": "味方1体のHPを回復する。",
         "guide_id": 1150020,
         "id": 504010020,
         "max_stack": 99,
         "name": "ケアル",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -42,11 +46,13 @@
         }
     },
     "504010030": {
+        "category": "magic",
         "full_desc": "味方1体の暗闇を回復する。",
         "guide_id": 1150110,
         "id": 504010030,
         "max_stack": 99,
         "name": "ブラナ",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -63,11 +69,13 @@
         }
     },
     "504010040": {
+        "category": "magic",
         "full_desc": "味方1体の沈黙を回復する。",
         "guide_id": 1150120,
         "id": 504010040,
         "max_stack": 99,
         "name": "ボキャル",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -84,11 +92,13 @@
         }
     },
     "504010050": {
+        "category": "magic",
         "full_desc": "味方1体の毒を回復する。",
         "guide_id": 1150130,
         "id": 504010050,
         "max_stack": 99,
         "name": "ポイゾナ",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -105,11 +115,13 @@
         }
     },
     "504010060": {
+        "category": "magic",
         "full_desc": "敵1体に光属性のダメージを与える。",
         "guide_id": 1155010,
         "id": 504010060,
         "max_stack": 99,
         "name": "バニシュ",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -126,11 +138,13 @@
         }
     },
     "504010070": {
+        "category": "magic",
         "full_desc": "味方全体のHPを回復する。",
         "guide_id": 1150030,
         "id": 504010070,
         "max_stack": 99,
         "name": "ケアルラ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -147,11 +161,13 @@
         }
     },
     "504010080": {
+        "category": "magic",
         "full_desc": "味方1体の麻痺を回復する。",
         "guide_id": 1150140,
         "id": 504010080,
         "max_stack": 99,
         "name": "パラナ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -168,11 +184,13 @@
         }
     },
     "504010090": {
+        "category": "magic",
         "full_desc": "味方1体の石化を回復する。",
         "guide_id": 1150150,
         "id": 504010090,
         "max_stack": 99,
         "name": "ストナ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -188,12 +206,37 @@
             ]
         }
     },
+    "504010100": {
+        "category": "magic",
+        "full_desc": "味方1体の戦闘不能を回復する。",
+        "guide_id": 1150070,
+        "id": 504010100,
+        "max_stack": 99,
+        "name": "レイズ",
+        "name_phonetic": "",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "味方1体の戦闘不能を回復",
+        "skills": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10100",
+                    "name": "レイズ"
+                }
+            ]
+        }
+    },
     "504010110": {
+        "category": "magic",
         "full_desc": "味方1体の毒暗闇睡眠沈黙麻痺混乱を回復する。",
         "guide_id": 1150170,
         "id": 504010110,
         "max_stack": 99,
         "name": "エスナ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -210,11 +253,13 @@
         }
     },
     "504010120": {
+        "category": "magic",
         "full_desc": "味方1体のHPを徐々に回復する。",
         "guide_id": 1150190,
         "id": 504010120,
         "max_stack": 99,
         "name": "リジェネ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -231,11 +276,13 @@
         }
     },
     "504010130": {
+        "category": "magic",
         "full_desc": "敵1体のステータス効果を解除する。",
         "guide_id": 1150180,
         "id": 504010130,
         "max_stack": 99,
         "name": "デスペル",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -252,11 +299,13 @@
         }
     },
     "504010140": {
+        "category": "magic",
         "full_desc": "味方1体の病気を回復する。",
         "guide_id": 1150160,
         "id": 504010140,
         "max_stack": 99,
         "name": "リブート",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -273,11 +322,13 @@
         }
     },
     "504010150": {
+        "category": "magic",
         "full_desc": "味方1体のHPを回復する。",
         "guide_id": 1150040,
         "id": 504010150,
         "max_stack": 99,
         "name": "ケアルダ",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -294,11 +345,13 @@
         }
     },
     "504010160": {
+        "category": "magic",
         "full_desc": "味方全体のHPを回復する。",
         "guide_id": 1150050,
         "id": 504010160,
         "max_stack": 99,
         "name": "ケアルガ",
+        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -315,11 +368,13 @@
         }
     },
     "504010210": {
+        "category": "magic",
         "full_desc": "敵1体に光属性のダメージを与える。",
         "guide_id": 1155510,
         "id": 504010210,
         "max_stack": 99,
         "name": "ホーリー",
+        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -335,12 +390,37 @@
             ]
         }
     },
+    "504010380": {
+        "category": "magic",
+        "full_desc": "味方1体のMPを徐々に回復する。",
+        "guide_id": 1150060,
+        "id": 504010380,
+        "max_stack": 99,
+        "name": "リフレシュ",
+        "name_phonetic": "",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "味方1体のMPを徐々に回復",
+        "skills": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "10380",
+                    "name": "リフレシュ"
+                }
+            ]
+        }
+    },
     "504020010": {
+        "category": "magic",
         "full_desc": "敵1体に火属性のダメージを与える。",
         "guide_id": 1250010,
         "id": 504020010,
         "max_stack": 99,
         "name": "ファイア",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -357,11 +437,13 @@
         }
     },
     "504020020": {
+        "category": "magic",
         "full_desc": "敵1体に氷属性のダメージを与える。",
         "guide_id": 1250110,
         "id": 504020020,
         "max_stack": 99,
         "name": "ブリザド",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -378,11 +460,13 @@
         }
     },
     "504020030": {
+        "category": "magic",
         "full_desc": "敵1体に雷属性のダメージを与える。",
         "guide_id": 1250210,
         "id": 504020030,
         "max_stack": 99,
         "name": "サンダー",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -399,11 +483,13 @@
         }
     },
     "504020040": {
+        "category": "magic",
         "full_desc": "敵1体に水属性のダメージを与える。",
         "guide_id": 1250310,
         "id": 504020040,
         "max_stack": 99,
         "name": "ウォータ",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -420,11 +506,13 @@
         }
     },
     "504020050": {
+        "category": "magic",
         "full_desc": "敵1体に風属性のダメージを与える。",
         "guide_id": 1250410,
         "id": 504020050,
         "max_stack": 99,
         "name": "エアロ",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -441,11 +529,13 @@
         }
     },
     "504020060": {
+        "category": "magic",
         "full_desc": "敵1体に土属性のダメージを与える。",
         "guide_id": 1250510,
         "id": 504020060,
         "max_stack": 99,
         "name": "ストーン",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -462,11 +552,13 @@
         }
     },
     "504020070": {
+        "category": "magic",
         "full_desc": "敵1体に闇属性のダメージを与え、確率で毒状態にする。",
         "guide_id": 1250610,
         "id": 504020070,
         "max_stack": 99,
         "name": "バイオ",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -483,11 +575,13 @@
         }
     },
     "504020080": {
+        "category": "magic",
         "full_desc": "敵全体に火属性のダメージを与える。",
         "guide_id": 1250020,
         "id": 504020080,
         "max_stack": 99,
         "name": "ファイラ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -504,11 +598,13 @@
         }
     },
     "504020090": {
+        "category": "magic",
         "full_desc": "敵全体に氷属性のダメージを与える。",
         "guide_id": 1250120,
         "id": 504020090,
         "max_stack": 99,
         "name": "ブリザラ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -525,11 +621,13 @@
         }
     },
     "504020100": {
+        "category": "magic",
         "full_desc": "敵全体に雷属性のダメージを与える。",
         "guide_id": 1250220,
         "id": 504020100,
         "max_stack": 99,
         "name": "サンダラ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -546,11 +644,13 @@
         }
     },
     "504020110": {
+        "category": "magic",
         "full_desc": "敵全体に水属性のダメージを与える。",
         "guide_id": 1250320,
         "id": 504020110,
         "max_stack": 99,
         "name": "ウォタラ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -567,11 +667,13 @@
         }
     },
     "504020120": {
+        "category": "magic",
         "full_desc": "敵全体に風属性のダメージを与える。",
         "guide_id": 1250420,
         "id": 504020120,
         "max_stack": 99,
         "name": "エアロラ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -588,11 +690,13 @@
         }
     },
     "504020130": {
+        "category": "magic",
         "full_desc": "敵全体に土属性のダメージを与える。",
         "guide_id": 1250520,
         "id": 504020130,
         "max_stack": 99,
         "name": "ストンラ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -609,11 +713,13 @@
         }
     },
     "504020150": {
+        "category": "magic",
         "full_desc": "敵1体に現在HP1/2のダメージを与える。",
         "guide_id": 1251010,
         "id": 504020150,
         "max_stack": 99,
         "name": "グラビデ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -630,11 +736,13 @@
         }
     },
     "504020160": {
+        "category": "magic",
         "full_desc": "敵1体のHPを吸収する。",
         "guide_id": 1252010,
         "id": 504020160,
         "max_stack": 99,
         "name": "ドレイン",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -651,11 +759,13 @@
         }
     },
     "504020170": {
+        "category": "magic",
         "full_desc": "敵1体にダメージを与え、重ねて使用するとダメージ量をアップする。",
         "guide_id": 1255010,
         "id": 504020170,
         "max_stack": 99,
         "name": "コメット",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -672,11 +782,13 @@
         }
     },
     "504020180": {
+        "category": "magic",
         "full_desc": "敵全体に闇属性のダメージを与え、確率で毒状態にする。",
         "guide_id": 1250620,
         "id": 504020180,
         "max_stack": 99,
         "name": "バイオラ",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -693,11 +805,13 @@
         }
     },
     "504020200": {
+        "category": "magic",
         "full_desc": "敵全体に火属性のダメージを与える。",
         "guide_id": 1250030,
         "id": 504020200,
         "max_stack": 99,
         "name": "ファイガ",
+        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -714,11 +828,13 @@
         }
     },
     "504020210": {
+        "category": "magic",
         "full_desc": "敵全体に氷属性のダメージを与える。",
         "guide_id": 1250130,
         "id": 504020210,
         "max_stack": 99,
         "name": "ブリザガ",
+        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -735,11 +851,13 @@
         }
     },
     "504020220": {
+        "category": "magic",
         "full_desc": "敵全体に雷属性のダメージを与える。",
         "guide_id": 1250230,
         "id": 504020220,
         "max_stack": 99,
         "name": "サンダガ",
+        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -755,12 +873,37 @@
             ]
         }
     },
+    "504020270": {
+        "category": "magic",
+        "full_desc": "敵全体に現在HP3/4のダメージを与える。",
+        "guide_id": 1251020,
+        "id": 504020270,
+        "max_stack": 99,
+        "name": "グラビガ",
+        "name_phonetic": "",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "敵全体に現在HP3/4ダメージ",
+        "skills": {
+            "abilities": [],
+            "magic": [
+                {
+                    "id": "20270",
+                    "name": "グラビガ"
+                }
+            ]
+        }
+    },
     "504020280": {
+        "category": "magic",
         "full_desc": "敵1体に確率で即死の効果を与える。",
         "guide_id": 1259010,
         "id": 504020280,
         "max_stack": 99,
         "name": "デス",
+        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -777,11 +920,13 @@
         }
     },
     "504020350": {
+        "category": "magic",
         "full_desc": "敵1体に火属性のダメージを与え、水属性耐性をダウンさせる。",
         "guide_id": 1255020,
         "id": 504020350,
         "max_stack": 99,
         "name": "フレア",
+        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -798,11 +943,13 @@
         }
     },
     "504020430": {
+        "category": "magic",
         "full_desc": "敵全体に一部魔法防御無視のダメージを与える。",
         "guide_id": 1255030,
         "id": 504020430,
         "max_stack": 99,
         "name": "メテオ",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -819,11 +966,13 @@
         }
     },
     "504020440": {
+        "category": "magic",
         "full_desc": "敵全体に一部魔法防御無視のダメージを与える。",
         "guide_id": 1255110,
         "id": 504020440,
         "max_stack": 99,
         "name": "アルテマ",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -840,11 +989,13 @@
         }
     },
     "504020460": {
+        "category": "magic",
         "full_desc": "敵全体に闇属性のダメージを与える。",
         "guide_id": 1250820,
         "id": 504020460,
         "max_stack": 99,
         "name": "ダーラ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -861,11 +1012,13 @@
         }
     },
     "504030010": {
+        "category": "magic",
         "full_desc": "敵1体を確率で睡眠状態にする。",
         "guide_id": 1358010,
         "id": 504030010,
         "max_stack": 99,
         "name": "スリプル",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -882,11 +1035,13 @@
         }
     },
     "504030020": {
+        "category": "magic",
         "full_desc": "敵1体を確率で暗闇状態にする。",
         "guide_id": 1358020,
         "id": 504030020,
         "max_stack": 99,
         "name": "ブライン",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -903,11 +1058,13 @@
         }
     },
     "504030030": {
+        "category": "magic",
         "full_desc": "味方1体の火属性耐性をアップする。",
         "guide_id": 1351010,
         "id": 504030030,
         "max_stack": 99,
         "name": "バファイ",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -924,11 +1081,13 @@
         }
     },
     "504030040": {
+        "category": "magic",
         "full_desc": "味方1体の氷属性耐性をアップする。",
         "guide_id": 1351110,
         "id": 504030040,
         "max_stack": 99,
         "name": "バブリザ",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -945,11 +1104,13 @@
         }
     },
     "504030050": {
+        "category": "magic",
         "full_desc": "味方1体の雷属性耐性をアップする。",
         "guide_id": 1351210,
         "id": 504030050,
         "max_stack": 99,
         "name": "バサンダ",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -966,11 +1127,13 @@
         }
     },
     "504030060": {
+        "category": "magic",
         "full_desc": "味方1体の水属性耐性をアップする。",
         "guide_id": 1351310,
         "id": 504030060,
         "max_stack": 99,
         "name": "バウォタ",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -987,11 +1150,13 @@
         }
     },
     "504030070": {
+        "category": "magic",
         "full_desc": "味方1体の風属性耐性をアップする。",
         "guide_id": 1351410,
         "id": 504030070,
         "max_stack": 99,
         "name": "バエアロ",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1008,11 +1173,13 @@
         }
     },
     "504030080": {
+        "category": "magic",
         "full_desc": "味方1体の土属性耐性をアップする。",
         "guide_id": 1351510,
         "id": 504030080,
         "max_stack": 99,
         "name": "バストン",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1029,11 +1196,13 @@
         }
     },
     "504030090": {
+        "category": "magic",
         "full_desc": "味方1体の防御をアップする。",
         "guide_id": 1350110,
         "id": 504030090,
         "max_stack": 99,
         "name": "プロテス",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1050,11 +1219,13 @@
         }
     },
     "504030100": {
+        "category": "magic",
         "full_desc": "敵1体を確率で沈黙状態にする。",
         "guide_id": 1358030,
         "id": 504030100,
         "max_stack": 99,
         "name": "サイレス",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1071,11 +1242,13 @@
         }
     },
     "504030110": {
+        "category": "magic",
         "full_desc": "味方全体の火属性耐性をアップする。",
         "guide_id": 1351020,
         "id": 504030110,
         "max_stack": 99,
         "name": "バファイラ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1092,11 +1265,13 @@
         }
     },
     "504030120": {
+        "category": "magic",
         "full_desc": "味方全体の氷属性耐性をアップする。",
         "guide_id": 1351120,
         "id": 504030120,
         "max_stack": 99,
         "name": "バブリザラ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1113,11 +1288,13 @@
         }
     },
     "504030130": {
+        "category": "magic",
         "full_desc": "味方全体の雷属性耐性をアップする。",
         "guide_id": 1351220,
         "id": 504030130,
         "max_stack": 99,
         "name": "バサンダラ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1134,11 +1311,13 @@
         }
     },
     "504030140": {
+        "category": "magic",
         "full_desc": "味方1体の精神をアップする。",
         "guide_id": 1350310,
         "id": 504030140,
         "max_stack": 99,
         "name": "シェル",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1155,11 +1334,13 @@
         }
     },
     "504030150": {
+        "category": "magic",
         "full_desc": "敵1体の防御をダウンさせる。",
         "guide_id": 1355110,
         "id": 504030150,
         "max_stack": 99,
         "name": "デプロテ",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1176,11 +1357,13 @@
         }
     },
     "504030160": {
+        "category": "magic",
         "full_desc": "敵1体の精神をダウンさせる。",
         "guide_id": 1355310,
         "id": 504030160,
         "max_stack": 99,
         "name": "デシェル",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1197,11 +1380,13 @@
         }
     },
     "504030170": {
+        "category": "magic",
         "full_desc": "味方全体の水属性耐性をアップする。",
         "guide_id": 1351320,
         "id": 504030170,
         "max_stack": 99,
         "name": "バウォタラ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1218,11 +1403,13 @@
         }
     },
     "504030180": {
+        "category": "magic",
         "full_desc": "味方全体の風属性耐性をアップする。",
         "guide_id": 1351420,
         "id": 504030180,
         "max_stack": 99,
         "name": "バエアロラ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1239,11 +1426,13 @@
         }
     },
     "504030190": {
+        "category": "magic",
         "full_desc": "味方全体の土属性耐性をアップする。",
         "guide_id": 1351520,
         "id": 504030190,
         "max_stack": 99,
         "name": "バストンラ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1260,11 +1449,13 @@
         }
     },
     "504030200": {
+        "category": "magic",
         "full_desc": "敵1体の火氷雷水風土光闇属性耐性をダウンさせる。",
         "guide_id": 1359010,
         "id": 504030200,
         "max_stack": 99,
         "name": "ウィーク",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1281,11 +1472,13 @@
         }
     },
     "504030210": {
+        "category": "magic",
         "full_desc": "味方1体の攻撃をアップする。",
         "guide_id": 1350010,
         "id": 504030210,
         "max_stack": 99,
         "name": "ブレイブ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1302,11 +1495,13 @@
         }
     },
     "504030220": {
+        "category": "magic",
         "full_desc": "味方1体の魔力をアップする。",
         "guide_id": 1350210,
         "id": 504030220,
         "max_stack": 99,
         "name": "フェイス",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1323,11 +1518,13 @@
         }
     },
     "504100010": {
+        "category": "stat",
         "full_desc": "HPを10%アップする。",
         "guide_id": 2111010,
         "id": 504100010,
         "max_stack": 99,
         "name": "HP+10%",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1343,12 +1540,37 @@
             "magic": []
         }
     },
+    "504100020": {
+        "category": "stat",
+        "full_desc": "HPを20%アップする。",
+        "guide_id": 2111030,
+        "id": 504100020,
+        "max_stack": 99,
+        "name": "HP+20%",
+        "name_phonetic": "",
+        "price": {
+            "buy": 5000,
+            "sell": 500
+        },
+        "short_desc": "HPを20%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "name": "HP+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504100030": {
+        "category": "stat",
         "full_desc": "HPを30%アップする。",
         "guide_id": 2111050,
         "id": 504100030,
         "max_stack": 99,
         "name": "HP+30%",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1365,11 +1587,13 @@
         }
     },
     "504100040": {
+        "category": "stat",
         "full_desc": "MPを10%アップする。",
         "guide_id": 2112010,
         "id": 504100040,
         "max_stack": 99,
         "name": "MP+10%",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1386,11 +1610,13 @@
         }
     },
     "504100050": {
+        "category": "stat",
         "full_desc": "MPを20%アップする。",
         "guide_id": 2112030,
         "id": 504100050,
         "max_stack": 99,
         "name": "MP+20%",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1407,11 +1633,13 @@
         }
     },
     "504100060": {
+        "category": "stat",
         "full_desc": "MPを30%アップする。",
         "guide_id": 2112050,
         "id": 504100060,
         "max_stack": 99,
         "name": "MP+30%",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1428,11 +1656,13 @@
         }
     },
     "504100070": {
+        "category": "stat",
         "full_desc": "攻撃を10%アップする。",
         "guide_id": 2113010,
         "id": 504100070,
         "max_stack": 99,
         "name": "攻撃+10%",
+        "name_phonetic": "コウゲキ+10%",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1449,11 +1679,13 @@
         }
     },
     "504100080": {
+        "category": "stat",
         "full_desc": "攻撃を20%アップする。",
         "guide_id": 2113030,
         "id": 504100080,
         "max_stack": 99,
         "name": "攻撃+20%",
+        "name_phonetic": "コウゲキ+20%",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1470,11 +1702,13 @@
         }
     },
     "504100090": {
+        "category": "stat",
         "full_desc": "攻撃を30%アップする。",
         "guide_id": 2113050,
         "id": 504100090,
         "max_stack": 99,
         "name": "攻撃+30%",
+        "name_phonetic": "コウゲキ+30%",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1491,11 +1725,13 @@
         }
     },
     "504100100": {
+        "category": "stat",
         "full_desc": "魔力を10%アップする。",
         "guide_id": 2115010,
         "id": 504100100,
         "max_stack": 99,
         "name": "魔力+10%",
+        "name_phonetic": "マリョク+10%",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1512,11 +1748,13 @@
         }
     },
     "504100110": {
+        "category": "stat",
         "full_desc": "魔力を20%アップする。",
         "guide_id": 2115030,
         "id": 504100110,
         "max_stack": 99,
         "name": "魔力+20%",
+        "name_phonetic": "マリョク+20%",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1533,11 +1771,13 @@
         }
     },
     "504100120": {
+        "category": "stat",
         "full_desc": "魔力を30%アップする。",
         "guide_id": 2115050,
         "id": 504100120,
         "max_stack": 99,
         "name": "魔力+30%",
+        "name_phonetic": "マリョク+30%",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1554,11 +1794,13 @@
         }
     },
     "504100130": {
+        "category": "stat",
         "full_desc": "防御を10%アップする。",
         "guide_id": 2114010,
         "id": 504100130,
         "max_stack": 99,
         "name": "防御+10%",
+        "name_phonetic": "ボウギョ+10%",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1575,11 +1817,13 @@
         }
     },
     "504100140": {
+        "category": "stat",
         "full_desc": "防御を20%アップする。",
         "guide_id": 2114030,
         "id": 504100140,
         "max_stack": 99,
         "name": "防御+20%",
+        "name_phonetic": "ボウギョ+20%",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1596,11 +1840,13 @@
         }
     },
     "504100160": {
+        "category": "stat",
         "full_desc": "精神を10%アップする。",
         "guide_id": 2116010,
         "id": 504100160,
         "max_stack": 99,
         "name": "精神+10%",
+        "name_phonetic": "セイシン+10%",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1617,11 +1863,13 @@
         }
     },
     "504100170": {
+        "category": "stat",
         "full_desc": "精神を20%アップする。",
         "guide_id": 2116030,
         "id": 504100170,
         "max_stack": 99,
         "name": "精神+20%",
+        "name_phonetic": "セイシン+20%",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1638,11 +1886,13 @@
         }
     },
     "504100190": {
+        "category": "stat",
         "full_desc": "召喚魔法発動時に幻獣のステータスを10%アップする。",
         "guide_id": 2117010,
         "id": 504100190,
         "max_stack": 99,
         "name": "召喚魔法+10%",
+        "name_phonetic": "ショウカンマホウ+10%",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1659,11 +1909,13 @@
         }
     },
     "504100710": {
+        "category": "passive",
         "full_desc": "毎ターン防御をアップする。",
         "guide_id": 2174110,
         "id": 504100710,
         "max_stack": 99,
         "name": "オートプロテス",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1680,11 +1932,13 @@
         }
     },
     "504100720": {
+        "category": "passive",
         "full_desc": "毎ターン精神をアップする。",
         "guide_id": 2174210,
         "id": 504100720,
         "max_stack": 99,
         "name": "オートシェル",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1701,11 +1955,13 @@
         }
     },
     "504100740": {
+        "category": "passive",
         "full_desc": "毎ターンMPを回復する。",
         "guide_id": 2172010,
         "id": 504100740,
         "max_stack": 99,
         "name": "オートリフレシュ",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1722,11 +1978,13 @@
         }
     },
     "504100750": {
+        "category": "passive",
         "full_desc": "毎ターンリミットバーストゲージが増加する。",
         "guide_id": 2173010,
         "id": 504100750,
         "max_stack": 99,
         "name": "オートリミット",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1743,11 +2001,13 @@
         }
     },
     "504100760": {
+        "category": "passive",
         "full_desc": "短剣が装備可能になる。",
         "guide_id": 2155010,
         "id": 504100760,
         "max_stack": 99,
         "name": "短剣装備",
+        "name_phonetic": "タンケンソウビ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1763,12 +2023,37 @@
             "magic": []
         }
     },
+    "504100770": {
+        "category": "passive",
+        "full_desc": "ローブが装備可能になる。",
+        "guide_id": 2155590,
+        "id": 504100770,
+        "max_stack": 99,
+        "name": "ローブ装備",
+        "name_phonetic": "ローブソウビ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "ローブ装備可",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100770",
+                    "name": "ローブ装備"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504100780": {
+        "category": "passive",
         "full_desc": "大剣が装備可能になる。",
         "guide_id": 2155030,
         "id": 504100780,
         "max_stack": 99,
         "name": "大剣装備",
+        "name_phonetic": "タイケンソウビ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -1785,11 +2070,13 @@
         }
     },
     "504100800": {
+        "category": "passive",
         "full_desc": "杖が装備可能になる。",
         "guide_id": 2155050,
         "id": 504100800,
         "max_stack": 99,
         "name": "杖装備",
+        "name_phonetic": "ツエソウビ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1806,11 +2093,13 @@
         }
     },
     "504100810": {
+        "category": "passive",
         "full_desc": "ロッドが装備可能になる。",
         "guide_id": 2155060,
         "id": 504100810,
         "max_stack": 99,
         "name": "ロッド装備",
+        "name_phonetic": "ロッドソウビ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1827,11 +2116,13 @@
         }
     },
     "504100820": {
+        "category": "passive",
         "full_desc": "弓が装備可能になる。",
         "guide_id": 2155070,
         "id": 504100820,
         "max_stack": 99,
         "name": "弓装備",
+        "name_phonetic": "ユミソウビ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -1848,11 +2139,13 @@
         }
     },
     "504100830": {
+        "category": "passive",
         "full_desc": "斧が装備可能になる。",
         "guide_id": 2155080,
         "id": 504100830,
         "max_stack": 99,
         "name": "斧装備",
+        "name_phonetic": "オノソウビ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -1869,11 +2162,13 @@
         }
     },
     "504100850": {
+        "category": "passive",
         "full_desc": "槍が装備可能になる。",
         "guide_id": 2155100,
         "id": 504100850,
         "max_stack": 99,
         "name": "槍装備",
+        "name_phonetic": "ヤリソウビ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -1890,11 +2185,13 @@
         }
     },
     "504100860": {
+        "category": "passive",
         "full_desc": "楽器が装備可能になる。",
         "guide_id": 2155110,
         "id": 504100860,
         "max_stack": 99,
         "name": "楽器装備",
+        "name_phonetic": "ガッキソウビ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1911,11 +2208,13 @@
         }
     },
     "504100910": {
+        "category": "passive",
         "full_desc": "格闘が装備可能になる。",
         "guide_id": 2155160,
         "id": 504100910,
         "max_stack": 99,
         "name": "格闘装備",
+        "name_phonetic": "カクトウソウビ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1932,11 +2231,13 @@
         }
     },
     "504100920": {
+        "category": "passive",
         "full_desc": "服が装備可能になる。",
         "guide_id": 2155550,
         "id": 504100920,
         "max_stack": 99,
         "name": "服装備",
+        "name_phonetic": "フクソウビ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1953,11 +2254,13 @@
         }
     },
     "504100940": {
+        "category": "passive",
         "full_desc": "重鎧が装備可能になる。",
         "guide_id": 2155570,
         "id": 504100940,
         "max_stack": 99,
         "name": "重鎧装備",
+        "name_phonetic": "ジュウヨロイソウビ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -1974,11 +2277,13 @@
         }
     },
     "504100960": {
+        "category": "passive",
         "full_desc": "帽子が装備可能になる。",
         "guide_id": 2155530,
         "id": 504100960,
         "max_stack": 99,
         "name": "帽子装備",
+        "name_phonetic": "ボウシソウビ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1995,11 +2300,13 @@
         }
     },
     "504100980": {
+        "category": "passive",
         "full_desc": "軽盾が装備可能になる。",
         "guide_id": 2155510,
         "id": 504100980,
         "max_stack": 99,
         "name": "軽盾装備",
+        "name_phonetic": "ケイタテソウビ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -2016,11 +2323,13 @@
         }
     },
     "504100990": {
+        "category": "passive",
         "full_desc": "重盾が装備可能になる。",
         "guide_id": 2155520,
         "id": 504100990,
         "max_stack": 99,
         "name": "重盾装備",
+        "name_phonetic": "ジュウタテソウビ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -2037,11 +2346,13 @@
         }
     },
     "504101000": {
+        "category": "passive",
         "full_desc": "物理攻撃時、植物系へのダメージをアップする。",
         "guide_id": 2152010,
         "id": 504101000,
         "max_stack": 99,
         "name": "プラントキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2058,11 +2369,13 @@
         }
     },
     "504101010": {
+        "category": "passive",
         "full_desc": "物理攻撃時、石系へのダメージをアップする。",
         "guide_id": 2152020,
         "id": 504101010,
         "max_stack": 99,
         "name": "ストーンキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2079,11 +2392,13 @@
         }
     },
     "504101020": {
+        "category": "passive",
         "full_desc": "物理攻撃時、虫系へのダメージをアップする。",
         "guide_id": 2152030,
         "id": 504101020,
         "max_stack": 99,
         "name": "ムシキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2100,11 +2415,13 @@
         }
     },
     "504101030": {
+        "category": "passive",
         "full_desc": "物理攻撃時、機械系へのダメージをアップする。",
         "guide_id": 2152040,
         "id": 504101030,
         "max_stack": 99,
         "name": "マシーンキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2121,11 +2438,13 @@
         }
     },
     "504101040": {
+        "category": "passive",
         "full_desc": "物理攻撃時、人系へのダメージをアップする。",
         "guide_id": 2152050,
         "id": 504101040,
         "max_stack": 99,
         "name": "マンイーター",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2142,11 +2461,13 @@
         }
     },
     "504101050": {
+        "category": "passive",
         "full_desc": "物理攻撃時、竜系へのダメージをアップする。",
         "guide_id": 2152060,
         "id": 504101050,
         "max_stack": 99,
         "name": "ドラゴンキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2163,11 +2484,13 @@
         }
     },
     "504101060": {
+        "category": "passive",
         "full_desc": "物理攻撃時、死霊系へのダメージをアップする。",
         "guide_id": 2152070,
         "id": 504101060,
         "max_stack": 99,
         "name": "アンデッドキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2184,11 +2507,13 @@
         }
     },
     "504101070": {
+        "category": "passive",
         "full_desc": "物理攻撃時、悪魔系へのダメージをアップする。",
         "guide_id": 2152080,
         "id": 504101070,
         "max_stack": 99,
         "name": "デーモンキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2205,16 +2530,18 @@
         }
     },
     "504101080": {
-        "full_desc": "物理攻撃時、獣系モンスターへのダメージをアップする。",
+        "category": "passive",
+        "full_desc": "物理攻撃時、獣系へのダメージをアップする。",
         "guide_id": 2152090,
         "id": 504101080,
         "max_stack": 99,
         "name": "ビーストキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
         },
-        "short_desc": "物理攻撃時、獣系モンスターへのダメージをアップ",
+        "short_desc": "物理攻撃時、獣系へのダメージをアップ",
         "skills": {
             "abilities": [
                 {
@@ -2226,11 +2553,13 @@
         }
     },
     "504101090": {
+        "category": "passive",
         "full_desc": "物理攻撃時、鳥系へのダメージをアップする。",
         "guide_id": 2152100,
         "id": 504101090,
         "max_stack": 99,
         "name": "バードキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2247,11 +2576,13 @@
         }
     },
     "504101100": {
+        "category": "passive",
         "full_desc": "物理攻撃時、精霊系へのダメージをアップする。",
         "guide_id": 2152110,
         "id": 504101100,
         "max_stack": 99,
         "name": "スピリットキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2268,11 +2599,13 @@
         }
     },
     "504101110": {
+        "category": "passive",
         "full_desc": "物理攻撃時、水棲系へのダメージをアップする。",
         "guide_id": 2152120,
         "id": 504101110,
         "max_stack": 99,
         "name": "アクアンキラー",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2289,11 +2622,13 @@
         }
     },
     "504101120": {
+        "category": "passive",
         "full_desc": "ダメージを受けると所持しているポーションで自動的に回復する。",
         "guide_id": 2179010,
         "id": 504101120,
         "max_stack": 99,
         "name": "オートポーション",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2310,11 +2645,13 @@
         }
     },
     "504101170": {
+        "category": "passive",
         "full_desc": "確率で味方に対する物理攻撃を代わりに受ける。",
         "guide_id": 2178010,
         "id": 504101170,
         "max_stack": 99,
         "name": "かばう",
+        "name_phonetic": "カバウ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -2331,11 +2668,13 @@
         }
     },
     "504101200": {
+        "category": "passive",
         "full_desc": "物理攻撃を受けると確率で反撃する。",
         "guide_id": 2175010,
         "id": 504101200,
         "max_stack": 99,
         "name": "カウンター",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2352,16 +2691,18 @@
         }
     },
     "504101230": {
-        "full_desc": "確率で物理攻撃を回避する。",
+        "category": "passive",
+        "full_desc": "確率で一部物理攻撃を回避する。",
         "guide_id": 2177010,
         "id": 504101230,
         "max_stack": 99,
         "name": "しらはどり",
+        "name_phonetic": "シラハドリ",
         "price": {
             "buy": 8000,
             "sell": 800
         },
-        "short_desc": "確率で物理攻撃を回避",
+        "short_desc": "確率で一部物理攻撃を回避",
         "skills": {
             "abilities": [
                 {
@@ -2373,11 +2714,13 @@
         }
     },
     "504101350": {
+        "category": "passive",
         "full_desc": "敵から狙われにくくなる。",
         "guide_id": 2176010,
         "id": 504101350,
         "max_stack": 99,
         "name": "カモフラージュ",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -2394,11 +2737,13 @@
         }
     },
     "504101360": {
+        "category": "passive",
         "full_desc": "片手用武器装備時、片手が空いた状態だと攻撃がアップする。",
         "guide_id": 2171010,
         "id": 504101360,
         "max_stack": 99,
         "name": "りょうてもち",
+        "name_phonetic": "リョウテモチ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -2415,11 +2760,13 @@
         }
     },
     "504101370": {
+        "category": "passive",
         "full_desc": "片手用武器を2つ装備可能になる。",
         "guide_id": 2171020,
         "id": 504101370,
         "max_stack": 99,
         "name": "にとうりゅう",
+        "name_phonetic": "ニトウリュウ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -2436,11 +2783,13 @@
         }
     },
     "504101410": {
+        "category": "passive",
         "full_desc": "探索クエストで歩くと自分のHPを回復する。",
         "guide_id": 2179130,
         "id": 504101410,
         "max_stack": 99,
         "name": "歩くとHP回復",
+        "name_phonetic": "アルクトHPカイフク",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2457,11 +2806,13 @@
         }
     },
     "504101500": {
+        "category": "stat",
         "full_desc": "HPを15%アップする。",
         "guide_id": 2111020,
         "id": 504101500,
         "max_stack": 99,
         "name": "HP+15%",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2478,11 +2829,13 @@
         }
     },
     "504101600": {
+        "category": "stat",
         "full_desc": "攻撃を15%アップする。",
         "guide_id": 2113020,
         "id": 504101600,
         "max_stack": 99,
         "name": "攻撃+15%",
+        "name_phonetic": "コウゲキ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2499,11 +2852,13 @@
         }
     },
     "504101700": {
+        "category": "stat",
         "full_desc": "魔力を15%アップする。",
         "guide_id": 2115020,
         "id": 504101700,
         "max_stack": 99,
         "name": "魔力+15%",
+        "name_phonetic": "マリョク+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2520,16 +2875,18 @@
         }
     },
     "504200010": {
-        "full_desc": "敵からアイテムを盗む。",
+        "category": "ability",
+        "full_desc": "敵1体から確率でアイテムを盗む。",
         "guide_id": 2290010,
         "id": 504200010,
         "max_stack": 99,
         "name": "ぬすむ",
+        "name_phonetic": "ヌスム",
         "price": {
             "buy": 5000,
             "sell": 500
         },
-        "short_desc": "アイテムを盗む",
+        "short_desc": "敵1体から確率でアイテムを盗む",
         "skills": {
             "abilities": [
                 {
@@ -2541,16 +2898,18 @@
         }
     },
     "504200030": {
-        "full_desc": "敵からギルを盗む。",
+        "category": "ability",
+        "full_desc": "敵1体からギルを盗む。",
         "guide_id": 2290020,
         "id": 504200030,
         "max_stack": 99,
         "name": "くすねる",
+        "name_phonetic": "クスネル",
         "price": {
             "buy": 3000,
             "sell": 300
         },
-        "short_desc": "ギルを盗む",
+        "short_desc": "敵1体からギルを盗む",
         "skills": {
             "abilities": [
                 {
@@ -2562,11 +2921,13 @@
         }
     },
     "504200090": {
+        "category": "ability",
         "full_desc": "のむ専用アイテムを使えるようになる。",
         "guide_id": 2290210,
         "id": 504200090,
         "max_stack": 99,
         "name": "のむ",
+        "name_phonetic": "ノム",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -2583,11 +2944,13 @@
         }
     },
     "504200120": {
+        "category": "ability",
         "full_desc": "自分の防御をアップする。",
         "guide_id": 2290310,
         "id": 504200120,
         "max_stack": 99,
         "name": "がまん",
+        "name_phonetic": "ガマン",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2604,11 +2967,13 @@
         }
     },
     "504200150": {
+        "category": "ability",
         "full_desc": "青魔法を除く魔法を1ターンに2回使えるようになる。",
         "guide_id": 2295010,
         "id": 504200150,
         "max_stack": 99,
         "name": "れんぞくま",
+        "name_phonetic": "レンゾクマ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -2625,11 +2990,13 @@
         }
     },
     "504200180": {
+        "category": "ability",
         "full_desc": "なげる専用アイテムを投げられるようになる。",
         "guide_id": 2290220,
         "id": 504200180,
         "max_stack": 99,
         "name": "なげる",
+        "name_phonetic": "ナゲル",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -2646,16 +3013,18 @@
         }
     },
     "504200210": {
-        "full_desc": "次のターン自分の防御がダウンし、たたかうのダメージ量がアップする。連続して使用するとさらにダメージ量がアップする。",
+        "category": "ability",
+        "full_desc": "次のターン自分の防御がダウンし、「たたかう」のダメージ量がアップする。連続して使用するとさらにダメージ量がアップする。",
         "guide_id": 2290320,
         "id": 504200210,
         "max_stack": 99,
         "name": "ためる",
+        "name_phonetic": "タメル",
         "price": {
             "buy": 1000,
             "sell": 100
         },
-        "short_desc": "次のターン自分の防御がダウンし、たたかうのダメージがアップ+連続使用時さらにダメージをアップ",
+        "short_desc": "次のターン自分の防御がダウンし、「たたかう」のダメージがアップ+連続使用時さらにダメージをアップ",
         "skills": {
             "abilities": [
                 {
@@ -2667,11 +3036,13 @@
         }
     },
     "504200230": {
+        "category": "ability",
         "full_desc": "敵1体に一部防御無視のダメージを与える。",
         "guide_id": 2212110,
         "id": 504200230,
         "max_stack": 99,
         "name": "爆裂拳",
+        "name_phonetic": "バクレツケン",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2688,11 +3059,13 @@
         }
     },
     "504200250": {
+        "category": "ability",
         "full_desc": "一部の敵を除いて確実に逃げることができる。",
         "guide_id": 2290110,
         "id": 504200250,
         "max_stack": 99,
         "name": "とんずら",
+        "name_phonetic": "トンズラ",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -2709,11 +3082,13 @@
         }
     },
     "504200310": {
+        "category": "ability",
         "full_desc": "敵全体からランダムで対象を選び、4回ダメージを与える。",
         "guide_id": 2212210,
         "id": 504200310,
         "max_stack": 99,
         "name": "みだれうち",
+        "name_phonetic": "ミダレウチ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -2730,11 +3105,13 @@
         }
     },
     "504200320": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与える。",
         "guide_id": 2212010,
         "id": 504200320,
         "max_stack": 99,
         "name": "明鏡",
+        "name_phonetic": "メイキョウ",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -2751,11 +3128,13 @@
         }
     },
     "504200390": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与える。",
         "guide_id": 2212020,
         "id": 504200390,
         "max_stack": 99,
         "name": "ねらう",
+        "name_phonetic": "ネラウ",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -2772,11 +3151,13 @@
         }
     },
     "504200440": {
+        "category": "ability",
         "full_desc": "敵全体にダメージを与える。",
         "guide_id": 2212310,
         "id": 504200440,
         "max_stack": 99,
         "name": "ぜんぎり",
+        "name_phonetic": "ゼンギリ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -2793,11 +3174,13 @@
         }
     },
     "504200510": {
+        "category": "ability",
         "full_desc": "敵1体に火属性のダメージを与える。",
         "guide_id": 2240010,
         "id": 504200510,
         "max_stack": 99,
         "name": "ファイア剣",
+        "name_phonetic": "ファイアケン",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -2814,11 +3197,13 @@
         }
     },
     "504200520": {
+        "category": "ability",
         "full_desc": "敵1体に氷属性のダメージを与える。",
         "guide_id": 2240110,
         "id": 504200520,
         "max_stack": 99,
         "name": "ブリザド剣",
+        "name_phonetic": "ブリザドケン",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -2835,11 +3220,13 @@
         }
     },
     "504200530": {
+        "category": "ability",
         "full_desc": "敵1体に雷属性のダメージを与える。",
         "guide_id": 2240210,
         "id": 504200530,
         "max_stack": 99,
         "name": "サンダー剣",
+        "name_phonetic": "サンダーケン",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -2856,11 +3243,13 @@
         }
     },
     "504200540": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、確率で睡眠状態にする。",
         "guide_id": 2241010,
         "id": 504200540,
         "max_stack": 99,
         "name": "スリプル剣",
+        "name_phonetic": "スリプルケン",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -2877,11 +3266,13 @@
         }
     },
     "504200550": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、確率で沈黙状態にする。",
         "guide_id": 2241020,
         "id": 504200550,
         "max_stack": 99,
         "name": "サイレス剣",
+        "name_phonetic": "サイレスケン",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -2898,11 +3289,13 @@
         }
     },
     "504200560": {
+        "category": "ability",
         "full_desc": "敵1体に水属性のダメージを与える。",
         "guide_id": 2240310,
         "id": 504200560,
         "max_stack": 99,
         "name": "ウォータ剣",
+        "name_phonetic": "ウォータケン",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2919,11 +3312,13 @@
         }
     },
     "504200570": {
+        "category": "ability",
         "full_desc": "敵1体に風属性のダメージを与える。",
         "guide_id": 2240410,
         "id": 504200570,
         "max_stack": 99,
         "name": "エアロ剣",
+        "name_phonetic": "エアロケン",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2940,11 +3335,13 @@
         }
     },
     "504200580": {
+        "category": "ability",
         "full_desc": "敵1体に土属性のダメージを与える。",
         "guide_id": 2240510,
         "id": 504200580,
         "max_stack": 99,
         "name": "ストーン剣",
+        "name_phonetic": "ストーンケン",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2961,16 +3358,18 @@
         }
     },
     "504200590": {
-        "full_desc": "敵1体にダメージを与え、確率で暗闇状態にする。",
+        "category": "ability",
+        "full_desc": "敵1体に闇属性のダメージを与え、確率で暗闇状態にする。",
         "guide_id": 2241030,
         "id": 504200590,
         "max_stack": 99,
         "name": "ブライン剣",
+        "name_phonetic": "ブラインケン",
         "price": {
             "buy": 3000,
             "sell": 300
         },
-        "short_desc": "敵1体にダメージ+確率で暗闇",
+        "short_desc": "敵1体に闇属性ダメージ+確率で暗闇",
         "skills": {
             "abilities": [
                 {
@@ -2982,11 +3381,13 @@
         }
     },
     "504200600": {
+        "category": "ability",
         "full_desc": "敵1体に闇属性のダメージを与え、確率で毒状態にする。",
         "guide_id": 2240610,
         "id": 504200600,
         "max_stack": 99,
         "name": "バイオ剣",
+        "name_phonetic": "バイオケン",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -3003,11 +3404,13 @@
         }
     },
     "504200610": {
+        "category": "ability",
         "full_desc": "敵1体に火属性のダメージを与える。",
         "guide_id": 2240020,
         "id": 504200610,
         "max_stack": 99,
         "name": "ファイラ剣",
+        "name_phonetic": "ファイラケン",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -3024,11 +3427,13 @@
         }
     },
     "504200620": {
+        "category": "ability",
         "full_desc": "敵1体に氷属性のダメージを与える。",
         "guide_id": 2240120,
         "id": 504200620,
         "max_stack": 99,
         "name": "ブリザラ剣",
+        "name_phonetic": "ブリザラケン",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -3045,11 +3450,13 @@
         }
     },
     "504200630": {
+        "category": "ability",
         "full_desc": "敵1体に雷属性のダメージを与える。",
         "guide_id": 2240130,
         "id": 504200630,
         "max_stack": 99,
         "name": "サンダラ剣",
+        "name_phonetic": "サンダラケン",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -3066,11 +3473,13 @@
         }
     },
     "504200640": {
+        "category": "ability",
         "full_desc": "敵1体に水属性のダメージを与える。",
         "guide_id": 2240320,
         "id": 504200640,
         "max_stack": 99,
         "name": "ウォタラ剣",
+        "name_phonetic": "ウォタラケン",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -3087,11 +3496,13 @@
         }
     },
     "504200650": {
+        "category": "ability",
         "full_desc": "敵1体に風属性のダメージを与える。",
         "guide_id": 2240420,
         "id": 504200650,
         "max_stack": 99,
         "name": "エアロラ剣",
+        "name_phonetic": "エアロラケン",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -3108,11 +3519,13 @@
         }
     },
     "504200660": {
+        "category": "ability",
         "full_desc": "敵1体に土属性のダメージを与える。",
         "guide_id": 2240520,
         "id": 504200660,
         "max_stack": 99,
         "name": "ストンラ剣",
+        "name_phonetic": "ストンラケン",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -3129,11 +3542,13 @@
         }
     },
     "504200670": {
+        "category": "ability",
         "full_desc": "敵1体のHPを吸収する。",
         "guide_id": 2242010,
         "id": 504200670,
         "max_stack": 99,
         "name": "ドレイン剣",
+        "name_phonetic": "ドレインケン",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -3150,11 +3565,13 @@
         }
     },
     "504200680": {
+        "category": "ability",
         "full_desc": "敵1体に闇属性のダメージを与え、確率で毒状態にする。",
         "guide_id": 2240620,
         "id": 504200680,
         "max_stack": 99,
         "name": "バイオラ剣",
+        "name_phonetic": "バイオラケン",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -3171,11 +3588,13 @@
         }
     },
     "504200690": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、MPを吸収する。",
         "guide_id": 2242110,
         "id": 504200690,
         "max_stack": 99,
         "name": "アスピル剣",
+        "name_phonetic": "アスピルケン",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -3192,11 +3611,13 @@
         }
     },
     "504200720": {
+        "category": "ability",
         "full_desc": "敵1体に雷属性のダメージを与える。",
         "guide_id": 2240230,
         "id": 504200720,
         "max_stack": 99,
         "name": "サンダガ剣",
+        "name_phonetic": "サンダガケン",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -3213,11 +3634,13 @@
         }
     },
     "504200760": {
+        "category": "ability",
         "full_desc": "敵1体に闇属性のダメージを与え、確率で毒状態にする。",
         "guide_id": 2240630,
         "id": 504200760,
         "max_stack": 99,
         "name": "バイオガ剣",
+        "name_phonetic": "バイオガケン",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -3234,11 +3657,13 @@
         }
     },
     "504200770": {
+        "category": "ability",
         "full_desc": "敵1体に光属性のダメージを与える。",
         "guide_id": 2245010,
         "id": 504200770,
         "max_stack": 99,
         "name": "ホーリー剣",
+        "name_phonetic": "ホーリーケン",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -3255,11 +3680,13 @@
         }
     },
     "504200800": {
+        "category": "ability",
         "full_desc": "敵1体に闇属性のダメージを与える。",
         "guide_id": 2212640,
         "id": 504200800,
         "max_stack": 99,
         "name": "まれんけい",
+        "name_phonetic": "マレンケイ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -3276,11 +3703,13 @@
         }
     },
     "504200810": {
+        "category": "ability",
         "full_desc": "敵全体を確率で睡眠状態にする。",
         "guide_id": 2280010,
         "id": 504200810,
         "max_stack": 99,
         "name": "こもりうた",
+        "name_phonetic": "コモリウタ",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -3297,16 +3726,18 @@
         }
     },
     "504200850": {
+        "category": "ability",
         "full_desc": "歌っている間、味方全体のHPを徐々に回復する。",
         "guide_id": 2280020,
         "id": 504200850,
         "max_stack": 99,
         "name": "いやしのうた",
+        "name_phonetic": "イヤシノウタ",
         "price": {
             "buy": 3000,
             "sell": 300
         },
-        "short_desc": "歌っている間、全体のHPを徐々に回復",
+        "short_desc": "歌っている間、味方全体のHPを徐々に回復",
         "skills": {
             "abilities": [
                 {
@@ -3318,11 +3749,13 @@
         }
     },
     "504201130": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、攻撃をダウンさせる。",
         "guide_id": 2219010,
         "id": 504201130,
         "max_stack": 99,
         "name": "パワーブレイク",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3339,11 +3772,13 @@
         }
     },
     "504201140": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、魔力をダウンさせる。",
         "guide_id": 2219210,
         "id": 504201140,
         "max_stack": 99,
         "name": "マジックブレイク",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3360,11 +3795,13 @@
         }
     },
     "504201150": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、防御をダウンさせる。",
         "guide_id": 2219110,
         "id": 504201150,
         "max_stack": 99,
         "name": "アーマーブレイク",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3381,11 +3818,13 @@
         }
     },
     "504201160": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、精神をダウンさせる。",
         "guide_id": 2219310,
         "id": 504201160,
         "max_stack": 99,
         "name": "メンタルブレイク",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3402,11 +3841,13 @@
         }
     },
     "504201190": {
+        "category": "ability",
         "full_desc": "敵全体を確率で沈黙状態にする。",
         "guide_id": 2285010,
         "id": 504201190,
         "max_stack": 99,
         "name": "ちんもくダンス",
+        "name_phonetic": "チンモクダンス",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -3423,11 +3864,13 @@
         }
     },
     "504201260": {
+        "category": "ability",
         "full_desc": "敵1体に火属性のダメージを与える。",
         "guide_id": 2212610,
         "id": 504201260,
         "max_stack": 99,
         "name": "ファイアビーム",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -3444,11 +3887,13 @@
         }
     },
     "504201280": {
+        "category": "ability",
         "full_desc": "敵1体に氷属性のダメージを与える。",
         "guide_id": 2212620,
         "id": 504201280,
         "max_stack": 99,
         "name": "ブリザービーム",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -3465,11 +3910,13 @@
         }
     },
     "504201320": {
+        "category": "ability",
         "full_desc": "敵全体に闇属性のダメージを与え、確率で毒状態にする。",
         "guide_id": 2212630,
         "id": 504201320,
         "max_stack": 99,
         "name": "バイオブラスター",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3486,11 +3933,13 @@
         }
     },
     "504201340": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与える。",
         "guide_id": 2212030,
         "id": 504201340,
         "max_stack": 99,
         "name": "パワーショット",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -3507,11 +3956,13 @@
         }
     },
     "504201430": {
+        "category": "ability",
         "full_desc": "敵全体にダメージを与え、確率で暗闇状態にする。",
         "guide_id": 2212550,
         "id": 504201430,
         "max_stack": 99,
         "name": "サンビーム",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -3528,11 +3979,13 @@
         }
     },
     "504201670": {
+        "category": "passive",
         "full_desc": "刀を装備すると攻撃がアップする。",
         "guide_id": 2151310,
         "id": 504201670,
         "max_stack": 99,
         "name": "刀の極意",
+        "name_phonetic": "カタナノゴクイ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -3549,11 +4002,13 @@
         }
     },
     "504201680": {
+        "category": "passive",
         "full_desc": "毎ターン攻撃魔力がアップし、HPを回復する。",
         "guide_id": 2174010,
         "id": 504201680,
         "max_stack": 99,
         "name": "光の加護",
+        "name_phonetic": "ヒカリノカゴ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -3570,11 +4025,13 @@
         }
     },
     "504201750": {
+        "category": "passive",
         "full_desc": "火氷雷水風土光闇属性耐性を20%アップする。",
         "guide_id": 2153930,
         "id": 504201750,
         "max_stack": 99,
         "name": "生命のメロディ",
+        "name_phonetic": "セイメイノメロディ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -3591,11 +4048,13 @@
         }
     },
     "504201950": {
+        "category": "stat",
         "full_desc": "HPを10%、攻撃魔力を20%アップする。",
         "guide_id": 2131150,
         "id": 504201950,
         "max_stack": 99,
         "name": "破壊の刻印",
+        "name_phonetic": "ハカイノコクイン",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -3612,11 +4071,13 @@
         }
     },
     "504201960": {
+        "category": "stat",
         "full_desc": "HPを10%、防御精神を20%アップする。",
         "guide_id": 2131180,
         "id": 504201960,
         "max_stack": 99,
         "name": "守護の刻印",
+        "name_phonetic": "シュゴノコクイン",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -3633,11 +4094,13 @@
         }
     },
     "504201970": {
+        "category": "passive",
         "full_desc": "毒暗闇睡眠沈黙麻痺混乱病気石化を無効化する。",
         "guide_id": 2154991,
         "id": 504201970,
         "max_stack": 99,
         "name": "聖女神の守護",
+        "name_phonetic": "セイメガミノシュゴ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3654,11 +4117,13 @@
         }
     },
     "504202350": {
+        "category": "ability",
         "full_desc": "味方1体の攻撃魔力をアップする。【ラムザのみ装備可能】",
         "guide_id": 8000010,
         "id": 504202350,
         "max_stack": 99,
         "name": "エール",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3675,11 +4140,13 @@
         }
     },
     "504202360": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、防御精神をダウンさせる。【ディリータのみ装備可能】",
         "guide_id": 8000020,
         "id": 504202360,
         "max_stack": 99,
         "name": "強甲破点突き",
+        "name_phonetic": "キョウコウハテンヅキ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3696,11 +4163,13 @@
         }
     },
     "504202370": {
+        "category": "ability",
         "full_desc": "自分の毒暗闇沈黙を回復する。【アグリアス・ガフガリオンのみ装備可能】",
         "guide_id": 8000030,
         "id": 504202370,
         "max_stack": 99,
         "name": "手当て",
+        "name_phonetic": "テアテ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3717,11 +4186,13 @@
         }
     },
     "504202380": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与える。",
         "guide_id": 2211010,
         "id": 504202380,
         "max_stack": 99,
         "name": "投石",
+        "name_phonetic": "トウセキ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3738,11 +4209,13 @@
         }
     },
     "504202470": {
+        "category": "ability",
         "full_desc": "敵全体に雷属性のダメージを与え、雷属性耐性をダウンさせる。【ライトニングのみ装備可能】",
         "guide_id": 8000040,
         "id": 504202470,
         "max_stack": 99,
         "name": "天鳴万雷",
+        "name_phonetic": "テンメイバンライ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3759,11 +4232,13 @@
         }
     },
     "504202480": {
+        "category": "ability",
         "full_desc": "自分の防御精神をアップする。【スノウのみ装備可能】",
         "guide_id": 8000050,
         "id": 504202480,
         "max_stack": 99,
         "name": "テンションあげあげ",
+        "name_phonetic": "テンションアゲアゲ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3780,11 +4255,13 @@
         }
     },
     "504202490": {
+        "category": "stat",
         "full_desc": "攻撃魔力を10%アップする。【FF13シリーズのユニットのみ装備可能】",
         "guide_id": 8000060,
         "id": 504202490,
         "max_stack": 99,
         "name": "アタッカー",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3801,11 +4278,13 @@
         }
     },
     "504202500": {
+        "category": "stat",
         "full_desc": "防御精神を10%アップする。【FF13シリーズのユニットのみ装備可能】",
         "guide_id": 8000070,
         "id": 504202500,
         "max_stack": 99,
         "name": "ディフェンダー",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3822,11 +4301,13 @@
         }
     },
     "504202760": {
+        "category": "stat",
         "full_desc": "MPを10%、魔力精神を20%アップする。",
         "guide_id": 2132120,
         "id": 504202760,
         "max_stack": 99,
         "name": "キャッチ",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -3843,11 +4324,13 @@
         }
     },
     "504202770": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、ギルを盗む。",
         "guide_id": 2290040,
         "id": 504202770,
         "max_stack": 99,
         "name": "コインを盗む",
+        "name_phonetic": "コインヲヌスム",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -3864,11 +4347,13 @@
         }
     },
     "504202780": {
+        "category": "stat",
         "full_desc": "MPを10%、攻撃防御を20%アップする。",
         "guide_id": 2132060,
         "id": 504202780,
         "max_stack": 99,
         "name": "突貫コンボ",
+        "name_phonetic": "トッカンコンボ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -3885,11 +4370,13 @@
         }
     },
     "504203150": {
+        "category": "stat",
         "full_desc": "MPを20%、魔力を30%アップする。",
         "guide_id": 2132150,
         "id": 504203150,
         "max_stack": 99,
         "name": "受け取る力",
+        "name_phonetic": "ウケトルチカラ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3906,11 +4393,13 @@
         }
     },
     "504203160": {
+        "category": "stat",
         "full_desc": "魔力精神を20%アップする。",
         "guide_id": 2135310,
         "id": 504203160,
         "max_stack": 99,
         "name": "知の力",
+        "name_phonetic": "チノチカラ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -3927,11 +4416,13 @@
         }
     },
     "504203170": {
+        "category": "passive",
         "full_desc": "毎ターンリミットバーストゲージが増加する。",
         "guide_id": 2173020,
         "id": 504203170,
         "max_stack": 99,
         "name": "無知なる力",
+        "name_phonetic": "ムチナルチカラ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -3948,11 +4439,13 @@
         }
     },
     "504203180": {
+        "category": "passive",
         "full_desc": "毒暗闇睡眠沈黙麻痺混乱病気石化を無効化する。",
         "guide_id": 2154992,
         "id": 504203180,
         "max_stack": 99,
         "name": "認識する力",
+        "name_phonetic": "ニンシキスルチカラ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -3969,16 +4462,18 @@
         }
     },
     "504203190": {
-        "full_desc": "確率で物理攻撃を回避する。",
+        "category": "passive",
+        "full_desc": "確率で一部物理攻撃を回避する。",
         "guide_id": 2177020,
         "id": 504203190,
         "max_stack": 99,
         "name": "スピードアップ",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
         },
-        "short_desc": "確率で物理攻撃を回避",
+        "short_desc": "確率で一部物理攻撃を回避",
         "skills": {
             "abilities": [
                 {
@@ -3990,11 +4485,13 @@
         }
     },
     "504203200": {
+        "category": "stat",
         "full_desc": "MPを5%、魔力を10%アップする。",
         "guide_id": 2132020,
         "id": 504203200,
         "max_stack": 99,
         "name": "ツインマジック",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4011,11 +4508,13 @@
         }
     },
     "504203210": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、確率で麻痺状態にする。【セブンのみ装備可能】",
         "guide_id": 8000080,
         "id": 504203210,
         "max_stack": 99,
         "name": "スタンフィニッシュ",
+        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4032,11 +4531,13 @@
         }
     },
     "504203220": {
+        "category": "ability",
         "full_desc": "敵全体にダメージ、または敵1体を確率でストップ状態にする。【エースのみ装備可能】",
         "guide_id": 8000090,
         "id": 504203220,
         "max_stack": 99,
         "name": "デッキオープン",
+        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4053,11 +4554,13 @@
         }
     },
     "504203240": {
+        "category": "stat",
         "full_desc": "MPを15%アップする。",
         "guide_id": 2112020,
         "id": 504203240,
         "max_stack": 99,
         "name": "MP+15%",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -4074,11 +4577,13 @@
         }
     },
     "504203370": {
+        "category": "stat",
         "full_desc": "MPを20%、精神を30%アップする。",
         "guide_id": 2132160,
         "id": 504203370,
         "max_stack": 99,
         "name": "メンタリティ",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4095,11 +4600,13 @@
         }
     },
     "504203380": {
+        "category": "passive",
         "full_desc": "剣を装備すると魔力がアップする。",
         "guide_id": 2151510,
         "id": 504203380,
         "max_stack": 99,
         "name": "文武両道",
+        "name_phonetic": "ブンブリョウドウ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4116,11 +4623,13 @@
         }
     },
     "504203460": {
+        "category": "ability",
         "full_desc": "敵1体に一部防御無視のダメージを与え、攻撃防御魔力精神をダウンさせる。【ランディのみ装備可能】",
         "guide_id": 8000100,
         "id": 504203460,
         "max_stack": 99,
         "name": "満月斬り",
+        "name_phonetic": "マンゲツギリ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4137,11 +4646,13 @@
         }
     },
     "504203800": {
+        "category": "ability",
         "full_desc": "味方1体の攻撃をアップする。【プリム・ポポイのみ装備可能】",
         "guide_id": 8000110,
         "id": 504203800,
         "max_stack": 99,
         "name": "マナ",
+        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4158,11 +4669,13 @@
         }
     },
     "504203810": {
+        "category": "stat",
         "full_desc": "MPを5%、防御を10%アップする。",
         "guide_id": 2132010,
         "id": 504203810,
         "max_stack": 99,
         "name": "マナの加護",
+        "name_phonetic": "マナノカゴ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4179,11 +4692,13 @@
         }
     },
     "504203820": {
+        "category": "stat",
         "full_desc": "HPを5%、精神を10%アップする。",
         "guide_id": 2131010,
         "id": 504203820,
         "max_stack": 99,
         "name": "マナの祝福",
+        "name_phonetic": "マナノシュクフク",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4200,11 +4715,13 @@
         }
     },
     "504203830": {
+        "category": "stat",
         "full_desc": "MPを30%、魔力精神を10%アップする。",
         "guide_id": 2132190,
         "id": 504203830,
         "max_stack": 99,
         "name": "一途な想い",
+        "name_phonetic": "イチズナオモイ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4221,11 +4738,13 @@
         }
     },
     "504203840": {
+        "category": "stat",
         "full_desc": "MPを5%、魔力を25%アップする。",
         "guide_id": 2132030,
         "id": 504203840,
         "max_stack": 99,
         "name": "妖精族の知恵",
+        "name_phonetic": "ヨウセイゾクノチエ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4242,11 +4761,13 @@
         }
     },
     "504204030": {
+        "category": "passive",
         "full_desc": "物理攻撃時、水棲系、竜系へのダメージをアップする。",
         "guide_id": 2152510,
         "id": 504204030,
         "max_stack": 99,
         "name": "海竜の加護",
+        "name_phonetic": "カイリュウノカゴ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4263,11 +4784,13 @@
         }
     },
     "504204250": {
+        "category": "stat",
         "full_desc": "HPを20%、攻撃を30%アップする。",
         "guide_id": 2131520,
         "id": 504204250,
         "max_stack": 99,
         "name": "賢き力",
+        "name_phonetic": "カシコキチカラ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4284,11 +4807,13 @@
         }
     },
     "504204260": {
+        "category": "passive",
         "full_desc": "クエストでの取得経験値をアップする。",
         "guide_id": 2179210,
         "id": 504204260,
         "max_stack": 99,
         "name": "行動する力",
+        "name_phonetic": "コウドウスルチカラ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4305,11 +4830,13 @@
         }
     },
     "504204270": {
+        "category": "stat",
         "full_desc": "攻撃防御を20%アップする。",
         "guide_id": 2133310,
         "id": 504204270,
         "max_stack": 99,
         "name": "純真なる力",
+        "name_phonetic": "ジュンシンナルチカラ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4326,11 +4853,13 @@
         }
     },
     "504204280": {
+        "category": "stat",
         "full_desc": "HPMPを15%アップする。",
         "guide_id": 2131410,
         "id": 504204280,
         "max_stack": 99,
         "name": "冷静なる力",
+        "name_phonetic": "レイセイナルチカラ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4347,11 +4876,13 @@
         }
     },
     "504204290": {
+        "category": "ability",
         "full_desc": "自分のHPを消費し、敵全体にダメージを与える。【クイーンのみ装備可能】",
         "guide_id": 8000120,
         "id": 504204290,
         "max_stack": 99,
         "name": "エナジーボム",
+        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4368,11 +4899,13 @@
         }
     },
     "504204300": {
+        "category": "ability",
         "full_desc": "味方全体の防御をアップし、HPを徐々に回復する。【ナインのみ装備可能】",
         "guide_id": 8000130,
         "id": 504204300,
         "max_stack": 99,
         "name": "セーフティガード",
+        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4389,11 +4922,13 @@
         }
     },
     "504204310": {
+        "category": "stat",
         "full_desc": "HPを5%、防御を10%アップする。",
         "guide_id": 2131020,
         "id": 504204310,
         "max_stack": 99,
         "name": "硬化シールド",
+        "name_phonetic": "コウカシールド",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4410,11 +4945,13 @@
         }
     },
     "504204320": {
+        "category": "stat",
         "full_desc": "HPを10%、防御を5%アップする。",
         "guide_id": 2131160,
         "id": 504204320,
         "max_stack": 99,
         "name": "皇国軍ヘルメット",
+        "name_phonetic": "コウコクグンヘルメット",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4431,11 +4968,13 @@
         }
     },
     "504204590": {
+        "category": "passive",
         "full_desc": "ロッドローブを装備すると魔力がアップする。",
         "guide_id": 2151530,
         "id": 504204590,
         "max_stack": 99,
         "name": "ヘスの血脈",
+        "name_phonetic": "ヘスノケツミャク",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4452,11 +4991,13 @@
         }
     },
     "504204600": {
+        "category": "stat",
         "full_desc": "MP、精神を25%、水属性耐性を20%アップする。",
         "guide_id": 2132170,
         "id": 504204600,
         "max_stack": 99,
         "name": "水神の加護",
+        "name_phonetic": "スイジンノカゴ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4473,16 +5014,18 @@
         }
     },
     "504204900": {
-        "full_desc": "確率で物理攻撃を回避し、MPを20%、魔力精神を10%アップする。",
+        "category": "passive",
+        "full_desc": "確率で一部物理攻撃を回避し、MPを20%、魔力精神を10%アップする。",
         "guide_id": 2177040,
         "id": 504204900,
         "max_stack": 99,
         "name": "ミラクルステップ",
+        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
         },
-        "short_desc": "確率で物理攻撃を回避+MPを20%、魔力精神を10%アップ",
+        "short_desc": "確率で一部物理攻撃を回避+MPを20%、魔力精神を10%アップ",
         "skills": {
             "abilities": [
                 {
@@ -4494,11 +5037,13 @@
         }
     },
     "504204910": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与え、防御精神をダウンさせる。【オルランドゥのみ装備可能】",
         "guide_id": 8000140,
         "id": 504204910,
         "max_stack": 99,
         "name": "星天爆撃打",
+        "name_phonetic": "セイテンバクゲキダ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4515,11 +5060,13 @@
         }
     },
     "504204920": {
+        "category": "ability",
         "full_desc": "味方全体の毒暗闇睡眠沈黙麻痺混乱病気を回復する。【ソレイユのみ装備可能】",
         "guide_id": 8000150,
         "id": 504204920,
         "max_stack": 99,
         "name": "ヒーリングワルツII",
+        "name_phonetic": "ヒーリングワルツツー",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4536,16 +5083,18 @@
         }
     },
     "504204930": {
-        "full_desc": "物理攻撃時、植物鳥獣水棲竜系へのダメージをアップする。",
+        "category": "passive",
+        "full_desc": "物理攻撃時、獣鳥水棲竜植物系へのダメージをアップする。",
         "guide_id": 2152210,
         "id": 504204930,
         "max_stack": 99,
         "name": "密猟",
+        "name_phonetic": "ミツリョウ",
         "price": {
             "buy": 15000,
             "sell": 1500
         },
-        "short_desc": "物理攻撃時、植物鳥獣水棲竜系へのダメージをアップ",
+        "short_desc": "物理攻撃時、獣鳥水棲竜植物系へのダメージをアップ",
         "skills": {
             "abilities": [
                 {
@@ -4557,16 +5106,18 @@
         }
     },
     "504204940": {
-        "full_desc": "確率で物理攻撃を回避や反撃を行う。",
+        "category": "passive",
+        "full_desc": "一部物理攻撃を受けると確率で回避し、確率で反撃する。",
         "guide_id": 2177030,
         "id": 504204940,
         "max_stack": 99,
         "name": "ハメドる",
+        "name_phonetic": "ハメドル",
         "price": {
             "buy": 15000,
             "sell": 1500
         },
-        "short_desc": "確率で物理攻撃を回避や反撃",
+        "short_desc": "一部物理攻撃を受けると確率で回避+確率で反撃",
         "skills": {
             "abilities": [
                 {
@@ -4578,11 +5129,13 @@
         }
     },
     "504204950": {
+        "category": "passive",
         "full_desc": "探索クエストで歩くと自分のHPを回復する。",
         "guide_id": 2179110,
         "id": 504204950,
         "max_stack": 99,
         "name": "HP回復移動",
+        "name_phonetic": "HPカイフクイドウ",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -4599,16 +5152,18 @@
         }
     },
     "504205130": {
-        "full_desc": "確率で物理攻撃を回避し、攻撃を30%アップする。",
+        "category": "passive",
+        "full_desc": "確率で一部物理攻撃を回避し、攻撃を30%アップする。",
         "guide_id": 2177050,
         "id": 504205130,
         "max_stack": 99,
         "name": "クイックアサルト",
+        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
         },
-        "short_desc": "確率で物理攻撃を回避+攻撃を30%アップ",
+        "short_desc": "確率で一部物理攻撃を回避+攻撃を30%アップ",
         "skills": {
             "abilities": [
                 {
@@ -4620,11 +5175,13 @@
         }
     },
     "504205260": {
+        "category": "passive",
         "full_desc": "剣重鎧を装備すると攻撃がアップする。",
         "guide_id": 2151320,
         "id": 504205260,
         "max_stack": 99,
         "name": "ダークナイトソウル",
+        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4641,11 +5198,13 @@
         }
     },
     "504205350": {
+        "category": "stat",
         "full_desc": "HPを30%、攻撃を10%アップする。",
         "guide_id": 2131720,
         "id": 504205350,
         "max_stack": 99,
         "name": "山そだち",
+        "name_phonetic": "ヤマソダチ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4662,11 +5221,13 @@
         }
     },
     "504205430": {
+        "category": "stat",
         "full_desc": "HP、攻撃を15%、火属性耐性を20%アップする。",
         "guide_id": 2131420,
         "id": 504205430,
         "max_stack": 99,
         "name": "後継者",
+        "name_phonetic": "コウケイシャ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4683,11 +5244,13 @@
         }
     },
     "504205440": {
+        "category": "stat",
         "full_desc": "魔力を10%、精神を5%アップする。",
         "guide_id": 2135110,
         "id": 504205440,
         "max_stack": 99,
         "name": "マジシャン",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4704,11 +5267,13 @@
         }
     },
     "504205450": {
+        "category": "stat",
         "full_desc": "攻撃を10%、防御を5%アップする。",
         "guide_id": 2133110,
         "id": 504205450,
         "max_stack": 99,
         "name": "ファイター",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4725,11 +5290,13 @@
         }
     },
     "504205460": {
+        "category": "stat",
         "full_desc": "MP、魔力を10%アップする。",
         "guide_id": 2132100,
         "id": 504205460,
         "max_stack": 99,
         "name": "あふれる魔力",
+        "name_phonetic": "アフレルマリョク",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4746,11 +5313,13 @@
         }
     },
     "504205470": {
+        "category": "stat",
         "full_desc": "HP、攻撃を10%アップする。",
         "guide_id": 2131130,
         "id": 504205470,
         "max_stack": 99,
         "name": "みなぎる力",
+        "name_phonetic": "ミナギルチカラ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4767,16 +5336,18 @@
         }
     },
     "504205490": {
-        "full_desc": "敵全体に一部防御無視のダメージを与え、ステータス効果を解除する。",
+        "category": "ability",
+        "full_desc": "敵全体に一部防御無視のダメージを与え、一部ステータス効果を解除する。",
         "guide_id": 2219510,
         "id": 504205490,
         "max_stack": 99,
         "name": "奥義・天下御免",
+        "name_phonetic": "オウギテンカゴメン",
         "price": {
             "buy": 100000,
             "sell": 10000
         },
-        "short_desc": "敵全体に一部防御無視ダメージ+ステータス効果解除",
+        "short_desc": "敵全体に一部防御無視ダメージ+一部ステータス効果を解除",
         "skills": {
             "abilities": [
                 {
@@ -4788,11 +5359,13 @@
         }
     },
     "504205650": {
+        "category": "passive",
         "full_desc": "毎ターンHPMPを回復し、リミットバーストゲージが増加する。",
         "guide_id": 2171990,
         "id": 504205650,
         "max_stack": 99,
         "name": "覇者の闘気",
+        "name_phonetic": "ハシャノトウキ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4809,11 +5382,13 @@
         }
     },
     "504205660": {
-        "full_desc": "敵全体の攻撃防御魔力精神をダウンする。【りゅうおうのみ装備可能】",
+        "category": "ability",
+        "full_desc": "敵全体の攻撃防御魔力精神をダウンさせる。【りゅうおうのみ装備可能】",
         "guide_id": 8000160,
         "id": 504205660,
         "max_stack": 99,
         "name": "やみのはどう",
+        "name_phonetic": "ヤミノハドウ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4830,11 +5405,13 @@
         }
     },
     "504205710": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与える。",
         "guide_id": 2211020,
         "id": 504205710,
         "max_stack": 99,
         "name": "メタル斬り",
+        "name_phonetic": "メタルギリ",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -4851,11 +5428,13 @@
         }
     },
     "504205880": {
+        "category": "stat",
         "full_desc": "防御を40%アップする。",
         "guide_id": 2134710,
         "id": 504205880,
         "max_stack": 99,
         "name": "つねにだいぼうぎょ",
+        "name_phonetic": "ツネニダイボウギョ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4872,11 +5451,13 @@
         }
     },
     "504205980": {
+        "category": "ability",
         "full_desc": "敵全体に火属性のダメージを与える。",
         "guide_id": 2212710,
         "id": 504205980,
         "max_stack": 99,
         "name": "しゃくねつ",
+        "name_phonetic": "シャクネツ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4893,11 +5474,13 @@
         }
     },
     "504205990": {
+        "category": "ability",
         "full_desc": "味方全体のHPを回復する。",
         "guide_id": 2285020,
         "id": 504205990,
         "max_stack": 99,
         "name": "ハッスルダンス",
+        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -4914,11 +5497,13 @@
         }
     },
     "504206070": {
+        "category": "stat",
         "full_desc": "攻撃を40%アップし、HPが一定値以下の時、防御精神をアップする。",
         "guide_id": 2133710,
         "id": 504206070,
         "max_stack": 99,
         "name": "ぼうえいほんのう",
+        "name_phonetic": "ボウエイホンノウ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4935,11 +5520,13 @@
         }
     },
     "504206080": {
+        "category": "passive",
         "full_desc": "火氷雷水風土光闇属性耐性を30%アップする。【やまたのおろちのみ装備可能】",
         "guide_id": 8000170,
         "id": 504206080,
         "max_stack": 99,
         "name": "属性ダメージ減",
+        "name_phonetic": "ゾクセイダメージゲン",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4956,11 +5543,13 @@
         }
     },
     "504206270": {
+        "category": "stat",
         "full_desc": "HP、攻撃を20%アップし、毎ターンMPを回復する。",
         "guide_id": 2131515,
         "id": 504206270,
         "max_stack": 99,
         "name": "皇帝の威厳",
+        "name_phonetic": "コウテイノイゲン",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4977,11 +5566,13 @@
         }
     },
     "504206320": {
+        "category": "stat",
         "full_desc": "MP、魔力を15%、闇属性耐性を20%アップする。",
         "guide_id": 2132140,
         "id": 504206320,
         "max_stack": 99,
         "name": "魔道の深淵",
+        "name_phonetic": "マドウノシンエン",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4998,11 +5589,13 @@
         }
     },
     "504206390": {
+        "category": "stat",
         "full_desc": "HPが一定値以下の時、攻撃防御魔力精神がアップする。",
         "guide_id": 2139010,
         "id": 504206390,
         "max_stack": 99,
         "name": "起死回生",
+        "name_phonetic": "キシカイセイ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5019,11 +5612,13 @@
         }
     },
     "504206630": {
+        "category": "stat",
         "full_desc": "HPMPを30%アップする。",
         "guide_id": 2131710,
         "id": 504206630,
         "max_stack": 99,
         "name": "愛",
+        "name_phonetic": "アイ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -5040,11 +5635,13 @@
         }
     },
     "504206650": {
+        "category": "ability",
         "full_desc": "敵全体のMPを吸収する。【レムのみ装備可能】",
         "guide_id": 8000180,
         "id": 504206650,
         "max_stack": 99,
         "name": "アスピルフィールド",
+        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5061,11 +5658,13 @@
         }
     },
     "504206680": {
+        "category": "passive",
         "full_desc": "毎ターンMPを回復する。",
         "guide_id": 2172020,
         "id": 504206680,
         "max_stack": 99,
         "name": "決断する力",
+        "name_phonetic": "ケツダンスルチカラ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5082,16 +5681,18 @@
         }
     },
     "504206740": {
-        "full_desc": "敵1体にダメージを与え、次のターン自分のたたかうのダメージ量がアップする。",
+        "category": "ability",
+        "full_desc": "敵1体にダメージを与え、次のターン自分の「たたかう」のダメージ量がアップする。【キングのみ装備可能】",
         "guide_id": 8000190,
         "id": 504206740,
         "max_stack": 99,
         "name": "リロード射撃",
+        "name_phonetic": "リロードシャゲキ",
         "price": {
             "buy": 30000,
             "sell": 3000
         },
-        "short_desc": "敵1体にダメージ+次のターン自分のたたかうのダメージをアップ",
+        "short_desc": "敵1体にダメージ+次のターン自分の「たたかう」のダメージをアップ",
         "skills": {
             "abilities": [
                 {
@@ -5103,11 +5704,13 @@
         }
     },
     "504206750": {
+        "category": "stat",
         "full_desc": "防御精神を20%アップする。",
         "guide_id": 2134310,
         "id": 504206750,
         "max_stack": 99,
         "name": "執着する力",
+        "name_phonetic": "シュウチャクスルチカラ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5124,11 +5727,13 @@
         }
     },
     "504206840": {
+        "category": "stat",
         "full_desc": "MPを10%、精神を5%アップする。",
         "guide_id": 2132130,
         "id": 504206840,
         "max_stack": 99,
         "name": "蒼龍風の兜",
+        "name_phonetic": "ソウリュウフウノカブト",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5145,11 +5750,13 @@
         }
     },
     "504206850": {
+        "category": "stat",
         "full_desc": "MPを5%、精神を10%アップする。",
         "guide_id": 2132040,
         "id": 504206850,
         "max_stack": 99,
         "name": "蒼龍風の鎧",
+        "name_phonetic": "ソウリュウフウノヨロイ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5166,11 +5773,13 @@
         }
     },
     "504207380": {
+        "category": "ability",
         "full_desc": "敵1体にダメージを与える。",
         "guide_id": 2212510,
         "id": 504207380,
         "max_stack": 99,
         "name": "魔導砲",
+        "name_phonetic": "マドウホウ",
         "price": {
             "buy": 1500,
             "sell": 1500
@@ -5187,11 +5796,13 @@
         }
     },
     "504207410": {
+        "category": "passive",
         "full_desc": "大剣を装備すると攻撃がアップする。",
         "guide_id": 2151330,
         "id": 504207410,
         "max_stack": 99,
         "name": "大剣の極意",
+        "name_phonetic": "タイケンノゴクイ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -5208,11 +5819,13 @@
         }
     },
     "504207510": {
+        "category": "ability",
         "full_desc": "敵全体にダメージを与え、攻撃防御魔力精神をダウンさせる。【ヴァルガスのみ装備可能】",
         "guide_id": 8000200,
         "id": 504207510,
         "max_stack": 99,
         "name": "ブレイカー",
+        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5229,11 +5842,13 @@
         }
     },
     "504207680": {
+        "category": "stat",
         "full_desc": "HPが一定値以下の時、攻撃防御魔力精神がアップする。",
         "guide_id": 2139020,
         "id": 504207680,
         "max_stack": 99,
         "name": "魔神の燃命",
+        "name_phonetic": "マジンノネンメイ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -5250,11 +5865,13 @@
         }
     },
     "504207690": {
+        "category": "stat",
         "full_desc": "HPを10%、攻撃魔力を5%アップする。",
         "guide_id": 2131110,
         "id": 504207690,
         "max_stack": 99,
         "name": "破神の威光",
+        "name_phonetic": "ハシンノイコウ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5271,11 +5888,13 @@
         }
     },
     "504207700": {
+        "category": "stat",
         "full_desc": "HPを10%、防御精神を5%アップする。",
         "guide_id": 2131170,
         "id": 504207700,
         "max_stack": 99,
         "name": "守神の威光",
+        "name_phonetic": "シュシンノイコウ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5292,11 +5911,13 @@
         }
     },
     "504207710": {
+        "category": "stat",
         "full_desc": "攻撃魔力を30%アップする。",
         "guide_id": 2133510,
         "id": 504207710,
         "max_stack": 99,
         "name": "創造神の力",
+        "name_phonetic": "ソウゾウシンノチカラ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -5313,11 +5934,13 @@
         }
     },
     "504207720": {
+        "category": "passive",
         "full_desc": "闇属性耐性を15%アップする。",
         "guide_id": 2153820,
         "id": 504207720,
         "max_stack": 99,
         "name": "闇属性耐性+15%",
+        "name_phonetic": "ヤミゾクセイタイセイ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -5334,11 +5957,13 @@
         }
     },
     "504207770": {
+        "category": "ability",
         "full_desc": "自分の精神をアップする。【ヤ・シュトラのみ装備可能】",
         "guide_id": 8000210,
         "id": 504207770,
         "max_stack": 99,
         "name": "ディヴァインシール",
+        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -5355,11 +5980,13 @@
         }
     },
     "504208090": {
+        "category": "passive",
         "full_desc": "物理攻撃を受けると確率で味方全体のHPを回復する。【ミンフィリアのみ装備可能】",
         "guide_id": 8000220,
         "id": 504208090,
         "max_stack": 99,
         "name": "十二神の冥加",
+        "name_phonetic": "ジュウニシンノメイカ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5376,11 +6003,13 @@
         }
     },
     "504208100": {
+        "category": "passive",
         "full_desc": "杖を装備すると精神がアップし、ローブを装備すると防御がアップする。",
         "guide_id": 2151610,
         "id": 504208100,
         "max_stack": 99,
         "name": "叡知の結晶",
+        "name_phonetic": "エイチノケッショウ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5397,11 +6026,13 @@
         }
     },
     "504208110": {
+        "category": "stat",
         "full_desc": "HP、攻撃を10%アップする。",
         "guide_id": 2131140,
         "id": 504208110,
         "max_stack": 99,
         "name": "盟主への誓い",
+        "name_phonetic": "メイシュヘノチカイ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -5418,11 +6049,13 @@
         }
     },
     "504208120": {
+        "category": "passive",
         "full_desc": "火氷雷水風土光闇属性耐性を10%アップする。",
         "guide_id": 2153910,
         "id": 504208120,
         "max_stack": 99,
         "name": "ハイデリンの加護",
+        "name_phonetic": "ハイデリンノカゴ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -5439,11 +6072,13 @@
         }
     },
     "504208480": {
+        "category": "stat",
         "full_desc": "MPを10%、攻撃防御を5%アップする。",
         "guide_id": 2132050,
         "id": 504208480,
         "max_stack": 99,
         "name": "リターナー",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5460,11 +6095,13 @@
         }
     },
     "504208490": {
+        "category": "stat",
         "full_desc": "MPを10%、魔力精神を5%アップする。",
         "guide_id": 2132090,
         "id": 504208490,
         "max_stack": 99,
         "name": "魔導戦士",
+        "name_phonetic": "マドウセンシ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5481,11 +6118,13 @@
         }
     },
     "504208500": {
+        "category": "ability",
         "full_desc": "敵全体に水風属性一部魔法防御無視のダメージを与え、ランダムで毒暗闇睡眠沈黙麻痺混乱病気石化を付与する。",
         "guide_id": 2212560,
         "id": 504208500,
         "max_stack": 99,
         "name": "暴風酸性雨",
+        "name_phonetic": "ボウフウサンセイウ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -5502,11 +6141,13 @@
         }
     },
     "504208510": {
+        "category": "passive",
         "full_desc": "ロッドを装備すると魔力がアップする。",
-        "guide_id": 2151520,
+        "guide_id": 2151533,
         "id": 504208510,
         "max_stack": 99,
         "name": "ロッドの極意",
+        "name_phonetic": "ロッドノゴクイ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -5523,11 +6164,13 @@
         }
     },
     "504208570": {
+        "category": "ability",
         "full_desc": "敵全体に一部防御無視のダメージを与える。",
         "guide_id": 2212320,
         "id": 504208570,
         "max_stack": 99,
         "name": "あばれる【メテオ】",
+        "name_phonetic": "アバレルメテオ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5544,11 +6187,13 @@
         }
     },
     "504208740": {
+        "category": "stat",
         "full_desc": "精神を40%アップし、バトル中のみ回復アイテムの回復量をアップする。",
         "guide_id": 2136710,
         "id": 504208740,
         "max_stack": 99,
         "name": "癒し手の心得",
+        "name_phonetic": "イヤシテノココロエ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5565,11 +6210,13 @@
         }
     },
     "504208900": {
+        "category": "passive",
         "full_desc": "光属性耐性を15%アップする。",
         "guide_id": 2153720,
         "id": 504208900,
         "max_stack": 99,
         "name": "光属性耐性+15%",
+        "name_phonetic": "ヒカリゾクセイタイセイ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -5586,11 +6233,13 @@
         }
     },
     "504208970": {
+        "category": "stat",
         "full_desc": "防御を15%アップする。",
         "guide_id": 2114020,
         "id": 504208970,
         "max_stack": 99,
         "name": "防御+15%",
+        "name_phonetic": "ボウギョ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -5607,11 +6256,13 @@
         }
     },
     "504208980": {
+        "category": "stat",
         "full_desc": "精神を15%アップする。",
         "guide_id": 2116020,
         "id": 504208980,
         "max_stack": 99,
         "name": "精神+15%",
+        "name_phonetic": "セイシン+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -5628,11 +6279,13 @@
         }
     },
     "504208990": {
+        "category": "passive",
         "full_desc": "麻痺を無効化する。",
         "guide_id": 2154050,
         "id": 504208990,
         "max_stack": 99,
         "name": "麻痺無効",
+        "name_phonetic": "マヒムコウ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -5649,11 +6302,13 @@
         }
     },
     "504209350": {
+        "category": "stat",
         "full_desc": "HPを30%、防御を20%、光属性耐性を30%アップする。",
         "guide_id": 2131730,
         "id": 504209350,
         "max_stack": 99,
         "name": "祖国への想い",
+        "name_phonetic": "ソコクヘノオモイ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -5670,11 +6325,13 @@
         }
     },
     "504209480": {
+        "category": "stat",
         "full_desc": "HPを10%、攻撃防御を5%アップする。",
         "guide_id": 2131120,
         "id": 504209480,
         "max_stack": 99,
         "name": "戦士の心得",
+        "name_phonetic": "センシノココロエ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5691,11 +6348,13 @@
         }
     },
     "504209490": {
+        "category": "stat",
         "full_desc": "HPを10%、魔力精神を5%アップする。",
         "guide_id": 2131190,
         "id": 504209490,
         "max_stack": 99,
         "name": "魔道士の心得",
+        "name_phonetic": "マドウシノココロエ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5712,11 +6371,13 @@
         }
     },
     "504209500": {
+        "category": "ability",
         "full_desc": "使用ターン中1回のみ、敵味方が放った一部の魔法を無効化する。",
         "guide_id": 2295020,
         "id": 504209500,
         "max_stack": 99,
         "name": "人造破魔石",
+        "name_phonetic": "ジンゾウハマセキ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5733,11 +6394,13 @@
         }
     },
     "504209550": {
+        "category": "passive",
         "full_desc": "土属性耐性を15%アップする。",
         "guide_id": 2153620,
         "id": 504209550,
         "max_stack": 99,
         "name": "土属性耐性+15%",
+        "name_phonetic": "ツチゾクセイタイセイ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -5754,11 +6417,13 @@
         }
     },
     "504209690": {
+        "category": "stat",
         "full_desc": "MPを30%、攻撃を20%、雷属性耐性を30%アップする。",
         "guide_id": 2132180,
         "id": 504209690,
         "max_stack": 99,
         "name": "エルフの誇り",
+        "name_phonetic": "エルフノホコリ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -5775,11 +6440,13 @@
         }
     },
     "504209940": {
+        "category": "passive",
         "full_desc": "毒を無効化する。",
         "guide_id": 2154010,
         "id": 504209940,
         "max_stack": 99,
         "name": "毒無効",
+        "name_phonetic": "ドクムコウ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -5796,11 +6463,13 @@
         }
     },
     "504210110": {
+        "category": "stat",
         "full_desc": "HPを20%アップし、大剣を装備すると攻撃がアップする。",
         "guide_id": 2131530,
         "id": 504210110,
         "max_stack": 99,
         "name": "誇り高き剣豪",
+        "name_phonetic": "ホコリタカキケンゴウ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -5817,11 +6486,13 @@
         }
     },
     "504210490": {
+        "category": "ability",
         "full_desc": "味方1体へのダメージを2ターン軽減する。",
         "guide_id": 2295030,
         "id": 504210490,
         "max_stack": 99,
         "name": "星天の導き",
+        "name_phonetic": "セイテンノミチビキ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5838,11 +6509,13 @@
         }
     },
     "504210640": {
+        "category": "stat",
         "full_desc": "MPを10%、攻撃魔力を5%アップする。",
         "guide_id": 2132070,
         "id": 504210640,
         "max_stack": 99,
         "name": "進軍",
+        "name_phonetic": "シングン",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5859,11 +6532,13 @@
         }
     },
     "504210650": {
+        "category": "stat",
         "full_desc": "MPを10%、防御精神を5%アップする。",
         "guide_id": 2132080,
         "id": 504210650,
         "max_stack": 99,
         "name": "警戒",
+        "name_phonetic": "ケイカイ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5880,11 +6555,13 @@
         }
     },
     "504210660": {
+        "category": "passive",
         "full_desc": "風属性耐性を15%アップする。",
         "guide_id": 2153520,
         "id": 504210660,
         "max_stack": 99,
         "name": "風属性耐性+15%",
+        "name_phonetic": "カゼゾクセイタイセイ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -5901,11 +6578,13 @@
         }
     },
     "504210670": {
+        "category": "stat",
         "full_desc": "MPを10%、魔力を20%アップする。",
         "guide_id": 2132110,
         "id": 504210670,
         "max_stack": 99,
         "name": "偽りの聖者",
+        "name_phonetic": "イツワリノセイジャ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -5922,11 +6601,13 @@
         }
     },
     "504210720": {
+        "category": "passive",
         "full_desc": "大剣重鎧を装備すると攻撃がアップする。",
         "guide_id": 2151340,
         "id": 504210720,
         "max_stack": 99,
         "name": "六盟傑の誇り・闇",
+        "name_phonetic": "ロクメイケツノホコリヤミ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -5943,11 +6624,13 @@
         }
     },
     "504210800": {
+        "category": "passive",
         "full_desc": "斧重鎧を装備すると攻撃がアップする。",
         "guide_id": 2151350,
         "id": 504210800,
         "max_stack": 99,
         "name": "六盟傑の誇り・火",
+        "name_phonetic": "ロクメイケツノホコリヒ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -5964,11 +6647,13 @@
         }
     },
     "504210890": {
+        "category": "passive",
         "full_desc": "重盾を装備すると防御がアップし、重鎧を装備すると攻撃がアップする。",
         "guide_id": 2151430,
         "id": 504210890,
         "max_stack": 99,
         "name": "六盟傑の誇り・土",
+        "name_phonetic": "ロクメイケツノホコリツチ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -5985,11 +6670,13 @@
         }
     },
     "504211100": {
+        "category": "passive",
         "full_desc": "混乱を無効化する。",
         "guide_id": 2154060,
         "id": 504211100,
         "max_stack": 99,
         "name": "混乱無効",
+        "name_phonetic": "コンランムコウ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6006,11 +6693,13 @@
         }
     },
     "504211120": {
+        "category": "ability",
         "full_desc": "敵1体の情報を見ることができる。",
         "guide_id": 2299010,
         "id": 504211120,
         "max_stack": 99,
         "name": "モグサーチ",
+        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -6027,11 +6716,13 @@
         }
     },
     "504211130": {
+        "category": "ability",
         "full_desc": "味方1体のMPを回復する。",
         "guide_id": 2280001,
         "id": 504211130,
         "max_stack": 99,
         "name": "モグソング",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6048,11 +6739,13 @@
         }
     },
     "504211140": {
+        "category": "ability",
         "full_desc": "味方1体のHPを回復する。",
         "guide_id": 2285001,
         "id": 504211140,
         "max_stack": 99,
         "name": "モグステップ",
+        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -6069,11 +6762,13 @@
         }
     },
     "504211150": {
+        "category": "passive",
         "full_desc": "石化を無効化する。",
         "guide_id": 2154901,
         "id": 504211150,
         "max_stack": 99,
         "name": "モグレジスト",
+        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6090,11 +6785,13 @@
         }
     },
     "504211160": {
+        "category": "stat",
         "full_desc": "HPを20%、MPを10%アップする。",
         "guide_id": 2131510,
         "id": 504211160,
         "max_stack": 99,
         "name": "モグライズ",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6111,11 +6808,13 @@
         }
     },
     "504211290": {
+        "category": "passive",
         "full_desc": "バーストストーンによる上昇量をアップする。",
         "guide_id": 2173030,
         "id": 504211290,
         "max_stack": 99,
         "name": "モグの心得",
+        "name_phonetic": "モグノココロエ",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -6132,11 +6831,13 @@
         }
     },
     "504211340": {
+        "category": "passive",
         "full_desc": "格闘を装備すると攻撃がアップする。",
         "guide_id": 2151360,
         "id": 504211340,
         "max_stack": 99,
         "name": "格闘の極意",
+        "name_phonetic": "カクトウノゴクイ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -6153,11 +6854,13 @@
         }
     },
     "504211350": {
+        "category": "ability",
         "full_desc": "敵全体に一部防御無視のダメージを与え、攻撃防御魔力精神をダウンさせる。",
         "guide_id": 2219410,
         "id": 504211350,
         "max_stack": 99,
         "name": "世界崩壊",
+        "name_phonetic": "セカイホウカイ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6174,11 +6877,13 @@
         }
     },
     "504211360": {
+        "category": "passive",
         "full_desc": "物理、魔法攻撃時、竜系へのダメージをアップする。",
         "guide_id": 2152310,
         "id": 504211360,
         "max_stack": 99,
         "name": "ドラゴンキラー改",
+        "name_phonetic": "ドラゴンキラーカイ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -6195,11 +6900,13 @@
         }
     },
     "504211680": {
+        "category": "stat",
         "full_desc": "HPを10%、火属性耐性を5%アップする。",
         "guide_id": 2131200,
         "id": 504211680,
         "max_stack": 99,
         "name": "火のこころ",
+        "name_phonetic": "ヒノココロ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6216,11 +6923,13 @@
         }
     },
     "504211690": {
+        "category": "stat",
         "full_desc": "HPを10%、水属性耐性を5%アップする。",
         "guide_id": 2131210,
         "id": 504211690,
         "max_stack": 99,
         "name": "水のこころ",
+        "name_phonetic": "ミズノココロ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6237,11 +6946,13 @@
         }
     },
     "504211700": {
+        "category": "stat",
         "full_desc": "HPを10%、風属性耐性を5%アップする。",
         "guide_id": 2131220,
         "id": 504211700,
         "max_stack": 99,
         "name": "風のこころ",
+        "name_phonetic": "カゼノココロ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6258,11 +6969,13 @@
         }
     },
     "504211710": {
+        "category": "stat",
         "full_desc": "HPを10%、土属性耐性を5%アップする。",
         "guide_id": 2131230,
         "id": 504211710,
         "max_stack": 99,
         "name": "土のこころ",
+        "name_phonetic": "ツチノココロ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6279,11 +6992,13 @@
         }
     },
     "504212340": {
+        "category": "passive",
         "full_desc": "睡眠を無効化する。",
         "guide_id": 2154070,
         "id": 504212340,
         "max_stack": 99,
         "name": "睡眠無効",
+        "name_phonetic": "スイミンムコウ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6300,11 +7015,13 @@
         }
     },
     "504212350": {
+        "category": "passive",
         "full_desc": "水属性耐性を15%アップする。",
         "guide_id": 2153530,
         "id": 504212350,
         "max_stack": 99,
         "name": "水属性耐性+15%",
+        "name_phonetic": "ミズゾクセイタイセイ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -6321,11 +7038,13 @@
         }
     },
     "504212360": {
+        "category": "stat",
         "full_desc": "HPを20%、魔力を40%アップし、敵から狙われにくくなる。",
         "guide_id": 2131540,
         "id": 504212360,
         "max_stack": 99,
         "name": "六盟傑の誇り・光",
+        "name_phonetic": "ロクメイケツノホコリヒカリ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6342,11 +7061,13 @@
         }
     },
     "504212370": {
+        "category": "passive",
         "full_desc": "槍を装備すると攻撃をアップし、ジャンプ系アビリティのダメージをアップする。",
         "guide_id": 2151620,
         "id": 504212370,
         "max_stack": 99,
         "name": "六盟傑の誇り・風",
+        "name_phonetic": "ロクメイケツノホコリカゼ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6363,11 +7084,13 @@
         }
     },
     "504212380": {
+        "category": "passive",
         "full_desc": "杖を装備すると精神がアップし、ロッドを装備すると魔力がアップする。",
         "guide_id": 2151630,
         "id": 504212380,
         "max_stack": 99,
         "name": "六盟傑の誇り・水",
+        "name_phonetic": "ロクメイケツノホコリミズ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6384,11 +7107,13 @@
         }
     },
     "504212570": {
+        "category": "passive",
         "full_desc": "楽器を装備すると攻撃魔力がアップする。",
         "guide_id": 2151730,
         "id": 504212570,
         "max_stack": 99,
         "name": "シンフォニックフレア",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6404,12 +7129,60 @@
             "magic": []
         }
     },
+    "504213160": {
+        "category": "passive",
+        "full_desc": "火属性耐性を20%アップする。",
+        "guide_id": 2153561,
+        "id": 504213160,
+        "max_stack": 99,
+        "name": "火属性耐性+20%",
+        "name_phonetic": "ヒゾクセイタイセイ+20%",
+        "price": {
+            "buy": 5000,
+            "sell": 500
+        },
+        "short_desc": "火属性耐性を20%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "213160",
+                    "name": "火属性耐性+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504213170": {
+        "category": "passive",
+        "full_desc": "水属性耐性を20%アップする。",
+        "guide_id": 2153533,
+        "id": 504213170,
+        "max_stack": 99,
+        "name": "水属性耐性+20%",
+        "name_phonetic": "ミズゾクセイタイセイ+20%",
+        "price": {
+            "buy": 5000,
+            "sell": 500
+        },
+        "short_desc": "水属性耐性を20%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "213170",
+                    "name": "水属性耐性+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504213200": {
+        "category": "passive",
         "full_desc": "沈黙を無効化する。",
         "guide_id": 2154110,
         "id": 504213200,
         "max_stack": 99,
         "name": "沈黙無効",
+        "name_phonetic": "チンモクムコウ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6426,11 +7199,13 @@
         }
     },
     "504213210": {
+        "category": "passive",
         "full_desc": "毎ターンHPを回復する。",
         "guide_id": 2172030,
         "id": 504213210,
         "max_stack": 99,
         "name": "休息",
+        "name_phonetic": "キュウソク",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -6447,16 +7222,18 @@
         }
     },
     "504213220": {
-        "full_desc": "確率で物理攻撃を回避する。",
+        "category": "passive",
+        "full_desc": "確率で一部物理攻撃を回避する。",
         "guide_id": 2177060,
         "id": 504213220,
         "max_stack": 99,
         "name": "回避性能【小】",
+        "name_phonetic": "カイヒセイノウショウ",
         "price": {
             "buy": 8000,
             "sell": 800
         },
-        "short_desc": "確率で物理攻撃を回避",
+        "short_desc": "確率で一部物理攻撃を回避",
         "skills": {
             "abilities": [
                 {
@@ -6468,11 +7245,13 @@
         }
     },
     "504213230": {
+        "category": "stat",
         "full_desc": "沈黙混乱を無効化し、精神を20%アップする。",
         "guide_id": 2116040,
         "id": 504213230,
         "max_stack": 99,
         "name": "高級耳栓",
+        "name_phonetic": "コウキュウミミセン",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -6489,11 +7268,13 @@
         }
     },
     "504213420": {
+        "category": "stat",
         "full_desc": "攻撃防御魔力精神を20%アップし、毎ターンHPMPを回復する。",
         "guide_id": 2113060,
         "id": 504213420,
         "max_stack": 99,
         "name": "未来を守る力",
+        "name_phonetic": "ミライヲマモルチカラ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6510,11 +7291,13 @@
         }
     },
     "504213530": {
+        "category": "stat",
         "full_desc": "HP、精神を30%アップする。",
         "guide_id": 2131550,
         "id": 504213530,
         "max_stack": 99,
         "name": "生存への渇望",
+        "name_phonetic": "セイゾンヘノカツボウ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6531,11 +7314,13 @@
         }
     },
     "504213700": {
+        "category": "passive",
         "full_desc": "雷属性耐性を15%アップする。",
         "guide_id": 2153540,
         "id": 504213700,
         "max_stack": 99,
         "name": "雷属性耐性+15%",
+        "name_phonetic": "カミナリゾクセイタイセイ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -6552,11 +7337,13 @@
         }
     },
     "504213710": {
+        "category": "stat",
         "full_desc": "HPを10%、闇属性耐性を5%アップする。",
         "guide_id": 2131240,
         "id": 504213710,
         "max_stack": 99,
         "name": "闇に抗う力",
+        "name_phonetic": "ヤミニアラガウチカラ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6573,11 +7360,13 @@
         }
     },
     "504213720": {
+        "category": "stat",
         "full_desc": "HPを10%、光属性耐性を5%アップする。",
         "guide_id": 2131250,
         "id": 504213720,
         "max_stack": 99,
         "name": "光に抗う力",
+        "name_phonetic": "ヒカリニアラガウチカラ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6594,11 +7383,13 @@
         }
     },
     "504213730": {
+        "category": "passive",
         "full_desc": "探索クエストで歩くと自分のMPを回復する。",
         "guide_id": 2179120,
         "id": 504213730,
         "max_stack": 99,
         "name": "歩くとMP回復",
+        "name_phonetic": "アルクトMPカイフク",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -6615,11 +7406,13 @@
         }
     },
     "504213740": {
+        "category": "stat",
         "full_desc": "攻撃魔力を30%アップする。",
         "guide_id": 2133810,
         "id": 504213740,
         "max_stack": 99,
         "name": "総攻撃",
+        "name_phonetic": "ソウコウゲキ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6636,11 +7429,13 @@
         }
     },
     "504213800": {
+        "category": "passive",
         "full_desc": "片手用武器を2つ装備可能になり、剣短剣大剣刀を装備すると攻撃がアップする。",
         "guide_id": 2151710,
         "id": 504213800,
         "max_stack": 99,
         "name": "凛々しき剣士",
+        "name_phonetic": "リリシキケンシ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6656,17 +7451,42 @@
             "magic": []
         }
     },
+    "504213980": {
+        "category": "ability",
+        "full_desc": "白魔法を1ターンに2回使えるようになる。",
+        "guide_id": 2295000,
+        "id": 504213980,
+        "max_stack": 99,
+        "name": "W白魔法",
+        "name_phonetic": "ダブルシロマホウ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "白魔法を1ターンに2回使用可",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "213980",
+                    "name": "W白魔法"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504214350": {
-        "full_desc": "戦闘中、毎ターンHPMPを回復し、リミットバーストゲージが増加する。",
+        "category": "passive",
+        "full_desc": "毎ターンHPMPを回復し、リミットバーストゲージが増加する。",
         "guide_id": 2171980,
         "id": 504214350,
         "max_stack": 99,
         "name": "純白の祝福",
+        "name_phonetic": "ジュンパクノシュクフク",
         "price": {
             "buy": 100000,
             "sell": 10000
         },
-        "short_desc": "戦闘中、毎ターンHPMPを回復+LBゲージが増加",
+        "short_desc": "毎ターンHPMPを回復+LBゲージが増加",
         "skills": {
             "abilities": [
                 {
@@ -6678,11 +7498,13 @@
         }
     },
     "504214360": {
+        "category": "stat",
         "full_desc": "攻撃魔力を20%アップする。",
         "guide_id": 2133820,
         "id": 504214360,
         "max_stack": 99,
         "name": "気炎万丈",
+        "name_phonetic": "キエンバンジョウ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -6699,11 +7521,13 @@
         }
     },
     "504214720": {
+        "category": "passive",
         "full_desc": "重鎧を装備すると防御精神がアップする。",
         "guide_id": 2151720,
         "id": 504214720,
         "max_stack": 99,
         "name": "アルタメノスの光",
+        "name_phonetic": "アルタメノスノヒカリ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -6720,11 +7544,13 @@
         }
     },
     "504214930": {
+        "category": "passive",
         "full_desc": "ロッドを装備すると防御魔力がアップする。",
         "guide_id": 2151730,
         "id": 504214930,
         "max_stack": 99,
         "name": "魔道士の覚悟",
+        "name_phonetic": "マドウシノカクゴ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -6741,11 +7567,13 @@
         }
     },
     "504214990": {
+        "category": "passive",
         "full_desc": "両手の装備品が武器1個だと攻撃がアップする。",
         "guide_id": 2171030,
         "id": 504214990,
         "max_stack": 99,
         "name": "バスターフォーム",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6762,11 +7590,13 @@
         }
     },
     "504215170": {
+        "category": "passive",
         "full_desc": "石化を無効化する。",
         "guide_id": 2154100,
         "id": 504215170,
         "max_stack": 99,
         "name": "石化無効",
+        "name_phonetic": "セキカムコウ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6783,11 +7613,13 @@
         }
     },
     "504215180": {
+        "category": "passive",
         "full_desc": "氷属性耐性を15%アップする。",
         "guide_id": 2153550,
         "id": 504215180,
         "max_stack": 99,
         "name": "氷属性耐性+15%",
+        "name_phonetic": "コオリゾクセイタイセイ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -6804,11 +7636,13 @@
         }
     },
     "504215190": {
+        "category": "stat",
         "full_desc": "MP、攻撃を10%アップする。",
         "guide_id": 2132200,
         "id": 504215190,
         "max_stack": 99,
         "name": "パワフル",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6825,11 +7659,13 @@
         }
     },
     "504215200": {
+        "category": "stat",
         "full_desc": "HP、精神を10%アップする。",
-        "guide_id": 2131740,
+        "guide_id": 2111120,
         "id": 504215200,
         "max_stack": 99,
         "name": "タフネス",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6846,11 +7682,13 @@
         }
     },
     "504215360": {
+        "category": "stat",
         "full_desc": "魔力を30%アップし、カウンター系アビリティの発動確率をアップする。",
         "guide_id": 2135320,
         "id": 504215360,
         "max_stack": 99,
         "name": "才媛の証明",
+        "name_phonetic": "サイエンノショウメイ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -6867,11 +7705,13 @@
         }
     },
     "504215440": {
+        "category": "passive",
         "full_desc": "暗闇を無効化する。",
         "guide_id": 2154080,
         "id": 504215440,
         "max_stack": 99,
         "name": "暗闇無効",
+        "name_phonetic": "クラヤミムコウ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6888,11 +7728,13 @@
         }
     },
     "504215930": {
+        "category": "passive",
         "full_desc": "杖を装備すると精神がアップし、ロッドを装備すると魔力がアップする。",
         "guide_id": 2151440,
         "id": 504215930,
         "max_stack": 99,
         "name": "夢巫女の託宣",
+        "name_phonetic": "ユメミコノセンタク",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -6909,11 +7751,13 @@
         }
     },
     "504216040": {
+        "category": "passive",
         "full_desc": "光属性耐性を20%アップする。",
         "guide_id": 2153730,
         "id": 504216040,
         "max_stack": 99,
         "name": "光属性耐性+20%",
+        "name_phonetic": "ヒカリゾクセイタイセイ+20%",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6930,11 +7774,13 @@
         }
     },
     "504216050": {
+        "category": "ability",
         "full_desc": "敵1体に一部魔法防御無視のダメージを与え、火氷雷水風土光闇属性耐性をダウンさせる。",
         "guide_id": 2212570,
         "id": 504216050,
         "max_stack": 99,
         "name": "ルナティックサバト",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -6951,11 +7797,13 @@
         }
     },
     "504216060": {
+        "category": "passive",
         "full_desc": "杖を装備すると精神がアップする。",
         "guide_id": 2151370,
         "id": 504216060,
         "max_stack": 99,
         "name": "杖の極意",
+        "name_phonetic": "ツエノゴクイ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -6972,11 +7820,13 @@
         }
     },
     "504216360": {
+        "category": "stat",
         "full_desc": "攻撃を30%アップし、クリティカル発生率をアップする。",
         "guide_id": 2133320,
         "id": 504216360,
         "max_stack": 99,
         "name": "忠義の武人",
+        "name_phonetic": "チュウギノブジン",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -6993,11 +7843,13 @@
         }
     },
     "504216370": {
+        "category": "stat",
         "full_desc": "HPを10%、氷属性耐性を5%アップする。",
         "guide_id": 2131260,
         "id": 504216370,
         "max_stack": 99,
         "name": "コールドディフェンド",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7014,11 +7866,13 @@
         }
     },
     "504216380": {
+        "category": "stat",
         "full_desc": "HPを10%、雷属性耐性を5%アップする。",
         "guide_id": 2131270,
         "id": 504216380,
         "max_stack": 99,
         "name": "サンダーディフェンド",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7035,11 +7889,13 @@
         }
     },
     "504216400": {
+        "category": "passive",
         "full_desc": "火属性耐性を15%アップする。",
         "guide_id": 2153560,
         "id": 504216400,
         "max_stack": 99,
         "name": "火属性耐性+15%",
+        "name_phonetic": "ヒゾクセイタイセイ+15%",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -7056,11 +7912,13 @@
         }
     },
     "504216520": {
+        "category": "passive",
         "full_desc": "槍兜を装備すると攻撃がアップする。",
         "guide_id": 2151380,
         "id": 504216520,
         "max_stack": 99,
         "name": "竜騎士の誇り",
+        "name_phonetic": "リュウキシノホコリ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7077,11 +7935,13 @@
         }
     },
     "504216730": {
+        "category": "stat",
         "full_desc": "防御精神を15%、火氷雷水風土光闇属性耐性を15%アップする。",
         "guide_id": 2134330,
         "id": 504216730,
         "max_stack": 99,
         "name": "魔壁の操者",
+        "name_phonetic": "マヘキノソウシャ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -7098,11 +7958,13 @@
         }
     },
     "504216900": {
+        "category": "passive",
         "full_desc": "病気を無効化する。",
         "guide_id": 2154090,
         "id": 504216900,
         "max_stack": 99,
         "name": "病気無効",
+        "name_phonetic": "ビョウキムコウ",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -7119,16 +7981,18 @@
         }
     },
     "504216990": {
-        "full_desc": "確率で物理攻撃を回避し、攻撃を15%アップする。",
+        "category": "stat",
+        "full_desc": "確率で一部物理攻撃を回避し、攻撃を15%アップする。",
         "guide_id": 2133330,
         "id": 504216990,
         "max_stack": 99,
         "name": "不羈への気焔",
+        "name_phonetic": "フキエノキエン",
         "price": {
             "buy": 30000,
             "sell": 3000
         },
-        "short_desc": "確率で物理攻撃を回避+攻撃を15%アップ",
+        "short_desc": "確率で一部物理攻撃を回避+攻撃を15%アップ",
         "skills": {
             "abilities": [
                 {
@@ -7140,11 +8004,13 @@
         }
     },
     "504217040": {
+        "category": "stat",
         "full_desc": "HPを10%、魔力を20%アップする。",
-        "guide_id": 2131750,
+        "guide_id": 2111130,
         "id": 504217040,
         "max_stack": 99,
         "name": "賢人の智慧",
+        "name_phonetic": "ケンジンノチケイ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -7161,11 +8027,13 @@
         }
     },
     "504217350": {
+        "category": "stat",
         "full_desc": "魔力を20%、火氷雷属性耐性を25%アップする。",
         "guide_id": 2135330,
         "id": 504217350,
         "max_stack": 99,
         "name": "黒き衝動",
+        "name_phonetic": "クロキショウドウ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -7182,11 +8050,13 @@
         }
     },
     "504217610": {
+        "category": "ability",
         "full_desc": "敵全体に氷属性一部魔法防御無視のダメージを与え、確率でストップ状態にする。",
         "guide_id": 2219420,
         "id": 504217610,
         "max_stack": 99,
         "name": "フローズンハリケーン",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7203,11 +8073,13 @@
         }
     },
     "504217630": {
+        "category": "stat",
         "full_desc": "MP、精神を10%アップする。",
         "guide_id": 2132210,
         "id": 504217630,
         "max_stack": 99,
         "name": "スピリット",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7224,11 +8096,13 @@
         }
     },
     "504217640": {
+        "category": "stat",
         "full_desc": "HP、防御を10%アップする。",
         "guide_id": 2131760,
         "id": 504217640,
         "max_stack": 99,
         "name": "ガーダー",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7245,11 +8119,13 @@
         }
     },
     "504217650": {
+        "category": "passive",
         "full_desc": "帽子を装備すると魔力精神がアップする。",
         "guide_id": 2151390,
         "id": 504217650,
         "max_stack": 99,
         "name": "帽子の秘義",
+        "name_phonetic": "ボウシノヒギ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -7266,11 +8142,13 @@
         }
     },
     "504217950": {
+        "category": "stat",
         "full_desc": "攻撃を30%、HP、防御を10%アップする。",
         "guide_id": 2133340,
         "id": 504217950,
         "max_stack": 99,
         "name": "豪放磊落",
+        "name_phonetic": "ゴウホウライラク",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -7287,11 +8165,13 @@
         }
     },
     "504218380": {
+        "category": "stat",
         "full_desc": "HP、攻撃を30%アップし、バーストストーンによる上昇量をアップする。",
         "guide_id": 2131770,
         "id": 504218380,
         "max_stack": 99,
         "name": "蒼紅の魂",
+        "name_phonetic": "ソウクノタマシイ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7308,11 +8188,13 @@
         }
     },
     "504218390": {
+        "category": "stat",
         "full_desc": "魔力精神を30%アップする。",
         "guide_id": 2135340,
         "id": 504218390,
         "max_stack": 99,
         "name": "軍師の知略",
+        "name_phonetic": "グンシノチリャク",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7329,11 +8211,13 @@
         }
     },
     "504218860": {
+        "category": "stat",
         "full_desc": "HP、精神を15%アップし、物理、魔法攻撃を受けると確率で自分のHPを回復する。",
         "guide_id": 2131780,
         "id": 504218860,
         "max_stack": 99,
         "name": "機械仕掛けの心",
+        "name_phonetic": "キカイジカケノココロ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -7350,11 +8234,13 @@
         }
     },
     "504218870": {
+        "category": "stat",
         "full_desc": "HPを20%アップし、HPが一定値以下の時、攻撃をアップする。",
         "guide_id": 2131790,
         "id": 504218870,
         "max_stack": 99,
         "name": "憎悪",
+        "name_phonetic": "ゾウオ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -7371,11 +8257,13 @@
         }
     },
     "504218970": {
+        "category": "passive",
         "full_desc": "杖を装備すると精神がアップし、ローブを装備すると防御がアップする。",
         "guide_id": 2151640,
         "id": 504218970,
         "max_stack": 99,
         "name": "真・叡知の結晶",
+        "name_phonetic": "シンエイチノケッショウ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7392,11 +8280,13 @@
         }
     },
     "504218980": {
+        "category": "stat",
         "full_desc": "HP、攻撃を15%アップする。",
         "guide_id": 2131180,
         "id": 504218980,
         "max_stack": 99,
         "name": "真・盟主への誓い",
+        "name_phonetic": "シンメイシュヘノチカイ",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -7413,11 +8303,13 @@
         }
     },
     "504218990": {
+        "category": "passive",
         "full_desc": "火氷雷水風土光闇属性耐性を15%アップする。",
         "guide_id": 2153920,
         "id": 504218990,
         "max_stack": 99,
         "name": "真・ハイデリンの加護",
+        "name_phonetic": "シンハイデリンノカゴ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -7434,16 +8326,18 @@
         }
     },
     "504219000": {
-        "full_desc": "確率で物理攻撃を回避し、攻撃を20%アップする。",
+        "category": "stat",
+        "full_desc": "確率で一部物理攻撃を回避し、攻撃を20%アップする。",
         "guide_id": 2133350,
         "id": 504219000,
         "max_stack": 99,
         "name": "真・不羈への気焔",
+        "name_phonetic": "シンフキヘノキエン",
         "price": {
             "buy": 50000,
             "sell": 5000
         },
-        "short_desc": "確率で物理攻撃を回避+攻撃を20%アップ",
+        "short_desc": "確率で一部物理攻撃を回避+攻撃を20%アップ",
         "skills": {
             "abilities": [
                 {
@@ -7455,11 +8349,13 @@
         }
     },
     "504219010": {
+        "category": "stat",
         "full_desc": "HPを15%、魔力を25%アップする。",
-        "guide_id": 2131800,
+        "guide_id": 2111200,
         "id": 504219010,
         "max_stack": 99,
         "name": "真・賢人の智慧",
+        "name_phonetic": "シンケンジンノチケイ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -7476,11 +8372,13 @@
         }
     },
     "504219080": {
+        "category": "stat",
         "full_desc": "HPMPを15%アップし、召喚魔法発動時に幻獣のステータスを10%アップする。",
-        "guide_id": 2117020,
+        "guide_id": 2111300,
         "id": 504219080,
         "max_stack": 99,
         "name": "エボンの教え",
+        "name_phonetic": "エボンノオシエ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -7497,11 +8395,13 @@
         }
     },
     "504219220": {
+        "category": "passive",
         "full_desc": "攻撃を10%アップし、物理攻撃時、死霊系へのダメージをアップする。",
         "guide_id": 2152130,
         "id": 504219220,
         "max_stack": 99,
         "name": "浄化の力",
+        "name_phonetic": "ジョウカノチカラ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7518,11 +8418,13 @@
         }
     },
     "504219230": {
+        "category": "passive",
         "full_desc": "魔力を10%アップし、魔法攻撃時、死霊系へのダメージをアップする。",
         "guide_id": 2152140,
         "id": 504219230,
         "max_stack": 99,
         "name": "浄化の術",
+        "name_phonetic": "ジュカノジュツ",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7539,11 +8441,13 @@
         }
     },
     "504219240": {
+        "category": "passive",
         "full_desc": "氷属性耐性を20%アップする。",
         "guide_id": 2153740,
         "id": 504219240,
         "max_stack": 99,
         "name": "氷属性耐性+20%",
+        "name_phonetic": "コオリゾクセイタイセイ+20%",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -7560,11 +8464,13 @@
         }
     },
     "504219250": {
+        "category": "ability",
         "full_desc": "味方全体へのダメージを2ターン軽減し、防御精神をアップする。",
         "guide_id": 2290000,
         "id": 504219250,
         "max_stack": 99,
         "name": "ホーンクレイドル",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7581,11 +8487,13 @@
         }
     },
     "504219260": {
+        "category": "passive",
         "full_desc": "軽盾を装備すると防御精神がアップする。",
         "guide_id": 2151400,
         "id": 504219260,
         "max_stack": 99,
         "name": "軽盾の秘義",
+        "name_phonetic": "ケイタテノヒギ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -7602,11 +8510,13 @@
         }
     },
     "504219270": {
+        "category": "passive",
         "full_desc": "攻撃魔力を15%アップし、片手用武器を2つ装備可能になる。",
         "guide_id": 2156010,
         "id": 504219270,
         "max_stack": 99,
         "name": "にとうりゅう改",
+        "name_phonetic": "ニトウリュウカイ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7623,11 +8533,13 @@
         }
     },
     "504219820": {
+        "category": "passive",
         "full_desc": "剣を装備すると攻撃がアップし、軽盾を装備するとHPがアップする。",
         "guide_id": 2151410,
         "id": 504219820,
         "max_stack": 99,
         "name": "潰えぬ闘志",
+        "name_phonetic": "ツイエヌトウシ",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -7644,11 +8556,13 @@
         }
     },
     "504219880": {
+        "category": "passive",
         "full_desc": "ハンマーを装備すると攻撃がアップする。",
         "guide_id": 2151351,
         "id": 504219880,
         "max_stack": 99,
         "name": "ハンマースミス",
+        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7665,11 +8579,13 @@
         }
     },
     "504219890": {
+        "category": "stat",
         "full_desc": "MPを20%、魔力を40%アップし、毎ターンリミットバーストゲージが増加する。",
         "guide_id": 2132220,
         "id": 504219890,
         "max_stack": 99,
         "name": "ミシディアの賢者",
+        "name_phonetic": "ミシディアノケンジャ",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7686,11 +8602,13 @@
         }
     },
     "504219910": {
+        "category": "passive",
         "full_desc": "物理、魔法攻撃時、人系へのダメージをアップする。",
         "guide_id": 2152320,
         "id": 504219910,
         "max_stack": 99,
         "name": "マンイーター改",
+        "name_phonetic": "マンイーターカイ",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -7706,12 +8624,83 @@
             "magic": []
         }
     },
+    "504219930": {
+        "category": "passive",
+        "full_desc": "刀を装備すると攻撃魔力がアップする。",
+        "guide_id": 2151740,
+        "id": 504219930,
+        "max_stack": 99,
+        "name": "妖刀の知識",
+        "name_phonetic": "ヨウトウノチシキ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "刀装備時、攻撃魔力をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "219930",
+                    "name": "妖刀の知識"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504219940": {
+        "category": "passive",
+        "full_desc": "重鎧を装備するとHP精神がアップする。",
+        "guide_id": 2151750,
+        "id": 504219940,
+        "max_stack": 99,
+        "name": "ヘヴィキマイラ",
+        "name_phonetic": "",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "重鎧装備時、HP精神をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "219940",
+                    "name": "ヘヴィキマイラ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504219950": {
+        "category": "passive",
+        "full_desc": "毒暗闇睡眠沈黙麻痺混乱を無効化する。",
+        "guide_id": 2154120,
+        "id": 504219950,
+        "max_stack": 99,
+        "name": "アンチディスアスター",
+        "name_phonetic": "",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "毒暗闇睡眠沈黙麻痺混乱を無効",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "219950",
+                    "name": "アンチディスアスター"
+                }
+            ],
+            "magic": []
+        }
+    },
     "504220140": {
+        "category": "stat",
         "full_desc": "HPを20%、攻撃を30%アップする。",
         "guide_id": 2111310,
         "id": 504220140,
         "max_stack": 99,
         "name": "バトルドランカー",
+        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7722,6 +8711,1961 @@
                 {
                     "id": "220140",
                     "name": "バトルドランカー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504220270": {
+        "category": "stat",
+        "full_desc": "HPMPを10%、攻撃防御魔力精神を15%アップする。",
+        "guide_id": 2131820,
+        "id": 504220270,
+        "max_stack": 99,
+        "name": "ジェマの騎士",
+        "name_phonetic": "ジェマノキシ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "HPMPを10%、攻撃防御魔力精神を15%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "220270",
+                    "name": "ジェマの騎士"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504220280": {
+        "category": "passive",
+        "full_desc": "格闘服を装備すると攻撃がアップする。",
+        "guide_id": 2151760,
+        "id": 504220280,
+        "max_stack": 99,
+        "name": "獣人の心",
+        "name_phonetic": "ジュウジンノココロ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "格闘服装備時、攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "220280",
+                    "name": "獣人の心"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504220290": {
+        "category": "stat",
+        "full_desc": "HP、防御精神を20%、光属性耐性を10%アップする。",
+        "guide_id": 2131810,
+        "id": 504220290,
+        "max_stack": 99,
+        "name": "ハーフエルフの心",
+        "name_phonetic": "ハーフエルフノココロ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "HP、防御精神を20%、光属性耐性を10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "220290",
+                    "name": "ハーフエルフの心"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504220620": {
+        "category": "stat",
+        "full_desc": "HPMPを5%、攻撃を10%アップする。",
+        "guide_id": 2131830,
+        "id": 504220620,
+        "max_stack": 99,
+        "name": "屈強",
+        "name_phonetic": "クッキョウ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "HPMPを5%、攻撃を10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "220620",
+                    "name": "屈強"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504220630": {
+        "category": "stat",
+        "full_desc": "HPMPを5%、魔力を10%アップする。",
+        "guide_id": 2131840,
+        "id": 504220630,
+        "max_stack": 99,
+        "name": "術策",
+        "name_phonetic": "ジュッサク",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "HPMPを5%、魔力を10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "220630",
+                    "name": "術策"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504220650": {
+        "category": "passive",
+        "full_desc": "風属性耐性を20%アップする。",
+        "guide_id": 2153750,
+        "id": 504220650,
+        "max_stack": 99,
+        "name": "風属性耐性+20%",
+        "name_phonetic": "カゼゾクセイタイセイ+20%",
+        "price": {
+            "buy": 5000,
+            "sell": 500
+        },
+        "short_desc": "風属性耐性を20%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "220650",
+                    "name": "風属性耐性+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504220660": {
+        "category": "stat",
+        "full_desc": "HPMP、精神を15%アップし、毎ターンMPを回復する。",
+        "guide_id": 2131850,
+        "id": 504220660,
+        "max_stack": 99,
+        "name": "大魔道士の詠唱法",
+        "name_phonetic": "ダイマドウシノエイショウホウ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "HPMP、精神を15%アップ+毎ターンMPを回復",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "220660",
+                    "name": "大魔道士の詠唱法"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504220680": {
+        "category": "passive",
+        "full_desc": "剣を装備すると攻撃がアップし、ローブを装備すると魔力がアップする。",
+        "guide_id": 2151352,
+        "id": 504220680,
+        "max_stack": 99,
+        "name": "自然を愛する魔法剣士",
+        "name_phonetic": "シゼンヲアイスルマホウケンシ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "剣装備時、攻撃をアップ+ローブ装備時、魔力をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "220680",
+                    "name": "自然を愛する魔法剣士"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221550": {
+        "category": "stat",
+        "full_desc": "HPを30%アップし、バトル開始時、および戦闘不能から回復時に、自分のバーストストーンによる上昇量をアップする。",
+        "guide_id": 2111400,
+        "id": 504221550,
+        "max_stack": 99,
+        "name": "ムードメーカー",
+        "name_phonetic": "",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "HPを30%アップ+バトル開始時と戦闘不能から回復時、自分のバーストストーンによる上昇量をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "221550",
+                    "name": "ムードメーカー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221560": {
+        "category": "passive",
+        "full_desc": "重鎧を装備するとHP防御がアップする。",
+        "guide_id": 2151140,
+        "id": 504221560,
+        "max_stack": 99,
+        "name": "重鎧の秘義",
+        "name_phonetic": "ジュウヨロイノヒギ",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "重鎧装備時、HP防御をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "221560",
+                    "name": "重鎧の秘義"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221570": {
+        "category": "ability",
+        "full_desc": "味方全体の防御精神、火氷雷水風土光闇属性耐性をアップする。",
+        "guide_id": 2290001,
+        "id": 504221570,
+        "max_stack": 99,
+        "name": "カラミティボーダー",
+        "name_phonetic": "",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "味方全体の防御精神、火氷雷水風土光闇属性耐性をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "221570",
+                    "name": "カラミティボーダー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221580": {
+        "category": "stat",
+        "full_desc": "HPを20%、攻撃魔力を15%アップする。",
+        "guide_id": 2111340,
+        "id": 504221580,
+        "max_stack": 99,
+        "name": "非情なる策謀家",
+        "name_phonetic": "ヒジョウナルサクボウカ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "HPを20%、攻撃魔力を15%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "221600",
+                    "name": "非情なる策謀家"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221590": {
+        "category": "stat",
+        "full_desc": "HPを5%、精神を20%アップし、毎ターンHPを回復する。",
+        "guide_id": 2116100,
+        "id": 504221590,
+        "max_stack": 99,
+        "name": "賢帝の素養",
+        "name_phonetic": "ケンテイノソヨウ",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "HPを5%、精神を20%アップ+毎ターンHPを回復",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "221610",
+                    "name": "賢帝の素養"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221600": {
+        "category": "passive",
+        "full_desc": "攻撃を10%アップし、物理攻撃時、精霊系へのダメージをアップする。",
+        "guide_id": 2152150,
+        "id": 504221600,
+        "max_stack": 99,
+        "name": "スピリットファイター",
+        "name_phonetic": "",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "攻撃を10%アップ+物理攻撃時、精霊系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "221580",
+                    "name": "スピリットファイター"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221610": {
+        "category": "passive",
+        "full_desc": "魔力を10%アップし、魔法攻撃時、精霊系へのダメージをアップする。",
+        "guide_id": 2152160,
+        "id": 504221610,
+        "max_stack": 99,
+        "name": "スピリットマジシャン",
+        "name_phonetic": "",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "魔力を10%アップ+魔法攻撃時、精霊系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "221590",
+                    "name": "スピリットマジシャン"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221620": {
+        "category": "passive",
+        "full_desc": "毎ターン攻撃をアップする。",
+        "guide_id": 2174310,
+        "id": 504221620,
+        "max_stack": 99,
+        "name": "オートブレイブ",
+        "name_phonetic": "",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "毎ターン攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "202510",
+                    "name": "オートブレイブ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221630": {
+        "category": "passive",
+        "full_desc": "毎ターン魔力をアップする。",
+        "guide_id": 2174410,
+        "id": 504221630,
+        "max_stack": 99,
+        "name": "オートフェイス",
+        "name_phonetic": "",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "毎ターン魔力をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "217620",
+                    "name": "オートフェイス"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221640": {
+        "category": "passive",
+        "full_desc": "土属性耐性を20%アップする。",
+        "guide_id": 2153940,
+        "id": 504221640,
+        "max_stack": 99,
+        "name": "土属性耐性+20%",
+        "name_phonetic": "ツチゾクセイタイセイ+20%",
+        "price": {
+            "buy": 5000,
+            "sell": 500
+        },
+        "short_desc": "土属性耐性を20%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "222220",
+                    "name": "土属性耐性+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221650": {
+        "category": "stat",
+        "full_desc": "HPを20%アップし、剣を装備すると攻撃がアップする。",
+        "guide_id": 2131860,
+        "id": 504221650,
+        "max_stack": 99,
+        "name": "アニエス様たすけ隊隊長",
+        "name_phonetic": "アニエスサマタスケタイタイチョウ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "HPを20%アップ+剣装備時、攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "222760",
+                    "name": "アニエス様たすけ隊隊長"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221660": {
+        "category": "stat",
+        "full_desc": "魔力を25%、風属性耐性を15%アップする。",
+        "guide_id": 2135350,
+        "id": 504221660,
+        "max_stack": 99,
+        "name": "想いの欠片",
+        "name_phonetic": "オモイノカケラ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "魔力を25%、風属性耐性を15%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "222780",
+                    "name": "想いの欠片"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221670": {
+        "category": "passive",
+        "full_desc": "兜が装備可能になる。",
+        "guide_id": 2155580,
+        "id": 504221670,
+        "max_stack": 99,
+        "name": "兜装備",
+        "name_phonetic": "カブトソウビ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "兜装備可",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223360",
+                    "name": "兜装備"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221680": {
+        "category": "stat",
+        "full_desc": "魔力を40%、精神を20%アップし、召喚魔法発動時に幻獣のステータスを10%アップする。",
+        "guide_id": 2132220,
+        "id": 504221680,
+        "max_stack": 99,
+        "name": "純血の召喚士",
+        "name_phonetic": "ジュンケツノショウカンシ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "魔力を40%、精神を20%アップ+召喚魔法時幻獣のステータスが10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223670",
+                    "name": "純血の召喚士"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221690": {
+        "category": "passive",
+        "full_desc": "格闘を装備すると攻撃防御がアップする。",
+        "guide_id": 2151770,
+        "id": 504221690,
+        "max_stack": 99,
+        "name": "モンクの悟り",
+        "name_phonetic": "モンクノサトリ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "格闘装備時、攻撃防御をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223680",
+                    "name": "モンクの悟り"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221700": {
+        "category": "passive",
+        "full_desc": "攻撃を10%アップし、物理攻撃時、人系へのダメージをアップ。",
+        "guide_id": 2152170,
+        "id": 504221700,
+        "max_stack": 99,
+        "name": "攻・城内戦の知識",
+        "name_phonetic": "コウジョウナイセンノチシキ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "攻撃を10%アップ+物理攻撃時、人系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223710",
+                    "name": "攻・城内戦の知識"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221710": {
+        "category": "passive",
+        "full_desc": "魔力を10%アップし、魔法攻撃時、人系へのダメージをアップ。",
+        "guide_id": 2152180,
+        "id": 504221710,
+        "max_stack": 99,
+        "name": "魔・城内戦の知識",
+        "name_phonetic": "マジョウナイセンノチシキ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "魔力を10%アップ+魔法攻撃時、人系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223720",
+                    "name": "魔・城内戦の知識"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221720": {
+        "category": "stat",
+        "full_desc": "攻撃精神を20%アップし、混乱を無効化する。",
+        "guide_id": 2133360,
+        "id": 504221720,
+        "max_stack": 99,
+        "name": "カームメンタル",
+        "name_phonetic": "",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "攻撃精神を20%アップ+混乱を無効",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223730",
+                    "name": "カームメンタル"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221730": {
+        "category": "stat",
+        "full_desc": "魔力を30%アップし、物理攻撃を受けると確率で「メテオ」が発動する。",
+        "guide_id": 2135360,
+        "id": 504221730,
+        "max_stack": 99,
+        "name": "ししのめざめ",
+        "name_phonetic": "シシノメザメ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "魔力を30%アップ+物理攻撃を受けると確率で「メテオ」が発動",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223740",
+                    "name": "ししのめざめ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504221740": {
+        "category": "ability",
+        "full_desc": "自分のHPMPを回復し、防御精神をダウンさせ、睡眠状態にする。",
+        "guide_id": 2172040,
+        "id": 504221740,
+        "max_stack": 99,
+        "name": "ねむりにつく",
+        "name_phonetic": "",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "自分のHPMPを回復+防御精神をダウン+睡眠",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223750",
+                    "name": "ねむりにつく"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504222190": {
+        "category": "passive",
+        "full_desc": "物理、魔法攻撃時、植物系へのダメージをアップする。",
+        "guide_id": 2152330,
+        "id": 504222190,
+        "max_stack": 99,
+        "name": "プラントキラー改",
+        "name_phonetic": "プラントキラーカイ",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "物理、魔法攻撃時、植物系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "222190",
+                    "name": "プラントキラー改"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504222860": {
+        "category": "passive",
+        "full_desc": "火属性耐性を20%アップし、剣を装備すると攻撃がアップし、軽鎧を装備するとHP攻撃がアップする。",
+        "guide_id": 2151130,
+        "id": 504222860,
+        "max_stack": 99,
+        "name": "選ばれし者",
+        "name_phonetic": "エラバレシモノ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "火属性耐性を20%アップ+剣装備時、攻撃をアップ+軽鎧装備時、HP攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "222860",
+                    "name": "選ばれし者"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504222870": {
+        "category": "passive",
+        "full_desc": "敵から狙われにくくなり、短剣を装備すると攻撃がアップする。",
+        "guide_id": 2151300,
+        "id": 504222870,
+        "max_stack": 99,
+        "name": "影の担い手",
+        "name_phonetic": "カゲノニナイテ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "敵から狙われにくくなる+短剣装備時、攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "222870",
+                    "name": "影の担い手"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504223800": {
+        "category": "passive",
+        "full_desc": "闇属性耐性を20%アップする。",
+        "guide_id": 2153821,
+        "id": 504223800,
+        "max_stack": 99,
+        "name": "闇属性耐性+20%",
+        "name_phonetic": "ヤミゾクセイタイセイ+20%",
+        "price": {
+            "buy": 5000,
+            "sell": 500
+        },
+        "short_desc": "闇属性耐性を20%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223800",
+                    "name": "闇属性耐性+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504223810": {
+        "category": "stat",
+        "full_desc": "召喚魔法発動時に幻獣のステータスを15%アップする。",
+        "guide_id": 2117011,
+        "id": 504223810,
+        "max_stack": 99,
+        "name": "召喚魔法+15%",
+        "name_phonetic": "ショウカンマホウ+15%",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "short_desc": "召喚魔法時幻獣のステータスが15%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223810",
+                    "name": "召喚魔法+15%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504223820": {
+        "category": "ability",
+        "full_desc": "味方1体の水属性耐性をアップし、雷属性耐性をダウンさせる。",
+        "guide_id": 2296000,
+        "id": 504223820,
+        "max_stack": 99,
+        "name": "カッパワー",
+        "name_phonetic": "",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "味方1体の水属性耐性をアップ+雷属性耐性をダウン",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "223820",
+                    "name": "カッパワー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224170": {
+        "category": "passive",
+        "full_desc": "斧を装備すると攻撃がアップする。",
+        "guide_id": 2151391,
+        "id": 504224170,
+        "max_stack": 99,
+        "name": "プロフェッショナル・斧",
+        "name_phonetic": "プロフェッショナルオノ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "斧装備時、攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224170",
+                    "name": "プロフェッショナル・斧"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224190": {
+        "category": "passive",
+        "full_desc": "病気を無効化し、HPが一定値以下の時、HPMPを徐々に回復する。",
+        "guide_id": 2154130,
+        "id": 504224190,
+        "max_stack": 99,
+        "name": "餓狼再起",
+        "name_phonetic": "ガロウサイキ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "病気を無効+HPが一定値以下の時、HPMPを徐々に回復",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224190",
+                    "name": "餓狼再起"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224490": {
+        "category": "passive",
+        "full_desc": "ロッドローブを装備すると魔力がアップし、片手用武器を2つ装備可能になる。",
+        "guide_id": 2151711,
+        "id": 504224490,
+        "max_stack": 99,
+        "name": "クインテッセンス",
+        "name_phonetic": "",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "ロッドローブ装備時、魔力をアップ+片手用武器を2つ装備可",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224490",
+                    "name": "クインテッセンス"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224840": {
+        "category": "stat",
+        "full_desc": "精神を25%アップし、杖を装備すると精神がアップする。",
+        "guide_id": 2116110,
+        "id": 504224840,
+        "max_stack": 99,
+        "name": "壁魔道士の誓い",
+        "name_phonetic": "カベマドウシノチカイ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "精神を25%アップ+杖装備時、精神をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224840",
+                    "name": "壁魔道士の誓い"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224860": {
+        "category": "stat",
+        "full_desc": "HPMP、雷属性耐性を5%アップする。",
+        "guide_id": 2111100,
+        "id": 504224860,
+        "max_stack": 99,
+        "name": "避雷の希求",
+        "name_phonetic": "ヒライノキキュウ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "HPMP、雷属性耐性を5%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224860",
+                    "name": "避雷の希求"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224870": {
+        "category": "stat",
+        "full_desc": "HPMP、闇属性耐性を5%アップする。",
+        "guide_id": 2111110,
+        "id": 504224870,
+        "max_stack": 99,
+        "name": "破闇の希求",
+        "name_phonetic": "ハオンノキキュウ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "HPMP、闇属性耐性を5%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224870",
+                    "name": "破闇の希求"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224900": {
+        "category": "passive",
+        "full_desc": "氷属性耐性を50%ダウンし、毎ターンリミットバーストゲージが増加し、火属性耐性を30%アップする。",
+        "guide_id": 2173040,
+        "id": 504224900,
+        "max_stack": 99,
+        "name": "ボム魂",
+        "name_phonetic": "ボムタマ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "氷属性耐性を50%ダウン+毎ターンLBゲージが増加+火属性耐性を30%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224900",
+                    "name": "ボム魂"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224910": {
+        "category": "ability",
+        "full_desc": "自分の攻撃をアップし、物理攻撃に火属性を付与する。",
+        "guide_id": 2293000,
+        "id": 504224910,
+        "max_stack": 99,
+        "name": "ボムアームズ",
+        "name_phonetic": "",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "自分の攻撃をアップ+物理攻撃に火属性を付与",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224910",
+                    "name": "ボムアームズ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224920": {
+        "category": "passive",
+        "full_desc": "剣が装備可能になる。",
+        "guide_id": 2155020,
+        "id": 504224920,
+        "max_stack": 99,
+        "name": "剣装備",
+        "name_phonetic": "ケンソウビ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "剣装備可",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224920",
+                    "name": "剣装備"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504224930": {
+        "category": "passive",
+        "full_desc": "ロッドを装備すると魔力精神がアップする。",
+        "guide_id": 2151731,
+        "id": 504224930,
+        "max_stack": 99,
+        "name": "モディッシュ・ウィッチ",
+        "name_phonetic": "",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "ロッド装備時、魔力精神をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "224930",
+                    "name": "モディッシュ・ウィッチ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504225720": {
+        "category": "passive",
+        "full_desc": "HPを10%、毒暗闇睡眠沈黙麻痺混乱病気石化耐性をアップする。",
+        "guide_id": 2154140,
+        "id": 504225720,
+        "max_stack": 99,
+        "name": "フォーチュンベイビー",
+        "name_phonetic": "",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "HPを10%、毒暗闇睡眠沈黙麻痺混乱病気石化耐性をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "225720",
+                    "name": "フォーチュンベイビー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504225890": {
+        "category": "stat",
+        "full_desc": "攻撃を40%、毎ターン防御をアップする。",
+        "guide_id": 2133370,
+        "id": 504225890,
+        "max_stack": 99,
+        "name": "質実剛健",
+        "name_phonetic": "シツジツゴウケン",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "攻撃を40%、毎ターン防御をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "225890",
+                    "name": "質実剛健"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504225930": {
+        "category": "passive",
+        "full_desc": "物理、魔法攻撃時、獣鳥人虫植物系へのダメージをアップする。",
+        "guide_id": 2152220,
+        "id": 504225930,
+        "max_stack": 99,
+        "name": "ネクロポリス",
+        "name_phonetic": "",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "物理、魔法攻撃時、獣鳥人虫植物系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "225930",
+                    "name": "ネクロポリス"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226031": {
+        "category": "stat",
+        "full_desc": "防御を40%アップし、毎ターンHPを回復する。",
+        "guide_id": 2134340,
+        "id": 504226031,
+        "max_stack": 99,
+        "name": "裁定する悪魔",
+        "name_phonetic": "サイテイスルアクマ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "防御を40%アップ+毎ターンHPを回復",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226030",
+                    "name": "裁定する悪魔"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226041": {
+        "category": "stat",
+        "full_desc": "攻撃防御を10%アップする。",
+        "guide_id": 2133111,
+        "id": 504226041,
+        "max_stack": 99,
+        "name": "騎士の願い",
+        "name_phonetic": "キシノネガイ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "攻撃防御を10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226040",
+                    "name": "騎士の願い"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226050": {
+        "category": "stat",
+        "full_desc": "魔力精神を10%アップする。",
+        "guide_id": 2135111,
+        "id": 504226050,
+        "max_stack": 99,
+        "name": "魔道士の願い",
+        "name_phonetic": "マドウシノネガイ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "魔力精神を10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226050",
+                    "name": "魔道士の願い"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226380": {
+        "category": "passive",
+        "full_desc": "バーストストーンによる上昇量をアップし、短剣剣大剣刀を装備すると攻撃がアップする。",
+        "guide_id": 2151521,
+        "id": 504226380,
+        "max_stack": 99,
+        "name": "英雄の誓い・闇",
+        "name_phonetic": "エイユウノチカイヤミ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "バーストストーンによる上昇量をアップ+短剣剣大剣刀装備時、攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226380",
+                    "name": "英雄の誓い・闇"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226406": {
+        "category": "stat",
+        "full_desc": "HPMPを15%、防御精神を20%アップする。",
+        "guide_id": 2131870,
+        "id": 504226406,
+        "max_stack": 99,
+        "name": "彷徨の騎士",
+        "name_phonetic": "ホウコウノキシ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "HPMPを15%、防御精神を20%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226406",
+                    "name": "彷徨の騎士"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226422": {
+        "category": "stat",
+        "full_desc": "HPを20%、精神を40%アップし、毎ターンリミットバーストゲージが増加する。",
+        "guide_id": 2131880,
+        "id": 504226422,
+        "max_stack": 99,
+        "name": "ラピスを守りし者",
+        "name_phonetic": "ラピスヲマモリシモノ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "HPを20%、精神を40%アップ+毎ターンLBゲージが増加",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226422",
+                    "name": "ラピスを守りし者"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226639": {
+        "category": "passive",
+        "full_desc": "毎ターンリミットバーストゲージが増加し、LBのダメージ量がアップする。",
+        "guide_id": 2173005,
+        "id": 504226639,
+        "max_stack": 99,
+        "name": "獅子の心",
+        "name_phonetic": "シシノココロ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "毎ターンLBゲージが増加+LBのダメージがアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226639",
+                    "name": "獅子の心"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226653": {
+        "category": "passive",
+        "full_desc": "毒暗闇睡眠沈黙麻痺混乱病気石化を無効化し、魅了耐性をアップし、火氷雷風属性耐性を60%アップする。",
+        "guide_id": 2153990,
+        "id": 504226653,
+        "max_stack": 99,
+        "name": "ウィングハート",
+        "name_phonetic": "",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "毒暗闇睡眠沈黙麻痺混乱病気石化を無効+魅了耐性をアップ+火氷雷風属性耐性を60%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226653",
+                    "name": "ウィングハート"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226880": {
+        "category": "stat",
+        "full_desc": "毎ターン自分にダメージを与え、攻撃を80%アップする。",
+        "guide_id": 2133380,
+        "id": 504226880,
+        "max_stack": 99,
+        "name": "利用される者",
+        "name_phonetic": "リヨウサレルモノ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "毎ターン自分にダメージ+攻撃を80%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226880",
+                    "name": "利用される者"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226881": {
+        "category": "passive",
+        "full_desc": "攻撃を30%アップし、片手用武器装備時、片手が空いた状態だと武具の攻撃がアップする。",
+        "guide_id": 2171015,
+        "id": 504226881,
+        "max_stack": 99,
+        "name": "暗黒の剣技",
+        "name_phonetic": "アンコクノケンギ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "攻撃を30%アップ+片手用武器装備時、片手が空いた状態だと武具の攻撃がアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226881",
+                    "name": "暗黒の剣技"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226882": {
+        "category": "passive",
+        "full_desc": "火氷雷水風土光闇属性耐性を30%アップし、杖を装備すると精神がアップする。",
+        "guide_id": 2151790,
+        "id": 504226882,
+        "max_stack": 99,
+        "name": "アライバルオリジン",
+        "name_phonetic": "",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "火氷雷水風土光闇属性耐性を30%アップ+杖装備時、精神をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226882",
+                    "name": "アライバルオリジン"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226883": {
+        "category": "stat",
+        "full_desc": "幻獣セット時に反映されるステータスが50%アップし、バーストストーンによる上昇量をアップする。",
+        "guide_id": 2151800,
+        "id": 504226883,
+        "max_stack": 99,
+        "name": "祈り子の夢",
+        "name_phonetic": "イノリゴノユメ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "幻獣セット時に反映されるステータスが50%アップ+バーストストーンによる上昇量をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226883",
+                    "name": "祈り子の夢"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226892": {
+        "category": "stat",
+        "full_desc": "HPを10%、魔力を60%、火属性耐性を50%アップする。",
+        "guide_id": 2131890,
+        "id": 504226892,
+        "max_stack": 99,
+        "name": "背徳の皇帝",
+        "name_phonetic": "ハイトクノコウテイ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "HPを10%、魔力を60%、火属性耐性を50%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226892",
+                    "name": "背徳の皇帝"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226893": {
+        "category": "passive",
+        "full_desc": "剣を装備すると攻撃がアップし、物理攻撃時、死霊系へのダメージをアップする。",
+        "guide_id": 2152600,
+        "id": 504226893,
+        "max_stack": 99,
+        "name": "たまねぎの使命",
+        "name_phonetic": "タマネギノシメイ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "剣装備時、攻撃をアップ+物理攻撃時、死霊系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226893",
+                    "name": "たまねぎの使命"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226894": {
+        "category": "stat",
+        "full_desc": "雷属性耐性を75%ダウンし、防御精神を40%アップする。",
+        "guide_id": 2134711,
+        "id": 504226894,
+        "max_stack": 99,
+        "name": "パンツァーオメガ",
+        "name_phonetic": "",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "雷属性耐性を75%ダウン+防御精神を40%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226894",
+                    "name": "パンツァーオメガ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226895": {
+        "category": "ability",
+        "full_desc": "【2Tに1回使用可】敵全体に一部防御無視ダメージを与え、防御精神をダウンさせる。",
+        "guide_id": 2219120,
+        "id": 504226895,
+        "max_stack": 99,
+        "name": "はどうほう",
+        "name_phonetic": "ハドウホウ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "【2Tに1回使用可】敵全体に一部防御無視ダメージ+防御精神をダウン",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226895",
+                    "name": "はどうほう"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226896": {
+        "category": "passive",
+        "full_desc": "雷属性耐性が20%アップする。",
+        "guide_id": 2153541,
+        "id": 504226896,
+        "max_stack": 99,
+        "name": "雷属性耐性+20%",
+        "name_phonetic": "カミナリゾクセイタイセイ+20%",
+        "price": {
+            "buy": 5000,
+            "sell": 500
+        },
+        "short_desc": "雷属性耐性が20%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226896",
+                    "name": "雷属性耐性+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226898": {
+        "category": "stat",
+        "full_desc": "HP、攻撃を10%アップする。",
+        "guide_id": 2131141,
+        "id": 504226898,
+        "max_stack": 99,
+        "name": "フィジカルフォース",
+        "name_phonetic": "",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "HP、攻撃を10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226898",
+                    "name": "フィジカルフォース"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226899": {
+        "category": "stat",
+        "full_desc": "MP、魔力を10%アップする。",
+        "guide_id": 2132101,
+        "id": 504226899,
+        "max_stack": 99,
+        "name": "マジカルフォース",
+        "name_phonetic": "",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "MP、魔力を10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226899",
+                    "name": "マジカルフォース"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226900": {
+        "category": "passive",
+        "full_desc": "攻撃を25%アップし、両手の装備品が武器1個だと攻撃がアップする。",
+        "guide_id": 2171031,
+        "id": 504226900,
+        "max_stack": 99,
+        "name": "神速の狩人",
+        "name_phonetic": "シンソクノカリュウド",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "攻撃を25%アップ+両手の装備品が武器1個だと攻撃がアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226900",
+                    "name": "神速の狩人"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226901": {
+        "category": "passive",
+        "full_desc": "鞭を装備すると攻撃がアップする。",
+        "guide_id": 2151371,
+        "id": 504226901,
+        "max_stack": 99,
+        "name": "鞭の極意",
+        "name_phonetic": "ムチノゴクイ",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "鞭装備時、攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226901",
+                    "name": "鞭の極意"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226902": {
+        "category": "passive",
+        "full_desc": "槍を装備すると攻撃がアップする。",
+        "guide_id": 2151381,
+        "id": 504226902,
+        "max_stack": 99,
+        "name": "ブレイブランサー",
+        "name_phonetic": "",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "槍装備時、攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226902",
+                    "name": "ブレイブランサー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226903": {
+        "category": "passive",
+        "full_desc": "物理、魔法攻撃時、虫系へのダメージをアップし、剣を装備すると攻撃がアップし、ロッドを装備すると魔力がアップする。",
+        "guide_id": 2152230,
+        "id": 504226903,
+        "max_stack": 99,
+        "name": "剣魔双麗",
+        "name_phonetic": "ケンマソウレイ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "物理、魔法攻撃時、虫系へのダメージをアップ+剣装備時、攻撃をアップ+ロッド装備時、魔力をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226903",
+                    "name": "剣魔双麗"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504226980": {
+        "category": "passive",
+        "full_desc": "剣を装備すると攻撃がアップし、毎ターンリミットバーストゲージが増加する。",
+        "guide_id": 2151210,
+        "id": 504226980,
+        "max_stack": 99,
+        "name": "地獄の帝王",
+        "name_phonetic": "ジゴクノテイオウ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "剣装備時、攻撃をアップ+毎ターンLBゲージが増加",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "226980",
+                    "name": "地獄の帝王"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227020": {
+        "category": "passive",
+        "full_desc": "物理、魔法攻撃時、獣鳥系へのダメージをアップする。",
+        "guide_id": 2152240,
+        "id": 504227020,
+        "max_stack": 99,
+        "name": "獣族の王",
+        "name_phonetic": "ジュウゾクノオウ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "物理、魔法攻撃時、獣鳥系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227020",
+                    "name": "獣族の王"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227076": {
+        "category": "stat",
+        "full_desc": "MPを10%、闇属性耐性を15%アップする。",
+        "guide_id": 2132230,
+        "id": 504227076,
+        "max_stack": 99,
+        "name": "小悪魔のたくらみ",
+        "name_phonetic": "コアクマノタクラミ",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "MPを10%、闇属性耐性を15%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227076",
+                    "name": "小悪魔のたくらみ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227209": {
+        "category": "passive",
+        "full_desc": "ロッドを装備すると魔力がアップし、毎ターンMPを回復する。",
+        "guide_id": 2151540,
+        "id": 504227209,
+        "max_stack": 99,
+        "name": "魔女の高笑い",
+        "name_phonetic": "マジョノタカワライ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "ロッド装備時、魔力をアップ+毎ターンMPを回復",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227209",
+                    "name": "魔女の高笑い"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227237": {
+        "category": "passive",
+        "full_desc": "剣兜を装備すると攻撃がアップする。",
+        "guide_id": 2151522,
+        "id": 504227237,
+        "max_stack": 99,
+        "name": "デバウアーオブシャドーズ",
+        "name_phonetic": "",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "剣兜装備時、攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227237",
+                    "name": "デバウアーオブシャドーズ"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227260": {
+        "category": "stat",
+        "full_desc": "攻撃魔力を10%アップする。",
+        "guide_id": 2131142,
+        "id": 504227260,
+        "max_stack": 99,
+        "name": "冒険者の勇気",
+        "name_phonetic": "ボウケンシャノユウキ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "攻撃魔力を10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227260",
+                    "name": "冒険者の勇気"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227261": {
+        "category": "stat",
+        "full_desc": "防御精神を10%アップする。",
+        "guide_id": 2132102,
+        "id": 504227261,
+        "max_stack": 99,
+        "name": "冒険者の信念",
+        "name_phonetic": "ボウケンシャノシンネン",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "防御精神を10%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227261",
+                    "name": "冒険者の信念"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227270": {
+        "category": "passive",
+        "full_desc": "闇属性耐性を30%アップし、物理、魔法攻撃時、悪魔系へのダメージをアップする。",
+        "guide_id": 2152250,
+        "id": 504227270,
+        "max_stack": 99,
+        "name": "フォスミステリオン",
+        "name_phonetic": "",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "闇属性耐性を30%アップ+物理、魔法攻撃時、悪魔系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227270",
+                    "name": "フォスミステリオン"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227271": {
+        "category": "passive",
+        "full_desc": "HP、攻撃防御を30%アップし、物理攻撃時、人系へのダメージをアップする。",
+        "guide_id": 2174420,
+        "id": 504227271,
+        "max_stack": 99,
+        "name": "黒き野望",
+        "name_phonetic": "クロキヤボウ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "HP、攻撃防御を30%アップ+物理攻撃時、人系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227271",
+                    "name": "黒き野望"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227272": {
+        "category": "stat",
+        "full_desc": "HPMP、攻撃防御魔力精神を20%、火氷雷水風土属性耐性を15%アップする。",
+        "guide_id": 2131900,
+        "id": 504227272,
+        "max_stack": 99,
+        "name": "六神の啓示",
+        "name_phonetic": "ロクシンノケイジ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "HPMP、攻撃防御魔力精神を20%、火氷雷水風土属性耐性を15%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227272",
+                    "name": "六神の啓示"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227273": {
+        "category": "passive",
+        "full_desc": "大剣を装備すると攻撃がアップし、両手の装備品が武器1個、もしくは武器2個だと武具の攻撃がアップする。",
+        "guide_id": 2151810,
+        "id": 504227273,
+        "max_stack": 99,
+        "name": "忠義の女将軍",
+        "name_phonetic": "チュウギノオンナショウグン",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "大剣装備時、攻撃をアップ+両手の装備品が武器のみだと武具の攻撃がアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227273",
+                    "name": "忠義の女将軍"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227274": {
+        "category": "stat",
+        "full_desc": "HPMP、精神を15%アップし、召喚魔法発動時に幻獣のステータスを30%アップする。",
+        "guide_id": 2131910,
+        "id": 504227274,
+        "max_stack": 99,
+        "name": "召喚の真髄",
+        "name_phonetic": "ショウカンノシンズイ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "HPMP、精神を15%アップ+召喚魔法時幻獣のステータスが30%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227274",
+                    "name": "召喚の真髄"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227318": {
+        "category": "stat",
+        "full_desc": "魔力を40%アップし、毒麻痺を無効化する。",
+        "guide_id": 2135370,
+        "id": 504227318,
+        "max_stack": 99,
+        "name": "慈愛の竜賢",
+        "name_phonetic": "ジアイノリュウケン",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "魔力を40%アップ+毒麻痺を無効",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227318",
+                    "name": "慈愛の竜賢"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227328": {
+        "category": "stat",
+        "full_desc": "HPを20%、精神を30%アップし、毎ターンHPMPを回復する。",
+        "guide_id": 2131920,
+        "id": 504227328,
+        "max_stack": 99,
+        "name": "ホワイトハート",
+        "name_phonetic": "",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "HPを20%、精神を30%アップ+毎ターンHPMPを回復",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227328",
+                    "name": "ホワイトハート"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504400110": {
+        "category": "passive",
+        "full_desc": "エンカウント率が減少する。",
+        "guide_id": 2179500,
+        "id": 504400110,
+        "max_stack": 99,
+        "name": "エンカウント率減少",
+        "name_phonetic": "エンカウントリツゲンショウ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "エンカウント率減少",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "400110",
+                    "name": "エンカウント率減少"
                 }
             ],
             "magic": []
