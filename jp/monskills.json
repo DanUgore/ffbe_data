@@ -86170,7 +86170,7 @@
                 "params": [
                     1,
                     2,
-                    "くっころ",
+                    "失敗",
                     100,
                     0
                 ],
@@ -166709,5 +166709,7352 @@
         "id": 188420,
         "mp_cost": 10,
         "name": "マジックドレイン"
+    },
+    "188430": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill atk%": 140,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188430,
+        "mp_cost": 10,
+        "name": "グングニル"
+    },
+    "188440": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    33,
+                    33,
+                    34
+                ],
+                "hit_frames": [
+                    42,
+                    45,
+                    48
+                ],
+                "hits": 3
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill atk%": 180,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188440,
+        "mp_cost": 15,
+        "name": "円月斬"
+    },
+    "188450": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    190
+                ],
+                "skill int%": 190,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188450,
+        "mp_cost": 15,
+        "name": "スレイプニル"
+    },
+    "188460": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    140
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 59,
+                "dispel buffs": true,
+                "effect_frame": 0,
+                "params": [
+                    "none"
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188460,
+        "mp_cost": 30,
+        "name": "サンゲタル"
+    },
+    "188470": {
+        "attacks": [],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 30,
+                "buff turns": 3,
+                "def buff%": 50,
+                "effect_frame": 0,
+                "int buff%": 30,
+                "mnd buff%": 50,
+                "params": [
+                    30,
+                    50,
+                    30,
+                    50,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 188470,
+        "mp_cost": 25,
+        "name": "人馬一体"
+    },
+    "188480": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    25,
+                    25,
+                    25,
+                    25
+                ],
+                "hit_frames": [
+                    42,
+                    52,
+                    62,
+                    72
+                ],
+                "hits": 4
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    240
+                ],
+                "skill atk%": 240,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "inflict ailments%": {
+                    "paralyze": 100
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188480,
+        "mp_cost": 35,
+        "name": "ゲイルレズ"
+    },
+    "188490": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    62
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    190
+                ],
+                "skill int%": 190,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "inflict ailments%": {
+                    "blind": 100
+                },
+                "params": [
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188490,
+        "mp_cost": 35,
+        "name": "破壊の閃光"
+    },
+    "188500": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 24,
+                "debuff turns": 0,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 188500,
+        "mp_cost": 0,
+        "name": "エインヘリヤル召喚詠唱"
+    },
+    "188510": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    90
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill int%": 220,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "inflict ailments%": {
+                    "poison": 100,
+                    "virus": 100
+                },
+                "params": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188510,
+        "mp_cost": 50,
+        "name": "エインヘリヤル"
+    },
+    "188520": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 50,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "int buff%": 50,
+                "params": [
+                    50,
+                    0,
+                    50,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 115,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    60,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 60,
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 116,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    60,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 60,
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 188520,
+        "mp_cost": 30,
+        "name": "真・斬鉄剣の構え"
+    },
+    "188530": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 60,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "int buff%": 60,
+                "params": [
+                    60,
+                    0,
+                    60,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 115,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    65,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 65,
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 116,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    65,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 65,
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 188530,
+        "mp_cost": 10,
+        "name": "身構えている…………！"
+    },
+    "188540": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 70,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "int buff%": 70,
+                "params": [
+                    70,
+                    0,
+                    70,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 115,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    70,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 70,
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 116,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    70,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 70,
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 188540,
+        "mp_cost": 15,
+        "name": "身構えている………！"
+    },
+    "188550": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 80,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "int buff%": 80,
+                "params": [
+                    80,
+                    0,
+                    80,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 115,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    75,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 75,
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 116,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    75,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 75,
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 188550,
+        "mp_cost": 20,
+        "name": "身構えている……！"
+    },
+    "188560": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 90,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "int buff%": 90,
+                "params": [
+                    90,
+                    0,
+                    90,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 115,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    80,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 80,
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 116,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    80,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 80,
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 188560,
+        "mp_cost": 25,
+        "name": "身構えている…！"
+    },
+    "188570": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 100,
+                "instant death%": 100,
+                "params": [
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 115,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 100,
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 116,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    0,
+                    999,
+                    1
+                ],
+                "reduce damage%": 100,
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 188570,
+        "mp_cost": 100,
+        "name": "真・斬鉄剣"
+    },
+    "188580": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    50,
+                    50
+                ],
+                "hit_frames": [
+                    42,
+                    46
+                ],
+                "hits": 2
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    130
+                ],
+                "skill atk%": 130,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188580,
+        "mp_cost": 0,
+        "name": "ツメ攻撃"
+    },
+    "188590": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    50,
+                    50
+                ],
+                "hit_frames": [
+                    42,
+                    46
+                ],
+                "hits": 2
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "skill atk%": 160,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188590,
+        "mp_cost": 0,
+        "name": "ツメ攻撃"
+    },
+    "188600": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    50,
+                    50
+                ],
+                "hit_frames": [
+                    42,
+                    46
+                ],
+                "hits": 2
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    190
+                ],
+                "skill atk%": 190,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188600,
+        "mp_cost": 0,
+        "name": "ツメ攻撃"
+    },
+    "188610": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill atk%": 140,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188610,
+        "mp_cost": 0,
+        "name": "ゴブリンパンチ"
+    },
+    "188620": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    170
+                ],
+                "skill atk%": 170,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188620,
+        "mp_cost": 0,
+        "name": "ゴブリンパンチ"
+    },
+    "188630": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill atk%": 200,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188630,
+        "mp_cost": 0,
+        "name": "ゴブリンパンチ"
+    },
+    "188640": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 26,
+                "effect_frame": 0,
+                "hp recovery max%": 20,
+                "hp recovery min%": 20,
+                "params": [
+                    20,
+                    20,
+                    100
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 188640,
+        "mp_cost": 3,
+        "name": "アイテム使用"
+    },
+    "188650": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    50,
+                    50
+                ],
+                "hit_frames": [
+                    42,
+                    52
+                ],
+                "hits": 2
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    140
+                ],
+                "skill atk%": 140,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 40
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188650,
+        "mp_cost": 0,
+        "name": "跳びかかり"
+    },
+    "188660": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    50,
+                    50
+                ],
+                "hit_frames": [
+                    42,
+                    52
+                ],
+                "hits": 2
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "skill atk%": 160,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 50
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188660,
+        "mp_cost": 0,
+        "name": "跳びかかり"
+    },
+    "188670": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    50,
+                    50
+                ],
+                "hit_frames": [
+                    42,
+                    52
+                ],
+                "hits": 2
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    170
+                ],
+                "skill atk%": 170,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 60
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    60,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188670,
+        "mp_cost": 0,
+        "name": "跳びかかり"
+    },
+    "188680": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "skill atk%": 160,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188680,
+        "mp_cost": 0,
+        "name": "体当たり"
+    },
+    "188690": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill atk%": 180,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188690,
+        "mp_cost": 0,
+        "name": "体当たり"
+    },
+    "188700": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill atk%": 200,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188700,
+        "mp_cost": 0,
+        "name": "体当たり"
+    },
+    "188710": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "skill atk%": 160,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188710,
+        "mp_cost": 0,
+        "name": "かみつき"
+    },
+    "188720": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    170
+                ],
+                "skill atk%": 170,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188720,
+        "mp_cost": 0,
+        "name": "かみつき"
+    },
+    "188730": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    190
+                ],
+                "skill atk%": 190,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188730,
+        "mp_cost": 0,
+        "name": "かみつき"
+    },
+    "188740": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill int%": 220,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "id": 188740,
+        "mp_cost": 20,
+        "name": "高圧水流"
+    },
+    "188750": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    240
+                ],
+                "skill int%": 240,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "id": 188750,
+        "mp_cost": 20,
+        "name": "高圧水流"
+    },
+    "188760": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "skill atk%": 160,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 50
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188760,
+        "mp_cost": 0,
+        "name": "ジャンプかみつき"
+    },
+    "188770": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    170
+                ],
+                "skill atk%": 170,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 60
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    60,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188770,
+        "mp_cost": 0,
+        "name": "ジャンプかみつき"
+    },
+    "188780": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill atk%": 180,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188780,
+        "mp_cost": 0,
+        "name": "尻尾攻撃"
+    },
+    "188790": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill atk%": 200,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188790,
+        "mp_cost": 0,
+        "name": "尻尾攻撃"
+    },
+    "188800": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    170
+                ],
+                "skill atk%": 170,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188800,
+        "mp_cost": 0,
+        "name": "かみつき"
+    },
+    "188810": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "silence": 75
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    75,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188810,
+        "mp_cost": 5,
+        "name": "砂かけ"
+    },
+    "188820": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 100,
+                "instant death%": 40,
+                "params": [
+                    40
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188820,
+        "mp_cost": 0,
+        "name": "居合い斬り"
+    },
+    "188830": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    33,
+                    33,
+                    34
+                ],
+                "hit_frames": [
+                    42,
+                    47,
+                    52
+                ],
+                "hits": 3
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill atk%": 180,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188830,
+        "mp_cost": 0,
+        "name": "銭投げ"
+    },
+    "188840": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    170
+                ],
+                "skill atk%": 170,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188840,
+        "mp_cost": 0,
+        "name": "かみつき"
+    },
+    "188850": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill atk%": 180,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188850,
+        "mp_cost": 0,
+        "name": "かみつき"
+    },
+    "188860": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "skill atk%": 160,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 50
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188860,
+        "mp_cost": 0,
+        "name": "舌伸ばし"
+    },
+    "188870": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    170
+                ],
+                "skill atk%": 170,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 60
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    60,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188870,
+        "mp_cost": 0,
+        "name": "舌伸ばし"
+    },
+    "188880": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    50,
+                    50
+                ],
+                "hit_frames": [
+                    42,
+                    52
+                ],
+                "hits": 2
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    190
+                ],
+                "skill atk%": 190,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188880,
+        "mp_cost": 0,
+        "name": "側転攻撃"
+    },
+    "188890": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    50,
+                    50
+                ],
+                "hit_frames": [
+                    42,
+                    52
+                ],
+                "hits": 2
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    210
+                ],
+                "skill atk%": 210,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188890,
+        "mp_cost": 0,
+        "name": "側転攻撃"
+    },
+    "188900": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    150
+                ],
+                "skill atk%": 150,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188900,
+        "mp_cost": 0,
+        "name": "かみつき"
+    },
+    "188910": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    170
+                ],
+                "skill atk%": 170,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188910,
+        "mp_cost": 0,
+        "name": "かみつき"
+    },
+    "188920": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    190
+                ],
+                "skill int%": 190,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "poison": 50
+                },
+                "params": [
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188920,
+        "mp_cost": 20,
+        "name": "毒液散布"
+    },
+    "188930": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill int%": 220,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "poison": 60
+                },
+                "params": [
+                    60,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188930,
+        "mp_cost": 20,
+        "name": "毒液散布"
+    },
+    "188940": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill int%": 300,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "confuse": 75,
+                    "poison": 75
+                },
+                "params": [
+                    75,
+                    0,
+                    0,
+                    0,
+                    0,
+                    75,
+                    0,
+                    0,
+                    2
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "atk debuff%": -30,
+                "debuff turns": 3,
+                "def debuff%": -30,
+                "effect_frame": 0,
+                "int debuff%": -30,
+                "mnd debuff%": -30,
+                "params": [
+                    -30,
+                    -30,
+                    -30,
+                    -30,
+                    3,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188940,
+        "mp_cost": 20,
+        "name": "臭い息"
+    },
+    "188950": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    400
+                ],
+                "skill int%": 400,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "confuse": 75,
+                    "poison": 75
+                },
+                "params": [
+                    75,
+                    0,
+                    0,
+                    0,
+                    0,
+                    75,
+                    0,
+                    0,
+                    2
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "atk debuff%": -30,
+                "debuff turns": 3,
+                "def debuff%": -30,
+                "effect_frame": 0,
+                "int debuff%": -30,
+                "mnd debuff%": -30,
+                "params": [
+                    -30,
+                    -30,
+                    -30,
+                    -30,
+                    3,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188950,
+        "mp_cost": 20,
+        "name": "臭い息"
+    },
+    "188960": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "skill atk%": 160,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188960,
+        "mp_cost": 0,
+        "name": "突進"
+    },
+    "188970": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill atk%": 180,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188970,
+        "mp_cost": 0,
+        "name": "突進"
+    },
+    "188980": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill atk%": 200,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 88,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    2
+                ],
+                "stop chance%": 100,
+                "stop turns": 2,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188980,
+        "mp_cost": 0,
+        "name": "飲みこみ"
+    },
+    "188990": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 60,
+                "charm chance%": 100,
+                "charm text": "魅了された",
+                "effect_frame": 0,
+                "params": [
+                    3,
+                    100,
+                    "魅了された"
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 188990,
+        "mp_cost": 0,
+        "name": "甘い息"
+    },
+    "189000": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    130
+                ],
+                "skill int%": 130,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "blind": 100,
+                    "confuse": 100,
+                    "paralyze": 100,
+                    "petrify": 100,
+                    "poison": 100,
+                    "silence": 100,
+                    "sleep": 100,
+                    "virus": 100
+                },
+                "params": [
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189000,
+        "mp_cost": 0,
+        "name": "くさい息"
+    },
+    "189010": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    150
+                ],
+                "skill int%": 150,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "atk debuff%": -15,
+                "debuff turns": 10,
+                "def debuff%": -15,
+                "effect_frame": 0,
+                "int debuff%": -15,
+                "mnd debuff%": -15,
+                "params": [
+                    -15,
+                    -15,
+                    -15,
+                    -15,
+                    10,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189010,
+        "mp_cost": 0,
+        "name": "消化液"
+    },
+    "189020": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill atk%": 120,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189020,
+        "mp_cost": 0,
+        "name": "触手"
+    },
+    "189030": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "skill atk%": 120,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189030,
+        "mp_cost": 0,
+        "name": "みだれうち"
+    },
+    "189040": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    130,
+                    0
+                ],
+                "skill int%": 130,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "id": 189040,
+        "mp_cost": 0,
+        "name": "冷凍光線"
+    },
+    "189050": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    260,
+                    0
+                ],
+                "skill int%": 260,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": -50,
+                "ice resist%": -50,
+                "params": [
+                    -50,
+                    -50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire",
+            "ice"
+        ],
+        "id": 189050,
+        "mp_cost": 0,
+        "name": "灼熱光線＆冷凍光線"
+    },
+    "189060": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120,
+                    0
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 88,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    2
+                ],
+                "stop chance%": 100,
+                "stop turns": 2,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 86,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    -1,
+                    1
+                ],
+                "reflect attacks max": -1,
+                "reflect damage%": 100,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189060,
+        "mp_cost": 0,
+        "name": "捕食キープ"
+    },
+    "189070": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120,
+                    0
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 68,
+                "berserk damage buff%": 0,
+                "buff turns": 2,
+                "effect_frame": 0,
+                "params": [
+                    2,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189070,
+        "mp_cost": 0,
+        "name": "モルボルソング"
+    },
+    "189080": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 0,
+                "instant death%": 100,
+                "params": [
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189080,
+        "mp_cost": 0,
+        "name": "のみこむ"
+    },
+    "189090": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    120,
+                    0
+                ],
+                "skill int%": 120,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 60,
+                "charm chance%": 100,
+                "charm text": "うっふん",
+                "effect_frame": 0,
+                "params": [
+                    2,
+                    100,
+                    "うっふん"
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189090,
+        "mp_cost": 0,
+        "name": "あまい息"
+    },
+    "189100": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    160
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 26,
+                "effect_frame": 0,
+                "hp recovery max%": 5,
+                "hp recovery min%": 5,
+                "params": [
+                    5,
+                    5,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            },
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison",
+                    "blind",
+                    "sleep",
+                    "silence",
+                    "paralyze",
+                    "confuse",
+                    "virus",
+                    "petrify"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "id": 189100,
+        "mp_cost": 0,
+        "name": "愛の歌"
+    },
+    "189110": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    0
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 52,
+                "effect_frame": 40,
+                "jump duration": 1,
+                "params": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    70
+                ],
+                "skill atk%": 70,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189110,
+        "mp_cost": 0,
+        "name": "とびかかる"
+    },
+    "189120": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    90
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 26,
+                "effect_frame": 0,
+                "hp recovery max%": 2,
+                "hp recovery min%": 2,
+                "params": [
+                    2,
+                    2,
+                    100
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison",
+                    "blind",
+                    "sleep",
+                    "silence",
+                    "paralyze",
+                    "confuse",
+                    "virus",
+                    "petrify"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 189120,
+        "mp_cost": 0,
+        "name": "光合成"
+    },
+    "189130": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill int%": 200,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "blind": 100,
+                    "confuse": 100,
+                    "paralyze": 100,
+                    "petrify": 100,
+                    "poison": 100,
+                    "silence": 100,
+                    "sleep": 100,
+                    "virus": 100
+                },
+                "params": [
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189130,
+        "mp_cost": 0,
+        "name": "くさい息"
+    },
+    "189140": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill int%": 300,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "atk debuff%": -50,
+                "debuff turns": 10,
+                "def debuff%": -50,
+                "effect_frame": 0,
+                "int debuff%": -50,
+                "mnd debuff%": -50,
+                "params": [
+                    -50,
+                    -50,
+                    -50,
+                    -50,
+                    10,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189140,
+        "mp_cost": 0,
+        "name": "消化液"
+    },
+    "189150": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill atk%": 200,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189150,
+        "mp_cost": 0,
+        "name": "触手"
+    },
+    "189160": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill atk%": 250,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189160,
+        "mp_cost": 0,
+        "name": "みだれうち"
+    },
+    "189170": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250,
+                    0
+                ],
+                "skill int%": 250,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "id": 189170,
+        "mp_cost": 0,
+        "name": "冷凍光線"
+    },
+    "189180": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    600,
+                    0
+                ],
+                "skill int%": 600,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": -50,
+                "ice resist%": -50,
+                "params": [
+                    -50,
+                    -50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire",
+            "ice"
+        ],
+        "id": 189180,
+        "mp_cost": 0,
+        "name": "灼熱光線＆冷凍光線"
+    },
+    "189190": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0
+                ],
+                "skill int%": 200,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 88,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    2
+                ],
+                "stop chance%": 100,
+                "stop turns": 2,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 86,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    -1,
+                    1
+                ],
+                "reflect attacks max": -1,
+                "reflect damage%": 100,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189190,
+        "mp_cost": 0,
+        "name": "捕食キープ"
+    },
+    "189200": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0
+                ],
+                "skill int%": 200,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 68,
+                "berserk damage buff%": 0,
+                "buff turns": 2,
+                "effect_frame": 0,
+                "params": [
+                    2,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189200,
+        "mp_cost": 0,
+        "name": "モルボルソング"
+    },
+    "189210": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 0,
+                "instant death%": 100,
+                "params": [
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189210,
+        "mp_cost": 0,
+        "name": "のみこむ"
+    },
+    "189220": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200,
+                    0
+                ],
+                "skill int%": 200,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 60,
+                "charm chance%": 100,
+                "charm text": "うっふん",
+                "effect_frame": 0,
+                "params": [
+                    2,
+                    100,
+                    "うっふん"
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189220,
+        "mp_cost": 0,
+        "name": "あまい息"
+    },
+    "189230": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    160
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 26,
+                "effect_frame": 0,
+                "hp recovery max%": 7,
+                "hp recovery min%": 7,
+                "params": [
+                    7,
+                    7,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            },
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison",
+                    "blind",
+                    "sleep",
+                    "silence",
+                    "paralyze",
+                    "confuse",
+                    "virus",
+                    "petrify"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "id": 189230,
+        "mp_cost": 0,
+        "name": "愛の歌"
+    },
+    "189240": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    0
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 52,
+                "effect_frame": 40,
+                "jump duration": 1,
+                "params": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    100
+                ],
+                "skill atk%": 100,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189240,
+        "mp_cost": 0,
+        "name": "とびかかる"
+    },
+    "189250": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    90
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 26,
+                "effect_frame": 0,
+                "hp recovery max%": 4,
+                "hp recovery min%": 4,
+                "params": [
+                    4,
+                    4,
+                    100
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison",
+                    "blind",
+                    "sleep",
+                    "silence",
+                    "paralyze",
+                    "confuse",
+                    "virus",
+                    "petrify"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 189250,
+        "mp_cost": 0,
+        "name": "光合成"
+    },
+    "189260": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    400
+                ],
+                "skill int%": 400,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "blind": 100,
+                    "confuse": 100,
+                    "paralyze": 100,
+                    "petrify": 100,
+                    "poison": 100,
+                    "silence": 100,
+                    "sleep": 100,
+                    "virus": 100
+                },
+                "params": [
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189260,
+        "mp_cost": 0,
+        "name": "くさい息"
+    },
+    "189270": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1000
+                ],
+                "skill int%": 1000,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "atk debuff%": -100,
+                "debuff turns": 10,
+                "def debuff%": -100,
+                "effect_frame": 0,
+                "int debuff%": -100,
+                "mnd debuff%": -100,
+                "params": [
+                    -100,
+                    -100,
+                    -100,
+                    -100,
+                    10,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189270,
+        "mp_cost": 0,
+        "name": "消化液"
+    },
+    "189280": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill atk%": 300,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189280,
+        "mp_cost": 0,
+        "name": "触手"
+    },
+    "189290": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    350
+                ],
+                "skill atk%": 350,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189290,
+        "mp_cost": 0,
+        "name": "みだれうち"
+    },
+    "189300": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    600,
+                    0
+                ],
+                "skill int%": 600,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "id": 189300,
+        "mp_cost": 0,
+        "name": "冷凍光線"
+    },
+    "189310": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1100,
+                    0
+                ],
+                "skill int%": 1100,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "fire resist%": -50,
+                "ice resist%": -50,
+                "params": [
+                    -50,
+                    -50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire",
+            "ice"
+        ],
+        "id": 189310,
+        "mp_cost": 0,
+        "name": "灼熱光線＆冷凍光線"
+    },
+    "189320": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0
+                ],
+                "skill int%": 300,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 88,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    2
+                ],
+                "stop chance%": 100,
+                "stop turns": 2,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 86,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    -1,
+                    1
+                ],
+                "reflect attacks max": -1,
+                "reflect damage%": 100,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189320,
+        "mp_cost": 0,
+        "name": "捕食キープ"
+    },
+    "189330": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0
+                ],
+                "skill int%": 300,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 68,
+                "berserk damage buff%": 0,
+                "buff turns": 2,
+                "effect_frame": 0,
+                "params": [
+                    2,
+                    0
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189330,
+        "mp_cost": 0,
+        "name": "モルボルソング"
+    },
+    "189340": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 0,
+                "instant death%": 100,
+                "params": [
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189340,
+        "mp_cost": 0,
+        "name": "のみこむ"
+    },
+    "189350": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    60
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0
+                ],
+                "skill int%": 300,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 60,
+                "charm chance%": 100,
+                "charm text": "うっふん",
+                "effect_frame": 0,
+                "params": [
+                    2,
+                    100,
+                    "うっふん"
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189350,
+        "mp_cost": 0,
+        "name": "あまい息"
+    },
+    "189360": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    160
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 26,
+                "effect_frame": 0,
+                "hp recovery max%": 10,
+                "hp recovery min%": 10,
+                "params": [
+                    10,
+                    10,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            },
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison",
+                    "blind",
+                    "sleep",
+                    "silence",
+                    "paralyze",
+                    "confuse",
+                    "virus",
+                    "petrify"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "target_area": "all",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [],
+        "id": 189360,
+        "mp_cost": 0,
+        "name": "愛の歌"
+    },
+    "189370": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    0
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 52,
+                "effect_frame": 40,
+                "jump duration": 1,
+                "params": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    300
+                ],
+                "skill atk%": 300,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189370,
+        "mp_cost": 0,
+        "name": "とびかかる"
+    },
+    "189380": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    90
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 26,
+                "effect_frame": 0,
+                "hp recovery max%": 5,
+                "hp recovery min%": 5,
+                "params": [
+                    5,
+                    5,
+                    100
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 5,
+                "cure ailments": [
+                    "poison",
+                    "blind",
+                    "sleep",
+                    "silence",
+                    "paralyze",
+                    "confuse",
+                    "virus",
+                    "petrify"
+                ],
+                "effect_frame": 0,
+                "params": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 189380,
+        "mp_cost": 0,
+        "name": "光合成"
+    },
+    "189390": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    350
+                ],
+                "skill int%": 350,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 16,
+                "effect_frame": 0,
+                "hp recovery": 999999999,
+                "params": [
+                    999999999,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 59,
+                "dispel buffs": true,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "id": 189390,
+        "mp_cost": 20,
+        "name": "転生の炎"
+    },
+    "189400": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    700
+                ],
+                "skill atk%": 700,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "debuff turns": 3,
+                "def debuff%": -20,
+                "mnd debuff%": -20,
+                "params": [
+                    0,
+                    -20,
+                    0,
+                    -20,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189400,
+        "mp_cost": 0,
+        "name": "急降下"
+    },
+    "189410": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    95
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1000
+                ],
+                "skill int%": 1000,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "id": 189410,
+        "mp_cost": 3,
+        "name": "ファイアブレス"
+    },
+    "189420": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 20,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "int buff%": 20,
+                "params": [
+                    20,
+                    0,
+                    20,
+                    0,
+                    1,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 189420,
+        "mp_cost": 0,
+        "name": "翼が燃え盛っている"
+    },
+    "189430": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 33,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "ice resist%": -100,
+                "params": [
+                    0,
+                    -100,
+                    0,
+                    -100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self",
+                "water resist%": -100
+            }
+        ],
+        "elements": [],
+        "id": 189430,
+        "mp_cost": 0,
+        "name": "翼の炎が弱まった"
+    },
+    "189440": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    90
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    600
+                ],
+                "skill int%": 600,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189440,
+        "mp_cost": 0,
+        "name": "ソニックブーム"
+    },
+    "189450": {
+        "attacks": [],
+        "effects": [
+            {
+                "action_id": 116,
+                "buff turns": 1,
+                "effect_frame": 100,
+                "params": [
+                    99,
+                    0,
+                    1,
+                    1
+                ],
+                "reduce damage%": 99,
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 115,
+                "buff turns": 1,
+                "effect_frame": 100,
+                "params": [
+                    99,
+                    0,
+                    1,
+                    1
+                ],
+                "reduce damage%": 99,
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 189450,
+        "mp_cost": 0,
+        "name": "転生の準備を始めた"
+    },
+    "189460": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    550
+                ],
+                "skill int%": 550,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189460,
+        "mp_cost": 0,
+        "name": "衝撃波"
+    },
+    "189470": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    110
+                ],
+                "skill atk%": 110,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "debuff turns": 3,
+                "def debuff%": -20,
+                "mnd debuff%": -20,
+                "params": [
+                    0,
+                    -20,
+                    0,
+                    -20,
+                    3,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189470,
+        "mp_cost": 3,
+        "name": "かみちぎる"
+    },
+    "189480": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill atk%": 220,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "poison": 60
+                },
+                "params": [
+                    60,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189480,
+        "mp_cost": 5,
+        "name": "毒ツメ"
+    },
+    "189490": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    70
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 30
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "id": 189490,
+        "mp_cost": 9,
+        "name": "ブラスター"
+    },
+    "189500": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180,
+                    0
+                ],
+                "skill atk%": 180,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "poison": 100
+                },
+                "params": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189500,
+        "mp_cost": 5,
+        "name": "毒液"
+    },
+    "189510": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 9,
+                "effect_frame": 0,
+                "hp damage max%": 75,
+                "hp damage min%": 75,
+                "params": [
+                    75,
+                    75,
+                    100
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189510,
+        "mp_cost": 5,
+        "name": "突撃"
+    },
+    "189520": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill int%": 250,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "id": 189520,
+        "mp_cost": 3,
+        "name": "水鉄砲"
+    },
+    "189530": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "blind": 50
+                },
+                "params": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189530,
+        "mp_cost": 12,
+        "name": "煙幕"
+    },
+    "189540": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill int%": 220,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "id": 189540,
+        "mp_cost": 5,
+        "name": "アクアブレス"
+    },
+    "189550": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill atk%": 200,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "confuse": 50
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189550,
+        "mp_cost": 3,
+        "name": "押し潰す"
+    },
+    "189560": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    180
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill int%": 200,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "id": 189560,
+        "mp_cost": 10,
+        "name": "アースクエイク"
+    },
+    "189570": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 9,
+                "effect_frame": 0,
+                "hp damage max%": 80,
+                "hp damage min%": 80,
+                "params": [
+                    80,
+                    80,
+                    100
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "blind": 40
+                },
+                "params": [
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "earth"
+        ],
+        "id": 189570,
+        "mp_cost": 9,
+        "name": "サンドストーム"
+    },
+    "189580": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    450
+                ],
+                "skill atk%": 450,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189580,
+        "mp_cost": 0,
+        "name": "圧搾"
+    },
+    "189590": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 35,
+                "effect_frame": 0,
+                "instant death%": 30,
+                "params": [
+                    30
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189590,
+        "mp_cost": 0,
+        "name": "捕食"
+    },
+    "189600": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    240
+                ],
+                "skill atk%": 240,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "confuse": 40
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    40,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189600,
+        "mp_cost": 0,
+        "name": "強烈なツメ"
+    },
+    "189610": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill int%": 220,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "id": 189610,
+        "mp_cost": 7,
+        "name": "ブレス"
+    },
+    "189620": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "paralyze": 60
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    60,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189620,
+        "mp_cost": 0,
+        "name": "にらみ"
+    },
+    "189630": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "petrify": 40
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    40,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189630,
+        "mp_cost": 8,
+        "name": "石化にらみ"
+    },
+    "189640": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill int%": 220,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "fire"
+        ],
+        "id": 189640,
+        "mp_cost": 3,
+        "name": "炎"
+    },
+    "189650": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    50
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill int%": 300,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189650,
+        "mp_cost": 3,
+        "name": "鬼火"
+    },
+    "189660": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "confuse": 100
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189660,
+        "mp_cost": 5,
+        "name": "亡霊"
+    },
+    "189670": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    210
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "blind": 50,
+                    "confuse": 50,
+                    "sleep": 50
+                },
+                "params": [
+                    0,
+                    50,
+                    50,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189670,
+        "mp_cost": 10,
+        "name": "ディスアスター"
+    },
+    "189680": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "confuse": 50
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "effect_frame": 0
+            }
+        ],
+        "elements": [],
+        "id": 189680,
+        "mp_cost": 5,
+        "name": "コンフュ"
+    },
+    "189690": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    210
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 6,
+                "inflict ailments%": {
+                    "petrify": 30
+                },
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 1,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100
+                ],
+                "skill atk%": 100,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189690,
+        "mp_cost": 7,
+        "name": "ブレイク"
+    },
+    "189700": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 25,
+                "damage to hp%": 100,
+                "effect_frame": 0,
+                "params": [
+                    100,
+                    250,
+                    100
+                ],
+                "skill mod%": 250,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189700,
+        "mp_cost": 5,
+        "name": "吸収"
+    },
+    "189710": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "sleep": 40
+                },
+                "params": [
+                    0,
+                    0,
+                    40,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "id": 189710,
+        "mp_cost": 3,
+        "name": "スリプル"
+    },
+    "189720": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "ice"
+        ],
+        "id": 189720,
+        "mp_cost": 3,
+        "name": "ブリザド"
+    },
+    "189730": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    230
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "id": 189730,
+        "mp_cost": 5,
+        "name": "ダーラ"
+    },
+    "189740": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    180
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill int%": 200,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "poison": 30
+                },
+                "params": [
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "dark"
+        ],
+        "id": 189740,
+        "mp_cost": 12,
+        "name": "バイオラ"
+    },
+    "189750": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    70
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill int%": 220,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "id": 189750,
+        "mp_cost": 20,
+        "name": "サンダガ"
+    },
+    "189760": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "skill int%": 200,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "thunder"
+        ],
+        "id": 189760,
+        "mp_cost": 9,
+        "name": "サンダラ"
+    },
+    "189770": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill atk%": 250,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189770,
+        "mp_cost": 0,
+        "name": "かど"
+    },
+    "189780": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    130
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 6,
+                "effect_frame": 0,
+                "inflict ailments%": {
+                    "blind": 50
+                },
+                "params": [
+                    0,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189780,
+        "mp_cost": 5,
+        "name": "フラッシュ"
+    },
+    "189790": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    450
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill int%": 250,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189790,
+        "mp_cost": 35,
+        "name": "ホーリー"
+    },
+    "189800": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220
+                ],
+                "skill int%": 220,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189800,
+        "mp_cost": 3,
+        "name": "ガディア"
+    },
+    "189810": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill atk%": 250,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189810,
+        "mp_cost": 0,
+        "name": "回し蹴り"
+    },
+    "189820": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill int%": 300,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189820,
+        "mp_cost": 18,
+        "name": "セイントショット"
+    },
+    "189830": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 59,
+                "dispel buffs": true,
+                "effect_frame": 0,
+                "params": [
+                    "none"
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189830,
+        "mp_cost": 18,
+        "name": "デスペガ"
+    },
+    "189840": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    65
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill int%": 250,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189840,
+        "mp_cost": 20,
+        "name": "バニシュガ"
+    },
+    "189850": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill int%": 300,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "debuff turns": 5,
+                "def debuff%": -40,
+                "params": [
+                    0,
+                    -40,
+                    0,
+                    0,
+                    5,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189850,
+        "mp_cost": 20,
+        "name": "聖なる審判"
+    },
+    "189860": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    350
+                ],
+                "skill int%": 350,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189860,
+        "mp_cost": 18,
+        "name": "セイントショット"
+    },
+    "189870": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    450
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    280
+                ],
+                "skill int%": 280,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189870,
+        "mp_cost": 35,
+        "name": "ホーリー"
+    },
+    "189880": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "def buff%": 40,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    40,
+                    0,
+                    0,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189880,
+        "mp_cost": 4,
+        "name": "プロテス"
+    },
+    "189890": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 3,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "mnd buff%": 40,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    40,
+                    3,
+                    1
+                ],
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189890,
+        "mp_cost": 4,
+        "name": "シェル"
+    },
+    "189900": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    270
+                ],
+                "skill int%": 270,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189900,
+        "mp_cost": 3,
+        "name": "ガディア"
+    },
+    "189910": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    210
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill atk%": 300,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "debuff turns": 5,
+                "mnd debuff%": -40,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    -40,
+                    5,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189910,
+        "mp_cost": 0,
+        "name": "拝火の秘蹟"
+    },
+    "189920": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    700
+                ],
+                "skill int%": 700,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "debuff turns": 5,
+                "def debuff%": -60,
+                "params": [
+                    0,
+                    -60,
+                    0,
+                    0,
+                    5,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189920,
+        "mp_cost": 20,
+        "name": "聖なる審判"
+    },
+    "189930": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300
+                ],
+                "skill int%": 300,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "debuff turns": 5,
+                "def debuff%": -60,
+                "params": [
+                    0,
+                    -60,
+                    0,
+                    0,
+                    5,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189930,
+        "mp_cost": 20,
+        "name": "聖なる審判"
+    },
+    "189940": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    400
+                ],
+                "skill int%": 400,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189940,
+        "mp_cost": 18,
+        "name": "セイントショット"
+    },
+    "189950": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    450
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    380
+                ],
+                "skill int%": 380,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189950,
+        "mp_cost": 35,
+        "name": "ホーリー"
+    },
+    "189960": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 59,
+                "dispel buffs": true,
+                "effect_frame": 0,
+                "params": [
+                    "none"
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 189960,
+        "mp_cost": 18,
+        "name": "デスペガ"
+    },
+    "189970": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "effects": [
+            {
+                "action_id": 115,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    90,
+                    0,
+                    5,
+                    1
+                ],
+                "reduce damage%": 90,
+                "target_area": "none",
+                "target_side": "self"
+            },
+            {
+                "action_id": 116,
+                "buff turns": 1,
+                "effect_frame": 0,
+                "params": [
+                    90,
+                    0,
+                    5,
+                    1
+                ],
+                "reduce damage%": 90,
+                "target_area": "none",
+                "target_side": "self"
+            }
+        ],
+        "elements": [],
+        "id": 189970,
+        "mp_cost": 48,
+        "name": "絶対防御"
+    },
+    "189980": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    80
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    350
+                ],
+                "skill int%": 350,
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189980,
+        "mp_cost": 3,
+        "name": "ガディア"
+    },
+    "189990": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    500,
+                    0
+                ],
+                "skill int%": 500,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "light resist%": -100,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -100,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 189990,
+        "mp_cost": 9,
+        "name": "ホーリーバースト"
+    },
+    "190000": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    150
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    300,
+                    0
+                ],
+                "skill int%": 300,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 33,
+                "buff turns": 3,
+                "effect_frame": 0,
+                "light resist%": -60,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -60,
+                    0,
+                    1,
+                    3
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "id": 190000,
+        "mp_cost": 9,
+        "name": "ホーリーバースト"
+    },
+    "190010": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    210
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    400
+                ],
+                "skill atk%": 400,
+                "skill dmg inc%": 0,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "debuff turns": 5,
+                "mnd debuff%": -60,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    -60,
+                    5,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 190010,
+        "mp_cost": 0,
+        "name": "拝火の秘蹟"
+    },
+    "190020": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    130
+                ],
+                "skill atk%": 130,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 190020,
+        "mp_cost": 5,
+        "name": "突進"
+    },
+    "190030": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    42
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    230
+                ],
+                "skill atk%": 230,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 190030,
+        "mp_cost": 3,
+        "name": "かみつき"
+    },
+    "190040": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    100
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    220,
+                    0
+                ],
+                "skill int%": 220,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 34,
+                "ailment chances": {
+                    "confuse%": 100,
+                    "poison%": 100
+                },
+                "effect_frame": 0,
+                "max ailments": 1,
+                "params": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    1,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 24,
+                "atk debuff%": -40,
+                "debuff turns": 4,
+                "def debuff%": -40,
+                "int debuff%": -40,
+                "mnd debuff%": -40,
+                "params": [
+                    -40,
+                    -40,
+                    -40,
+                    -40,
+                    4,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 190040,
+        "mp_cost": 10,
+        "name": "くさい息"
+    },
+    "190050": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    70
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 15,
+                "effect_frame": 0,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    180
+                ],
+                "skill int%": 180,
+                "target_area": "all",
+                "target_side": "enemy"
+            },
+            {
+                "action_id": 34,
+                "ailment chances": {
+                    "poison%": 100
+                },
+                "effect_frame": 0,
+                "max ailments": 1,
+                "params": [
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    1
+                ],
+                "target_area": "all",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 190050,
+        "mp_cost": 5,
+        "name": "毒粉まきちらし"
+    },
+    "190060": {
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    45
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "physical",
+        "effects": [
+            {
+                "action_id": 1,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    250
+                ],
+                "skill atk%": 250,
+                "skill dmg inc%": 0,
+                "target_area": "single",
+                "target_side": "enemy"
+            }
+        ],
+        "elements": [],
+        "id": 190060,
+        "mp_cost": 0,
+        "name": "触手"
     }
 }

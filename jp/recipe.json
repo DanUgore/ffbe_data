@@ -9793,6 +9793,44 @@
         ],
         "name": "サンタの杖"
     },
+    "904002240": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 309003200,
+            "type": "EQUIP"
+        },
+        "guide_id": 452,
+        "id": 904002240,
+        "materials": [
+            {
+                "id": "202000300",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000300",
+                "quantity": "8",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "5",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000500",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "プラチナフィスト"
+    },
     "905000010": {
         "craft_cost": 200,
         "craft_time": 300,

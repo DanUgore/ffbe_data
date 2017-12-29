@@ -5434,6 +5434,54 @@
         "short_desc": "敵1体に水属性ダメージ+水属性耐性をダウン",
         "skill_category": "offensive"
     },
+    "20760": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    110
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 72,
+                "effect_frame": 0,
+                "max uses": 10,
+                "params": [
+                    0,
+                    0,
+                    0,
+                    120,
+                    120,
+                    10
+                ],
+                "skill int%": 0,
+                "target_area": "single",
+                "target_side": "enemy",
+                "turn boost": 120
+            }
+        ],
+        "elements": [
+            "water"
+        ],
+        "full_desc": "敵1体に水属性のダメージを与え、重ねて使用するとダメージ量をアップする。",
+        "gauge_cost": null,
+        "guide_id": 175,
+        "icon_id": 700000023,
+        "id": 20760,
+        "level": 7,
+        "mp_cost": 28,
+        "name": "ゾウォタ",
+        "rarity": 7,
+        "short_desc": "敵1体に水属性ダメージ+連続使用時ダメージをアップ",
+        "skill_category": "offensive"
+    },
     "30010": {
         "action_length": 40,
         "attacks": [
@@ -7146,6 +7194,135 @@
         "name": "ブレイブ(つねにバイキルト用)",
         "rarity": 4,
         "short_desc": "味方1体の攻撃をアップ",
+        "skill_category": "stat buff"
+    },
+    "30213": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 20,
+                "buff turns": -1,
+                "def buff%": 20,
+                "effect_frame": 0,
+                "mnd buff%": 20,
+                "params": [
+                    20,
+                    20,
+                    0,
+                    20,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            },
+            {
+                "action_id": 8,
+                "base heal": 1800,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "heal mod": 1,
+                "params": [
+                    100,
+                    1,
+                    1800,
+                    -1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の攻撃防御精神をアップし、毎ターンHPを回復する。",
+        "gauge_cost": null,
+        "guide_id": 223,
+        "icon_id": 700000077,
+        "id": 30213,
+        "level": 4,
+        "mp_cost": 0,
+        "name": "ブレイブ(火星の聖印用)",
+        "rarity": 4,
+        "short_desc": "味方1体の攻撃防御精神をアップ+毎ターンHPを回復",
+        "skill_category": "stat buff"
+    },
+    "30214": {
+        "action_length": 40,
+        "attacks": [
+            {
+                "hit_dmg": [
+                    100
+                ],
+                "hit_frames": [
+                    120
+                ],
+                "hits": 1
+            }
+        ],
+        "dmg_type": "magic",
+        "effects": [
+            {
+                "action_id": 3,
+                "atk buff%": 80,
+                "buff turns": -1,
+                "def buff%": 80,
+                "effect_frame": 0,
+                "int buff%": 80,
+                "mnd buff%": 80,
+                "params": [
+                    80,
+                    80,
+                    80,
+                    80,
+                    -1,
+                    1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            },
+            {
+                "action_id": 8,
+                "base heal": 2900,
+                "buff turns": -1,
+                "effect_frame": 0,
+                "heal mod": 1.2,
+                "params": [
+                    120,
+                    1,
+                    2900,
+                    -1
+                ],
+                "target_area": "single",
+                "target_side": "ally"
+            }
+        ],
+        "elements": [
+            "light"
+        ],
+        "full_desc": "味方1体の攻撃防御魔力精神をアップし、毎ターンHPを回復する。",
+        "gauge_cost": null,
+        "guide_id": 223,
+        "icon_id": 700000077,
+        "id": 30214,
+        "level": 4,
+        "mp_cost": 0,
+        "name": "ブレイブ(白妙の聖蓮用)",
+        "rarity": 4,
+        "short_desc": "味方1体の攻撃防御魔力精神をアップ+毎ターンHPを回復",
         "skill_category": "stat buff"
     },
     "30220": {

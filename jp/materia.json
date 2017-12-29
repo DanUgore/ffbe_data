@@ -6,7 +6,6 @@
         "id": 504010010,
         "max_stack": 99,
         "name": "ライブラ",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -29,7 +28,6 @@
         "id": 504010020,
         "max_stack": 99,
         "name": "ケアル",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -52,7 +50,6 @@
         "id": 504010030,
         "max_stack": 99,
         "name": "ブラナ",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -75,7 +72,6 @@
         "id": 504010040,
         "max_stack": 99,
         "name": "ボキャル",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -98,7 +94,6 @@
         "id": 504010050,
         "max_stack": 99,
         "name": "ポイゾナ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -121,7 +116,6 @@
         "id": 504010060,
         "max_stack": 99,
         "name": "バニシュ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -144,7 +138,6 @@
         "id": 504010070,
         "max_stack": 99,
         "name": "ケアルラ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -167,7 +160,6 @@
         "id": 504010080,
         "max_stack": 99,
         "name": "パラナ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -190,7 +182,6 @@
         "id": 504010090,
         "max_stack": 99,
         "name": "ストナ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -213,7 +204,6 @@
         "id": 504010100,
         "max_stack": 99,
         "name": "レイズ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -236,7 +226,6 @@
         "id": 504010110,
         "max_stack": 99,
         "name": "エスナ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -259,7 +248,6 @@
         "id": 504010120,
         "max_stack": 99,
         "name": "リジェネ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -282,7 +270,6 @@
         "id": 504010130,
         "max_stack": 99,
         "name": "デスペル",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -305,7 +292,6 @@
         "id": 504010140,
         "max_stack": 99,
         "name": "リブート",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -328,7 +314,6 @@
         "id": 504010150,
         "max_stack": 99,
         "name": "ケアルダ",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -351,7 +336,6 @@
         "id": 504010160,
         "max_stack": 99,
         "name": "ケアルガ",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -374,7 +358,6 @@
         "id": 504010210,
         "max_stack": 99,
         "name": "ホーリー",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -397,7 +380,6 @@
         "id": 504010380,
         "max_stack": 99,
         "name": "リフレシュ",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -420,7 +402,6 @@
         "id": 504020010,
         "max_stack": 99,
         "name": "ファイア",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -443,7 +424,6 @@
         "id": 504020020,
         "max_stack": 99,
         "name": "ブリザド",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -466,7 +446,6 @@
         "id": 504020030,
         "max_stack": 99,
         "name": "サンダー",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -489,7 +468,6 @@
         "id": 504020040,
         "max_stack": 99,
         "name": "ウォータ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -512,7 +490,6 @@
         "id": 504020050,
         "max_stack": 99,
         "name": "エアロ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -535,7 +512,6 @@
         "id": 504020060,
         "max_stack": 99,
         "name": "ストーン",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -558,7 +534,6 @@
         "id": 504020070,
         "max_stack": 99,
         "name": "バイオ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -581,7 +556,6 @@
         "id": 504020080,
         "max_stack": 99,
         "name": "ファイラ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -604,7 +578,6 @@
         "id": 504020090,
         "max_stack": 99,
         "name": "ブリザラ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -627,7 +600,6 @@
         "id": 504020100,
         "max_stack": 99,
         "name": "サンダラ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -650,7 +622,6 @@
         "id": 504020110,
         "max_stack": 99,
         "name": "ウォタラ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -673,7 +644,6 @@
         "id": 504020120,
         "max_stack": 99,
         "name": "エアロラ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -696,7 +666,6 @@
         "id": 504020130,
         "max_stack": 99,
         "name": "ストンラ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -719,7 +688,6 @@
         "id": 504020150,
         "max_stack": 99,
         "name": "グラビデ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -742,7 +710,6 @@
         "id": 504020160,
         "max_stack": 99,
         "name": "ドレイン",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -765,7 +732,6 @@
         "id": 504020170,
         "max_stack": 99,
         "name": "コメット",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -788,7 +754,6 @@
         "id": 504020180,
         "max_stack": 99,
         "name": "バイオラ",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -811,7 +776,6 @@
         "id": 504020200,
         "max_stack": 99,
         "name": "ファイガ",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -834,7 +798,6 @@
         "id": 504020210,
         "max_stack": 99,
         "name": "ブリザガ",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -857,7 +820,6 @@
         "id": 504020220,
         "max_stack": 99,
         "name": "サンダガ",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -880,7 +842,6 @@
         "id": 504020270,
         "max_stack": 99,
         "name": "グラビガ",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -903,7 +864,6 @@
         "id": 504020280,
         "max_stack": 99,
         "name": "デス",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -926,7 +886,6 @@
         "id": 504020350,
         "max_stack": 99,
         "name": "フレア",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -949,7 +908,6 @@
         "id": 504020430,
         "max_stack": 99,
         "name": "メテオ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -972,7 +930,6 @@
         "id": 504020440,
         "max_stack": 99,
         "name": "アルテマ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -995,7 +952,6 @@
         "id": 504020460,
         "max_stack": 99,
         "name": "ダーラ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1018,7 +974,6 @@
         "id": 504030010,
         "max_stack": 99,
         "name": "スリプル",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1041,7 +996,6 @@
         "id": 504030020,
         "max_stack": 99,
         "name": "ブライン",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1064,7 +1018,6 @@
         "id": 504030030,
         "max_stack": 99,
         "name": "バファイ",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1087,7 +1040,6 @@
         "id": 504030040,
         "max_stack": 99,
         "name": "バブリザ",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1110,7 +1062,6 @@
         "id": 504030050,
         "max_stack": 99,
         "name": "バサンダ",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1133,7 +1084,6 @@
         "id": 504030060,
         "max_stack": 99,
         "name": "バウォタ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1156,7 +1106,6 @@
         "id": 504030070,
         "max_stack": 99,
         "name": "バエアロ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1179,7 +1128,6 @@
         "id": 504030080,
         "max_stack": 99,
         "name": "バストン",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1202,7 +1150,6 @@
         "id": 504030090,
         "max_stack": 99,
         "name": "プロテス",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1225,7 +1172,6 @@
         "id": 504030100,
         "max_stack": 99,
         "name": "サイレス",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1248,7 +1194,6 @@
         "id": 504030110,
         "max_stack": 99,
         "name": "バファイラ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1271,7 +1216,6 @@
         "id": 504030120,
         "max_stack": 99,
         "name": "バブリザラ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1294,7 +1238,6 @@
         "id": 504030130,
         "max_stack": 99,
         "name": "バサンダラ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1317,7 +1260,6 @@
         "id": 504030140,
         "max_stack": 99,
         "name": "シェル",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1340,7 +1282,6 @@
         "id": 504030150,
         "max_stack": 99,
         "name": "デプロテ",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1363,7 +1304,6 @@
         "id": 504030160,
         "max_stack": 99,
         "name": "デシェル",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1386,7 +1326,6 @@
         "id": 504030170,
         "max_stack": 99,
         "name": "バウォタラ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1409,7 +1348,6 @@
         "id": 504030180,
         "max_stack": 99,
         "name": "バエアロラ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1432,7 +1370,6 @@
         "id": 504030190,
         "max_stack": 99,
         "name": "バストンラ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1455,7 +1392,6 @@
         "id": 504030200,
         "max_stack": 99,
         "name": "ウィーク",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1478,7 +1414,6 @@
         "id": 504030210,
         "max_stack": 99,
         "name": "ブレイブ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1501,7 +1436,6 @@
         "id": 504030220,
         "max_stack": 99,
         "name": "フェイス",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1524,7 +1458,6 @@
         "id": 504100010,
         "max_stack": 99,
         "name": "HP+10%",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1547,7 +1480,6 @@
         "id": 504100020,
         "max_stack": 99,
         "name": "HP+20%",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1570,7 +1502,6 @@
         "id": 504100030,
         "max_stack": 99,
         "name": "HP+30%",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1593,7 +1524,6 @@
         "id": 504100040,
         "max_stack": 99,
         "name": "MP+10%",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1616,7 +1546,6 @@
         "id": 504100050,
         "max_stack": 99,
         "name": "MP+20%",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -1639,7 +1568,6 @@
         "id": 504100060,
         "max_stack": 99,
         "name": "MP+30%",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1915,7 +1843,6 @@
         "id": 504100710,
         "max_stack": 99,
         "name": "オートプロテス",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1938,7 +1865,6 @@
         "id": 504100720,
         "max_stack": 99,
         "name": "オートシェル",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -1961,7 +1887,6 @@
         "id": 504100740,
         "max_stack": 99,
         "name": "オートリフレシュ",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -1984,7 +1909,6 @@
         "id": 504100750,
         "max_stack": 99,
         "name": "オートリミット",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -2352,7 +2276,6 @@
         "id": 504101000,
         "max_stack": 99,
         "name": "プラントキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2375,7 +2298,6 @@
         "id": 504101010,
         "max_stack": 99,
         "name": "ストーンキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2398,7 +2320,6 @@
         "id": 504101020,
         "max_stack": 99,
         "name": "ムシキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2421,7 +2342,6 @@
         "id": 504101030,
         "max_stack": 99,
         "name": "マシーンキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2444,7 +2364,6 @@
         "id": 504101040,
         "max_stack": 99,
         "name": "マンイーター",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2467,7 +2386,6 @@
         "id": 504101050,
         "max_stack": 99,
         "name": "ドラゴンキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2490,7 +2408,6 @@
         "id": 504101060,
         "max_stack": 99,
         "name": "アンデッドキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2513,7 +2430,6 @@
         "id": 504101070,
         "max_stack": 99,
         "name": "デーモンキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2536,7 +2452,6 @@
         "id": 504101080,
         "max_stack": 99,
         "name": "ビーストキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2559,7 +2474,6 @@
         "id": 504101090,
         "max_stack": 99,
         "name": "バードキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2582,7 +2496,6 @@
         "id": 504101100,
         "max_stack": 99,
         "name": "スピリットキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2605,7 +2518,6 @@
         "id": 504101110,
         "max_stack": 99,
         "name": "アクアンキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2628,7 +2540,6 @@
         "id": 504101120,
         "max_stack": 99,
         "name": "オートポーション",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2674,7 +2585,6 @@
         "id": 504101200,
         "max_stack": 99,
         "name": "カウンター",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -2720,7 +2630,6 @@
         "id": 504101350,
         "max_stack": 99,
         "name": "カモフラージュ",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -2812,7 +2721,6 @@
         "id": 504101500,
         "max_stack": 99,
         "name": "HP+15%",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -3755,7 +3663,6 @@
         "id": 504201130,
         "max_stack": 99,
         "name": "パワーブレイク",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3778,7 +3685,6 @@
         "id": 504201140,
         "max_stack": 99,
         "name": "マジックブレイク",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3801,7 +3707,6 @@
         "id": 504201150,
         "max_stack": 99,
         "name": "アーマーブレイク",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3824,7 +3729,6 @@
         "id": 504201160,
         "max_stack": 99,
         "name": "メンタルブレイク",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3870,7 +3774,6 @@
         "id": 504201260,
         "max_stack": 99,
         "name": "ファイアビーム",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -3893,7 +3796,6 @@
         "id": 504201280,
         "max_stack": 99,
         "name": "ブリザービーム",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -3916,7 +3818,6 @@
         "id": 504201320,
         "max_stack": 99,
         "name": "バイオブラスター",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -3939,7 +3840,6 @@
         "id": 504201340,
         "max_stack": 99,
         "name": "パワーショット",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -3962,7 +3862,6 @@
         "id": 504201430,
         "max_stack": 99,
         "name": "サンビーム",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -4123,7 +4022,6 @@
         "id": 504202350,
         "max_stack": 99,
         "name": "エール",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4261,7 +4159,6 @@
         "id": 504202490,
         "max_stack": 99,
         "name": "アタッカー",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4284,7 +4181,6 @@
         "id": 504202500,
         "max_stack": 99,
         "name": "ディフェンダー",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4307,7 +4203,6 @@
         "id": 504202760,
         "max_stack": 99,
         "name": "キャッチ",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4468,7 +4363,6 @@
         "id": 504203190,
         "max_stack": 99,
         "name": "スピードアップ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -4491,7 +4385,6 @@
         "id": 504203200,
         "max_stack": 99,
         "name": "ツインマジック",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4514,7 +4407,6 @@
         "id": 504203210,
         "max_stack": 99,
         "name": "スタンフィニッシュ",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4537,7 +4429,6 @@
         "id": 504203220,
         "max_stack": 99,
         "name": "デッキオープン",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4560,7 +4451,6 @@
         "id": 504203240,
         "max_stack": 99,
         "name": "MP+15%",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -4583,7 +4473,6 @@
         "id": 504203370,
         "max_stack": 99,
         "name": "メンタリティ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -4652,7 +4541,6 @@
         "id": 504203800,
         "max_stack": 99,
         "name": "マナ",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4882,7 +4770,6 @@
         "id": 504204290,
         "max_stack": 99,
         "name": "エナジーボム",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -4905,7 +4792,6 @@
         "id": 504204300,
         "max_stack": 99,
         "name": "セーフティガード",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -5020,7 +4906,6 @@
         "id": 504204900,
         "max_stack": 99,
         "name": "ミラクルステップ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5158,7 +5043,6 @@
         "id": 504205130,
         "max_stack": 99,
         "name": "クイックアサルト",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5181,7 +5065,6 @@
         "id": 504205260,
         "max_stack": 99,
         "name": "ダークナイトソウル",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5250,7 +5133,6 @@
         "id": 504205440,
         "max_stack": 99,
         "name": "マジシャン",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5273,7 +5155,6 @@
         "id": 504205450,
         "max_stack": 99,
         "name": "ファイター",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -5480,7 +5361,6 @@
         "id": 504205990,
         "max_stack": 99,
         "name": "ハッスルダンス",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -5641,7 +5521,6 @@
         "id": 504206650,
         "max_stack": 99,
         "name": "アスピルフィールド",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5825,7 +5704,6 @@
         "id": 504207510,
         "max_stack": 99,
         "name": "ブレイカー",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -5963,7 +5841,6 @@
         "id": 504207770,
         "max_stack": 99,
         "name": "ディヴァインシール",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -6078,7 +5955,6 @@
         "id": 504208480,
         "max_stack": 99,
         "name": "リターナー",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -6699,7 +6575,6 @@
         "id": 504211120,
         "max_stack": 99,
         "name": "モグサーチ",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -6722,7 +6597,6 @@
         "id": 504211130,
         "max_stack": 99,
         "name": "モグソング",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6745,7 +6619,6 @@
         "id": 504211140,
         "max_stack": 99,
         "name": "モグステップ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -6768,7 +6641,6 @@
         "id": 504211150,
         "max_stack": 99,
         "name": "モグレジスト",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -6791,7 +6663,6 @@
         "id": 504211160,
         "max_stack": 99,
         "name": "モグライズ",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7113,7 +6984,6 @@
         "id": 504212570,
         "max_stack": 99,
         "name": "シンフォニックフレア",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7573,7 +7443,6 @@
         "id": 504214990,
         "max_stack": 99,
         "name": "バスターフォーム",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7642,7 +7511,6 @@
         "id": 504215190,
         "max_stack": 99,
         "name": "パワフル",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7665,7 +7533,6 @@
         "id": 504215200,
         "max_stack": 99,
         "name": "タフネス",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7780,7 +7647,6 @@
         "id": 504216050,
         "max_stack": 99,
         "name": "ルナティックサバト",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -7849,7 +7715,6 @@
         "id": 504216370,
         "max_stack": 99,
         "name": "コールドディフェンド",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -7872,7 +7737,6 @@
         "id": 504216380,
         "max_stack": 99,
         "name": "サンダーディフェンド",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -8056,7 +7920,6 @@
         "id": 504217610,
         "max_stack": 99,
         "name": "フローズンハリケーン",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -8079,7 +7942,6 @@
         "id": 504217630,
         "max_stack": 99,
         "name": "スピリット",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -8102,7 +7964,6 @@
         "id": 504217640,
         "max_stack": 99,
         "name": "ガーダー",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -8470,7 +8331,6 @@
         "id": 504219250,
         "max_stack": 99,
         "name": "ホーンクレイドル",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -8562,7 +8422,6 @@
         "id": 504219880,
         "max_stack": 99,
         "name": "ハンマースミス",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -8654,7 +8513,6 @@
         "id": 504219940,
         "max_stack": 99,
         "name": "ヘヴィキマイラ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -8677,7 +8535,6 @@
         "id": 504219950,
         "max_stack": 99,
         "name": "アンチディスアスター",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -8700,7 +8557,6 @@
         "id": 504220140,
         "max_stack": 99,
         "name": "バトルドランカー",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -8907,7 +8763,6 @@
         "id": 504221550,
         "max_stack": 99,
         "name": "ムードメーカー",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -8953,7 +8808,6 @@
         "id": 504221570,
         "max_stack": 99,
         "name": "カラミティボーダー",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -9022,7 +8876,6 @@
         "id": 504221600,
         "max_stack": 99,
         "name": "スピリットファイター",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -9045,7 +8898,6 @@
         "id": 504221610,
         "max_stack": 99,
         "name": "スピリットマジシャン",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -9068,7 +8920,6 @@
         "id": 504221620,
         "max_stack": 99,
         "name": "オートブレイブ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -9091,7 +8942,6 @@
         "id": 504221630,
         "max_stack": 99,
         "name": "オートフェイス",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -9298,7 +9148,6 @@
         "id": 504221720,
         "max_stack": 99,
         "name": "カームメンタル",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -9344,7 +9193,6 @@
         "id": 504221740,
         "max_stack": 99,
         "name": "ねむりにつく",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -9482,7 +9330,6 @@
         "id": 504223820,
         "max_stack": 99,
         "name": "カッパワー",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -9551,7 +9398,6 @@
         "id": 504224490,
         "max_stack": 99,
         "name": "クインテッセンス",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -9666,7 +9512,6 @@
         "id": 504224910,
         "max_stack": 99,
         "name": "ボムアームズ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -9712,7 +9557,6 @@
         "id": 504224930,
         "max_stack": 99,
         "name": "モディッシュ・ウィッチ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -9735,7 +9579,6 @@
         "id": 504225720,
         "max_stack": 99,
         "name": "フォーチュンベイビー",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -9781,7 +9624,6 @@
         "id": 504225930,
         "max_stack": 99,
         "name": "ネクロポリス",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -9965,7 +9807,6 @@
         "id": 504226653,
         "max_stack": 99,
         "name": "ウィングハート",
-        "name_phonetic": "",
         "price": {
             "buy": 200000,
             "sell": 20000
@@ -10034,7 +9875,6 @@
         "id": 504226882,
         "max_stack": 99,
         "name": "アライバルオリジン",
-        "name_phonetic": "",
         "price": {
             "buy": 200000,
             "sell": 20000
@@ -10126,7 +9966,6 @@
         "id": 504226894,
         "max_stack": 99,
         "name": "パンツァーオメガ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -10195,7 +10034,6 @@
         "id": 504226898,
         "max_stack": 99,
         "name": "フィジカルフォース",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -10218,7 +10056,6 @@
         "id": 504226899,
         "max_stack": 99,
         "name": "マジカルフォース",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -10287,7 +10124,6 @@
         "id": 504226902,
         "max_stack": 99,
         "name": "ブレイブランサー",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -10425,7 +10261,6 @@
         "id": 504227237,
         "max_stack": 99,
         "name": "デバウアーオブシャドーズ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -10494,7 +10329,6 @@
         "id": 504227270,
         "max_stack": 99,
         "name": "フォスミステリオン",
-        "name_phonetic": "",
         "price": {
             "buy": 200000,
             "sell": 20000
@@ -10632,7 +10466,6 @@
         "id": 504227328,
         "max_stack": 99,
         "name": "ホワイトハート",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -10643,6 +10476,369 @@
                 {
                     "id": "227328",
                     "name": "ホワイトハート"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227389": {
+        "category": "stat",
+        "full_desc": "攻撃を40%、闇属性耐性を50%アップする。",
+        "guide_id": 2133390,
+        "id": 504227389,
+        "max_stack": 99,
+        "name": "闇を払う力",
+        "name_phonetic": "ヤミヲハラウチカラ",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "short_desc": "攻撃を40%、闇属性耐性を50%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227389",
+                    "name": "闇を払う力"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227410": {
+        "category": "stat",
+        "full_desc": "防御精神を30%アップし、物理攻撃を受けると確率で毒暗闇睡眠沈黙麻痺混乱病気石化状態にする。",
+        "guide_id": 2134712,
+        "id": 504227410,
+        "max_stack": 99,
+        "name": "メタモルモルボル",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "防御精神を30%アップ+物理攻撃を受けると確率で毒暗闇睡眠沈黙麻痺混乱病気石化",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227410",
+                    "name": "メタモルモルボル"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227411": {
+        "category": "ability",
+        "full_desc": "敵全体の一部ステータス効果を解除し、ランダムで毒暗闇睡眠沈黙麻痺混乱病気石化を付与する。",
+        "guide_id": 2216000,
+        "id": 504227411,
+        "max_stack": 99,
+        "name": "くさい息",
+        "name_phonetic": "クサイイキ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "敵全体の一部ステータス効果を解除+ランダムで毒暗闇睡眠沈黙麻痺混乱病気石化",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227411",
+                    "name": "くさい息"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227413": {
+        "category": "stat",
+        "full_desc": "HPMP、火属性耐性を5%アップする。",
+        "guide_id": 2111098,
+        "id": 504227413,
+        "max_stack": 99,
+        "name": "耐火の希求",
+        "name_phonetic": "タイカノキキュウ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "HPMP、火属性耐性を5%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227413",
+                    "name": "耐火の希求"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227414": {
+        "category": "stat",
+        "full_desc": "HPMP、水属性耐性を5%アップする。",
+        "guide_id": 2111101,
+        "id": 504227414,
+        "max_stack": 99,
+        "name": "止水の希求",
+        "name_phonetic": "シスイノキキュウ",
+        "price": {
+            "buy": 15000,
+            "sell": 1500
+        },
+        "short_desc": "HPMP、水属性耐性を5%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227414",
+                    "name": "止水の希求"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227428": {
+        "category": "passive",
+        "full_desc": "大剣を装備すると攻撃がアップし、毎ターンMPを回復する。",
+        "guide_id": 2151820,
+        "id": 504227428,
+        "max_stack": 99,
+        "name": "聖剣の騎士",
+        "name_phonetic": "セイケンノキシ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "大剣装備時、攻撃をアップ+毎ターンMPを回復",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227428",
+                    "name": "聖剣の騎士"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227448": {
+        "category": "passive",
+        "full_desc": "ロッドを装備すると魔力精神がアップする。",
+        "guide_id": 2151830,
+        "id": 504227448,
+        "max_stack": 99,
+        "name": "カリバの導き",
+        "name_phonetic": "カリバノミチビキ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "ロッド装備時、魔力精神をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227448",
+                    "name": "カリバの導き"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227459": {
+        "category": "passive",
+        "full_desc": "確率で一部物理攻撃を回避し、物理攻撃を受けると確率で反撃する。",
+        "guide_id": 2177070,
+        "id": 504227459,
+        "max_stack": 99,
+        "name": "テクニカルアタッカー",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "short_desc": "確率で一部物理攻撃を回避+物理攻撃を受けると確率で反撃",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227459",
+                    "name": "テクニカルアタッカー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227506": {
+        "category": "passive",
+        "full_desc": "銃を装備すると攻撃がアップし、物理攻撃時、機械系へのダメージをアップする。",
+        "guide_id": 2151840,
+        "id": 504227506,
+        "max_stack": 99,
+        "name": "ゾディアックバレット",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "銃装備時、攻撃をアップ+物理攻撃時、機械系へのダメージをアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227506",
+                    "name": "ゾディアックバレット"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227527": {
+        "category": "stat",
+        "full_desc": "HP、防御精神を30%アップし、両手の装備品が武器1個だと武具の攻撃がアップする。",
+        "guide_id": 2131930,
+        "id": 504227527,
+        "max_stack": 99,
+        "name": "真実を探る者",
+        "name_phonetic": "シンジツヲサグルモノ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "HP、防御精神を30%アップ+両手の装備品が武器1個だと武具の攻撃がアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227527",
+                    "name": "真実を探る者"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227555": {
+        "category": "stat",
+        "full_desc": "HPを50%、防御を30%アップし、HPが一定値以下の時、防御をアップする。",
+        "guide_id": 2131940,
+        "id": 504227555,
+        "max_stack": 99,
+        "name": "選ばれし王の盾",
+        "name_phonetic": "エラバレシオウノタテ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "HPを50%、防御を30%アップ+HPが一定値以下の時、防御をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227555",
+                    "name": "選ばれし王の盾"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227586": {
+        "category": "stat",
+        "full_desc": "魔力を60%、精神を20%、水属性耐性を50%アップする。",
+        "guide_id": 2135380,
+        "id": 504227586,
+        "max_stack": 99,
+        "name": "ブースト・サボテン",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "魔力を60%、精神を20%、水属性耐性を50%アップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227586",
+                    "name": "ブースト・サボテン"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227605": {
+        "category": "passive",
+        "full_desc": "毎ターンHPMPを回復し、リミットバーストゲージが増加し、攻撃防御魔力精神をアップする。",
+        "guide_id": 2172050,
+        "id": 504227605,
+        "max_stack": 99,
+        "name": "白妙の聖蓮",
+        "name_phonetic": "シロタエノセイレン",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "毎ターンHPMPを回復+LBゲージが増加+攻撃防御魔力精神をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227605",
+                    "name": "白妙の聖蓮"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227625": {
+        "category": "passive",
+        "full_desc": "両手の装備品が武器1個だと武具の攻撃がアップし、槍を装備すると攻撃がアップする。",
+        "guide_id": 2151850,
+        "id": 504227625,
+        "max_stack": 99,
+        "name": "スカイランサー",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "short_desc": "両手の装備品が武器1個だと武具の攻撃がアップ+槍装備時、攻撃をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227625",
+                    "name": "スカイランサー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227640": {
+        "category": "passive",
+        "full_desc": "クエストでの取得経験値をアップする。",
+        "guide_id": 2179208,
+        "id": 504227640,
+        "max_stack": 99,
+        "name": "獲得経験値+25%",
+        "name_phonetic": "カクトクケイケンチ+25%",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "short_desc": "クエストでの取得経験値をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227640",
+                    "name": "獲得経験値+25%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "504227641": {
+        "category": "passive",
+        "full_desc": "クエストでの取得経験値をアップする。",
+        "guide_id": 2179209,
+        "id": 504227641,
+        "max_stack": 99,
+        "name": "獲得経験値+50%",
+        "name_phonetic": "カクトクケイケンチ+50%",
+        "price": {
+            "buy": 30000,
+            "sell": 3000
+        },
+        "short_desc": "クエストでの取得経験値をアップ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227641",
+                    "name": "獲得経験値+50%"
                 }
             ],
             "magic": []

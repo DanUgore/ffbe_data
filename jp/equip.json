@@ -24,7 +24,6 @@
         "id": 301000200,
         "max_stack": 99,
         "name": "ブロンズナイフ",
-        "name_phonetic": "",
         "price": {
             "buy": 100,
             "sell": 10
@@ -64,7 +63,6 @@
         "id": 301000400,
         "max_stack": 99,
         "name": "ダガー",
-        "name_phonetic": "",
         "price": {
             "buy": 200,
             "sell": 20
@@ -104,7 +102,6 @@
         "id": 301000500,
         "max_stack": 99,
         "name": "ミスリルダガー",
-        "name_phonetic": "",
         "price": {
             "buy": 500,
             "sell": 50
@@ -146,7 +143,6 @@
         "id": 301000600,
         "max_stack": 99,
         "name": "スリプルダガー",
-        "name_phonetic": "",
         "price": {
             "buy": 500,
             "sell": 50
@@ -186,7 +182,6 @@
         "id": 301000900,
         "max_stack": 99,
         "name": "マインゴーシュ",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -228,7 +223,6 @@
         "id": 301001000,
         "max_stack": 99,
         "name": "メイジマッシャー",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -270,7 +264,6 @@
         "id": 301001100,
         "max_stack": 99,
         "name": "エアナイフ",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -312,7 +305,6 @@
         "id": 301001300,
         "max_stack": 99,
         "name": "サバイバルエッジ",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -357,7 +349,6 @@
         "id": 301001400,
         "max_stack": 99,
         "name": "オリハルコン",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -402,7 +393,6 @@
         "id": 301001500,
         "max_stack": 99,
         "name": "ソードブレイカー",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -487,7 +477,6 @@
         "id": 301001700,
         "max_stack": 99,
         "name": "ガンボウイナイフ",
-        "name_phonetic": "",
         "price": {
             "buy": 25000,
             "sell": 2500
@@ -532,7 +521,6 @@
         "id": 301001800,
         "max_stack": 99,
         "name": "プラチナメッサー",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -574,7 +562,6 @@
         "id": 301001900,
         "max_stack": 99,
         "name": "ガルカンダガー",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -621,7 +608,6 @@
         "id": 301002000,
         "max_stack": 99,
         "name": "ゾーリンシェイプ",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -762,7 +748,6 @@
         "id": 301002300,
         "max_stack": 99,
         "name": "ブレスオブローズ",
-        "name_phonetic": "",
         "price": {
             "buy": 25000,
             "sell": 2500
@@ -807,7 +792,6 @@
         "id": 301002400,
         "max_stack": 99,
         "name": "デスストローク",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -856,7 +840,6 @@
         "id": 301002500,
         "max_stack": 99,
         "name": "ハイウェイスター",
-        "name_phonetic": "",
         "price": {
             "buy": 25000,
             "sell": 2500
@@ -901,7 +884,6 @@
         "id": 301002600,
         "max_stack": 99,
         "name": "スウィートキッス",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -948,7 +930,6 @@
         "id": 301002700,
         "max_stack": 99,
         "name": "チョコボクロウ",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -1038,7 +1019,6 @@
         "id": 301002900,
         "max_stack": 99,
         "name": "シークレットナイフ",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -1136,7 +1116,6 @@
         "id": 301003100,
         "max_stack": 99,
         "name": "アサシンダガー",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -1204,6 +1183,92 @@
             "magic": []
         }
     },
+    "301003300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 145,
+            "def": 0,
+            "hp": 0,
+            "int": 145,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Dagger",
+        "full_desc": "無傷で敵を倒せる達人のための短剣。異界イオスの腕の良い鍛冶屋が作ったとされており、扱う者次第では非常に強力な武器となる。異界イオスにおいて、至高の武器のひとつとして数えられるほど稀少な装備品。",
+        "grade": 9,
+        "guide_id": 935,
+        "id": 301003300,
+        "max_stack": 99,
+        "name": "ゾーリンシェイプ(XV)",
+        "name_phonetic": "ゾーリンシェイプ（15）",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "無傷で敵を倒せる達人のための短剣",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100050",
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "301003400": {
+        "attack": {
+            "ailments": {},
+            "elements": [
+                "thunder"
+            ]
+        },
+        "boosts": {
+            "atk": 20,
+            "def": 0,
+            "hp": 0,
+            "int": 42,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Dagger",
+        "full_desc": "雷の力を帯びた短剣。短剣としてよりも、雷属性の力を目当てに使用されることが多い。小さいながらも封じられた力はかなりのもので、刃が接触するだけで相手を感電させるほど。うっかり自分で触れてしまって失神する事例も報告されている。それほどの魔力が封じられているためか、装備者の魔力もわずかながら底上げされる。",
+        "grade": 5,
+        "guide_id": 952,
+        "id": 301003400,
+        "max_stack": 99,
+        "name": "ライトニングダガー",
+        "price": {
+            "buy": 5000,
+            "sell": 500
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "雷の力を帯びた短剣",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
     "302000100": {
         "attack": {
             "ailments": {},
@@ -1229,7 +1294,6 @@
         "id": 302000100,
         "max_stack": 99,
         "name": "ブロードソード",
-        "name_phonetic": "",
         "price": {
             "buy": 200,
             "sell": 20
@@ -1269,7 +1333,6 @@
         "id": 302000200,
         "max_stack": 99,
         "name": "ロングソード",
-        "name_phonetic": "",
         "price": {
             "buy": 400,
             "sell": 40
@@ -1309,7 +1372,6 @@
         "id": 302000700,
         "max_stack": 99,
         "name": "ミスリルソード",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -1393,7 +1455,6 @@
         "id": 302000900,
         "max_stack": 99,
         "name": "フレイムタン",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1435,7 +1496,6 @@
         "id": 302001000,
         "max_stack": 99,
         "name": "アイスブランド",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1517,7 +1577,6 @@
         "id": 302001600,
         "max_stack": 99,
         "name": "エンハンスソード",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -1559,7 +1618,6 @@
         "id": 302001700,
         "max_stack": 99,
         "name": "ムーンフェイス",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -1599,7 +1657,6 @@
         "id": 302001800,
         "max_stack": 99,
         "name": "キングスソード",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -1679,7 +1736,6 @@
         "id": 302002000,
         "max_stack": 99,
         "name": "ミラージュソード",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -1719,7 +1775,6 @@
         "id": 302002100,
         "max_stack": 99,
         "name": "Sマシンソード",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -1811,7 +1866,6 @@
         "id": 302002300,
         "max_stack": 99,
         "name": "フラタニティ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -1899,7 +1953,6 @@
         "id": 302002500,
         "max_stack": 99,
         "name": "ウィングレット",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -1954,7 +2007,6 @@
         "id": 302002600,
         "max_stack": 99,
         "name": "ウルダハンファルシオン",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2003,7 +2055,6 @@
         "id": 302002700,
         "max_stack": 99,
         "name": "プラチナソード",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -2132,7 +2183,6 @@
         "id": 302003000,
         "max_stack": 99,
         "name": "バロックソード",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2174,7 +2224,6 @@
         "id": 302003100,
         "max_stack": 99,
         "name": "ブレイクブレイド",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -2217,7 +2266,6 @@
         "id": 302003200,
         "max_stack": 99,
         "name": "ラズマタズ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -2257,7 +2305,6 @@
         "id": 302003300,
         "max_stack": 99,
         "name": "オニオンソード",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -2306,7 +2353,6 @@
         "id": 302003400,
         "max_stack": 99,
         "name": "ローエングリン",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -2346,7 +2392,6 @@
         "id": 302003500,
         "max_stack": 99,
         "name": "ソルセルリー",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -2431,7 +2476,6 @@
         "id": 302003700,
         "max_stack": 99,
         "name": "カムシーン",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -2476,7 +2520,6 @@
         "id": 302003800,
         "max_stack": 99,
         "name": "ルーンセイバー",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -2561,7 +2604,6 @@
         "id": 302004000,
         "max_stack": 99,
         "name": "ファルシオン",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -2650,7 +2692,6 @@
         "id": 302004200,
         "max_stack": 99,
         "name": "リュミエール",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -2707,7 +2748,6 @@
         "id": 302004300,
         "max_stack": 99,
         "name": "カオスブレイド",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -2752,7 +2792,6 @@
         "id": 302004400,
         "max_stack": 99,
         "name": "デストラップ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -2799,7 +2838,6 @@
         "id": 302004500,
         "max_stack": 99,
         "name": "ロックセイバー",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -2841,7 +2879,6 @@
         "id": 302004600,
         "max_stack": 99,
         "name": "ナイトエンペラー",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -2888,7 +2925,6 @@
         "id": 302004700,
         "max_stack": 99,
         "name": "ダークブリンガー",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -2935,7 +2971,6 @@
         "id": 302004800,
         "max_stack": 99,
         "name": "チョコボウィング",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -3194,11 +3229,11 @@
         "equip_type": "Sword",
         "full_desc": "銃に変形可能なデュアルウェポンという剣に改造を重ねた最終形態。華麗な身のこなしを誇る異界の女性退役軍人が装備していたことで知られる。使いこなせるようになれば、斬撃から射撃に至る流れるような連続攻撃を繰り出せる。",
         "grade": 9,
-        "guide_id": 893,
+        "guide_id": 894,
         "id": 302005400,
         "max_stack": 99,
-        "name": "オメガウェポン(FFXIII)",
-        "name_phonetic": "オメガウェポン(FFXIII)",
+        "name": "オメガウェポン(XIII)",
+        "name_phonetic": "オメガウェポン(13)",
         "price": {
             "buy": 200000,
             "sell": 20000
@@ -3240,7 +3275,6 @@
         "id": 302005500,
         "max_stack": 99,
         "name": "ライトニングセイバー",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -3316,7 +3350,7 @@
         "equip_type": "Sword",
         "full_desc": "とある異界からもたらされた剣。地獄の王が持っていたとされ、闇を凝縮したような禍々しい見た目をしている。この剣を手にした者には絶大な力と、鬼神のごとき技が与えられるという。",
         "grade": 9,
-        "guide_id": 908,
+        "guide_id": 909,
         "id": 302005700,
         "max_stack": 99,
         "name": "じごくのサーベル",
@@ -3361,11 +3395,10 @@
         "equip_type": "Sword",
         "full_desc": "異界ヴァナ・ディールからもたらされた剣。刀身は紫色の怪しい霧に包まれている。極めて高い攻撃力を誇るだけでなく、装備者のHPとMPをアップさせてくれる優れもの。ヴァナ・ディールでは、くじの一等賞品にされたこともあり、非常に貴重な武器として知られているという。",
         "grade": 9,
-        "guide_id": 910,
+        "guide_id": 911,
         "id": 302005800,
         "max_stack": 99,
         "name": "サガシンガー",
-        "name_phonetic": "",
         "price": {
             "buy": 200000,
             "sell": 20000
@@ -3416,7 +3449,6 @@
         "id": 302005900,
         "max_stack": 99,
         "name": "スプランドゥール",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -3456,7 +3488,6 @@
         "id": 303000100,
         "max_stack": 99,
         "name": "グレートソード",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -3498,7 +3529,6 @@
         "id": 303000600,
         "max_stack": 99,
         "name": "ルーンブレイド",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -3538,7 +3568,6 @@
         "id": 303000700,
         "max_stack": 99,
         "name": "バスターソード",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -3578,7 +3607,6 @@
         "id": 303000800,
         "max_stack": 99,
         "name": "ミスリルセイバー",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -3618,7 +3646,6 @@
         "id": 303001300,
         "max_stack": 99,
         "name": "ゴールドブレイド",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -3658,7 +3685,6 @@
         "id": 303001400,
         "max_stack": 99,
         "name": "セイブザクィーン",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -3705,7 +3731,6 @@
         "id": 303001500,
         "max_stack": 99,
         "name": "デスブリンガー",
-        "name_phonetic": "",
         "price": {
             "buy": 150000,
             "sell": 15000
@@ -3750,7 +3775,6 @@
         "id": 303001600,
         "max_stack": 99,
         "name": "エクスカリパー",
-        "name_phonetic": "",
         "price": {
             "buy": 1,
             "sell": 1
@@ -3792,7 +3816,6 @@
         "id": 303001700,
         "max_stack": 99,
         "name": "デュランダル",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -3872,7 +3895,6 @@
         "id": 303001900,
         "max_stack": 99,
         "name": "フォースイーター",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -3914,7 +3936,6 @@
         "id": 303002000,
         "max_stack": 99,
         "name": "エクスカリバー",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -3996,7 +4017,6 @@
         "id": 303002200,
         "max_stack": 99,
         "name": "アポカリプス",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -4038,7 +4058,6 @@
         "id": 303002300,
         "max_stack": 99,
         "name": "クリムゾンセイバー",
-        "name_phonetic": "",
         "price": {
             "buy": 150000,
             "sell": 15000
@@ -4083,7 +4102,6 @@
         "id": 303002400,
         "max_stack": 99,
         "name": "ディフェンダー",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4130,7 +4148,6 @@
         "id": 303002500,
         "max_stack": 99,
         "name": "オーガニクス",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -4172,7 +4189,6 @@
         "id": 303002600,
         "max_stack": 99,
         "name": "トニトルス",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -4219,7 +4235,6 @@
         "id": 303002700,
         "max_stack": 99,
         "name": "レッドウィング",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4306,7 +4321,6 @@
         "id": 303002900,
         "max_stack": 99,
         "name": "プラチナセイバー",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4393,7 +4407,6 @@
         "id": 303003100,
         "max_stack": 99,
         "name": "マスカレイド",
-        "name_phonetic": "",
         "price": {
             "buy": 150000,
             "sell": 15000
@@ -4438,7 +4451,6 @@
         "id": 303003200,
         "max_stack": 99,
         "name": "リボルブソー",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -4479,7 +4491,6 @@
         "id": 303003300,
         "max_stack": 99,
         "name": "テイラーシザー",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -4525,7 +4536,6 @@
         "id": 303003400,
         "max_stack": 99,
         "name": "アイアンデューク",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -4565,7 +4575,6 @@
         "id": 303003500,
         "max_stack": 99,
         "name": "セイブザクイーン",
-        "name_phonetic": "",
         "price": {
             "buy": 150000,
             "sell": 15000
@@ -4786,7 +4795,6 @@
         "id": 303004000,
         "max_stack": 99,
         "name": "ライオンハート",
-        "name_phonetic": "",
         "price": {
             "buy": 150000,
             "sell": 15000
@@ -4832,7 +4840,6 @@
         "id": 303004100,
         "max_stack": 99,
         "name": "リボルバー",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -4871,7 +4878,7 @@
         "equip_type": "Greatsword",
         "full_desc": "凄まじい剣さばきから“雷神”の二つ名をもつ異界の侯爵の大剣。彼の強さに憧れる剣士たちの中には、この剣を神聖視する者も多い。侯爵は剣の達人というだけでなく、民のことを考える良識ある人物としても知られている。剣の腕だけでなく正しい心をもって初めて、この大剣にふさわしい者となれるのかもしれない。",
         "grade": 9,
-        "guide_id": 899,
+        "guide_id": 900,
         "id": 303004200,
         "max_stack": 99,
         "name": "雷神シドの剣",
@@ -4917,7 +4924,6 @@
         "id": 303004300,
         "max_stack": 99,
         "name": "スコフニュング",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -4953,11 +4959,11 @@
         "equip_type": "Greatsword",
         "full_desc": "遥か異界よりもたらされた、凄まじい攻撃力を誇る大剣。成人男性の身の丈ほどもあり、半透明に輝く美しい刀身を持つ。とある異界では、自分たちが住む星を救うための戦いに身を投じた、金髪でツンツン頭の青年がこの大剣を振るっていたといわれている。",
         "grade": 9,
-        "guide_id": 913,
+        "guide_id": 914,
         "id": 303004400,
         "max_stack": 99,
-        "name": "アルテマウェポン(FFVII)",
-        "name_phonetic": "アルテマウェポン(FFVII)",
+        "name": "アルテマウェポン(VII)",
+        "name_phonetic": "アルテマウェポン(07)",
         "price": {
             "buy": 300000,
             "sell": 30000
@@ -4994,11 +5000,10 @@
         "equip_type": "Greatsword",
         "full_desc": "知る人ぞ知る鍛冶師が鍛えた大剣。刀身には緑色の宝石がつけられている。斬れ味が非常に鋭く、剣の達人にしか扱うことはできない。かつてグランシェルトで「双剣将軍」と称されていた女騎士がこの剣を振るっていたため、広く知られるようになった。",
         "grade": 9,
-        "guide_id": 915,
+        "guide_id": 916,
         "id": 303004500,
         "max_stack": 99,
         "name": "クロムスフェーン",
-        "name_phonetic": "",
         "price": {
             "buy": 300000,
             "sell": 30000
@@ -5034,11 +5039,11 @@
         "equip_type": "Greatsword",
         "full_desc": "究極兵器とまで呼ばれるエネルギーブレード。使用者の魔力をガス状に変えて燃焼させ、超高温超高圧のエネルギー刃として射出する。その威力は絶大で、分厚い城壁すら一太刀で切り裂いてしまうほど。扱いの難しさから宝物庫の奥に安置されていたが、突出した剣才を持つ青年の手に渡り、ついにその真価を発揮することとなった。",
         "grade": 9,
-        "guide_id": 922,
+        "guide_id": 923,
         "id": 303004600,
         "max_stack": 99,
         "name": "アルテマウェポン(FFBE)",
-        "name_phonetic": "アルテマウェポン(FFBE)",
+        "name_phonetic": "アルテマウェポン(0)",
         "price": {
             "buy": 300000,
             "sell": 30000
@@ -5050,6 +5055,53 @@
         "short_desc": "究極兵器とまで呼ばれるエネルギーブレード",
         "skills": {
             "abilities": [],
+            "magic": []
+        }
+    },
+    "303004700": {
+        "attack": {
+            "ailments": {},
+            "elements": [
+                "light"
+            ]
+        },
+        "boosts": {
+            "atk": 168,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Greatsword",
+        "full_desc": "遥か異界よりもたらされた大剣。鍔の部分が翼を模したようなデザインになっている。異界では、邪竜トルフィダンを討伐しオルセア王国の姫を救い出した勇者の1人がこの大剣を装備していたという。",
+        "grade": 9,
+        "guide_id": 941,
+        "id": 303004700,
+        "max_stack": 99,
+        "name": "ライトブリンガー(キングスナイト)",
+        "name_phonetic": "ライトブリンガー(990)",
+        "price": {
+            "buy": 300000,
+            "sell": 30000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界よりもたらされた大剣",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227429",
+                    "name": "ルシファーギフト"
+                }
+            ],
             "magic": []
         }
     },
@@ -6013,7 +6065,6 @@
         "id": 304002700,
         "max_stack": 99,
         "name": "ライトブレード",
-        "name_phonetic": "",
         "price": {
             "buy": 28000,
             "sell": 2800
@@ -6153,6 +6204,51 @@
                 {
                     "id": "227263",
                     "name": "不知火"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "304003100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 172,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "110",
+            "min": "90"
+        },
+        "equip_condition": false,
+        "equip_type": "Katana",
+        "full_desc": "あらゆるものを斬るといわれる刀。人々が語り継ぐ伝承に現れるモンスターは、通常の種を遥かに超えた力を持つ。それを斬り伏せるとなれば、最高の素材、凄腕の職人、使い手の技量が必要不可欠である。この刀は迷いを抱えた者が振るっても紙一枚斬れないが、覚悟を決めた者ならば、伝承上のモンスターさえ、たやすく斬り裂くという。",
+        "grade": 9,
+        "guide_id": 947,
+        "id": 304003100,
+        "max_stack": 99,
+        "name": "斬鉄剣(FFBE)",
+        "name_phonetic": "ザンテツケン(0)",
+        "price": {
+            "buy": 280000,
+            "sell": 28000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "あらゆるものを斬るといわれる刀",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227566",
+                    "name": "迷い絶つ誓い"
                 }
             ],
             "magic": []
@@ -6303,7 +6399,6 @@
         "id": 305000100,
         "max_stack": 99,
         "name": "バトルアクス",
-        "name_phonetic": "",
         "price": {
             "buy": 1800,
             "sell": 180
@@ -6343,7 +6438,6 @@
         "id": 305000300,
         "max_stack": 99,
         "name": "グレートアクス",
-        "name_phonetic": "",
         "price": {
             "buy": 1800,
             "sell": 180
@@ -6383,7 +6477,6 @@
         "id": 305000400,
         "max_stack": 99,
         "name": "オーガキラー",
-        "name_phonetic": "",
         "price": {
             "buy": 1800,
             "sell": 180
@@ -6423,7 +6516,6 @@
         "id": 305000600,
         "max_stack": 99,
         "name": "ミスリルアクス",
-        "name_phonetic": "",
         "price": {
             "buy": 1800,
             "sell": 180
@@ -6503,7 +6595,6 @@
         "id": 305000900,
         "max_stack": 99,
         "name": "ルーンアクス",
-        "name_phonetic": "",
         "price": {
             "buy": 1800,
             "sell": 180
@@ -6543,7 +6634,6 @@
         "id": 305001000,
         "max_stack": 99,
         "name": "ゴールドアックス",
-        "name_phonetic": "",
         "price": {
             "buy": 5400,
             "sell": 540
@@ -6630,7 +6720,6 @@
         "id": 305001200,
         "max_stack": 99,
         "name": "バイキングアクス",
-        "name_phonetic": "",
         "price": {
             "buy": 180000,
             "sell": 18000
@@ -6670,7 +6759,6 @@
         "id": 305001300,
         "max_stack": 99,
         "name": "ギガントアクス",
-        "name_phonetic": "",
         "price": {
             "buy": 36000,
             "sell": 3600
@@ -6757,7 +6845,6 @@
         "id": 305001500,
         "max_stack": 99,
         "name": "ムーンアックス",
-        "name_phonetic": "",
         "price": {
             "buy": 90000,
             "sell": 9000
@@ -6845,7 +6932,6 @@
         "id": 305001700,
         "max_stack": 99,
         "name": "デモンズアクス",
-        "name_phonetic": "",
         "price": {
             "buy": 36000,
             "sell": 3600
@@ -6890,7 +6976,6 @@
         "id": 305001800,
         "max_stack": 99,
         "name": "アサルトアックス",
-        "name_phonetic": "",
         "price": {
             "buy": 18000,
             "sell": 1800
@@ -6930,7 +7015,6 @@
         "id": 305001900,
         "max_stack": 99,
         "name": "プラチナアクス",
-        "name_phonetic": "",
         "price": {
             "buy": 18000,
             "sell": 1800
@@ -6970,7 +7054,6 @@
         "id": 305002000,
         "max_stack": 99,
         "name": "フランシスカ",
-        "name_phonetic": "",
         "price": {
             "buy": 18000,
             "sell": 1800
@@ -7144,7 +7227,6 @@
         "id": 305002400,
         "max_stack": 99,
         "name": "ウルフヘジンアクス",
-        "name_phonetic": "",
         "price": {
             "buy": 36000,
             "sell": 3600
@@ -7230,7 +7312,6 @@
         "id": 306000400,
         "max_stack": 99,
         "name": "アイアンハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 680,
             "sell": 68
@@ -7270,7 +7351,6 @@
         "id": 306000700,
         "max_stack": 99,
         "name": "ウォーハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 1700,
             "sell": 170
@@ -7310,7 +7390,6 @@
         "id": 306000900,
         "max_stack": 99,
         "name": "ミスリルハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 5100,
             "sell": 510
@@ -7350,7 +7429,6 @@
         "id": 306001100,
         "max_stack": 99,
         "name": "ブレスドハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 5100,
             "sell": 510
@@ -7392,7 +7470,6 @@
         "id": 306001400,
         "max_stack": 99,
         "name": "マイティハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 34000,
             "sell": 3400
@@ -7439,7 +7516,6 @@
         "id": 306001500,
         "max_stack": 99,
         "name": "ビーストハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 17000,
             "sell": 1700
@@ -7481,7 +7557,6 @@
         "id": 306001600,
         "max_stack": 99,
         "name": "スレッジハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 17000,
             "sell": 1700
@@ -7563,7 +7638,6 @@
         "id": 306001800,
         "max_stack": 99,
         "name": "プラチナハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 17000,
             "sell": 1700
@@ -7603,7 +7677,6 @@
         "id": 306001900,
         "max_stack": 99,
         "name": "トールハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 170000,
             "sell": 17000
@@ -7735,7 +7808,6 @@
         "id": 306002200,
         "max_stack": 99,
         "name": "ロックハンマー",
-        "name_phonetic": "",
         "price": {
             "buy": 17000,
             "sell": 1700
@@ -7829,7 +7901,6 @@
         "id": 307000200,
         "max_stack": 99,
         "name": "ブロンズメイス",
-        "name_phonetic": "",
         "price": {
             "buy": 180,
             "sell": 18
@@ -7869,7 +7940,6 @@
         "id": 307000300,
         "max_stack": 99,
         "name": "アイアンメイス",
-        "name_phonetic": "",
         "price": {
             "buy": 360,
             "sell": 36
@@ -7909,7 +7979,6 @@
         "id": 307000800,
         "max_stack": 99,
         "name": "ウェアバスター",
-        "name_phonetic": "",
         "price": {
             "buy": 900,
             "sell": 90
@@ -7954,7 +8023,6 @@
         "id": 307000900,
         "max_stack": 99,
         "name": "ミスリルメイス",
-        "name_phonetic": "",
         "price": {
             "buy": 900,
             "sell": 90
@@ -8041,7 +8109,6 @@
         "id": 307001300,
         "max_stack": 99,
         "name": "クラッシュメイス",
-        "name_phonetic": "",
         "price": {
             "buy": 2700,
             "sell": 270
@@ -8081,7 +8148,6 @@
         "id": 307001400,
         "max_stack": 99,
         "name": "ウエスペル",
-        "name_phonetic": "",
         "price": {
             "buy": 9000,
             "sell": 900
@@ -8121,7 +8187,6 @@
         "id": 307001500,
         "max_stack": 99,
         "name": "プラチナメイス",
-        "name_phonetic": "",
         "price": {
             "buy": 2700,
             "sell": 270
@@ -8167,7 +8232,6 @@
         "id": 307001600,
         "max_stack": 99,
         "name": "トートワンド",
-        "name_phonetic": "",
         "price": {
             "buy": 2700,
             "sell": 270
@@ -8253,7 +8317,6 @@
         "id": 307001800,
         "max_stack": 99,
         "name": "メイスオブゼウス",
-        "name_phonetic": "",
         "price": {
             "buy": 90000,
             "sell": 9000
@@ -8338,7 +8401,6 @@
         "id": 307002000,
         "max_stack": 99,
         "name": "ファングブレイカー",
-        "name_phonetic": "",
         "price": {
             "buy": 9000,
             "sell": 900
@@ -8382,7 +8444,7 @@
         "equip_type": "Mace",
         "full_desc": "性能を高めた、毒を含んだ棘のあるメイス。どれほど素晴らしい武器を作っても「どうしたらより強い武器が作れるのだろう？」という苦悩は必ず生まれる。打撃の威力を上げるため棘の形状を改良し、仕込んだ毒の効能を大幅に引き上げた結果、とても強力になったが、見た目もより禍々しくなってしまった。",
         "grade": 8,
-        "guide_id": 839,
+        "guide_id": 893,
         "id": 307002100,
         "max_stack": 99,
         "name": "棘のメイス・改",
@@ -8431,7 +8493,6 @@
         "id": 308000100,
         "max_stack": 99,
         "name": "ジャベリン",
-        "name_phonetic": "",
         "price": {
             "buy": 640,
             "sell": 64
@@ -8471,7 +8532,6 @@
         "id": 308000300,
         "max_stack": 99,
         "name": "パルチザン",
-        "name_phonetic": "",
         "price": {
             "buy": 1600,
             "sell": 160
@@ -8511,7 +8571,6 @@
         "id": 308000500,
         "max_stack": 99,
         "name": "ミスリルスピア",
-        "name_phonetic": "",
         "price": {
             "buy": 1600,
             "sell": 160
@@ -8553,7 +8612,6 @@
         "id": 308000600,
         "max_stack": 99,
         "name": "トライデント",
-        "name_phonetic": "",
         "price": {
             "buy": 4800,
             "sell": 480
@@ -8637,7 +8695,6 @@
         "id": 308000900,
         "max_stack": 99,
         "name": "アイスランス",
-        "name_phonetic": "",
         "price": {
             "buy": 4800,
             "sell": 480
@@ -8679,7 +8736,6 @@
         "id": 308001000,
         "max_stack": 99,
         "name": "サンダースピア",
-        "name_phonetic": "",
         "price": {
             "buy": 4800,
             "sell": 480
@@ -8721,7 +8777,6 @@
         "id": 308001200,
         "max_stack": 99,
         "name": "ウィンドスピア",
-        "name_phonetic": "",
         "price": {
             "buy": 4800,
             "sell": 480
@@ -8761,7 +8816,6 @@
         "id": 308001300,
         "max_stack": 99,
         "name": "グングニル",
-        "name_phonetic": "",
         "price": {
             "buy": 32000,
             "sell": 3200
@@ -8803,7 +8857,6 @@
         "id": 308001400,
         "max_stack": 99,
         "name": "ホーリーランス",
-        "name_phonetic": "",
         "price": {
             "buy": 32000,
             "sell": 3200
@@ -8888,7 +8941,6 @@
         "id": 308001700,
         "max_stack": 99,
         "name": "ツインランサー",
-        "name_phonetic": "",
         "price": {
             "buy": 32000,
             "sell": 3200
@@ -8982,7 +9034,6 @@
         "id": 308001900,
         "max_stack": 99,
         "name": "アーティザン",
-        "name_phonetic": "",
         "price": {
             "buy": 160000,
             "sell": 16000
@@ -9150,7 +9201,6 @@
         "id": 308002300,
         "max_stack": 99,
         "name": "オークピアッサー",
-        "name_phonetic": "",
         "price": {
             "buy": 4800,
             "sell": 480
@@ -9240,7 +9290,6 @@
         "id": 308002500,
         "max_stack": 99,
         "name": "モーグリスピア",
-        "name_phonetic": "",
         "price": {
             "buy": 32000,
             "sell": 3200
@@ -9291,7 +9340,6 @@
         "id": 308002600,
         "max_stack": 99,
         "name": "ベントゥス",
-        "name_phonetic": "",
         "price": {
             "buy": 80000,
             "sell": 8000
@@ -9338,7 +9386,6 @@
         "id": 308002700,
         "max_stack": 99,
         "name": "ブレイクショット",
-        "name_phonetic": "",
         "price": {
             "buy": 4800,
             "sell": 480
@@ -9383,7 +9430,6 @@
         "id": 308002800,
         "max_stack": 99,
         "name": "プラチナランス",
-        "name_phonetic": "",
         "price": {
             "buy": 16000,
             "sell": 1600
@@ -9649,7 +9695,6 @@
         "id": 308003400,
         "max_stack": 99,
         "name": "プレサイズランス",
-        "name_phonetic": "",
         "price": {
             "buy": 32000,
             "sell": 3200
@@ -9694,7 +9739,6 @@
         "id": 308003500,
         "max_stack": 99,
         "name": "シュトースシュペーア",
-        "name_phonetic": "",
         "price": {
             "buy": 160000,
             "sell": 16000
@@ -9740,7 +9784,6 @@
         "id": 308003600,
         "max_stack": 99,
         "name": "ビーストピアッサー",
-        "name_phonetic": "",
         "price": {
             "buy": 16000,
             "sell": 1600
@@ -9785,7 +9828,6 @@
         "id": 308003700,
         "max_stack": 99,
         "name": "クリムゾンブラッド",
-        "name_phonetic": "",
         "price": {
             "buy": 160000,
             "sell": 16000
@@ -9828,7 +9870,7 @@
         "equip_type": "Lance",
         "full_desc": "神の化身とされる伝説の戦士が振るった槍。穂先には雷の魔力が宿っており、伝承どおりの凄まじい威力を誇る。本来の所持者であるその戦士は、ヴァジュランダを投げて使うこともあったといわれているが、大振りなので、常人が投槍として使用するのは難しいだろう。",
         "grade": 9,
-        "guide_id": 907,
+        "guide_id": 908,
         "id": 308003800,
         "max_stack": 99,
         "name": "ヴァジュランダ",
@@ -9984,6 +10026,95 @@
             "magic": []
         }
     },
+    "308004200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 109,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Lance",
+        "full_desc": "異界イオスよりもたらされた、龍の鱗が使われている槍。装備者に、火・氷・雷などの属性攻撃ダメージを軽減する力を与えるといわれている。",
+        "grade": 7,
+        "guide_id": 937,
+        "id": 308004200,
+        "max_stack": 99,
+        "name": "ドラグーンランス",
+        "price": {
+            "buy": 80000,
+            "sell": 8000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "龍の鱗が使われている槍",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227415",
+                    "name": "ドラグーンランス"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "308004300": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 173,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "115",
+            "min": "85"
+        },
+        "equip_condition": false,
+        "equip_type": "Lance",
+        "full_desc": "竜の里に住む「竜封じ」の一族に伝わる伝説の槍。凍槍ノーザンライツの兄弟槍でもある。威力は抜群だが、凍槍と違い穂先があまりに重いせいで扱いが難しく、ジャンプにも支障をきたすため、長い間振るわれずに保管されていた。歴史を振り返ってみても、凍槍と封槍、二本の槍を自在に扱える竜騎士は存在した例がないという。",
+        "grade": 9,
+        "guide_id": 946,
+        "id": 308004300,
+        "max_stack": 99,
+        "name": "封槍ヴァーチャードレイク",
+        "name_phonetic": "フウソウウンヴァーチャードレイク",
+        "price": {
+            "buy": 320000,
+            "sell": 32000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "「竜封じ」の一族に伝わる伝説の槍",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "211360",
+                    "name": "ドラゴンキラー改"
+                }
+            ],
+            "magic": []
+        }
+    },
     "309000300": {
         "attack": {
             "ailments": {},
@@ -10009,7 +10140,6 @@
         "id": 309000300,
         "max_stack": 99,
         "name": "ミスリルクロー",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -10216,7 +10346,6 @@
         "id": 309001400,
         "max_stack": 99,
         "name": "オーバーライド",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -10309,7 +10438,6 @@
         "id": 309001600,
         "max_stack": 99,
         "name": "リタリエーター",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -10354,7 +10482,6 @@
         "id": 309001700,
         "max_stack": 99,
         "name": "ブロッケンアーム",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -10396,7 +10523,6 @@
         "id": 309001800,
         "max_stack": 99,
         "name": "ドラゴンクロー",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -10442,7 +10568,6 @@
         "id": 309001900,
         "max_stack": 99,
         "name": "ガッツナックル",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -10535,7 +10660,6 @@
         "id": 309002100,
         "max_stack": 99,
         "name": "ホーリーグローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -10575,7 +10699,6 @@
         "id": 309002200,
         "max_stack": 99,
         "name": "リフレクトナックル",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -10702,7 +10825,6 @@
         "id": 309002500,
         "max_stack": 99,
         "name": "ファルンホープ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -10751,7 +10873,6 @@
         "id": 309002600,
         "max_stack": 99,
         "name": "エアガイツ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -10796,7 +10917,6 @@
         "id": 309002700,
         "max_stack": 99,
         "name": "マーベリック",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -10922,11 +11042,11 @@
         "equip_type": "Knuckle",
         "full_desc": "異界“ヴァナ・ディール”よりもたらされた格闘武器。装備すると非常に高い攻撃力を得られるだけでなく、異界の秘奥義「四神円舞」が使用できるようになる。",
         "grade": 9,
-        "guide_id": 911,
+        "guide_id": 912,
         "id": 309003000,
         "max_stack": 99,
-        "name": "ゴッドハンド(FFXI)",
-        "name_phonetic": "ゴッドハンド(FFXI)",
+        "name": "ゴッドハンド(XI)",
+        "name_phonetic": "ゴッドハンド(11)",
         "price": {
             "buy": 200000,
             "sell": 20000
@@ -10967,11 +11087,10 @@
         "equip_type": "Knuckle",
         "full_desc": "攻防一体の格闘武器。取っ手部分を握って回すことにより、遠心力の乗った一撃を容易く繰り出せる。棍棒のようにも扱える他、突き出し、打ち払い、絡め取りなど、非常に多彩な攻撃が可能。盾として相手の攻撃を受け止めることもできるので、攻防共に優れた武器として多くの格闘家が使用しているという。",
         "grade": 5,
-        "guide_id": 921,
+        "guide_id": 922,
         "id": 309003100,
         "max_stack": 99,
         "name": "スレッジトンファー",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -10991,6 +11110,45 @@
             "magic": []
         },
         "two_handed": true
+    },
+    "309003200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 61,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "100",
+            "min": "100"
+        },
+        "equip_condition": false,
+        "equip_type": "Knuckle",
+        "full_desc": "拳で戦う者たちは素早さが命のため、より硬く、尚且つ軽い武器を求める傾向にある。攻撃力と耐久性を保ちながら、いかに装備を軽量化するかについて常に頭を悩ませている職人たちも、格闘用の武器にはとりわけ気を遣うようだ。プラチナは耐久性は高いが重いため、他の素材よりも加工が難しく、必然的に値が張る品となる。",
+        "grade": 5,
+        "guide_id": 953,
+        "id": 309003200,
+        "max_stack": 99,
+        "name": "プラチナフィスト",
+        "price": {
+            "buy": 10000,
+            "sell": 1000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "プラチナで作られたナックル",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
     },
     "309020200": {
         "attack": {
@@ -11017,7 +11175,6 @@
         "id": 309020200,
         "max_stack": 99,
         "name": "ブロンズナックル",
-        "name_phonetic": "",
         "price": {
             "buy": 200,
             "sell": 20
@@ -11057,7 +11214,6 @@
         "id": 309020300,
         "max_stack": 99,
         "name": "メタルナックル",
-        "name_phonetic": "",
         "price": {
             "buy": 400,
             "sell": 40
@@ -11099,7 +11255,6 @@
         "id": 309020400,
         "max_stack": 99,
         "name": "ソニックナックル",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -11141,7 +11296,6 @@
         "id": 309020600,
         "max_stack": 99,
         "name": "カイザーナックル",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -11183,7 +11337,6 @@
         "id": 309020700,
         "max_stack": 99,
         "name": "ポイズンナックル",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -11263,7 +11416,6 @@
         "id": 309040500,
         "max_stack": 99,
         "name": "アイガイオンアーム",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -11308,7 +11460,6 @@
         "id": 310000100,
         "max_stack": 99,
         "name": "ロッド",
-        "name_phonetic": "",
         "price": {
             "buy": 140,
             "sell": 14
@@ -11348,7 +11499,6 @@
         "id": 310000200,
         "max_stack": 99,
         "name": "アイアンロッド",
-        "name_phonetic": "",
         "price": {
             "buy": 280,
             "sell": 28
@@ -11529,7 +11679,6 @@
         "id": 310001400,
         "max_stack": 99,
         "name": "ウィザードロッド",
-        "name_phonetic": "",
         "price": {
             "buy": 14000,
             "sell": 1400
@@ -11569,7 +11718,6 @@
         "id": 310001500,
         "max_stack": 99,
         "name": "リリスのロッド",
-        "name_phonetic": "",
         "price": {
             "buy": 14000,
             "sell": 1400
@@ -11739,7 +11887,6 @@
         "id": 310001900,
         "max_stack": 99,
         "name": "ストライクロッド",
-        "name_phonetic": "",
         "price": {
             "buy": 7000,
             "sell": 700
@@ -11779,7 +11926,6 @@
         "id": 310002000,
         "max_stack": 99,
         "name": "リカバリーロッド",
-        "name_phonetic": "",
         "price": {
             "buy": 7000,
             "sell": 700
@@ -11824,7 +11970,6 @@
         "id": 310002100,
         "max_stack": 99,
         "name": "プラチナロッド",
-        "name_phonetic": "",
         "price": {
             "buy": 2100,
             "sell": 210
@@ -11870,7 +12015,6 @@
         "id": 310002200,
         "max_stack": 99,
         "name": "イリダルスタッフ",
-        "name_phonetic": "",
         "price": {
             "buy": 14000,
             "sell": 1400
@@ -12002,7 +12146,6 @@
         "id": 310002500,
         "max_stack": 99,
         "name": "パニッシャー",
-        "name_phonetic": "",
         "price": {
             "buy": 7000,
             "sell": 700
@@ -12138,7 +12281,6 @@
         "id": 310002800,
         "max_stack": 99,
         "name": "ゴールデンアイ",
-        "name_phonetic": "",
         "price": {
             "buy": 7000,
             "sell": 700
@@ -12285,7 +12427,6 @@
         "id": 310003100,
         "max_stack": 99,
         "name": "ボーンロッド",
-        "name_phonetic": "",
         "price": {
             "buy": 7000,
             "sell": 700
@@ -12330,7 +12471,6 @@
         "id": 310003200,
         "max_stack": 99,
         "name": "チョコボフェザー",
-        "name_phonetic": "",
         "price": {
             "buy": 14000,
             "sell": 1400
@@ -12467,7 +12607,6 @@
         "id": 310003500,
         "max_stack": 99,
         "name": "ガンバンテイン",
-        "name_phonetic": "",
         "price": {
             "buy": 70000,
             "sell": 7000
@@ -12503,7 +12642,7 @@
         "equip_type": "Rod",
         "full_desc": "とある異界からあらわれた、世界征服をもくろむ“魔王”が用いている杖。柄の部分が竜の頭を模したデザインになっているのが特徴。装備した者に大いなる加護を与えるという。",
         "grade": 9,
-        "guide_id": 909,
+        "guide_id": 910,
         "id": 310003600,
         "max_stack": 99,
         "name": "りゅうおうの杖",
@@ -12865,7 +13004,6 @@
         "id": 311001400,
         "max_stack": 99,
         "name": "ゴールドスタッフ",
-        "name_phonetic": "",
         "price": {
             "buy": 2400,
             "sell": 240
@@ -12945,7 +13083,6 @@
         "id": 311001600,
         "max_stack": 99,
         "name": "ホワイトスタッフ",
-        "name_phonetic": "",
         "price": {
             "buy": 2400,
             "sell": 240
@@ -12990,7 +13127,6 @@
         "id": 311001700,
         "max_stack": 99,
         "name": "ドリームエイド",
-        "name_phonetic": "",
         "price": {
             "buy": 40000,
             "sell": 4000
@@ -13128,7 +13264,6 @@
         "id": 311002000,
         "max_stack": 99,
         "name": "バッデッドワンド",
-        "name_phonetic": "",
         "price": {
             "buy": 16000,
             "sell": 1600
@@ -13179,7 +13314,6 @@
         "id": 311002100,
         "max_stack": 99,
         "name": "サイプレスパイル",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -13304,7 +13438,6 @@
         "id": 311002400,
         "max_stack": 99,
         "name": "クラウンステッキ",
-        "name_phonetic": "",
         "price": {
             "buy": 40000,
             "sell": 4000
@@ -13349,7 +13482,6 @@
         "id": 311002500,
         "max_stack": 99,
         "name": "エンジェルワンド",
-        "name_phonetic": "",
         "price": {
             "buy": 16000,
             "sell": 1600
@@ -13394,7 +13526,6 @@
         "id": 311002600,
         "max_stack": 99,
         "name": "エアラケット",
-        "name_phonetic": "",
         "price": {
             "buy": 800,
             "sell": 80
@@ -13441,7 +13572,6 @@
         "id": 311002700,
         "max_stack": 99,
         "name": "ホーリーワンド",
-        "name_phonetic": "",
         "price": {
             "buy": 80000,
             "sell": 8000
@@ -13533,7 +13663,6 @@
         "id": 311002900,
         "max_stack": 99,
         "name": "アークアルカナ",
-        "name_phonetic": "",
         "price": {
             "buy": 40000,
             "sell": 4000
@@ -13685,7 +13814,6 @@
         "id": 311003200,
         "max_stack": 99,
         "name": "チョコボメモリア",
-        "name_phonetic": "",
         "price": {
             "buy": 16000,
             "sell": 1600
@@ -13775,7 +13903,6 @@
         "id": 311003400,
         "max_stack": 99,
         "name": "ボーンスタッフ",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -13856,7 +13983,7 @@
         "equip_type": "Staff",
         "full_desc": "異界の不思議なおじいさんが所持している杖。暗く寒い夜道を乗り切る精神力と体力を与えてくれる。空飛ぶソリで移動するイメージの強い彼だが、この杖を用いるような難所を徒歩で越えることも多々あるようだ。",
         "grade": 7,
-        "guide_id": 925,
+        "guide_id": 926,
         "id": 311003600,
         "max_stack": 99,
         "name": "サンタの杖",
@@ -13875,6 +14002,95 @@
                 {
                     "id": "100010",
                     "name": "HP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "311003700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 9,
+            "def": 0,
+            "hp": 0,
+            "int": 36,
+            "mnd": 54,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "異界イオスで作られた杖。凝った装飾が施されており、落ち着いた中にも豪華さが感じられる。非常に丈夫にできているため、これを携えて戦場におもむく者もいるという。",
+        "grade": 5,
+        "guide_id": 936,
+        "id": 311003700,
+        "max_stack": 99,
+        "name": "イグニスの杖",
+        "name_phonetic": "イグニスノツエ",
+        "price": {
+            "buy": 8000,
+            "sell": 800
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界イオスで作られた杖",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "311003800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 12,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 166,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Staff",
+        "full_desc": "大きな宝玉がついた白魔道士のための杖。高い魔力を秘めた者が装備すると、宝玉が青く輝く。使い手を選ぶ杖としても有名で、ふさわしくない者には持ち上がらないほど重たく感じられるという。アヤカは師匠から贈られたこの杖をとても大切にしているようだ。",
+        "grade": 9,
+        "guide_id": 944,
+        "id": 311003800,
+        "max_stack": 99,
+        "name": "セラピアの杖",
+        "name_phonetic": "セラピアノツエ",
+        "price": {
+            "buy": 160000,
+            "sell": 16000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "使い手を選ぶ白魔道士の杖",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101500",
+                    "name": "HP+15%"
+                },
+                {
+                    "id": "203240",
+                    "name": "MP+15%"
                 }
             ],
             "magic": []
@@ -13905,7 +14121,6 @@
         "id": 312000100,
         "max_stack": 99,
         "name": "ショートボウ",
-        "name_phonetic": "",
         "price": {
             "buy": 260,
             "sell": 26
@@ -13951,7 +14166,6 @@
         "id": 312000200,
         "max_stack": 99,
         "name": "ロングボウ",
-        "name_phonetic": "",
         "price": {
             "buy": 520,
             "sell": 52
@@ -13997,7 +14211,6 @@
         "id": 312000300,
         "max_stack": 99,
         "name": "ミスリルボウ",
-        "name_phonetic": "",
         "price": {
             "buy": 1300,
             "sell": 130
@@ -14043,7 +14256,6 @@
         "id": 312000400,
         "max_stack": 99,
         "name": "グレートボウ",
-        "name_phonetic": "",
         "price": {
             "buy": 1300,
             "sell": 130
@@ -14089,7 +14301,6 @@
         "id": 312000800,
         "max_stack": 99,
         "name": "エルフィンボウ",
-        "name_phonetic": "",
         "price": {
             "buy": 3900,
             "sell": 390
@@ -14137,7 +14348,6 @@
         "id": 312001000,
         "max_stack": 99,
         "name": "キラーボウ",
-        "name_phonetic": "",
         "price": {
             "buy": 26000,
             "sell": 2600
@@ -14329,7 +14539,6 @@
         "id": 312001400,
         "max_stack": 99,
         "name": "エルブンボウ",
-        "name_phonetic": "",
         "price": {
             "buy": 130000,
             "sell": 13000
@@ -14375,7 +14584,6 @@
         "id": 312001500,
         "max_stack": 99,
         "name": "リンカネーション",
-        "name_phonetic": "",
         "price": {
             "buy": 130000,
             "sell": 13000
@@ -14425,7 +14633,6 @@
         "id": 312001600,
         "max_stack": 99,
         "name": "プラチナボウ",
-        "name_phonetic": "",
         "price": {
             "buy": 13000,
             "sell": 1300
@@ -14514,7 +14721,6 @@
         "id": 312001800,
         "max_stack": 99,
         "name": "セレーネボウ",
-        "name_phonetic": "",
         "price": {
             "buy": 26000,
             "sell": 2600
@@ -14626,7 +14832,6 @@
         "id": 312002000,
         "max_stack": 99,
         "name": "チョコボメナス",
-        "name_phonetic": "",
         "price": {
             "buy": 26000,
             "sell": 2600
@@ -14726,7 +14931,6 @@
         "id": 312002200,
         "max_stack": 99,
         "name": "カタラクト",
-        "name_phonetic": "",
         "price": {
             "buy": 26000,
             "sell": 2600
@@ -14776,7 +14980,6 @@
         "id": 313000400,
         "max_stack": 99,
         "name": "アルタイル",
-        "name_phonetic": "",
         "price": {
             "buy": 480,
             "sell": 48
@@ -14816,7 +15019,6 @@
         "id": 313000500,
         "max_stack": 99,
         "name": "カペラ",
-        "name_phonetic": "",
         "price": {
             "buy": 480,
             "sell": 48
@@ -14857,7 +15059,6 @@
         "id": 313001300,
         "max_stack": 99,
         "name": "シリウス",
-        "name_phonetic": "",
         "price": {
             "buy": 1200,
             "sell": 120
@@ -14937,7 +15138,6 @@
         "id": 313001500,
         "max_stack": 99,
         "name": "ベテルギウス",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -15058,7 +15258,6 @@
         "id": 313001900,
         "max_stack": 99,
         "name": "ルーントリガー",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -15103,7 +15302,6 @@
         "id": 313002000,
         "max_stack": 99,
         "name": "ドラゴンズロア",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -15152,7 +15350,6 @@
         "id": 313002100,
         "max_stack": 99,
         "name": "マグナトゥス",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -15192,7 +15389,6 @@
         "id": 313002200,
         "max_stack": 99,
         "name": "リゲル",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -15273,7 +15469,6 @@
         "id": 313002400,
         "max_stack": 99,
         "name": "アルクトゥルス",
-        "name_phonetic": "",
         "price": {
             "buy": 120000,
             "sell": 12000
@@ -15313,7 +15508,6 @@
         "id": 313002500,
         "max_stack": 99,
         "name": "スピカ",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -15354,7 +15548,6 @@
         "id": 313002600,
         "max_stack": 99,
         "name": "シャークガン",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -15394,7 +15587,6 @@
         "id": 313002700,
         "max_stack": 99,
         "name": "クエーサー",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -15474,7 +15666,6 @@
         "id": 313002900,
         "max_stack": 99,
         "name": "プラチナマスケット",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -15559,7 +15750,6 @@
         "id": 313003100,
         "max_stack": 99,
         "name": "バリアント",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -15604,7 +15794,6 @@
         "id": 313003200,
         "max_stack": 99,
         "name": "エネミーランチャ",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -15646,7 +15835,6 @@
         "id": 313003300,
         "max_stack": 99,
         "name": "ブラストガン",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -15688,7 +15876,6 @@
         "id": 313003400,
         "max_stack": 99,
         "name": "スカーレットローゼス",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -15728,7 +15915,6 @@
         "id": 313003500,
         "max_stack": 99,
         "name": "ザイルキャノン",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -15771,7 +15957,6 @@
         "id": 313003600,
         "max_stack": 99,
         "name": "ブロンテース",
-        "name_phonetic": "",
         "price": {
             "buy": 60000,
             "sell": 6000
@@ -15783,6 +15968,51 @@
         "short_desc": "特殊加工された弾丸を撃ちだす銃",
         "skills": {
             "abilities": [],
+            "magic": []
+        }
+    },
+    "313003700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 161,
+            "def": 0,
+            "hp": 0,
+            "int": 0,
+            "mnd": 66,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "105",
+            "min": "95"
+        },
+        "equip_condition": false,
+        "equip_type": "Gun",
+        "full_desc": "異界イオスよりもたらされた銃。静止目標に対する攻撃を重視して開発され、高い威力を持っている。異界イオスにおいては、古来より封じられてきた脅威を打ち倒した者のみが入手できるようだ。",
+        "grade": 9,
+        "guide_id": 951,
+        "id": 313003700,
+        "max_stack": 99,
+        "name": "エグゼキューショナー(XV)",
+        "name_phonetic": "エグゼキューショナー(15)",
+        "price": {
+            "buy": 240000,
+            "sell": 24000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "異界イオスよりもたらされた銃",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "101370",
+                    "name": "にとうりゅう"
+                }
+            ],
             "magic": []
         }
     },
@@ -15813,7 +16043,6 @@
         "id": 314000200,
         "max_stack": 99,
         "name": "レザーウィップ",
-        "name_phonetic": "",
         "price": {
             "buy": 180,
             "sell": 18
@@ -15855,7 +16084,6 @@
         "id": 314000300,
         "max_stack": 99,
         "name": "チェンウィップ",
-        "name_phonetic": "",
         "price": {
             "buy": 360,
             "sell": 36
@@ -15944,7 +16172,6 @@
         "id": 314000500,
         "max_stack": 99,
         "name": "ミスリルウィップ",
-        "name_phonetic": "",
         "price": {
             "buy": 900,
             "sell": 90
@@ -16027,7 +16254,6 @@
         "id": 314000900,
         "max_stack": 99,
         "name": "エンプレスビュート",
-        "name_phonetic": "",
         "price": {
             "buy": 18000,
             "sell": 1800
@@ -16112,7 +16338,6 @@
         "id": 314001100,
         "max_stack": 99,
         "name": "プラチナウィップ",
-        "name_phonetic": "",
         "price": {
             "buy": 9000,
             "sell": 900
@@ -16246,7 +16471,6 @@
         "id": 314001400,
         "max_stack": 99,
         "name": "スレイプニルテイル",
-        "name_phonetic": "",
         "price": {
             "buy": 18000,
             "sell": 1800
@@ -16291,11 +16515,10 @@
         "equip_type": "Whip",
         "full_desc": "夏の浜辺でみんなの気持ちをつかめるようデザインされたムチ。セクシーな水着と合わせて胸元に構えれば、ビーチの視線を集めること間違いなし。キャッチコピーは『巻きつき、引き寄せ、離さない！　魔性の魅力を与えてくれる最強の武器をあなたに！』",
         "grade": 9,
-        "guide_id": 903,
+        "guide_id": 904,
         "id": 314001500,
         "max_stack": 99,
         "name": "サマーウィップ",
-        "name_phonetic": "",
         "price": {
             "buy": 180000,
             "sell": 18000
@@ -16338,11 +16561,10 @@
         "equip_type": "Whip",
         "full_desc": "輝ける十二武具のひとつ。猛火をまとう伝説のムチ。誰が作ったのか定かではないが、しなやかな本体部分には膨大な火の魔力が込められている。そのため、この鞭に打たれると、たとえ鎧越しでも骨の髄まで焼き焦がされるという。“隠匿された慈愛の竜賢・ヌンキ”にその力を認められた者のみが手にすることを許される。",
         "grade": 8,
-        "guide_id": 923,
+        "guide_id": 924,
         "id": 314001600,
         "max_stack": 99,
         "name": "ファイアビュート",
-        "name_phonetic": "",
         "price": {
             "buy": 90000,
             "sell": 9000
@@ -16385,7 +16607,7 @@
         "equip_type": "Whip",
         "full_desc": "輝ける十二武具のひとつ、猛火をまとう伝説のムチのレプリカ。ファイアビュートによく似た模造品であるため、性能は本物に劣るが、十二武具のひとつを入手した気分を味わえる。",
         "grade": 6,
-        "guide_id": 924,
+        "guide_id": 925,
         "id": 314001700,
         "max_stack": 99,
         "name": "ファイアビュート・レプリカ",
@@ -16434,7 +16656,6 @@
         "id": 315000100,
         "max_stack": 99,
         "name": "ブーメラン",
-        "name_phonetic": "",
         "price": {
             "buy": 200,
             "sell": 20
@@ -16479,7 +16700,6 @@
         "id": 315020200,
         "max_stack": 99,
         "name": "チャクラム",
-        "name_phonetic": "",
         "price": {
             "buy": 400,
             "sell": 40
@@ -16569,7 +16789,6 @@
         "id": 315020500,
         "max_stack": 99,
         "name": "ライジングサン",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 6000
@@ -16614,7 +16833,6 @@
         "id": 315020700,
         "max_stack": 99,
         "name": "ヌエ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -16654,7 +16872,6 @@
         "id": 315020800,
         "max_stack": 99,
         "name": "バトルフープ",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -16775,7 +16992,6 @@
         "id": 315021300,
         "max_stack": 99,
         "name": "スイッチヒッター",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -16815,7 +17031,6 @@
         "id": 315021400,
         "max_stack": 99,
         "name": "ハイパーボール",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -16855,7 +17070,6 @@
         "id": 315021500,
         "max_stack": 99,
         "name": "スリックダート",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -16895,7 +17109,6 @@
         "id": 315021600,
         "max_stack": 99,
         "name": "プラチナエッジ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -16940,7 +17153,6 @@
         "id": 315021700,
         "max_stack": 99,
         "name": "ホークアイ",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -17025,7 +17237,6 @@
         "id": 315021900,
         "max_stack": 99,
         "name": "シューティングスター",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -17106,7 +17317,7 @@
         "equip_type": "Projectile",
         "full_desc": "遥か異界オリエンスからもたらされた投擲武器。「0組」と呼ばれるクラスに所属する少年が使っていたとされる、魔力で具現化されたカード。弾丸や刀剣のようにも使えるほか、魔法のように特別な効果を引き出すこともできる。切り札と呼ばれるだけあって、このカードにも強大な力が秘められているようだ。",
         "grade": 9,
-        "guide_id": 895,
+        "guide_id": 896,
         "id": 315022100,
         "max_stack": 99,
         "name": "最後の切り札",
@@ -17152,7 +17363,6 @@
         "id": 315022200,
         "max_stack": 99,
         "name": "ホワールウィンド",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -17193,7 +17403,7 @@
         "equip_type": "Projectile",
         "full_desc": "陰陽師が悪霊退治に用いる札。敵に向かって投げると空を飛んでピタリと貼り付き、邪悪を滅する力を解放する。弱い魔物なら一瞬で消滅させてしまうほど強力な武器だが、善なる者が札に触れた場合は消耗した気力を回復してくれるという。近年では陰陽師ではない者まで、この札を求めるようになっているらしい。",
         "grade": 6,
-        "guide_id": 926,
+        "guide_id": 927,
         "id": 315022300,
         "max_stack": 99,
         "name": "陰陽の札",
@@ -17237,7 +17447,6 @@
         "id": 316000100,
         "max_stack": 99,
         "name": "ハープ",
-        "name_phonetic": "",
         "price": {
             "buy": 160,
             "sell": 16
@@ -17446,7 +17655,6 @@
         "id": 316000800,
         "max_stack": 99,
         "name": "プラチナベル",
-        "name_phonetic": "",
         "price": {
             "buy": 2400,
             "sell": 240
@@ -17493,7 +17701,6 @@
         "id": 316000900,
         "max_stack": 99,
         "name": "マイク",
-        "name_phonetic": "",
         "price": {
             "buy": 8000,
             "sell": 800
@@ -17884,6 +18091,60 @@
         },
         "two_handed": true
     },
+    "316001800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 20,
+            "def": 0,
+            "hp": 0,
+            "int": 70,
+            "mnd": 156,
+            "mp": 0
+        },
+        "damage_range": {
+            "max": "170",
+            "min": "130"
+        },
+        "equip_condition": false,
+        "equip_type": "Harp",
+        "full_desc": "双頭のドラゴンがデザインされた、優美で荘厳な竪琴。竜鳴の竪琴の作り手として知られる一流職人が新たに手掛けた。彼は行方知れずになった妹のことを歌い続ける吟遊詩人に感銘を受け、長い年月をかけてこの竪琴を作ったらしい。",
+        "grade": 9,
+        "guide_id": 945,
+        "id": 316001800,
+        "max_stack": 99,
+        "name": "双竜の竪琴",
+        "name_phonetic": "ソウリュウノタテゴト",
+        "price": {
+            "buy": 160000,
+            "sell": 16000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "双頭のドラゴンをかたどった竪琴",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100030",
+                    "name": "HP+30%"
+                },
+                {
+                    "id": "100180",
+                    "name": "精神+30%"
+                },
+                {
+                    "id": "100050",
+                    "name": "MP+20%"
+                }
+            ],
+            "magic": []
+        },
+        "two_handed": true
+    },
     "316040300": {
         "attack": {
             "ailments": {},
@@ -17955,7 +18216,6 @@
         "id": 401000100,
         "max_stack": 99,
         "name": "スモールシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 240,
             "sell": 24
@@ -17991,7 +18251,6 @@
         "id": 401000200,
         "max_stack": 99,
         "name": "バックラー",
-        "name_phonetic": "",
         "price": {
             "buy": 480,
             "sell": 48
@@ -18063,7 +18322,6 @@
         "id": 401000900,
         "max_stack": 99,
         "name": "ライトシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 480,
             "sell": 48
@@ -18138,7 +18396,6 @@
         "id": 401001100,
         "max_stack": 99,
         "name": "エスカッション",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -18179,7 +18436,6 @@
         "id": 401001200,
         "max_stack": 99,
         "name": "メタスラトレイ",
-        "name_phonetic": "",
         "price": {
             "buy": 60000,
             "sell": 6000
@@ -18262,7 +18518,6 @@
         "id": 401001400,
         "max_stack": 99,
         "name": "アーミーシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -18300,7 +18555,6 @@
         "id": 401001500,
         "max_stack": 99,
         "name": "ディバインシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -18383,7 +18637,6 @@
         "id": 401001700,
         "max_stack": 99,
         "name": "プラチナシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -18460,7 +18713,6 @@
         "id": 401001900,
         "max_stack": 99,
         "name": "アスファレス",
-        "name_phonetic": "",
         "price": {
             "buy": 120000,
             "sell": 12000
@@ -18550,7 +18802,6 @@
         "id": 401002100,
         "max_stack": 99,
         "name": "ウィンドバックラー",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -18584,11 +18835,11 @@
         "equip_type": "Light Shield",
         "full_desc": "異界のとある神殿で発掘された強力な軽盾。一般に出回っている「エスカッション」という盾に大幅な強化が加えられたもので、同じ名前ではあるが性能的にはもはや全くの別物と言える。その防御性能は驚異的で、異界では最強の盾と呼ばれることもあったという。",
         "grade": 9,
-        "guide_id": 894,
+        "guide_id": 895,
         "id": 401002200,
         "max_stack": 99,
         "name": "エスカッション(FFT)",
-        "name_phonetic": "エスカッション(FFT)",
+        "name_phonetic": "エスカッション(90)",
         "price": {
             "buy": 240000,
             "sell": 24000
@@ -18638,7 +18889,6 @@
         "id": 401002300,
         "max_stack": 99,
         "name": "スライムトレイ",
-        "name_phonetic": "",
         "price": {
             "buy": 60000,
             "sell": 6000
@@ -18672,7 +18922,7 @@
         "equip_type": "Light Shield",
         "full_desc": "人々を守りたいという想いから生まれた軽盾。装備した者を白き光で包み込み、聖なる加護を与える。魔法都市ミシディアの片田舎では「雪の降る聖なる夜、異界の聖衣を身にまとった白魔道士が、心正しき者にこの盾を届けてくれる」といったロマンティックな伝説が残されているようだ。",
         "grade": 9,
-        "guide_id": 932,
+        "guide_id": 933,
         "id": 401002400,
         "max_stack": 99,
         "name": "ベネヴォレンス",
@@ -18720,7 +18970,6 @@
         "id": 402000200,
         "max_stack": 99,
         "name": "ラージシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -18756,7 +19005,6 @@
         "id": 402000300,
         "max_stack": 99,
         "name": "ブロンズシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 300,
             "sell": 30
@@ -18792,7 +19040,6 @@
         "id": 402000400,
         "max_stack": 99,
         "name": "アイアンシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 600,
             "sell": 60
@@ -18828,7 +19075,6 @@
         "id": 402000500,
         "max_stack": 99,
         "name": "ミスリルシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -18864,7 +19110,6 @@
         "id": 402000600,
         "max_stack": 99,
         "name": "フレイムシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -18903,7 +19148,6 @@
         "id": 402000700,
         "max_stack": 99,
         "name": "アイスシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -18981,7 +19225,6 @@
         "id": 402001100,
         "max_stack": 99,
         "name": "ゴールドシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -19017,7 +19260,6 @@
         "id": 402001200,
         "max_stack": 99,
         "name": "フォースシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -19101,7 +19343,6 @@
         "id": 402001400,
         "max_stack": 99,
         "name": "パトリオット",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -19300,7 +19541,6 @@
         "id": 402001900,
         "max_stack": 99,
         "name": "デモンズシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -19343,7 +19583,6 @@
         "id": 402002000,
         "max_stack": 99,
         "name": "パワーシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -19379,7 +19618,6 @@
         "id": 402002100,
         "max_stack": 99,
         "name": "ザイドリッツ",
-        "name_phonetic": "",
         "price": {
             "buy": 150000,
             "sell": 15000
@@ -19424,7 +19662,6 @@
         "id": 402002200,
         "max_stack": 99,
         "name": "セラフィムシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -19542,7 +19779,6 @@
         "id": 402002500,
         "max_stack": 99,
         "name": "アクアシールド",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -19622,11 +19858,11 @@
         "equip_type": "Heavy Shield",
         "full_desc": "異界“イヴァリース”よりもたらされた重盾。装備者の防御と精神を大幅に高めてくれる。イヴァリースでは、コロシアムと呼ばれる特殊な対戦の報酬として入手できる、貴重な装備品だったようだ。",
         "grade": 9,
-        "guide_id": 912,
+        "guide_id": 913,
         "id": 402002700,
         "max_stack": 99,
         "name": "レバリーシールド(FFT)",
-        "name_phonetic": "レバリーシールド(FFT)",
+        "name_phonetic": "レバリーシールド(90)",
         "price": {
             "buy": 300000,
             "sell": 30000
@@ -19667,11 +19903,10 @@
         "equip_type": "Heavy Shield",
         "full_desc": "アルドールで作られた特殊重盾。アルドールのとある兵士が使用していたとされる。半月状の形をしているのは、対となる戦斧と組み合わせる特殊な機構を持つため。この盾には片割れである戦斧は付属していないが、それでも敵の強力な攻撃から所持者を守ってくれる。",
         "grade": 7,
-        "guide_id": 918,
+        "guide_id": 919,
         "id": 402002800,
         "max_stack": 99,
         "name": "シールドコネクター",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -19681,6 +19916,53 @@
             "elements": {}
         },
         "short_desc": "アルドールで作られた特殊重盾",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "402002900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 59,
+            "hp": 0,
+            "int": 0,
+            "mnd": 31,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Heavy Shield",
+        "full_desc": "モルボルの素材で作られた重盾。毒に対する抵抗力を最大限生かすため、モルボルの触手や首をそのまま加工している。多くの冒険者から持ち歩くことを拒否されるほど見た目の評判は悪いが、性能だけは折り紙つきなので、喜んで装備する者もいるようだ。なお、モルボルのどこからを首とするかは専門家の中でも意見が分かれている。",
+        "grade": 8,
+        "guide_id": 940,
+        "id": 402002900,
+        "max_stack": 99,
+        "name": "モルボルシールド",
+        "price": {
+            "buy": 150000,
+            "sell": 15000
+        },
+        "resists": {
+            "ailments": {
+                "blind": "100",
+                "confuse": "100",
+                "paralyze": "100",
+                "petrify": "100",
+                "poison": "100",
+                "silence": "100",
+                "sleep": "100",
+                "virus": "100"
+            },
+            "elements": {
+                "fire": "-50",
+                "water": "50"
+            }
+        },
+        "short_desc": "モルボルの素材で作られた重盾",
         "skills": {
             "abilities": [],
             "magic": []
@@ -19743,7 +20025,6 @@
         "id": 403000300,
         "max_stack": 99,
         "name": "バンダナ",
-        "name_phonetic": "",
         "price": {
             "buy": 200,
             "sell": 20
@@ -19815,7 +20096,6 @@
         "id": 403020200,
         "max_stack": 99,
         "name": "グリーンベレー",
-        "name_phonetic": "",
         "price": {
             "buy": 500,
             "sell": 50
@@ -19995,7 +20275,6 @@
         "id": 403040500,
         "max_stack": 99,
         "name": "タイガーマスク",
-        "name_phonetic": "",
         "price": {
             "buy": 500,
             "sell": 50
@@ -20031,7 +20310,6 @@
         "id": 403040600,
         "max_stack": 99,
         "name": "ヒュプノクラウン",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -20067,7 +20345,6 @@
         "id": 403040700,
         "max_stack": 99,
         "name": "レッドキャップ",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -20139,7 +20416,6 @@
         "id": 403040900,
         "max_stack": 99,
         "name": "サークレット",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -20213,7 +20489,6 @@
         "id": 403041100,
         "max_stack": 99,
         "name": "リボン",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -20426,7 +20701,6 @@
         "id": 403041600,
         "max_stack": 99,
         "name": "ホワイトブリム",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -20665,7 +20939,6 @@
         "id": 403042200,
         "max_stack": 99,
         "name": "トリックハット",
-        "name_phonetic": "",
         "price": {
             "buy": 25000,
             "sell": 2500
@@ -20706,7 +20979,6 @@
         "id": 403042300,
         "max_stack": 99,
         "name": "モーグリクラウン",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -20749,7 +21021,6 @@
         "id": 403042400,
         "max_stack": 99,
         "name": "エリアのリボン",
-        "name_phonetic": "",
         "price": {
             "buy": 25000,
             "sell": 2500
@@ -20792,7 +21063,6 @@
         "id": 403042500,
         "max_stack": 99,
         "name": "ネフェルキャップ",
-        "name_phonetic": "",
         "price": {
             "buy": 25000,
             "sell": 2500
@@ -20873,7 +21143,6 @@
         "id": 403042800,
         "max_stack": 99,
         "name": "プラチナティアラ",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -21042,7 +21311,6 @@
         "id": 403043200,
         "max_stack": 99,
         "name": "バニーマスク",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -21078,7 +21346,6 @@
         "id": 403043300,
         "max_stack": 99,
         "name": "ミンストレルプレア",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -21425,7 +21692,6 @@
         "id": 403044100,
         "max_stack": 99,
         "name": "ブラボーバニーカチューシャ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -21546,7 +21812,6 @@
         "id": 403044400,
         "max_stack": 99,
         "name": "コチューキャップ",
-        "name_phonetic": "",
         "price": {
             "buy": 25000,
             "sell": 2500
@@ -21590,7 +21855,6 @@
         "id": 403044500,
         "max_stack": 99,
         "name": "ロイヤルクラウン",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -21633,7 +21897,7 @@
         "id": 403044600,
         "max_stack": 99,
         "name": "ロイヤルクラウン・レプリカ",
-        "name_phonetic": "",
+        "name_phonetic": "ロイヤルクラウンレプリカ",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -21705,11 +21969,10 @@
         "equip_type": "Hat",
         "full_desc": "ディルマギア工業都市の最先端技術を結集して作られたゴーグル。視界に入ったモンスターの情報を分析し、種族によっては弱点を探り出すこともできるスグレモノ。凄腕の女性武器職人が作ったといわれているが、あまりに複雑な構造のために量産ができず、彼女に直接オーダーするしか入手する方法がないらしい。",
         "grade": 9,
-        "guide_id": 900,
+        "guide_id": 901,
         "id": 403044800,
         "max_stack": 99,
         "name": "スキャニングゴーグル",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -21762,7 +22025,6 @@
         "id": 403044900,
         "max_stack": 99,
         "name": "ウルフマスク",
-        "name_phonetic": "",
         "price": {
             "buy": 5000,
             "sell": 500
@@ -21799,7 +22061,7 @@
         "equip_type": "Hat",
         "full_desc": "サンタさんの新しい帽子クポ。すごくいい帽子に仕上がったから、きっと本物のサンタさんも欲しがると思うクポ。さあ、今年はお返しにプレゼントするクポ！　サンタさんが来るまで寝ないで待つクポ〜！　……ふぁ……でも、この帽子……温かくて眠くなるクポ……Zzz……。",
         "grade": 5,
-        "guide_id": 928,
+        "guide_id": 929,
         "id": 403045000,
         "max_stack": 99,
         "name": "サンタの帽子・II",
@@ -21840,7 +22102,7 @@
         "equip_type": "Hat",
         "full_desc": "古き毬に宿る神“ツクモ”をかたどった人形。これを憑代としたツクモの思念が、装備者にささやかな加護を与える。一見、モンスターのような外見をした神だが、陰陽師を目指す女の子と友情を結び、ともに修行したという微笑ましいエピソードも残っており、祟りや呪いで周囲に害を与える可能性は一切ない。",
         "grade": 5,
-        "guide_id": 929,
+        "guide_id": 930,
         "id": 403045100,
         "max_stack": 99,
         "name": "ツクモ人形",
@@ -21861,6 +22123,43 @@
                     "name": "経験値UP1.3倍"
                 }
             ],
+            "magic": []
+        }
+    },
+    "403045200": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 10,
+            "hp": 0,
+            "int": 0,
+            "mnd": 12,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Hat",
+        "full_desc": "土の魔力を織り込んだフード。装備者の身を土属性の攻撃から守ってくれる。本来はファッション用に作られたものだったが、独特の色合いを出すために用いられた染料が土属性の魔力を帯びていたせいで、偶然このフードが出来上がった。実用性重視の装備品が多い中で、デザインも優れた品として愛用者は多い。",
+        "grade": 4,
+        "guide_id": 954,
+        "id": 403045200,
+        "max_stack": 99,
+        "name": "アースフード",
+        "price": {
+            "buy": 1500,
+            "sell": 150
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "earth": "15"
+            }
+        },
+        "short_desc": "土の魔力を織り込んだフード",
+        "skills": {
+            "abilities": [],
             "magic": []
         }
     },
@@ -21885,7 +22184,6 @@
         "id": 404000200,
         "max_stack": 99,
         "name": "ブロンズヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 240,
             "sell": 24
@@ -21921,7 +22219,6 @@
         "id": 404000300,
         "max_stack": 99,
         "name": "アイアンヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 480,
             "sell": 48
@@ -21957,7 +22254,6 @@
         "id": 404000400,
         "max_stack": 99,
         "name": "バルビュータ",
-        "name_phonetic": "",
         "price": {
             "buy": 1200,
             "sell": 120
@@ -21993,7 +22289,6 @@
         "id": 404000500,
         "max_stack": 99,
         "name": "ミスリルヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 1200,
             "sell": 120
@@ -22065,7 +22360,6 @@
         "id": 404000800,
         "max_stack": 99,
         "name": "ゴールドヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -22101,7 +22395,6 @@
         "id": 404001000,
         "max_stack": 99,
         "name": "グランドヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -22146,7 +22439,6 @@
         "id": 404001100,
         "max_stack": 99,
         "name": "エンパイアヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -22220,7 +22512,6 @@
         "id": 404001300,
         "max_stack": 99,
         "name": "ドラゴンヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -22260,7 +22551,6 @@
         "id": 404001400,
         "max_stack": 99,
         "name": "ライドヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 120000,
             "sell": 12000
@@ -22299,7 +22589,6 @@
         "id": 404001500,
         "max_stack": 99,
         "name": "プロテクトヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -22340,7 +22629,6 @@
         "id": 404001600,
         "max_stack": 99,
         "name": "クロスヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -22381,7 +22669,6 @@
         "id": 404001700,
         "max_stack": 99,
         "name": "オニオンヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -22422,7 +22709,6 @@
         "id": 404001800,
         "max_stack": 99,
         "name": "アシラヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -22458,7 +22744,6 @@
         "id": 404001900,
         "max_stack": 99,
         "name": "ラギアヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -22496,7 +22781,6 @@
         "id": 404002000,
         "max_stack": 99,
         "name": "バンギスヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -22534,7 +22818,6 @@
         "id": 404002100,
         "max_stack": 99,
         "name": "ZDヘルメット",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -22572,7 +22855,6 @@
         "id": 404002200,
         "max_stack": 99,
         "name": "プラチナヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -22809,7 +23091,6 @@
         "id": 404002800,
         "max_stack": 99,
         "name": "ドラグーンヘルム",
-        "name_phonetic": "",
         "price": {
             "buy": 120000,
             "sell": 12000
@@ -22848,7 +23129,6 @@
         "id": 404002900,
         "max_stack": 99,
         "name": "ガルバディアヘッド",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -22884,7 +23164,6 @@
         "id": 404003000,
         "max_stack": 99,
         "name": "ロコカスコ",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -22896,6 +23175,48 @@
             }
         },
         "short_desc": "攻撃的な性格になるという兜",
+        "skills": {
+            "abilities": [],
+            "magic": []
+        }
+    },
+    "404003100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 45,
+            "def": 15,
+            "hp": 0,
+            "int": 0,
+            "mnd": 2,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Helm",
+        "full_desc": "様々な異界で英雄たちと戦い、数多の武器をコレクションしている豪傑が所有する兜。伝説の一族“源氏”の名を冠するだけあり、数ある兜のなかでも屈指の防御性能を誇る。なお、この兜を持つ謎の漢は、他にも源氏の装備を所持していたようだが、戦いの最中に盗まれてしまうこともあったらしい。",
+        "grade": 9,
+        "guide_id": 943,
+        "id": 404003100,
+        "max_stack": 99,
+        "name": "源氏の兜(V)",
+        "name_phonetic": "ゲンジノカブト(05)",
+        "price": {
+            "buy": 240000,
+            "sell": 24000
+        },
+        "resists": {
+            "ailments": {
+                "confuse": "100",
+                "paralyze": "100",
+                "petrify": "100"
+            },
+            "elements": {
+                "dark": "30"
+            }
+        },
+        "short_desc": "伝説の一族“源氏”にまつわる兜",
         "skills": {
             "abilities": [],
             "magic": []
@@ -23140,7 +23461,6 @@
         "id": 405000900,
         "max_stack": 99,
         "name": "サバイバルベスト",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -23248,7 +23568,6 @@
         "id": 405001200,
         "max_stack": 99,
         "name": "ミラージュベスト",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -23332,7 +23651,6 @@
         "id": 405001500,
         "max_stack": 99,
         "name": "ミネルバビスチェ",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -23414,7 +23732,6 @@
         "id": 405001700,
         "max_stack": 99,
         "name": "ブレイブスーツ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -23700,7 +24017,6 @@
         "id": 405002300,
         "max_stack": 99,
         "name": "レッドジャケット",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -23738,7 +24054,6 @@
         "id": 405002400,
         "max_stack": 99,
         "name": "ゴロネコスーツ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -23785,7 +24100,6 @@
         "id": 405002500,
         "max_stack": 99,
         "name": "エプロンドレス",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -23877,7 +24191,6 @@
         "id": 405002700,
         "max_stack": 99,
         "name": "プロデューサージャケット",
-        "name_phonetic": "",
         "price": {
             "buy": 1000000,
             "sell": 1000000
@@ -23997,7 +24310,6 @@
         "id": 405003100,
         "max_stack": 99,
         "name": "ラバーコンシャス",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -24130,7 +24442,6 @@
         "id": 405003400,
         "max_stack": 99,
         "name": "スタイリッシュブラックドレス",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -24171,7 +24482,6 @@
         "id": 405003500,
         "max_stack": 99,
         "name": "インテリコート",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -24257,7 +24567,6 @@
         "id": 405003700,
         "max_stack": 99,
         "name": "エンジェルウィング",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -24298,7 +24607,6 @@
         "id": 405003800,
         "max_stack": 99,
         "name": "アジュールジレ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -24545,7 +24853,6 @@
         "id": 405004400,
         "max_stack": 99,
         "name": "アシストスーツ",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -24707,7 +25014,7 @@
         "equip_type": "Clothes",
         "full_desc": "ある異界の少年が身に着けていた服。上着のレザーベストは、３本の大きなベルトが付けられたユニークなデザインをしている。光の戦士に選ばれたその少年は、仲間たちとともに旅をしながら世界の秘密を知っていったという。",
         "grade": 9,
-        "guide_id": 896,
+        "guide_id": 897,
         "id": 405004800,
         "max_stack": 99,
         "name": "ルーネスの服",
@@ -24748,7 +25055,7 @@
         "equip_type": "Clothes",
         "full_desc": "オーダーズ四闘星のヒョウが着ていた服。特殊な金属繊維を織り込んであるため耐刃性に優れ、下手な金属鎧よりもはるかに高い防御力を持つ。希少な素材が惜しみなく使用されており、製作にはかなりの労力がかかったと推察される。",
         "grade": 8,
-        "guide_id": 917,
+        "guide_id": 918,
         "id": 405004900,
         "max_stack": 99,
         "name": "ヒョウの服",
@@ -24789,14 +25096,14 @@
         "equip_type": "Clothes",
         "full_desc": "サンタさんの新しい服クポ。これを着れば、きっとサンタさんも仕事がはかどるはずクポ！　でも、どうやって渡せばいいクポ？　いい子にしてたら来てくれるクポ？　それなら自信があるクポ！　早く来てほしいクポ〜！",
         "grade": 5,
-        "guide_id": 927,
+        "guide_id": 928,
         "id": 405005000,
         "max_stack": 99,
         "name": "サンタの服・II",
         "name_phonetic": "サンタノフクツー",
         "price": {
-            "buy": 20000,
-            "sell": 2000
+            "buy": 10000,
+            "sell": 1000
         },
         "resists": {
             "ailments": {},
@@ -24810,6 +25117,44 @@
                     "name": "精神+15%"
                 }
             ],
+            "magic": []
+        }
+    },
+    "405005100": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 30,
+            "hp": 100,
+            "int": 0,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Clothes",
+        "full_desc": "異界イオスよりもたらされた、防弾効果を高めたスーツ。異界の帝国製で防弾効果がある。長く戦争をしていたせいか、その性能はかなりのもの。",
+        "grade": 4,
+        "guide_id": 938,
+        "id": 405005100,
+        "max_stack": 99,
+        "name": "対弾スーツ",
+        "name_phonetic": "タイダンスーツ",
+        "price": {
+            "buy": 3000,
+            "sell": 300
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "thunder": "15"
+            }
+        },
+        "short_desc": "防弾効果を高めたスーツ",
+        "skills": {
+            "abilities": [],
             "magic": []
         }
     },
@@ -24834,7 +25179,6 @@
         "id": 406000100,
         "max_stack": 99,
         "name": "レザープレート",
-        "name_phonetic": "",
         "price": {
             "buy": 240,
             "sell": 24
@@ -24906,7 +25250,6 @@
         "id": 406000400,
         "max_stack": 99,
         "name": "アイアンプレート",
-        "name_phonetic": "",
         "price": {
             "buy": 480,
             "sell": 48
@@ -24942,7 +25285,6 @@
         "id": 406000600,
         "max_stack": 99,
         "name": "ミスリルプレート",
-        "name_phonetic": "",
         "price": {
             "buy": 1200,
             "sell": 120
@@ -25014,7 +25356,6 @@
         "id": 406000800,
         "max_stack": 99,
         "name": "ブリガンダイン",
-        "name_phonetic": "",
         "price": {
             "buy": 1200,
             "sell": 120
@@ -25050,7 +25391,6 @@
         "id": 406000900,
         "max_stack": 99,
         "name": "ゴールドプレート",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -25158,7 +25498,6 @@
         "id": 406001200,
         "max_stack": 99,
         "name": "キャラビニエール",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -25199,7 +25538,6 @@
         "id": 406001300,
         "max_stack": 99,
         "name": "アーミープレート",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -25286,7 +25624,6 @@
         "id": 406001500,
         "max_stack": 99,
         "name": "アダマンベスト",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -25416,7 +25753,6 @@
         "id": 406001800,
         "max_stack": 99,
         "name": "パレードキュイラス",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -25493,7 +25829,6 @@
         "id": 406002000,
         "max_stack": 99,
         "name": "オニオンアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -25534,7 +25869,6 @@
         "id": 406002100,
         "max_stack": 99,
         "name": "アシラメイル",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -25572,7 +25906,6 @@
         "id": 406002200,
         "max_stack": 99,
         "name": "ラギアメイル",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -25610,7 +25943,6 @@
         "id": 406002300,
         "max_stack": 99,
         "name": "バンギスメイル",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -25648,7 +25980,6 @@
         "id": 406002400,
         "max_stack": 99,
         "name": "ムジンオウメイル",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -25758,7 +26089,6 @@
         "id": 406002700,
         "max_stack": 99,
         "name": "ライヒトパンツァー",
-        "name_phonetic": "",
         "price": {
             "buy": 24000,
             "sell": 2400
@@ -25875,7 +26205,6 @@
         "id": 406003000,
         "max_stack": 99,
         "name": "チョバムアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -25952,7 +26281,6 @@
         "id": 406003200,
         "max_stack": 99,
         "name": "アレーナロリカ",
-        "name_phonetic": "",
         "price": {
             "buy": 3600,
             "sell": 360
@@ -25990,7 +26318,6 @@
         "id": 406003300,
         "max_stack": 99,
         "name": "ライオットギア",
-        "name_phonetic": "",
         "price": {
             "buy": 12000,
             "sell": 1200
@@ -26022,11 +26349,10 @@
         "equip_type": "Light Armor",
         "full_desc": "あるチョコボナイトが愛用している軽鎧。彼が派遣される戦場は常に激戦の地であり、軍の支給する通常の騎乗鎧では十分な働きができない。そのため彼は、軽くて丈夫な鎧を、腕の良い鍛冶職人に特注している。鎧には戦闘時の動作を妨げない工夫がなされ、通常の鎧を身に着けた場合よりも攻撃力が増すといわれている。",
         "grade": 9,
-        "guide_id": 904,
+        "guide_id": 905,
         "id": 406003400,
         "max_stack": 99,
         "name": "ライディングアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 240000,
             "sell": 24000
@@ -26119,7 +26445,6 @@
         "id": 407000200,
         "max_stack": 99,
         "name": "ブロンズアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 300,
             "sell": 30
@@ -26155,7 +26480,6 @@
         "id": 407000400,
         "max_stack": 99,
         "name": "アイアンアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 600,
             "sell": 60
@@ -26191,7 +26515,6 @@
         "id": 407000600,
         "max_stack": 99,
         "name": "ミスリルアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 1500,
             "sell": 150
@@ -26227,7 +26550,6 @@
         "id": 407000800,
         "max_stack": 99,
         "name": "フレイムメイル",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -26266,7 +26588,6 @@
         "id": 407000900,
         "max_stack": 99,
         "name": "アイスアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -26341,7 +26662,6 @@
         "id": 407001200,
         "max_stack": 99,
         "name": "ゴールドアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -26377,7 +26697,6 @@
         "id": 407001300,
         "max_stack": 99,
         "name": "フォースアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -26417,7 +26736,6 @@
         "id": 407001400,
         "max_stack": 99,
         "name": "マクシミリアン",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -26453,7 +26771,6 @@
         "id": 407001500,
         "max_stack": 99,
         "name": "リフレクトメイル",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -26489,7 +26806,6 @@
         "id": 407001600,
         "max_stack": 99,
         "name": "デモンズメイル",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -26527,7 +26843,6 @@
         "id": 407001700,
         "max_stack": 99,
         "name": "ドラゴンメイル",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -26567,7 +26882,6 @@
         "id": 407001800,
         "max_stack": 99,
         "name": "グランドアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 150000,
             "sell": 15000
@@ -26608,7 +26922,6 @@
         "id": 407001900,
         "max_stack": 99,
         "name": "プロテクトアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 30000,
             "sell": 3000
@@ -26644,7 +26957,6 @@
         "id": 407002000,
         "max_stack": 99,
         "name": "プラチナアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -26839,7 +27151,6 @@
         "id": 407002500,
         "max_stack": 99,
         "name": "シャドウメイル",
-        "name_phonetic": "",
         "price": {
             "buy": 75000,
             "sell": 7500
@@ -26878,7 +27189,6 @@
         "id": 407002600,
         "max_stack": 99,
         "name": "アイアンコロッサス",
-        "name_phonetic": "",
         "price": {
             "buy": 150000,
             "sell": 15000
@@ -26914,7 +27224,6 @@
         "id": 407002700,
         "max_stack": 99,
         "name": "シールドアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 4500,
             "sell": 450
@@ -27024,7 +27333,6 @@
         "id": 407003000,
         "max_stack": 99,
         "name": "デュールアーマー",
-        "name_phonetic": "",
         "price": {
             "buy": 15000,
             "sell": 1500
@@ -27058,7 +27366,7 @@
         "equip_type": "Heavy Armor",
         "full_desc": "ゾルダード帝国のとある将軍が装備していた鎧。その防御力は、他の重鎧と比べても突き抜けているが、分厚い装甲によってもたらされる重量もまた規格外。しかし、将軍はこの鎧を軽々と身に着け、戦場を駆けまわっていたという。",
         "grade": 9,
-        "guide_id": 902,
+        "guide_id": 903,
         "id": 407003100,
         "max_stack": 99,
         "name": "帝国の鎧",
@@ -27099,7 +27407,7 @@
         "equip_type": "Heavy Armor",
         "full_desc": "常闇のヴェリアスが身に着けていた漆黒の重鎧。当時のアルドールの最先端技術によって作られており、身に着けた者の能力を大幅に向上させる。ヴェリアスたち各々の鎧には、所有者によって異なる色づけがされており、この鎧は『いつ終わるかわからない戦争という常闇を切り裂くため』との思いを込めて黒く染められた。",
         "grade": 9,
-        "guide_id": 906,
+        "guide_id": 907,
         "id": 407003200,
         "max_stack": 99,
         "name": "常闇の鎧",
@@ -27137,7 +27445,7 @@
         "equip_type": "Heavy Armor",
         "full_desc": "劫火のヴェリアスが身に着けていた重鎧。当時のアルドールの最先端技術によって作られており、身に着けた者の能力と火属性耐性を大幅に向上させる。ヴェリアスたちの鎧の色が所有者ごとに異なる理由は、それぞれに彼らの願いや想いが込められているからであるという。",
         "grade": 9,
-        "guide_id": 914,
+        "guide_id": 915,
         "id": 407003300,
         "max_stack": 99,
         "name": "劫火の鎧",
@@ -27175,7 +27483,7 @@
         "equip_type": "Heavy Armor",
         "full_desc": "光輝のヴェリアスが身に着けていた重鎧。当時のアルドールの最先端技術によって作られており、身に着けた者の能力と光属性耐性を大幅に向上させる。ヴェリアスたちの鎧の色が所有者ごとに異なる理由は、それぞれに彼らの願いや想いが込められているからであるという。",
         "grade": 9,
-        "guide_id": 916,
+        "guide_id": 917,
         "id": 407003400,
         "max_stack": 99,
         "name": "光輝の鎧",
@@ -27438,7 +27746,6 @@
         "id": 408000800,
         "max_stack": 99,
         "name": "クリリカルガウン",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -27582,7 +27889,6 @@
         "id": 408001200,
         "max_stack": 99,
         "name": "ローブオブロード",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -27627,7 +27933,6 @@
         "id": 408001300,
         "max_stack": 99,
         "name": "レインボーローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -27712,7 +28017,6 @@
         "id": 408001500,
         "max_stack": 99,
         "name": "セイレーンのローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -27895,7 +28199,6 @@
         "id": 408001900,
         "max_stack": 99,
         "name": "チェインローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -27936,7 +28239,6 @@
         "id": 408002000,
         "max_stack": 99,
         "name": "ダークローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -28012,7 +28314,6 @@
         "id": 408002200,
         "max_stack": 99,
         "name": "ガルミアカレア",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -28091,7 +28392,6 @@
         "id": 408002400,
         "max_stack": 99,
         "name": "プラチナローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -28416,7 +28716,6 @@
         "id": 408003200,
         "max_stack": 99,
         "name": "ストラテジックケープ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -28460,7 +28759,6 @@
         "id": 408003300,
         "max_stack": 99,
         "name": "キュアローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -28508,7 +28806,7 @@
         "equip_type": "Robes",
         "full_desc": "魔人と呼ばれる女性が愛用しているマント。身に着けるだけで魔力を高め、心に落ち着きをもたらす。幼い頃より過酷な運命に翻弄され、熾烈な戦いに身を投じてきた彼女にとって、力と安らぎを与えてくれるこのマントは自分を守ってくれる数少ない味方。魔人と呼ばれ恐れられるようになった今でも、手放せない相棒となっているようだ。",
         "grade": 9,
-        "guide_id": 898,
+        "guide_id": 899,
         "id": 408003400,
         "max_stack": 99,
         "name": "アミクルム・ニゲラ",
@@ -28560,7 +28858,6 @@
         "id": 408003500,
         "max_stack": 99,
         "name": "フィデースラケルナ",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -28599,7 +28896,7 @@
         "equip_type": "Robes",
         "full_desc": "陰陽師の女の子が愛用するちゃんちゃんこ。ファルム王国では広く防寒着として用いられている。「ちゃんちゃんこ」は「オフトン」や「ユタンポ」と並ぶ定番の人気商品で、地方によっては長寿のお祝いに贈られることもあるようだ。",
         "grade": 4,
-        "guide_id": 930,
+        "guide_id": 931,
         "id": 408003600,
         "max_stack": 99,
         "name": "ちゃんちゃんこ",
@@ -28635,7 +28932,7 @@
         "equip_type": "Robes",
         "full_desc": "陰陽師の家に代々伝わる狩衣。ファルムの離島で織られる貴重な布で仕立てられており、着る者の様々な能力を高めてくれる。人心を惑わす悪霊と対峙する陰陽師の狩衣は特に手の込んだ逸品で、身に着けた者を光属性や闇属性の攻撃から守る効果も期待できるという。",
         "grade": 8,
-        "guide_id": 931,
+        "guide_id": 932,
         "id": 408003700,
         "max_stack": 99,
         "name": "ウキヨの狩衣",
@@ -28657,6 +28954,95 @@
                 {
                     "id": "100040",
                     "name": "MP+10%"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "408003800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 32,
+            "hp": 0,
+            "int": 44,
+            "mnd": 78,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Robes",
+        "full_desc": "異界“スピラ”よりもたらされた召喚士の服。異界スピラでの召喚士は世界に平和をもたらす存在として人々から深く敬愛されている。この服を着用していた召喚士は、年若くしてその重い使命を背負いながらも、周囲に心配をかけないよう常に明るく気丈に振る舞っていたという。",
+        "grade": 9,
+        "guide_id": 948,
+        "id": 408003800,
+        "max_stack": 99,
+        "name": "ユウナの服",
+        "name_phonetic": "ユウナノフク",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "fire": "20",
+                "ice": "20",
+                "thunder": "20",
+                "water": "20"
+            }
+        },
+        "short_desc": "異界の召喚士が着ていた服",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227574",
+                    "name": "召喚士の心"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "408003900": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 14,
+            "hp": 0,
+            "int": 77,
+            "mnd": 42,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Robes",
+        "full_desc": "ミシディアの賢者と呼ばれている女性魔道士のローブ。彼女は何らかの心境変化があったのか、今まで着ていた衣服を仕舞い、幼い頃に愛用していたローブを取り出してきたようだ。このローブに変わってからの彼女は、以前にも増して仲間を思いやるようになり、彼らを守るために新たな特技まで編み出したらしい。",
+        "grade": 9,
+        "guide_id": 949,
+        "id": 408003900,
+        "max_stack": 99,
+        "name": "サクラのローブ",
+        "name_phonetic": "サクラノローブ",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "thunder": "50"
+            }
+        },
+        "short_desc": "とある魔道士のローブ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100750",
+                    "name": "オートリミット"
                 }
             ],
             "magic": []
@@ -28719,7 +29105,6 @@
         "id": 409000200,
         "max_stack": 99,
         "name": "パワーリスト",
-        "name_phonetic": "",
         "price": {
             "buy": 200,
             "sell": 20
@@ -28755,7 +29140,6 @@
         "id": 409000300,
         "max_stack": 99,
         "name": "ハイパーリスト",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -29018,7 +29402,6 @@
         "id": 409001200,
         "max_stack": 99,
         "name": "ハチマキ",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -29056,7 +29439,6 @@
         "id": 409001300,
         "max_stack": 99,
         "name": "ホワイトケープ",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -29217,7 +29599,6 @@
         "id": 409001700,
         "max_stack": 99,
         "name": "セーフティビット",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -29255,7 +29636,6 @@
         "id": 409001800,
         "max_stack": 99,
         "name": "フェアリーリング",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -29294,7 +29674,6 @@
         "id": 409001900,
         "max_stack": 99,
         "name": "ジュエルリング",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -30017,7 +30396,6 @@
         "id": 409003900,
         "max_stack": 99,
         "name": "プロテクトリング",
-        "name_phonetic": "",
         "price": {
             "buy": 400,
             "sell": 40
@@ -30058,7 +30436,6 @@
         "id": 409004000,
         "max_stack": 99,
         "name": "バリアリング",
-        "name_phonetic": "",
         "price": {
             "buy": 400,
             "sell": 40
@@ -30099,7 +30476,6 @@
         "id": 409004100,
         "max_stack": 99,
         "name": "リジェネリング",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -30308,7 +30684,6 @@
         "id": 409004600,
         "max_stack": 99,
         "name": "ミラクルシューズ",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -30357,7 +30732,6 @@
         "id": 409004800,
         "max_stack": 99,
         "name": "イヤリング",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -30398,7 +30772,6 @@
         "id": 409005000,
         "max_stack": 99,
         "name": "グロウエッグ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -30562,7 +30935,6 @@
         "id": 409005900,
         "max_stack": 99,
         "name": "ブラックベルト",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -30603,7 +30975,6 @@
         "id": 409006000,
         "max_stack": 99,
         "name": "ウォールリング",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -30648,7 +31019,6 @@
         "id": 409006100,
         "max_stack": 99,
         "name": "ブレイブリング",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -30693,7 +31063,6 @@
         "id": 409006200,
         "max_stack": 99,
         "name": "マッスルベルト",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -30775,7 +31144,6 @@
         "id": 409006400,
         "max_stack": 99,
         "name": "ブレイサー",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -30816,7 +31184,6 @@
         "id": 409006500,
         "max_stack": 99,
         "name": "チャンピオンベルト",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -30857,7 +31224,6 @@
         "id": 409006600,
         "max_stack": 99,
         "name": "マギステルクレスト",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -31029,7 +31395,6 @@
         "id": 409007000,
         "max_stack": 99,
         "name": "オーパーツ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -31070,7 +31435,6 @@
         "id": 409008000,
         "max_stack": 99,
         "name": "スターグローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -31332,7 +31696,6 @@
         "id": 409008600,
         "max_stack": 99,
         "name": "グリモアハット",
-        "name_phonetic": "",
         "price": {
             "buy": 1000,
             "sell": 100
@@ -31373,7 +31736,6 @@
         "id": 409008700,
         "max_stack": 99,
         "name": "モナークリング",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -31426,7 +31788,6 @@
         "id": 409008800,
         "max_stack": 99,
         "name": "ドミネートリング",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -31479,7 +31840,6 @@
         "id": 409008900,
         "max_stack": 99,
         "name": "ルーラーリング",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -31532,7 +31892,6 @@
         "id": 409009000,
         "max_stack": 99,
         "name": "エクシードリング",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -31593,7 +31952,6 @@
         "id": 409009100,
         "max_stack": 99,
         "name": "ゲルミナスブーツ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -31789,7 +32147,6 @@
         "id": 409009500,
         "max_stack": 99,
         "name": "メテオサバイバーリング",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -31922,7 +32279,6 @@
         "id": 409009800,
         "max_stack": 99,
         "name": "ソウルオブサマサ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -32145,7 +32501,6 @@
         "id": 409010300,
         "max_stack": 99,
         "name": "エルブングローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -32383,7 +32738,6 @@
         "id": 409010800,
         "max_stack": 99,
         "name": "パレードゴルゲット",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -32469,7 +32823,6 @@
         "id": 409011000,
         "max_stack": 99,
         "name": "アニバーサリーリング",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -32555,7 +32908,6 @@
         "id": 409011200,
         "max_stack": 99,
         "name": "プロデューサーグラス",
-        "name_phonetic": "",
         "price": {
             "buy": 500000,
             "sell": 500000
@@ -32646,7 +32998,6 @@
         "id": 409011400,
         "max_stack": 99,
         "name": "モーグリマント",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -32691,7 +33042,6 @@
         "id": 409011500,
         "max_stack": 99,
         "name": "アミュレット",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -32736,7 +33086,6 @@
         "id": 409011600,
         "max_stack": 99,
         "name": "ソーサリーマント",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -32817,7 +33166,6 @@
         "id": 409011800,
         "max_stack": 99,
         "name": "オニオレット",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -32924,7 +33272,6 @@
         "id": 409012000,
         "max_stack": 99,
         "name": "アシラアーム",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -32962,7 +33309,6 @@
         "id": 409012100,
         "max_stack": 99,
         "name": "ラギアアーム",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -33000,7 +33346,6 @@
         "id": 409012200,
         "max_stack": 99,
         "name": "バンギスアーム",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -33041,7 +33386,6 @@
         "id": 409012300,
         "max_stack": 99,
         "name": "エクスプロアナックル",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -33086,7 +33430,6 @@
         "id": 409012400,
         "max_stack": 99,
         "name": "ネブラドフォールド",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -33124,7 +33467,6 @@
         "id": 409012500,
         "max_stack": 99,
         "name": "ラングロフォールド",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -33171,7 +33513,6 @@
         "id": 409012600,
         "max_stack": 99,
         "name": "レッドノーズ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -33262,7 +33603,6 @@
         "id": 409012900,
         "max_stack": 99,
         "name": "ティンカーリップ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -33393,7 +33733,6 @@
         "id": 409013200,
         "max_stack": 99,
         "name": "クリスナイフ",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -33573,7 +33912,6 @@
         "id": 409013600,
         "max_stack": 99,
         "name": "マーシャルグローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -33618,7 +33956,6 @@
         "id": 409013700,
         "max_stack": 99,
         "name": "プロディジーゴーグル",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -33663,7 +34000,6 @@
         "id": 409013800,
         "max_stack": 99,
         "name": "ジャバラアームカバー",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -33753,7 +34089,6 @@
         "id": 409014000,
         "max_stack": 99,
         "name": "ガントレット",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -33872,7 +34207,6 @@
         "id": 409014300,
         "max_stack": 99,
         "name": "カーボンバングル",
-        "name_phonetic": "",
         "price": {
             "buy": 3000,
             "sell": 300
@@ -34048,7 +34382,6 @@
         "id": 409014700,
         "max_stack": 99,
         "name": "モグのリボン",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -34233,7 +34566,6 @@
         "id": 409015100,
         "max_stack": 99,
         "name": "ポッド153",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -34881,7 +35213,6 @@
         "id": 409016600,
         "max_stack": 99,
         "name": "ドラウプニル",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -35154,7 +35485,6 @@
         "id": 409017300,
         "max_stack": 99,
         "name": "パイオニアグローブ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -35568,7 +35898,6 @@
         "id": 409018400,
         "max_stack": 99,
         "name": "タフネスリング",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -35609,7 +35938,6 @@
         "id": 409018500,
         "max_stack": 99,
         "name": "ボムエンゲージリング",
-        "name_phonetic": "",
         "price": {
             "buy": 100000,
             "sell": 10000
@@ -35654,7 +35982,6 @@
         "id": 409018600,
         "max_stack": 99,
         "name": "ラインストーンリング",
-        "name_phonetic": "",
         "price": {
             "buy": 10000,
             "sell": 1000
@@ -35690,7 +36017,6 @@
         "id": 409018700,
         "max_stack": 99,
         "name": "ジュエルベルト",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -35839,7 +36165,6 @@
         "id": 409019000,
         "max_stack": 99,
         "name": "トライエンブレム",
-        "name_phonetic": "",
         "price": {
             "buy": 50000,
             "sell": 5000
@@ -36020,7 +36345,6 @@
         "id": 409019400,
         "max_stack": 99,
         "name": "ブリングネックレス",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -36106,7 +36430,7 @@
         "equip_type": "Accessory",
         "full_desc": "遥か異界オリエンスからもたらされた眼鏡。「0組」と呼ばれるクラスに所属する少女が使っていたもの。彼女がこの眼鏡を身に着け、窮地に陥った際に見せる、羅刹を思わせる戦いぶりは、普段の冷静沈着で生真面目な性格からは想像もつかなかったという。名称にもなっている“ヤヌス”とは出入口や扉を司る神であり、左右に別の顔を持つ姿で描かれることが多いようだ。",
         "grade": 9,
-        "guide_id": 897,
+        "guide_id": 898,
         "id": 409019600,
         "max_stack": 99,
         "name": "ヤヌスの眼鏡",
@@ -36147,11 +36471,11 @@
         "equip_type": "Accessory",
         "full_desc": "遥か異界オリエンスからもたらされた指輪。持ち主に似た力強くも優しい想いが込められており、装備すると魔力が大きく向上する。婚約指輪であるようだが、その送り主は不明。シンプルでありながらも気品あふれるデザインは、パートナーに対する深い愛情が感じられる。",
         "grade": 9,
-        "guide_id": 901,
+        "guide_id": 902,
         "id": 409019700,
         "max_stack": 99,
         "name": "エンゲージリング(FF零式)",
-        "name_phonetic": "エンゲージリング(FFレイシキ)",
+        "name_phonetic": "エンゲージリング(91)",
         "price": {
             "buy": 200000,
             "sell": 20000
@@ -36196,11 +36520,11 @@
         "equip_type": "Accessory",
         "full_desc": "夜空を彩る星々を模した、美しいアクセサリ。装備すると大幅なMPアップが望めるだけでなく、アビリティや魔法を使用する際の消費MPを削減できる。ある異界では“ソウルオブサマサ”と並んで魔道士たちから探し求められていた逸品で、ごく一部の限られた者しか入手できなかったという。",
         "grade": 9,
-        "guide_id": 905,
+        "guide_id": 906,
         "id": 409019800,
         "max_stack": 99,
-        "name": "スリースターズ(FFVI)",
-        "name_phonetic": "スリースターズ(FFVI)",
+        "name": "スリースターズ(VI)",
+        "name_phonetic": "スリースターズ(06)",
         "price": {
             "buy": 200000,
             "sell": 20000
@@ -36366,7 +36690,7 @@
         "equip_type": "Accessory",
         "full_desc": "オーダーズ四闘星のヒョウが使っていたグローブ。手は武器を持つ重要な部位であるだけに、上級者同士の戦いになるほど狙われる確率が高い。このグローブの所有者は人一倍その事実に気を払い、性能にも妥協しなかったようだ。各所に刻まれた大小無数の傷跡は、彼が歩んできた道程の過酷さを示している。",
         "grade": 6,
-        "guide_id": 920,
+        "guide_id": 921,
         "id": 409020200,
         "max_stack": 99,
         "name": "ヒョウのグローブ",
@@ -36407,11 +36731,10 @@
         "equip_type": "Accessory",
         "full_desc": "動きやすく丈夫なブーツ。アルドール軍のとある女士官が履いていたもの。支給品のブーツを改造した装備らしく、仕込みナイフを入れておける隠しポケットや足音を吸収する特殊ラバーなどが追加されている。持ち主の女性にはなにかを隠している様子もあったため、特殊な任務に就いているのでは、との噂もあったようだ。",
         "grade": 6,
-        "guide_id": 919,
+        "guide_id": 920,
         "id": 409020300,
         "max_stack": 99,
         "name": "ドミノブーツ",
-        "name_phonetic": "",
         "price": {
             "buy": 20000,
             "sell": 2000
@@ -36434,6 +36757,184 @@
                     "name": "防御+15%"
                 }
             ],
+            "magic": []
+        }
+    },
+    "409020400": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 8,
+            "hp": 0,
+            "int": 0,
+            "mnd": 8,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "イグニスが閃いたレシピを記したメモ。その内容から、野営の多い旅の最中でも美味しい料理を作ろうと苦心していることがうかがえる。彼の作る料理は仲間たちを元気づけ、戦闘においても大きな助けになったようだ。",
+        "grade": 8,
+        "guide_id": 934,
+        "id": 409020400,
+        "max_stack": 99,
+        "name": "イグニスの料理メモ",
+        "name_phonetic": "イグニスノリョウリメモ",
+        "price": {
+            "buy": 100000,
+            "sell": 10000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "イグニスが閃いたレシピを記したメモ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227367",
+                    "name": "特選ガルラステーキ"
+                },
+                {
+                    "id": "227368",
+                    "name": "ゴロゴロ肉の虹色スープ"
+                },
+                {
+                    "id": "227369",
+                    "name": "おもいでのお菓子"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409020600": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 0,
+            "hp": 0,
+            "int": 20,
+            "mnd": 20,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "異界イオスよりもたらされた、侍従の心得が書かれた本。身分の高い人物に仕える際の心得について記されており、日常的な身の回りの世話から、緊急時の対処法まで完璧に網羅されているという。",
+        "grade": 6,
+        "guide_id": 939,
+        "id": 409020600,
+        "max_stack": 99,
+        "name": "侍従の教本",
+        "name_phonetic": "ジジュウノキョウホン",
+        "price": {
+            "buy": 20000,
+            "sell": 2000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {}
+        },
+        "short_desc": "侍従の心得が書かれた本",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "227412",
+                    "name": "侍従の心得"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409020700": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 0,
+            "def": 15,
+            "hp": 0,
+            "int": 0,
+            "mnd": 15,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "遥か異界よりもたらされたアクセサリ。異界では、盾となって仲間たちを守る“ギガント”と呼ばれる役割の者たちが装備していたことで知られている。",
+        "grade": 7,
+        "guide_id": 942,
+        "id": 409020700,
+        "max_stack": 99,
+        "name": "クリングスフィア",
+        "price": {
+            "buy": 50000,
+            "sell": 5000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "earth": "30"
+            }
+        },
+        "short_desc": "異界よりもたらされたアクセサリ",
+        "skills": {
+            "abilities": [
+                {
+                    "id": "100020",
+                    "name": "HP+20%"
+                },
+                {
+                    "id": "227476",
+                    "name": "ランドボマー"
+                }
+            ],
+            "magic": []
+        }
+    },
+    "409020800": {
+        "attack": {
+            "ailments": {},
+            "elements": []
+        },
+        "boosts": {
+            "atk": 50,
+            "def": 0,
+            "hp": 0,
+            "int": 50,
+            "mnd": 0,
+            "mp": 0
+        },
+        "equip_condition": false,
+        "equip_type": "Accessory",
+        "full_desc": "ナトラ族が使用する、魔力を操るための操作環。尾の先に取りつけると、自由な魔力操作が可能になる。使用者によって用途には違いがあり、魔力で筋力を増幅させる者や、強力な魔法を生み出す者まで様々。自然を愛する、とある獣人の女性が装着した際は、その想いを体現するかのような緑の刃を生み出すようだ。",
+        "grade": 9,
+        "guide_id": 950,
+        "id": 409020800,
+        "max_stack": 99,
+        "name": "魔力操作環",
+        "name_phonetic": "マリョクソウサカン",
+        "price": {
+            "buy": 200000,
+            "sell": 20000
+        },
+        "resists": {
+            "ailments": {},
+            "elements": {
+                "fire": "15",
+                "light": "15",
+                "thunder": "15",
+                "water": "15",
+                "wind": "15"
+            }
+        },
+        "short_desc": "魔力を操る操作環",
+        "skills": {
+            "abilities": [],
             "magic": []
         }
     }

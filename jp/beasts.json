@@ -234,7 +234,7 @@
                         "water": "50"
                     }
                 },
-                "sp_total": 795,
+                "sp_total": 300,
                 "stats": {
                     "atk": {
                         "base": 3000,
@@ -322,7 +322,7 @@
         },
         "id": 1,
         "name": "セイレーン",
-        "sp_max": 2265
+        "sp_max": 1770
     },
     "2": {
         "board_id": 2,
@@ -2615,35 +2615,37 @@
                 },
                 "exp_growth": 50,
                 "id": 103,
-                "max_level": 50,
+                "max_level": 60,
                 "resists": {
-                    "ailments": {},
+                    "ailments": {
+                        "paralyze": "100"
+                    },
                     "elements": {}
                 },
                 "stats": {
                     "atk": {
                         "base": 6300,
-                        "max": 7800
+                        "max": 9200
                     },
                     "def": {
                         "base": 4300,
-                        "max": 5500
+                        "max": 8200
                     },
                     "hp": {
                         "base": 5300,
-                        "max": 6600
+                        "max": 8700
                     },
                     "int": {
                         "base": 2100,
-                        "max": 2500
+                        "max": 6600
                     },
                     "mnd": {
                         "base": 2300,
-                        "max": 2700
+                        "max": 6800
                     },
                     "mp": {
                         "base": 4000,
-                        "max": 4900
+                        "max": 7500
                     }
                 },
                 "summon": {
@@ -2663,7 +2665,7 @@
                         {
                             "effect_frame": 0,
                             "params": [
-                                30000,
+                                21000,
                                 60,
                                 1
                             ],
@@ -3186,6 +3188,191 @@
         "name": "リヴァイアサン",
         "sp_max": null
     },
+    "13": {
+        "board_id": 13,
+        "forms": {
+            "1": {
+                "beast_id": 13,
+                "equip_bonus%": {
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
+                },
+                "exp_growth": 32,
+                "id": 131,
+                "max_level": 30,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "dark": "-50",
+                        "light": "50",
+                        "thunder": "25",
+                        "water": "-25"
+                    }
+                },
+                "stats": {
+                    "atk": {
+                        "base": 1200,
+                        "max": 1500
+                    },
+                    "def": {
+                        "base": 2400,
+                        "max": 3000
+                    },
+                    "hp": {
+                        "base": 2600,
+                        "max": 3300
+                    },
+                    "int": {
+                        "base": 2300,
+                        "max": 3000
+                    },
+                    "mnd": {
+                        "base": 3000,
+                        "max": 3800
+                    },
+                    "mp": {
+                        "base": 1100,
+                        "max": 1400
+                    }
+                },
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                100
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に光属性ダメージ",
+                    "effects": [
+                        {
+                            "action_id": 80,
+                            "effect_frame": 0,
+                            "esper damage": true,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                5000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy"
+                        }
+                    ],
+                    "elements": [
+                        "light"
+                    ],
+                    "id": 11301,
+                    "name": "聖なる審判"
+                }
+            },
+            "2": {
+                "beast_id": 13,
+                "equip_bonus%": {
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
+                },
+                "exp_growth": 42,
+                "id": 132,
+                "max_level": 40,
+                "resists": {
+                    "ailments": {},
+                    "elements": {
+                        "dark": "-50",
+                        "light": "50",
+                        "thunder": "25",
+                        "water": "-25"
+                    }
+                },
+                "stats": {
+                    "atk": {
+                        "base": 1600,
+                        "max": 2200
+                    },
+                    "def": {
+                        "base": 3200,
+                        "max": 4600
+                    },
+                    "hp": {
+                        "base": 3600,
+                        "max": 5000
+                    },
+                    "int": {
+                        "base": 3200,
+                        "max": 4500
+                    },
+                    "mnd": {
+                        "base": 4100,
+                        "max": 5800
+                    },
+                    "mp": {
+                        "base": 1500,
+                        "max": 2100
+                    }
+                },
+                "summon": {
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                110
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に光属性ダメージ",
+                    "effects": [
+                        {
+                            "action_id": 80,
+                            "effect_frame": 0,
+                            "esper damage": true,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                14000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy"
+                        }
+                    ],
+                    "elements": [
+                        "light"
+                    ],
+                    "id": 11302,
+                    "name": "聖なる審判"
+                }
+            },
+            "3": {
+                "summon": {
+                    "unknown": true
+                }
+            }
+        },
+        "id": 13,
+        "name": "アレキサンダー",
+        "sp_max": null
+    },
     "14": {
         "board_id": 14,
         "forms": {
@@ -3382,8 +3569,101 @@
                 }
             },
             "3": {
+                "beast_id": 14,
+                "equip_bonus%": {
+                    "atk": 100,
+                    "def": 100,
+                    "hp": 100,
+                    "int": 100,
+                    "mnd": 100,
+                    "mp": 100
+                },
+                "exp_growth": 52,
+                "id": 143,
+                "max_level": 60,
+                "resists": {
+                    "ailments": {
+                        "virus": "100"
+                    },
+                    "elements": {
+                        "earth": "25",
+                        "fire": "50",
+                        "ice": "-50",
+                        "wind": "-25"
+                    }
+                },
+                "stats": {
+                    "atk": {
+                        "base": 2400,
+                        "max": 4900
+                    },
+                    "def": {
+                        "base": 3200,
+                        "max": 5800
+                    },
+                    "hp": {
+                        "base": 5900,
+                        "max": 8800
+                    },
+                    "int": {
+                        "base": 3900,
+                        "max": 5500
+                    },
+                    "mnd": {
+                        "base": 6000,
+                        "max": 7800
+                    },
+                    "mp": {
+                        "base": 5400,
+                        "max": 7200
+                    }
+                },
                 "summon": {
-                    "unknown": true
+                    "attacks": [
+                        {
+                            "hit_dmg": [
+                                100
+                            ],
+                            "hit_frames": [
+                                110
+                            ],
+                            "hits": 1
+                        }
+                    ],
+                    "desc": "敵全体に火属性ダメージ+味方全体の戦闘不能を回復",
+                    "effects": [
+                        {
+                            "action_id": 80,
+                            "effect_frame": 0,
+                            "esper damage": true,
+                            "params": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                20000
+                            ],
+                            "target_area": "all",
+                            "target_side": "enemy"
+                        },
+                        {
+                            "action_id": 4,
+                            "effect_frame": 0,
+                            "params": [
+                                90
+                            ],
+                            "revive hp%": 90,
+                            "target_area": "all",
+                            "target_side": "ally"
+                        }
+                    ],
+                    "elements": [
+                        "fire"
+                    ],
+                    "id": 11403,
+                    "name": "転生の炎"
                 }
             }
         },
