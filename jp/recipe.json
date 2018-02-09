@@ -5229,6 +5229,44 @@
         ],
         "name": "プラチナボウ"
     },
+    "903001640": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 301003600,
+            "type": "EQUIP"
+        },
+        "guide_id": 458,
+        "id": 903001640,
+        "materials": [
+            {
+                "id": "202000300",
+                "quantity": "40",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002000",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002500",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000600",
+                "quantity": "10",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ダイヤナイフ"
+    },
     "904000010": {
         "craft_cost": 48,
         "craft_time": 300,
@@ -9831,6 +9869,138 @@
         ],
         "name": "プラチナフィスト"
     },
+    "904002270": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 409020900,
+            "type": "EQUIP"
+        },
+        "guide_id": 455,
+        "id": 904002270,
+        "materials": [
+            {
+                "id": "222000500",
+                "quantity": "30",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000400",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000300",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ニーベルンゲンの指環"
+    },
+    "904002280": {
+        "craft_cost": 6400,
+        "craft_time": 1,
+        "crafts": {
+            "id": 308004400,
+            "type": "EQUIP"
+        },
+        "guide_id": 456,
+        "id": 904002280,
+        "materials": [
+            {
+                "id": "222000400",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000300",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000200",
+                "quantity": "25",
+                "type": "ITEM"
+            }
+        ],
+        "name": "吼槍ドラグーン・タイラント"
+    },
+    "904002290": {
+        "craft_cost": 2000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 403045400,
+            "type": "EQUIP"
+        },
+        "guide_id": 457,
+        "id": 904002290,
+        "materials": [
+            {
+                "id": "222000500",
+                "quantity": "150",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000400",
+                "quantity": "100",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000300",
+                "quantity": "50",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000200",
+                "quantity": "45",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000100",
+                "quantity": "1",
+                "type": "ITEM"
+            }
+        ],
+        "name": "鈍色の冠"
+    },
+    "904002300": {
+        "craft_cost": 4000,
+        "craft_time": 1,
+        "crafts": {
+            "id": 408004100,
+            "type": "EQUIP"
+        },
+        "guide_id": 459,
+        "id": 904002300,
+        "materials": [
+            {
+                "id": "202000400",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "202001200",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000400",
+                "quantity": "20",
+                "type": "ITEM"
+            },
+            {
+                "id": "203000600",
+                "quantity": "10",
+                "type": "ITEM"
+            },
+            {
+                "id": "202002300",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "ダイヤローブ"
+    },
     "905000010": {
         "craft_cost": 200,
         "craft_time": 300,
@@ -12001,6 +12171,34 @@
         ],
         "name": "ドラゴンキラー改"
     },
+    "905101520": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504227713,
+            "type": "MATERIA"
+        },
+        "guide_id": 454,
+        "id": 905101520,
+        "materials": [
+            {
+                "id": "222000500",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000400",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000200",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "生成の珠"
+    },
     "905200010": {
         "craft_cost": 1000,
         "craft_time": 3600,
@@ -12995,5 +13193,33 @@
             }
         ],
         "name": "カッパワー"
+    },
+    "905211220": {
+        "craft_cost": 1600,
+        "craft_time": 1,
+        "crafts": {
+            "id": 504227714,
+            "type": "MATERIA"
+        },
+        "guide_id": 453,
+        "id": 905211220,
+        "materials": [
+            {
+                "id": "222000500",
+                "quantity": "25",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000400",
+                "quantity": "15",
+                "type": "ITEM"
+            },
+            {
+                "id": "222000300",
+                "quantity": "5",
+                "type": "ITEM"
+            }
+        ],
+        "name": "幻視の珠"
     }
 }

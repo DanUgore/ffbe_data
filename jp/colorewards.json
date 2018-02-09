@@ -447,7 +447,7 @@
                         "id": "409004200",
                         "name": "月の腕輪",
                         "quantity": 1,
-                        "stats": "Accessory, Skills: [オートシェル] Cast \"シェル(オート用)\" (ST +20% SPR)",
+                        "stats": "Accessory, Skills: [オートシェル] Auto-Cast \"シェル(オート用)\" (ST +20% SPR)",
                         "type": "EQUIP"
                     }
                 },
@@ -876,7 +876,7 @@
                         "id": "409004400",
                         "name": "天使の指輪",
                         "quantity": 1,
-                        "stats": "3 DEF 3 SPR Accessory, Skills: [オートリジェネ] Cast \"リジェネ(オート用)\" (ST ~60 HP Heal w/ 1.2x Mod per Turn)",
+                        "stats": "3 DEF 3 SPR Accessory, Skills: [オートリジェネ] Auto-Cast \"リジェネ(オート用)\" (ST ~60 HP Heal w/ 1.2x Mod per Turn)",
                         "type": "EQUIP"
                     }
                 },

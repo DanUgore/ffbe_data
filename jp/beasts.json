@@ -127,7 +127,7 @@
                         "water": "50"
                     }
                 },
-                "sp_total": 540,
+                "sp_total": 930,
                 "stats": {
                     "atk": {
                         "base": 1500,
@@ -322,7 +322,7 @@
         },
         "id": 1,
         "name": "セイレーン",
-        "sp_max": 1770
+        "sp_max": 2160
     },
     "2": {
         "board_id": 2,
@@ -3109,9 +3109,11 @@
                 },
                 "exp_growth": 53,
                 "id": 123,
-                "max_level": 50,
+                "max_level": 60,
                 "resists": {
-                    "ailments": {},
+                    "ailments": {
+                        "silence": "100"
+                    },
                     "elements": {
                         "earth": "-25",
                         "thunder": "-50",
@@ -3122,23 +3124,23 @@
                 "stats": {
                     "atk": {
                         "base": 5400,
-                        "max": 7000
+                        "max": 6900
                     },
                     "def": {
                         "base": 3200,
-                        "max": 4000
+                        "max": 7800
                     },
                     "hp": {
                         "base": 7400,
-                        "max": 9600
+                        "max": 11000
                     },
                     "int": {
                         "base": 6100,
-                        "max": 7800
+                        "max": 8700
                     },
                     "mnd": {
                         "base": 3200,
-                        "max": 4000
+                        "max": 8000
                     },
                     "mp": {
                         "base": 5900,
@@ -3170,7 +3172,7 @@
                                 0,
                                 0,
                                 1,
-                                48000
+                                40000
                             ],
                             "target_area": "all",
                             "target_side": "enemy"
